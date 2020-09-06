@@ -88,24 +88,22 @@ Bird&#39;s Eye View:
 The semester is organized roughly as follows:
 - Weeks 1-3
   - Focus on using high level ML tools to understand deeper ML principles
-  - Create intuitive interactions with ML
-- Weeks 4-8
   - Look at some of the math and code behind ML algorithms
   - Speculative Design Project
-- Weeks 9-14
+- Weeks 4-8
   - Applications of various types of neural nets &amp; deep learning for creative purposes
-  - Visual Project &amp; Sound Project
+  - Visual Project
 
-Required Text:
+- Weeks 9-14
+  - Look at additional applications of machine Learning
+  - Interactive applications
+  - Sound / Text Project
+  - Final Project
 
-- Rashid, Tariq (2016). _Make Your Own Neural Network_. CreateSpace Independent Publishing.
 
 Tools/Platforms:
 - Python
 - Tensorflow
-- Wekinator
-- Processing
-- openFrameworks
-- Xcode/Visual Studio
-- Ableton Live/Max for Live
-- Text Editor (Atom/Sublime Text)
+- Google Colab
+- Interaction using ml5.js, Processing, or openFrameworks
+- Text Editor (Atom/Sublime Text/Visual Studio Code)
