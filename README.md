@@ -11,6 +11,9 @@ Office: Discord / Zoom<br />
 Office Hours: Discord / By Appointment<br />
 Credits: 4<br />
 
+NYUAD A.rt I.ntel website:<br />
+https://github.com/nyuad-im/artintel
+
 Prerequisites: Students should have taken at least one of the following courses -  Intro to IM (IM-UH 1010), Mashups (IM-UH 2110), Politics of Code (IM-UH 3110), Intro to Computer Science (CS-UH 1001), Decoding Nature (IM-UH 2118) or request specific instructor approval.
 
 This course counts toward the following NYUAD degree requirements:
