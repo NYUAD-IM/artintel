@@ -15,7 +15,7 @@ Credits: 4<br />
 Course website:<br />
 https://github.com/nyuad-im/artintel
 
-[Syllabus](https://github.com/nyuad-im/artintel/Syllabus.md)
+[Syllabus](https://github.com/nyuad-im/artintel/blob/master/Syllabus.md)
 
 Zoom meeting: available on [NYU Classes](https://newclasses.nyu.edu/)
 
