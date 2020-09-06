@@ -30,9 +30,9 @@ Artificial intelligence and machine learning algorithms affect many aspects of o
 
 **Learning Outcomes:**
 
-Foster an ability to think critically about AI in terms of design, ethics, and global impact
-Develop a speculative artistic vision of the future that leverages both critical perspectives and creative applications of emerging AI technologies
-Create intuitive interactions using machine learning
-Understand some of the low-level math and code used in neural networks and deep learning
-Use Python, Tensorflow, & Keras to implement machine learning algorithms
-Use various types of neural networks to generate sound, visuals, and text
+* Foster an ability to think critically about AI in terms of design, ethics, and global impact
+* Develop a speculative artistic vision of the future that leverages both critical perspectives and creative applications of emerging AI technologies
+* Create intuitive interactions using machine learning
+* Understand some of the low-level math and code used in neural networks and deep learning
+* Use Python, Tensorflow, & Keras to implement machine learning algorithms
+* Use various types of neural networks to generate sound, visuals, and text
