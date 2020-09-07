@@ -17,6 +17,8 @@ https://github.com/nyuad-im/artintel
 
 [Syllabus](https://github.com/nyuad-im/artintel/Syllabus.md)
 
+[Readings](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing) - sign in with NYU account for access
+
 Zoom meeting: available on [NYU Classes](https://newclasses.nyu.edu/)
 
 Discord channel #artintel: invite on [NYU Classes](https://newclasses.nyu.edu/)
