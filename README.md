@@ -17,14 +17,8 @@ https://github.com/nyuad-im/artintel
 
 [Syllabus](https://github.com/nyuad-im/artintel/blob/master/Syllabus.md)
 
-<<<<<<< HEAD
 [Readings](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing) - sign in with NYU account for access
 
-Zoom meeting: available on [NYU Classes](https://newclasses.nyu.edu/)
-=======
-**Zoom meeting:** available on [NYU Classes](https://newclasses.nyu.edu/)<br />
-**Class Time:** Monday 14:40 - 15:55 / Wednesday 14:40 - 17:20<br />
->>>>>>> 9e93e7ee190abe8971528b344349805bbb46b771
 
 **Discord channel #artintel:** invite on [NYU Classes](https://newclasses.nyu.edu/)
 
