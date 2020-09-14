@@ -25,6 +25,8 @@
   - “Japan’s first virtual model”
     - https://www.instagram.com/imma.gram/?hl=en
     - https://interestingengineering.com/meet-imma-the-worlds-first-computer-generated-model
+  - Deep Fakes
+    - [Making a political figure deliver a new speech](https://www.theverge.com/tldr/2018/4/17/17247334/ai-fake-news-video-barack-obama-jordan-peele-buzzfeed)
   - Text generation - fake news
     - [Fake-News-Generating AI Deemed Too Dangerous for Public Release](https://www.extremetech.com/extreme/285857-fake-news-generating-ai-deemed-too-dangerous-for-public-release)
     - [OpenAI Releases Fake News Bot It Previously Deemed Too Dangerous](https://www.extremetech.com/extreme/301662-openai-releases-fake-news-bot-it-previously-deemed-too-dangerous)
