@@ -17,6 +17,8 @@ https://github.com/nyuad-im/artintel
 
 [Syllabus](https://github.com/nyuad-im/artintel/blob/master/Syllabus.md)
 
+[Weekly Schedule](https://github.com/nyuad-im/artintel/blob/master/WeeklySchedule.md)
+
 [Assignments](Assignments.md)
 
 [Reading responses](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing) - sign in with NYU account for access

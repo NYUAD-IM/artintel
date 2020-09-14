@@ -13,7 +13,7 @@
   - Neural Networks: [https://ml4a.github.io/ml4a/neural_networks/](https://ml4a.github.io/ml4a/neural_networks/)
 
 
-## Week 2 - More ML for Interaction
+## Week 2 - Neural Networks
 
 ## Week 2.1
 - Review homework (StyleGAN2)
