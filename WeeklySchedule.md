@@ -1,6 +1,9 @@
 # Weekly Schedule
 
-## Week 1 - Introduction
+* [Week 1 - Introduction](#week1)
+* [Week 2 - Neural Networks](#week2)
+
+## <a name="week1"></a>Week 1 - Introduction
 
 - What is Artificial Intelligence - Machine Learning?
 - Overview
@@ -13,9 +16,9 @@
   - Neural Networks: [https://ml4a.github.io/ml4a/neural_networks/](https://ml4a.github.io/ml4a/neural_networks/)
 
 
-## Week 2 - Neural Networks
+## <a name="week2"></a>Week 2 - Neural Networks
 
-## Week 2.1
+### <a name="week2.1"></a>Week 2.1
 - Review homework (StyleGAN2)
 - In-class discussion
   - “Unique, worry-free model photos” https://generated.photos/
@@ -28,20 +31,20 @@
     - [Faking the News with Natural Language Processing and GPT-2](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d)
   - [Moral Machine](https://www.moralmachine.net/) - A platform for public participation in and discussion of the human perspective on machine-made moral decisions
 
-### Homework (complete before start of next class)
-- **Read and try** (on Colab) first part of Chapter 2 *Make Your Own - Neural Network* (Python coding up until Neural Network code)
+#### Homework (complete before start of next class)
+- **Read and try** (on Colab) [Make Your Own - Neural Network](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file) - Chapter 2 pages 122-149 (Python coding up until Neural Network code)
 - **Read** about supervised / unsupervised / reinforcement learning https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/
 - **Read** Looking Inside Neural Networks https://ml4a.github.io/ml4a/looking_inside_neural_nets/
 - (Optional) Deep Dream details (we’ll look at this again later when we talk about Convolutional Neural Networks) https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
 
-## Week 2.2
+### <a name="week2.2"></a>Week 2.2
 - Neural Networks
 - Colab / Neural Network Workshop
 - Classification Using Neural Networks
 - Colab examples
   - https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb
 
-### Homework (due before start of next class)
-- Create a neural network from scratch
-- Create a classification network
+#### Homework (due before start of next class)
+- **Code** a neural network from scratch
+- **Code** a classification network
 - Put links to your Colab notebooks (here)
