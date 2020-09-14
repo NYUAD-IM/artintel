@@ -22,6 +22,10 @@
   - “Japan’s first virtual model”
     - https://www.instagram.com/imma.gram/?hl=en
     - https://interestingengineering.com/meet-imma-the-worlds-first-computer-generated-model
+  - Text generation - fake news
+    - [Fake-News-Generating AI Deemed Too Dangerous for Public Release](https://www.extremetech.com/extreme/285857-fake-news-generating-ai-deemed-too-dangerous-for-public-release)
+    - [OpenAI Releases Fake News Bot It Previously Deemed Too Dangerous](https://www.extremetech.com/extreme/301662-openai-releases-fake-news-bot-it-previously-deemed-too-dangerous)
+    - [Faking the News with Natural Language Processing and GPT-2](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d)
 
 ### Homework (complete before start of next class)
 - **Read and try** (on Colab) first part of Chapter 2 *Make Your Own - Neural Network* (Python coding up until Neural Network code)
