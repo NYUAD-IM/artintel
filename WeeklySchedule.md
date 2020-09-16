@@ -41,17 +41,21 @@
 - (Optional) Deep Dream details (we’ll look at this again later when we talk about Convolutional Neural Networks) https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
 
 ### <a name="week2.2"></a>Week 2.2
-- Neural Networks
-- Colab / Neural Network Workshop
+- Neural Network math
+- Introduction to neural network training
 - Classification Using Neural Networks
+- Colab / Neural Network Workshop
 - Colab examples
   - https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb
 
 #### Homework (due before start of next class)
-- **Code** a neural network - instructions (here)
-  - Put link to your Colab notebook (here)
-- **Create** a new image or other output using one of these Colab notebooks (bonus points for using your own input image rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
-  - Post your image to the Discord (or send to me via email) with a short explanation of how you made it
+- **Create** a new image or other output using one of these Colab notebooks (try to use one of your own input images rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
+  - **Post** your image to the Discord (or send to me via email) with a short explanation of how you made it
+  - If you have a problem with the Tensorflow version (e.g "AdamOptimizer not found") add [this code](https://colab.research.google.com/notebooks/tensorflow_version.ipynb)
+- **Find** a creative or interesting application of AI and **add** the link to the [Week 2 Google Doc](https://docs.google.com/document/d/10ninXTzvn1DJSnIdAdYPoc9xJ3-9kq8Cv1F9OH3lI_Y/edit?usp=sharing) with a short explanation of what's interesting about it
+
+- (Optional) Read and try the neural network "from scratch" code in [Make Your Own Neural Network Chapter 2](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file)
+  - [GitHub repository with examples](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 
 
 ## <a name="week3"></a>Week 3 - Neural Networks / Speculative Design
@@ -61,4 +65,3 @@
 - Talk about Speculative Design project
 
 #### Homework (due before start of next class)
-- **Find** a creative or interesting application of AI and add the link (here) with a short explanation of what's interesting
