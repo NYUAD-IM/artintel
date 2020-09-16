@@ -48,7 +48,7 @@
   - https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb
 
 #### Homework (due before start of next class)
-- **Code** a neural network from scratch - instructions (here)
+- **Code** a neural network - instructions (here)
   - Put link to your Colab notebook (here)
 - **Create** a new image or other output using one of these Colab notebooks (bonus points for using your own input image rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
   - Post your image to the Discord (or send to me via email) with a short explanation of how you made it
