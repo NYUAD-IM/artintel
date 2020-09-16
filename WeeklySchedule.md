@@ -44,6 +44,7 @@
 - Neural Network math
 - Introduction to neural network training
 - Classification Using Neural Networks
+  - [Classification of Rock, Paper, Scissors ](https://www.youtube.com/watch?v=KNAWp2S3w94&feature=youtu.be&t=50)
 - Colab / Neural Network Workshop
 - Colab examples
   - https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb
