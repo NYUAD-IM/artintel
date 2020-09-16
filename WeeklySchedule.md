@@ -2,6 +2,7 @@
 
 * [Week 1 - Introduction](#week1)
 * [Week 2 - Neural Networks](#week2)
+* [Week 3 - Neural Networks / Speculative Design](#week3)
 
 ## <a name="week1"></a>Week 1 - Introduction
 
@@ -53,7 +54,7 @@
   - Post your image to the Discord (or send to me via email) with a short explanation of how you made it
 
 
-## <a name="week2"></a>Week 3 - Neural Networks / Speculative Design
+## <a name="week3"></a>Week 3 - Neural Networks / Speculative Design
 
 ### <a name="week2.1"></a>Week 3.1
 - Review homework (neural network code, new image, interesting applications)
