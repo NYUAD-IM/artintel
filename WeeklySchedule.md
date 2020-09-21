@@ -76,8 +76,10 @@ It's up to you to decide how to communicate your post (you can make it clear it'
 - **Read**
   - [Speculative Everything](https://readings.design/PDF/speculative-everything.pdf)
     - Read Chapter 1, Chapter 2 (pages 11-16), Chapter 3
-- Start developing ideas for a speculative design project about future applications of AI
+- **Make your group** for the Speculative Design project [here](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+- **Start** developing ideas for a speculative design project about future applications of AI
   and be prepared to share your idea next class
+- **Update** your idea in the [Google Doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing) before class.
 
 ### <a name="week3.2"></a>Week 3.2 - Speculative Design Workshop
 - Review speculative design ideas
