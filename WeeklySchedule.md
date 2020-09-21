@@ -61,8 +61,33 @@
 
 ## <a name="week3"></a>Week 3 - Neural Networks / Speculative Design
 
-### <a name="week2.1"></a>Week 3.1
+### <a name="week3.1"></a>Week 3.1 - Introduction to Speculative Design
 - Review homework (neural network code, new image, interesting applications)
 - Talk about Speculative Design project
+- Form groups for Speculative Design Project
 
 #### Homework (due before start of next class)
+- **Read**
+  - [Speculative Everything](https://readings.design/PDF/speculative-everything.pdf)
+    - Read Chapter 1, Chapter 2 (pages 11-16), Chapter 3
+- Start developing ideas for a speculative design project about future applications of AI
+  and be prepared to share your idea next class
+
+### <a name="week3.2"></a>Week 3.2 - Speculative Design Workshop
+- Review speculative design ideas
+- Start working on the design ideas
+
+#### Homework (due before start of next class)
+- **Create** an "artifact" for your speculative design. It could be a product mockup, video, news report, product marketing, etc.
+- **Write** 3-4 paragraphs describing your project and your process
+  - Add a link to your documentation [here](https://docs.google.com/document/d/11C77xkL4QUAe0Xd7HF_WbUwuNblPlE7CFBM_4ZbJUp8/edit?usp=sharing)
+- **Prepare** a 5-10 minute presentation to explain your idea. You will give your presentation in the next class.
+
+
+## <a name="week4"></a>Week 4 - Project Presentation
+
+### <a name="week4.1"></a>Week 4.1 - Speculative Design Project Presentations / Feedback
+- Project presentations
+
+### <a name="week4.1"></a>Week 4.2 - Convolutional Neural Networks
+
