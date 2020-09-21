@@ -3,6 +3,7 @@
 * [Week 1 - Introduction](#week1)
 * [Week 2 - Neural Networks](#week2)
 * [Week 3 - Neural Networks / Speculative Design](#week3)
+* [Week 4 - Project Presentation / Convolutional Neural Networks](#week4)
 
 ## <a name="week1"></a>Week 1 - Introduction
 
@@ -65,12 +66,19 @@ It's up to you to decide how to communicate your post (you can make it clear it'
   - [GitHub repository with examples](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 
 
-## <a name="week3"></a>Week 3 - Neural Networks / Speculative Design
+## <a name="week3"></a>Week 3 - Speculative Design
 
 ### <a name="week3.1"></a>Week 3.1 - Introduction to Speculative Design
-- Review homework (neural network code, new image, interesting applications)
+- Review homework (new image, interesting applications)
 - Talk about Speculative Design project
 - Form groups for Speculative Design Project
+- Lecture references:
+  - [Critical Design - Dunne & Raby](http://dunneandraby.co.uk/content/bydandr/13/0)
+  - [Speculative Design - Inside Design](https://www.invisionapp.com/inside-design/speculative-design/)
+  - [Stealing from the future with speculative design](https://uxdesign.cc/stealing-from-the-future-with-speculative-design-e769059b6689)
+  - [Robotic Feral Dogs - Natalie Jeremijenko](https://inhabitat.com/robotic-pollution-sniffing-eco-dogs/robotic-pollution-sniffing-eco-dogs-robotic-feral-dogs-robo-eco-dogs-robo-pollution-sniffing-dogs-natalie-jeremijenko-jeff-warren-diego-rotalde-feral-robots-robotic-design-robotic-eco-dogs-4/)
+  - [Here's a Baby VR Headset for the Parents of the Future - Stuart Candy](https://www.vice.com/en_au/article/d38adx/baby-vr-headset-future-parents-stuart-candy)
+  - [The Optimization of Parenthood - Addie Wagenknecht](https://vimeo.com/43489750)
 
 #### Homework (due before start of next class)
 - **Read**
