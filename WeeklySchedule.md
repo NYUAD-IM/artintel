@@ -93,6 +93,8 @@ It's up to you to decide how to communicate your post (you can make it clear it'
 - Review speculative design ideas
 - Start working on the design ideas
 
+- FYI - [AI Art Gallery](https://www.nvidia.com/en-us/gtc/ai-art-gallery/) at Nvidia GPU Technology Conference (Oct 8)
+
 #### Homework (due before start of next class)
 - **Create** an "artifact" for your speculative design. It could be a product mockup, video, news report, product marketing, etc.
 - **Write** 3-4 paragraphs describing your project and your process
