@@ -95,17 +95,23 @@ It's up to you to decide how to communicate your post (you can make it clear it'
 
 - FYI - [AI Art Gallery](https://www.nvidia.com/en-us/gtc/ai-art-gallery/) at Nvidia GPU Technology Conference (Oct 8)
 
-#### Homework (due before start of next class)
+#### Homework (due before start of <a href="#week4.2">Class 4.2</a> on Sept 30</a>)
 - **Create** an "artifact" for your speculative design. It could be a product mockup, video, news report, product marketing, etc.
 - **Write** 3-4 paragraphs describing your project and your process
   - Add a link to your documentation [here](https://docs.google.com/document/d/11C77xkL4QUAe0Xd7HF_WbUwuNblPlE7CFBM_4ZbJUp8/edit?usp=sharing)
 - **Prepare** a 5-10 minute presentation to explain your idea. You will give your presentation in the next class.
 
 
-## <a name="week4"></a>Week 4 - Project Presentation
+## <a name="week4"></a>Week 4 - Convolutional Neural Networks / Project Presentation
 
-### <a name="week4.1"></a>Week 4.1 - Speculative Design Project Presentations / Feedback
+### <a name="week4.1"></a>Week 4.1 - Convolutional Neural Networks
+- How convolutional neural networks work
+- Examples of convolutional neural networks
+  - StyleGAN
+- Training and retraining of CNNs
+
+
+### <a name="week4.2"></a>Week 4.2 - Speculative Design Project Presentations / Feedback
 - Project presentations
 
-### <a name="week4.1"></a>Week 4.2 - Convolutional Neural Networks
 
