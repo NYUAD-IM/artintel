@@ -93,6 +93,11 @@ It's up to you to decide how to communicate your post (you can make it clear it'
 - Review speculative design ideas
 - Start working on the design ideas
 
+- References:
+    - [Neuralink product page](https://neuralink.com/applications/)
+    - [AI meeting scheduler](https://x.ai/)
+
+Updates:
 - Office hour appointments are now available on [NYU Classes](https://newclasses.nyu.edu/) course page
 - FYI - [AI Art Gallery](https://www.nvidia.com/en-us/gtc/ai-art-gallery/) at Nvidia GPU Technology Conference (Oct 8)
 
