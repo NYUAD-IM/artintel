@@ -93,6 +93,7 @@ It's up to you to decide how to communicate your post (you can make it clear it'
 - Review speculative design ideas
 - Start working on the design ideas
 
+- Office hour appointments are now available on [NYU Classes](https://newclasses.nyu.edu/) course page
 - FYI - [AI Art Gallery](https://www.nvidia.com/en-us/gtc/ai-art-gallery/) at Nvidia GPU Technology Conference (Oct 8)
 
 #### Homework (due before start of <a href="#week4.2">Class 4.2</a> on Sept 30</a>)
