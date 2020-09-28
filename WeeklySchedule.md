@@ -119,5 +119,7 @@ Updates:
 
 ### <a name="week4.2"></a>Week 4.2 - Speculative Design Project Presentations / Feedback
 - Project presentations
+- Talk about Visual Project
+- Look at practical tools
 
 
