@@ -116,6 +116,17 @@ Updates:
   - StyleGAN
 - Training and retraining of CNNs
 
+- Lecture links
+  - [Convolutional Neural Networks - ml4a](https://ml4a.github.io/ml4a/convnets/)
+  - [Convolution demo](https://ml4a.github.io/demos/convolution/)
+  - [Convolution all filters demo](https://ml4a.github.io/demos/convolution_all/)
+  - [ConvNet viewer](https://ml4a.github.io/guides/ConvnetViewer/)
+  - [WaveNet audio generation](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
+  - [StyleGAN explanation](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
+  - [Convolutional Neural Network Colab](https://colab.research.google.com/github/NYUAD-IM/artintel/blob/master/Code/Week_04/Convolutional_Neural_Network.ipynb#scrollTo=Iv1SLDu_bYXh)
+  - [ConvNetJS digit classification demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
+  - [ml5js - GPU accelerated JavaScript in the browser](https://learn.ml5js.org/#/)
+
 
 ### <a name="week4.2"></a>Week 4.2 - Speculative Design Project Presentations / Feedback
 - Project presentations
