@@ -128,9 +128,18 @@ Updates:
   - [ml5js - GPU accelerated JavaScript in the browser](https://learn.ml5js.org/#/)
 
 
+
 ### <a name="week4.2"></a>Week 4.2 - Speculative Design Project Presentations / Feedback
 - Project presentations
 - Talk about Visual Project
-- Look at practical tools
+- Training of Neural Networks
+  - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
+  - [Classification Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb#scrollTo=yWfgsmVXCaXG)
+  - [ml4a Demos](https://ml4a.github.io/demos/)
+  - [ml5js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
+
+- Bonus links
+  - [Neural Network Visualization](https://www.youtube.com/watch?v=3JQ3hYko51Y)
+  - [Elon Musk's Neuralink - Two Minute Papers](https://www.youtube.com/watch?v=JKe53bcyBQY)
 
 
