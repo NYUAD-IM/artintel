@@ -131,7 +131,6 @@ Updates:
 
 ### <a name="week4.2"></a>Week 4.2 - Speculative Design Project Presentations / Feedback
 - Project presentations
-- Talk about Visual Project
 - Training of Neural Networks
   - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
   - [Classification Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb#scrollTo=yWfgsmVXCaXG)
