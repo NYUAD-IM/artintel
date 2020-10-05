@@ -134,12 +134,18 @@ Updates:
 ### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained
 
 - Neural Network Training References
-  - [How Neural Networks are Trained (recommended reading)](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
+  - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
   - [Classification Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb#scrollTo=yWfgsmVXCaXG)
   - [ml4a Demos](https://ml4a.github.io/demos/)
   - [ml5js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
   - [MobileNet details](https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69)
+  
+  
+#### Homework (due before start of next class)
+- **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+- **Write** 3-4 paragraphs of response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
 
 ### <a name="week5.2"></a>Week 5.2 - Neural Network Training Workshop
+- Practical aspects of training
 
 
