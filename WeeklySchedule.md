@@ -146,6 +146,7 @@ Updates:
 - **Write** 3-4 paragraphs of response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
 
 ### <a name="week5.2"></a>Week 5.2 - Neural Network Training Workshop
+- Discussion: The AI Revolution
 - Practical aspects of training
 
 
