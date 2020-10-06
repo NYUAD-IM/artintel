@@ -149,4 +149,9 @@ Updates:
 - Discussion: The AI Revolution
 - Practical aspects of training
 
+#### Homework (due before start of next class)
+- ** Read** [The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/)
+- **Write** 3-4 paragraphs of response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
+
+
 
