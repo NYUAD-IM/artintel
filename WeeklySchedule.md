@@ -7,7 +7,7 @@
 * [Week 5 - Neural Network Training](#week5)
 * [Week 6 - Visual tools](#week6)
 * [Week 6.5 - Fall Break-ish](#week6.5)
-* [Week 7 - Visual project presentations]
+* [Week 7 - Visual project presentations](#week7)
 
 ## <a name="week1"></a>Week 1 - Introduction
 
@@ -151,16 +151,25 @@ Updates:
 ### <a name="week5.2"></a>Week 5.2 - Neural Network Training Workshop
 - Discussion: The AI Revolution
 - Practical aspects of training
+- Discuss Visual Project
+  - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
+  - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
+
 
 #### Homework (due before start of next class)
 - ** Read** [The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/)
 - **Write** 3-4 paragraphs of response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
+- **Make your group** for the Visual Design project [here](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+- **Start** developing ideas for the Visual Project
+  and be prepared to share your idea next class
+- **Update** your idea in the [Google Doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing) before class.
 
 
 ## <a name="week6"></a>Week 6 - Visual tools
 
 ### <a name="week6.1"></a>Week 6.1 - Visual tools
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
+- Review Visual Project ideas
 - Colab notebooks for generating images / video
 - Other tools
 
