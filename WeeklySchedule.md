@@ -5,6 +5,9 @@
 * [Week 3 - Neural Networks / Speculative Design](#week3)
 * [Week 4 - Project Presentation / Convolutional Neural Networks](#week4)
 * [Week 5 - Neural Network Training](#week5)
+* [Week 6 - Visual tools](#week6)
+* [Week 6.5 - Fall Break-ish](#week6.5)
+* [Week 7 - Visual project presentations]
 
 ## <a name="week1"></a>Week 1 - Introduction
 
@@ -154,4 +157,20 @@ Updates:
 - **Write** 3-4 paragraphs of response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
 
 
+## <a name="week6"></a>Week 6 - Visual tools
 
+### <a name="week6.1"></a>Week 6.1 - Visual tools
+- Reading discussion - The Politics of Images in Machine Learning Training Sets
+- Colab notebooks for generating images / video
+- Other tools
+
+### <a name="week6.2"></a>Week 6.2 - Visual Project work session
+- Work on visual project in class
+
+## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
+- No class!
+
+## <a name="week7"></a>Week 7 - Visual Project presentations
+
+### <a name="week7.1"></a>Week 7.1 - Visual Project presentations
+- In-class presentations of Visual Project
