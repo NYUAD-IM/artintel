@@ -157,7 +157,7 @@ Updates:
 
 
 #### Homework (due before start of next class)
-- ** Read** [The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/)
+- **Read** [The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/)
 - **Write** 3-4 paragraphs of response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
 - **Make your group** for the Visual Design project [here](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
 - **Start** developing ideas for the Visual Project
