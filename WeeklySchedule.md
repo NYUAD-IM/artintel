@@ -179,6 +179,10 @@ Updates:
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
 - Review Visual Project ideas
 - Colab notebooks for generating images / video
+  - [StyleGAN2 Colab example](https://colab.research.google.com/gist/mangtronix/e19e0c4025fb20e26b7f83990780f0a0/stylegan2-google-colab-example.ipynb)
+  - [Neural Style Transfer Colab](https://colab.research.google.com/drive/1-7ZMHjCG2lTdsZMpVMSpDWzTG6e-cwf3)
+  - [12 Colabs That Matter](https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0)
+  - [Neural Synthesis](https://colab.research.google.com/drive/1xeJAhTEwI3TNH_CJnTMq5AJuPkOs8sJ6)
 - [Image scraping](ImageScraping.md)
 
 ### <a name="week6.2"></a>Week 6.2 - Visual Project work session
@@ -190,6 +194,12 @@ Updates:
 ## <a name="week7"></a>Week 7 - Visual Project presentations
 
 ### <a name="week7.1"></a>Week 7.1 - Autoencoders, other forms of neural networks
+- [MNIST digits autoencoder Colab](https://colab.research.google.com/github/AFAgarap/examples/blob/master/community/en/autoencoder.ipynb)
+- [pix2pix ml4a](https://ml4a.github.io/guides/Pix2Pix/)
+- [pix2pix demo](https://affinelayer.com/pixsrv/)
 
 ### <a name="week7.1"></a>Week 7.2 - Visual Project presentations
 - In-class presentations of Visual Project
+
+## <a name="week8"></a>Week 8 
+
