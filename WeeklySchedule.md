@@ -184,6 +184,8 @@ Updates:
   - [12 Colabs That Matter](https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0)
   - [Neural Synthesis](https://colab.research.google.com/drive/1xeJAhTEwI3TNH_CJnTMq5AJuPkOs8sJ6)
 - [Image scraping](ImageScraping.md)
+- AI Lab computers now available
+  - 3x Alienware with nVidia 1080 Ti GPU
 
 ### <a name="week6.2"></a>Week 6.2 - Visual Project work session
 - Work on visual project in class
