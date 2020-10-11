@@ -179,7 +179,7 @@ Updates:
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
 - Review Visual Project ideas
 - Colab notebooks for generating images / video
-- Other tools
+- [Image scraping](ImageScraping.md)
 
 ### <a name="week6.2"></a>Week 6.2 - Visual Project work session
 - Work on visual project in class
@@ -189,5 +189,7 @@ Updates:
 
 ## <a name="week7"></a>Week 7 - Visual Project presentations
 
-### <a name="week7.1"></a>Week 7.1 - Visual Project presentations
+### <a name="week7.1"></a>Week 7.1 - Autoencoders, other forms of neural networks
+
+### <a name="week7.1"></a>Week 7.2 - Visual Project presentations
 - In-class presentations of Visual Project
