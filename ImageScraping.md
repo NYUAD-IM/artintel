@@ -47,5 +47,5 @@ $ googleimagesdownload -k cats -l 200 --chromedriver ~/Downloads/chromedriver
 
 ## Browser Extensions
 
-[Image Downloader for Chrome](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj
+[Image Downloader for Chrome](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj)
 - Browse and download images on a web page
