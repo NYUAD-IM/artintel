@@ -186,12 +186,20 @@ Updates:
 - [Image scraping](ImageScraping.md)
 - AI Lab computers now available
   - 3x Alienware with nVidia 1080 Ti GPU
+  
+  
+- Links for project tools
+  - [Manga GAN](https://github.com/nikitaa30/Manga-GAN)
+  - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) for making Deep Fake videos
+  - [Cartoonize](https://github.com/experience-ml/cartoonize) cartoonize images/video
+  - [Cartoonize webapp - Mangtronix edition](https://colab.research.google.com/drive/1iS8Nv_RYYKV5jOYw4ecyBTUrxZ7l5ufj?usp=sharing) run the CartoonGAN webapp on your own colab - allows generating longer videos
+  - [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow) more advanced cartoon example, has instructions for training your own dataset
 
 ### <a name="week6.2"></a>Week 6.2 - Visual Project work session
 - Work on visual project in class
 
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
-- No class!
+- Legislative day class on 10/18
 
 ## <a name="week7"></a>Week 7 - Visual Project presentations
 
