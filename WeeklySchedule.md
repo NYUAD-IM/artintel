@@ -182,7 +182,7 @@ Updates:
 
 ## <a name="week6"></a>Week 6 - Visual tools
 
-### <a name="week6.1"></a>Week 6.1 (10/12) - Visual tools
+### <a name="week6.1"></a>Week 6 (10/12) - Visual tools
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
 - Review Visual Project ideas
 - Colab notebooks for generating images / video
@@ -202,7 +202,7 @@ Updates:
   - [Cartoonize webapp - Mangtronix edition](https://colab.research.google.com/drive/1iS8Nv_RYYKV5jOYw4ecyBTUrxZ7l5ufj?usp=sharing) run the CartoonGAN webapp on your own colab - allows generating longer videos
   - [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow) more advanced cartoon example, has instructions for training your own dataset
 
-### <a name="week6.2"></a>Week 6.2 (10/14) - Visual Project work session 
+### <a name="week6.2"></a>Week 6 (10/14) - Visual Project work session 
 - Work on visual project in class
 
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
@@ -222,49 +222,49 @@ Updates:
 
 ## <a name="week7"></a>Week 7 - Visual Project presentations
 
-### <a name="week7.1"></a>Week 7.1 (10/26) - Autoencoders, other forms of neural networks
+### <a name="week7.1"></a>Week 7 (10/26) - Autoencoders, other forms of neural networks (or guest lecture)
 - [MNIST digits autoencoder Colab](https://colab.research.google.com/github/AFAgarap/examples/blob/master/community/en/autoencoder.ipynb)
 - [pix2pix ml4a](https://ml4a.github.io/guides/Pix2Pix/)
 - [pix2pix demo](https://affinelayer.com/pixsrv/)
 
-### <a name="week7.1"></a>Week 7.2 (10/28) - Visual Project presentations
+### <a name="week7.1"></a>Week 7 (10/28) - Visual Project presentations
 - In-class presentations of Visual Project
 
 ## <a name="week8"></a>Week 8 
 
-### <a name="week8.1"></a>Week 8.1 (11/02)
+### <a name="week8.1"></a>Week 8 (11/02)
 
-### <a name="week8.2"></a>Week 8.2 (11/04)
+### <a name="week8.2"></a>Week 8 (11/04)
 
 ## <a name="week8"></a>Week 9 
 
-### <a name="week9.1"></a>Week 9.1 (11/09)
+### <a name="week9.1"></a>Week 9 (11/09)
 
-### <a name="week9.2"></a>Week 9.2 (11/11)
+### <a name="week9.2"></a>Week 9 (11/11)
 
 ## <a name="week10"></a>Week 10
 
-### <a name="week10.1"></a>Week 10.1 (11/16)
+### <a name="week10.1"></a>Week 10 (11/16)
 
-### <a name="week10.2"></a>Week 10.2 (11/18)
+### <a name="week10.2"></a>Week 10 (11/18)
 
 ## <a name="week11"></a>Week 11
 
-### <a name="week11.1"></a>Week 11.1 (11/23)
+### <a name="week11.1"></a>Week 11 (11/23)
 
-### <a name="week11.2"></a>Week 11.2 (11/25)
+### <a name="week11.2"></a>Week 11 (11/25)
 
 ## <a name="week12"></a>Week 12
 
-### <a name="week12.1"></a>Week 12.1 (11/30)
+### <a name="week12.1"></a>Week 12 (11/30)
 
-### <a name="week12.2"></a>Week 12.2 (12/02)
+### <a name="week12.2"></a>Week 12 (12/02)
 
 ## <a name="week13"></a>Week 13
 
-### <a name="week13.1"></a>Week 13.1 (12/07)
+### <a name="week13.1"></a>Week 13 (12/07)
 
-### <a name="week13.2"></a>Week 13.2 (12/09)
+### <a name="week13.2"></a>Week 13 (12/09)
 
 ## <a name="finalsweek"></a>Finals Week
 
