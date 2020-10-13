@@ -8,6 +8,13 @@
 * [Week 6 - Visual tools](#week6)
 * [Week 6.5 - Fall Break-ish](#week6.5)
 * [Week 7 - Visual project presentations](#week7)
+* [Week 8](#week8)
+* [Week 9](#week9)
+* [Week 10](#week10)
+* [Week 11](#week11)
+* [Week 12](#week12)
+* [Week 13](#week13)
+* [Finals Week](#finalsweek)
 
 ## <a name="week1"></a>Week 1 - Introduction
 
@@ -175,7 +182,7 @@ Updates:
 
 ## <a name="week6"></a>Week 6 - Visual tools
 
-### <a name="week6.1"></a>Week 6.1 - Visual tools
+### <a name="week6.1"></a>Week 6.1 (10/12) - Visual tools
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
 - Review Visual Project ideas
 - Colab notebooks for generating images / video
@@ -195,21 +202,72 @@ Updates:
   - [Cartoonize webapp - Mangtronix edition](https://colab.research.google.com/drive/1iS8Nv_RYYKV5jOYw4ecyBTUrxZ7l5ufj?usp=sharing) run the CartoonGAN webapp on your own colab - allows generating longer videos
   - [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow) more advanced cartoon example, has instructions for training your own dataset
 
-### <a name="week6.2"></a>Week 6.2 - Visual Project work session
+### <a name="week6.2"></a>Week 6.2 (10/14) - Visual Project work session 
 - Work on visual project in class
 
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
-- Legislative day class on 10/18
+
+### <a name="week6.5.1"></a>Legislative day (10/18)
+  - **Asynchronous class (do on your own time)**
+  
+#### Homework (due before start of next class)
+  - **Watch** a film prominently featuring AI
+    - Suggestions:
+      - [Wikipedia list of AI films](https://en.wikipedia.org/wiki/List_of_artificial_intelligence_films)
+      - [Guardian Top 20 Artificial Intelligence Films](https://www.theguardian.com/culture/gallery/2015/jan/08/the-top-20-artificial-intelligence-films-in-pictures)
+  - **Write** a response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
+    - What role does AI play in the film?
+    - Do you agree with how AI is portrayed in its implications on society?
+    - What does the film reveal about our feelings towards AI?
 
 ## <a name="week7"></a>Week 7 - Visual Project presentations
 
-### <a name="week7.1"></a>Week 7.1 - Autoencoders, other forms of neural networks
+### <a name="week7.1"></a>Week 7.1 (10/26) - Autoencoders, other forms of neural networks
 - [MNIST digits autoencoder Colab](https://colab.research.google.com/github/AFAgarap/examples/blob/master/community/en/autoencoder.ipynb)
 - [pix2pix ml4a](https://ml4a.github.io/guides/Pix2Pix/)
 - [pix2pix demo](https://affinelayer.com/pixsrv/)
 
-### <a name="week7.1"></a>Week 7.2 - Visual Project presentations
+### <a name="week7.1"></a>Week 7.2 (10/28) - Visual Project presentations
 - In-class presentations of Visual Project
 
 ## <a name="week8"></a>Week 8 
+
+### <a name="week8.1"></a>Week 8.1 (11/02)
+
+### <a name="week8.2"></a>Week 8.2 (11/04)
+
+## <a name="week8"></a>Week 9 
+
+### <a name="week9.1"></a>Week 9.1 (11/09)
+
+### <a name="week9.2"></a>Week 9.2 (11/11)
+
+## <a name="week10"></a>Week 10
+
+### <a name="week10.1"></a>Week 10.1 (11/16)
+
+### <a name="week10.2"></a>Week 10.2 (11/18)
+
+## <a name="week11"></a>Week 11
+
+### <a name="week11.1"></a>Week 11.1 (11/23)
+
+### <a name="week11.2"></a>Week 11.2 (11/25)
+
+## <a name="week12"></a>Week 12
+
+### <a name="week12.1"></a>Week 12.1 (11/30)
+
+### <a name="week12.2"></a>Week 12.2 (12/02)
+
+## <a name="week13"></a>Week 13
+
+### <a name="week13.1"></a>Week 13.1 (12/07)
+
+### <a name="week13.2"></a>Week 13.2 (12/09)
+
+## <a name="finalsweek"></a>Finals Week
+
+### <a name="theend"></a>End of finals (12/17)
+
 
