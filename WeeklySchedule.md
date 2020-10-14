@@ -205,6 +205,29 @@ Updates:
 ### <a name="week6.2"></a>Week 6 (10/14) - Visual Project work session 
 - Work on visual project in class
 
+- **Visual Project (due 10/28)**
+  - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
+  - You can incorporate the visual output into a larger work, e.g. website, printed image, interactive
+    program or use the output of the machine learning algorithm as source material for
+    your creative process (e.g. generate images and then further manipulate them)
+  - Some ideas:
+    - create a series of related images using style transfer and present them on a website
+    - generate the description of an using GPT-2 and then draw it yourself
+    - create an animation through the latent space of StyleGAN
+    - cartoonize some images to create a comic strip (online or printed)
+    - generate an image using machine learning and redraw it yourself
+  - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
+  - The idea is to see how you can use the tools we've looked at in class (or any tool you can find)
+    to express your creativity or make a comment on machine learning / AI
+  - The work or documentation of it should be accessible on the web (e.g. for a printed work post photos)
+  
+  - Required documentation:
+    - Name of your project
+    - What inspired you to make this work?
+    - How does the content of your work related to some of the concepts we've covered in class?
+    - What tools did you use? How did the tools affect your creative process? (If you found the
+      tools limiting you can also comment on that.)
+
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
 
 ### <a name="week6.5.1"></a>Legislative day (10/18)
