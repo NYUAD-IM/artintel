@@ -247,19 +247,33 @@ Updates:
 
 ## <a name="week7"></a>Week 7 - Visual Project presentations
 
+<!--
 ### <a name="week7.1"></a>Week 7 (10/26) - Autoencoders, other forms of neural networks (or guest lecture)
 - [MNIST digits autoencoder Colab](https://colab.research.google.com/github/AFAgarap/examples/blob/master/community/en/autoencoder.ipynb)
 - [pix2pix ml4a](https://ml4a.github.io/guides/Pix2Pix/)
 - [pix2pix demo](https://affinelayer.com/pixsrv/)
+-->
 
-### <a name="week7.1"></a>Week 7 (10/28) - Visual Project presentations
+### <a name="week7.1"></a>Week 7 (10/26) - After break check-in
+- AI in films
+- Course feedback
+- Project check-in
+- Lab computers
+
+### <a name="week7.2"></a>Week 7 (10/28) - Visual Project presentations
 - In-class presentations of Visual Project
 
-## <a name="week8"></a>Week 8 
+#### Homework (due before start of next class)
+- Find an inspirational work using AI for sound/text generation
+- Find a tool or technique that you would like to use / learn more about
+
+## <a name="week8"></a>Week 8 - Sound / Text
 
 ### <a name="week8.1"></a>Week 8 (11/02)
+- Look at inspirational works and tools
 
 ### <a name="week8.2"></a>Week 8 (11/04)
+- Sound / Text Workshop 1
 
 ## <a name="week8"></a>Week 9 
 
