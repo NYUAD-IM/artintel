@@ -72,10 +72,16 @@ We have three computers for machine learning use. We need to share these three a
 - Run ALL of your processes in tmux.
 
 ### Assigned Computers:
-1: (AI)
+1: (AI1)
+Name: c3-129-lnx-01.abudhabi.nyu.edu
+IP address: 10.224.18.84
 
 
 2: (AI2)
+Name: c3-129-lnx-02.abudhabi.nyu.edu
+IP address: 10.224.18.85
 
 
 3: (AI3)
+Name: c3-129-lnx-03.abudhabi.nyu.edu
+IP address: 10.224.18.86
