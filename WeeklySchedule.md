@@ -8,8 +8,8 @@
 * [Week 6 - Visual tools](#week6)
 * [Week 6.5 - Fall Break-ish](#week6.5)
 * [Week 7 - Visual project presentations](#week7)
-* [Week 8](#week8)
-* [Week 9](#week9)
+* [Week 8 - Sound / Text / Lab Computers](#week8)
+* [Week 9 - Sound / Text](#week9)
 * [Week 10](#week10)
 * [Week 11](#week11)
 * [Week 12](#week12)
@@ -263,19 +263,21 @@ Updates:
 ### <a name="week7.2"></a>Week 7 (10/28) - Visual Project presentations
 - In-class presentations of Visual Project
 
-#### Homework (due before start of next class)
-- Find an inspirational work using AI for sound/text generation
-- Find a tool or technique that you would like to use / learn more about
+#### Homework (due before start of next class 11/02)
+- **Find** an inspirational work using AI for sound/text generation
+- **Find** a tool or technique that you would like to use / learn more about / find interesting
+- **Write** 2-3 paragraphs about the inspirational work and tool in the [Readings Doc](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
+- Next class you will show the work and technique that you found to the rest of the class
 
-## <a name="week8"></a>Week 8 - Sound / Text
+## <a name="week8"></a>Week 8 - Sound / Text / Lab Computers
 
 ### <a name="week8.1"></a>Week 8 (11/02)
-- Look at inspirational works and tools
+- Look at inspirational sound/text works and tools
 
-### <a name="week8.2"></a>Week 8 (11/04)
-- Sound / Text Workshop 1
+### <a name="week8.2"></a>Week 8 (11/04) Workshop
+- Command line / Python / Lab Computer Workshop
 
-## <a name="week8"></a>Week 9 
+## <a name="week8"></a>Week 9 - Sound / Text
 
 ### <a name="week9.1"></a>Week 9 (11/09)
 
