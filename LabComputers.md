@@ -1,23 +1,39 @@
 # Art Intel Computers
 
+### Access Information
+You should have received an email with the login information for the lab computers.
+If not, please contact Mang.
+
+You can use the lab computers in person, connect with TeamViewer to the Linux desktop, or connect using ssh (while on the NYUAD network or using NYUAD VPN).
+
 ### Setup
 <!--
 We'll be using Anaconda to manage our dependencies. I've set up CUDA and Tensorflow already and made a base conda environment for you to build off of. You need to clone this environment into your own personal environment:
 - `conda create --name <YOURNAME> --clone tensorflow`
 -->
 
-We'll be using Anaconda to manage our dependencies. Anaconda allows us to create
-a Python environment where we can install specific libraries, etc without disturbing
-the rest of the system.
-- `conda create --name <YOURNAME>`
-
-Any changes to Python version, python libraries, etc. you want to make will happen in your own environment.
-
 We share the same Linux user account. Create your own subdirectory to hold all your files.
 - `mkdir ~/<YOURNAME>`
 
 Change into your directory after logging in.
 - `cd <YOURNAME>`
+
+We'll be using Anaconda to manage our dependencies. Anaconda allows us to create
+a Python environment where we can install specific libraries, etc without disturbing
+the rest of the system.
+- `conda create --name <YOURNAME> --clone tensorflow-gpu`
+
+Activate your conda environment.
+- `conda activate <YOURNAME>`
+
+**Each time you log in make sure to change into your user directory and activate your conda
+environment. You should see the name of your conda environment at the beginning of the
+command prompt.**
+
+Any changes to Python version, python libraries, etc. you want to make will happen in your own environment.
+
+**Please do NOT make changes to the system (e.g. using sudo) without asking Mang first.** If you activate your conda environment you should be able to do everything without using sudo.
+
 
 ### SSH
 You can log into your assigned class computer remotely via SSH:
@@ -34,8 +50,8 @@ We will use tmux for a detachable command line window. tmux commands:
 -->
 
 ### Conda Usage
-- activate env: `source activate <YOUR_ENV_NAME>`
-- deactivate env: `source deactivate`
+- activate env: `conda activate <YOUR_ENV_NAME>`
+- deactivate env: `conda deactivate`
 - list enviroments: `conda env list`
 - remove an environment: `conda remove --name <YOUR_ENV_NAME> --all`
 
@@ -68,8 +84,10 @@ We have three computers for machine learning use. We need to share these three a
 - Move any output files you want to save to your computer and **delete all other generated files** as soon as a task is done.
 - Each person will have one computer they are assigned to use. Please only use the computer you've been assigned to. If that computer is tied up for long periods, but another is free, let me know and we can talk about using a different computer.
 - **Only add or change dependencies on your own environment**.
+<!--
 - Check to see if anyone is currently using the computer by checking the tmux sessions.
 - Run ALL of your processes in tmux.
+-->
 
 ### Assigned Computers:
 1: (AI1)
@@ -91,3 +109,11 @@ IP address: 10.224.18.85
 Name: c3-129-lnx-03.abudhabi.nyu.edu
 
 IP address: 10.224.18.86
+
+
+### VPN Login
+See [instructions](https://www.nyu.edu/life/information-technology/getting-started/network-and-connectivity/vpn.html)
+
+Enter 'push' as the secondary password to trigger 2FA.
+
+![VPN login](Assets/VPN_login.png?raw=true "VPN login")
