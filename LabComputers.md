@@ -1,10 +1,20 @@
 # Art Intel Computers
 
 ### Access Information
-You should have received an email with the login information for the lab computers.
-If not, please contact Mang.
+The login information is linked on the course page on [NYU Classes](https://newclasses.nyu.edu/)
 
-You can use the lab computers in person, connect with TeamViewer to the Linux desktop, or connect using ssh (while on the NYUAD network or using NYUAD VPN).
+You can connect with TeamViewer to the Linux desktop, or connect using ssh (while on the NYUAD network or using NYUAD VPN). Physical access is not currently allowed.
+
+# Linux / Python
+Here are some tutorials to get you started with the command line and Python
+
+1. Linux command-line (basically the same as OSX command line)
+
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+2. Python tutorial
+
+https://www.programiz.com/python-programming/tutorial
 
 ### Setup
 <!--
@@ -60,6 +70,7 @@ We'll use SFTP to move files between our computers and the class computers.
 
 You can use the `sftp` command line program or GUI programs like Cyberduck.
 
+sftp command line:
 - SFTP into the class computer: `sftp nyuad@<IPADDRESS>`
 - Normal unix file structure navigation commands work, but through the file structure on the class computer computer: `cd ls pwd`
 - To navigate the file structure on your computer put an l before the commands for local: `lcd lls lpwd`
@@ -68,8 +79,22 @@ You can use the `sftp` command line program or GUI programs like Cyberduck.
 - Get all files and folders in a directory: `get -r *`
 - Quit SFTP: `bye`
 
+Cyberduck SFTP:
+- Download [Cyberduck](https://cyberduck.io/download/)
+- If not on campus, connect to NYUAD VPN
+- Click "Open Connection"
+- Choose SFTP (SSH File Transfer Prototocol)
+- Enter the server name (e.g. c3-129-lnx-01.abudhabi.nyu.edu)
+- Enter user name (nyuad)
+- Enter nyuad user password (linked from NYU Classes)
+- Click Connect
+- Drag and drop files to transfer
+- If you create a new file on the Linux machine you have to hit Refresh in Cyberduck for it to be seen
+
+![Cyberduck SFTP login](Assets/Cyberduck.png?raw=true "Cyberduck SFTP login")
+
+
 ### Misc.
-- The IP Address may change from time to time. While at the actual class computer get the ip address: `ifconfig`
 - Remove a file: `rm <FILENAME>`
 - Remove a folder with files in it: `rm -r <FOLDERNAME>` (Be careful with this command! Only in your directory.)
 - Remove all files of a certain type (jpg in this example): `~rm *jpg`
@@ -89,7 +114,7 @@ We have three computers for machine learning use. We need to share these three a
 - Run ALL of your processes in tmux.
 -->
 
-### Assigned Computers:
+### Lab Computers:
 1: (AI1)
 
 Name: c3-129-lnx-01.abudhabi.nyu.edu
