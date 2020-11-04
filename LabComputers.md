@@ -20,7 +20,7 @@ Change into your directory after logging in.
 
 We'll be using Anaconda to manage our dependencies. Anaconda allows us to create
 a Python environment where we can install specific libraries, etc without disturbing
-the rest of the system.
+the rest of the system. Create your conda environment:
 - `conda create --name <YOURNAME> --clone tensorflow-gpu`
 
 Activate your conda environment.
@@ -117,3 +117,13 @@ See [instructions](https://www.nyu.edu/life/information-technology/getting-start
 Enter 'push' as the secondary password to trigger 2FA.
 
 ![VPN login](Assets/VPN_login.png?raw=true "VPN login")
+
+
+<!--
+### Machine setup
+
+wget https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
+
+conda create -n tensorflow-gpu tensorflow-gpu
+
+-->
