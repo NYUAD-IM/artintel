@@ -280,12 +280,49 @@ Updates:
 ## <a name="week9"></a>Week 9 - Sound / Text
 
 ### <a name="week9.1"></a>Week 9 (11/09)
-- Discus Project 3 - Sound / Text
-- Machine learning techniques for sound / text
-- **Sign up** for Project 3 groups [here]()
+- Discuss Project 3 - Sound / Text
+
+- ** Sound / Text Project (due 11/25)**
+  - **Create** sound / music, or text using a machine learning algorithm 
+  - **Put** your project URL and documentation URL into the [project groups doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+  - You can incorporate the sound / text output into a larger work, e.g. your earlier visual project, website, printed image, interactive
+    program or use the output of the machine learning algorithm as source material for
+    your creative process (e.g. generate sound / text and then further manipulate them)
+  - The idea is to see how you can use the tools we've looked at in class (or any tool you can find)
+    to express your creativity or make a comment on machine learning / AI
+  - The work or documentation of it should be accessible on the web (e.g. for a printed work post photos)
+  
+  - Required documentation (include on project site or separate page):
+    - Name of your project
+    - What inspired you to make this work?
+    - How does the content of your work related to some of the concepts we've covered in class?
+    - What tools did you use? How did the tools affect your creative process? (If you found the
+      tools limiting you can also comment on that.)
+
+
+- Machine learning techniques for text
+  - "Vanilla" Neural Networks
+    - [Looking inside neural nets](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
+  - Recurrent Neural Networks
+    - [3 minute explanation video](https://www.youtube.com/watch?v=C0xoB8L8ms0)
+    - [The unreasonable effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+  - Long Short-Term Memory Neural Networks (LSTM)
+    - [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  - GPT-2 / 3
+    - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
+    - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
+    - [Talk to transformer](https://app.inferkit.com/demo)
+    - [GPT-2 Colab - train your own text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
+
+
+- **Homework** (due 11/11):
+  - **Sign up** for Project 3 groups [here](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+  - **Prepare** to share your project idea next class
 
 ### <a name="week9.2"></a>Week 9 (11/11)
 - **Present** sound / text project ideas
+- Machine learning techniques for sound
+
 - Workshop sound / text
 
 ## <a name="week10"></a>Week 10
