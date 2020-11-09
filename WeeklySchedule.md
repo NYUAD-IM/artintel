@@ -10,11 +10,11 @@
 * [Week 7 - Visual project presentations](#week7)
 * [Week 8 - Sound / Text / Lab Computers](#week8)
 * [Week 9 - Sound / Text](#week9)
-* [Week 10](#week10)
-* [Week 11](#week11)
-* [Week 12](#week12)
-* [Week 13](#week13)
-* [Finals Week](#finalsweek)
+* [Week 10 - TBD](#week10)
+* [Week 11 - Sound / Text Project Due](#week11)
+* [Week 12 - Interactive Applications](#week12)
+* [Week 13 - Ethics / Final Project](#week13)
+* [Finals Week - Final Project Due](#finalsweek)
 
 ## <a name="week1"></a>Week 1 - Introduction
 
@@ -277,11 +277,16 @@ Updates:
 ### <a name="week8.2"></a>Week 8 (11/04) Workshop
 - Command line / Python / Lab Computer Workshop
 
-## <a name="week8"></a>Week 9 - Sound / Text
+## <a name="week9"></a>Week 9 - Sound / Text
 
 ### <a name="week9.1"></a>Week 9 (11/09)
+- Discus Project 3 - Sound / Text
+- Machine learning techniques for sound / text
+- **Sign up** for Project 3 groups [here]()
 
 ### <a name="week9.2"></a>Week 9 (11/11)
+- **Present** sound / text project ideas
+- Workshop sound / text
 
 ## <a name="week10"></a>Week 10
 
@@ -289,26 +294,35 @@ Updates:
 
 ### <a name="week10.2"></a>Week 10 (11/18)
 
-## <a name="week11"></a>Week 11
+## <a name="week11"></a>Week 11 - Sound / Text Project Due
 
 ### <a name="week11.1"></a>Week 11 (11/23)
 
 ### <a name="week11.2"></a>Week 11 (11/25)
+- **Project 3 - Sound / Text Due (11/25)**
+- **Present** your Sound / Text project
 
-## <a name="week12"></a>Week 12
+## <a name="week12"></a>Week 12 - Interactive Applications
 
 ### <a name="week12.1"></a>Week 12 (11/30)
+- Discuss Final Project
+- Techniques for interactive machine learning
 
 ### <a name="week12.2"></a>Week 12 (12/02)
+- **Present** your Final Project idea
+- Workshop: Interactive machine learning
 
 ## <a name="week13"></a>Week 13
 
 ### <a name="week13.1"></a>Week 13 (12/07)
+- Ethics and social issues of machine learning / AI
 
 ### <a name="week13.2"></a>Week 13 (12/09)
+- Final project check-in
+- Final project work session
 
-## <a name="finalsweek"></a>Finals Week
+## <a name="finalsweek"></a>Finals Week - Final Project Due
+- **Final project due (12/17)**
 
-### <a name="theend"></a>End of finals (12/17)
 
 
