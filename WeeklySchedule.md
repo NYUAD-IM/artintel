@@ -322,6 +322,19 @@ Updates:
 ### <a name="week9.2"></a>Week 9 (11/11)
 - **Present** sound / text project ideas
 - Machine learning techniques for sound
+  - [Magenta](https://magenta.tensorflow.org/)
+    - [MusicVAE: A tool for creating music with neural networks](https://medium.com/@wvsharber/musicvae-a-tool-for-creating-music-with-neural-networks-db0f4b84a698)
+    - [Piano transcription](https://magenta.tensorflow.org/onsets-frames)
+      - [Piano Scribe (In-browser using Magenta.js)](https://piano-scribe.glitch.me/)
+    - [Melody Mixer](https://experiments.withgoogle.com/ai/melody-mixer/view/)
+    - [Magenta Studio lets you use AI tools for inspiration in Ableton Live](https://cdm.link/2019/02/magenta-studio-ai-ableton-live/)
+  - [WaveNet A generative model for raw audio](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
+  - [Generating Audio Using Recurrent Neural Networks](https://apfalz.github.io/rnn/rnn_demo.html)
+  - [Training notes for WaveNet and RNN](https://karlhiner.com/music_generation/wavenet_and_samplernn/)
+  - [Technical: Architecture of Speech Recognition](http://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
+  - Audio deepfakes
+    - [This is what a deepfake voice clone used in a failed fraud attempt sounds like](https://www.theverge.com/2020/7/27/21339898/deepfake-audio-voice-clone-scam-attempt-nisos)
+    - [Resemble.ai - TTS and cloing](https://www.resemble.ai/)
 
 - Workshop sound / text
 
