@@ -326,10 +326,13 @@ Updates:
     - [MusicVAE: A tool for creating music with neural networks](https://medium.com/@wvsharber/musicvae-a-tool-for-creating-music-with-neural-networks-db0f4b84a698)
     - [Piano transcription](https://magenta.tensorflow.org/onsets-frames)
       - [Piano Scribe (In-browser using Magenta.js)](https://piano-scribe.glitch.me/)
+    - [Magenta Demos](https://magenta.tensorflow.org/demos)
     - [Melody Mixer](https://experiments.withgoogle.com/ai/melody-mixer/view/)
     - [Magenta Studio lets you use AI tools for inspiration in Ableton Live](https://cdm.link/2019/02/magenta-studio-ai-ableton-live/)
   - [WaveNet A generative model for raw audio](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
   - [Generating Audio Using Recurrent Neural Networks](https://apfalz.github.io/rnn/rnn_demo.html)
+  - [SampleRNN examples](https://soundcloud.com/samplernn)
+  - [SampleRRN code](https://github.com/Unisound/SampleRNN)
   - [Training notes for WaveNet and RNN](https://karlhiner.com/music_generation/wavenet_and_samplernn/)
   - [Technical: Architecture of Speech Recognition](http://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
   - Audio deepfakes
