@@ -10,7 +10,7 @@
 * [Week 7 - Visual project presentations](#week7)
 * [Week 8 - Sound / Text / Lab Computers](#week8)
 * [Week 9 - Sound / Text](#week9)
-* [Week 10 - TBD](#week10)
+* [Week 10 - Sound / Text / Lab Continued](#week10)
 * [Week 11 - Sound / Text Project Due](#week11)
 * [Week 12 - Interactive Applications](#week12)
 * [Week 13 - Ethics / Final Project](#week13)
