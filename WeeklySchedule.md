@@ -343,13 +343,52 @@ Updates:
 
 ## <a name="week10"></a>Week 10
 
-### <a name="week10.1"></a>Week 10 (11/16)
+### <a name="week10.1"></a>Week 10 (11/16) - Rescheduled
 
 ### <a name="week10.2"></a>Week 10 (11/18)
+- Autoencoders
+  - [Autoencoder explained](https://youtu.be/9zKuYvjFFS8?t=56)
+    
+- Lab computers
+  - Training example using SampleRNN
+    - [https://github.com/mangtronix/samplernn-pytorch](https://github.com/mangtronix/samplernn-pytorch)
+
+  - [tmux: The 10 Most Important Commands](https://danielmiessler.com/study/tmux/)
+  - [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
+  - [How to Send Push Notifications to Your Phone From Any Script](https://medium.com/better-programming/how-to-send-push-notifications-to-your-phone-from-any-script-6b70e34748f6)
+  - [If This, Then That](https://ifttt.com/)
+  
+- Interactive face swap
+  - [Take This Lollipop](https://www.takethislollipop.com/)
+  
+- Group checkin
+
+- Group work time
+
+#### Homework (due before start of next class 11/23)
+- **Read** an article about GPT-3 and write a 2-3 paragraph response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
+  - Some suggested articles
+    - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
+      - [Responses on Hacker News](https://news.ycombinator.com/item?id=24003384)
+    - [Someone let a GPT-3 bot loose on Reddit — it didn’t end well](https://thenextweb.com/neural/2020/10/07/someone-let-a-gpt-3-bot-loose-on-reddit-it-didnt-end-well/)
+    - [GPT-3 Creative Fiction](https://www.gwern.net/GPT-3)
+    - [OPENAI’S LATEST BREAKTHROUGH IS ASTONISHINGLY POWERFUL, BUT STILL FIGHTING ITS FLAWS](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)
+    - [Here Are A Few Ways GPT-3 Can Go Wrong](https://techcrunch.com/2020/08/07/here-are-a-few-ways-gpt-3-can-go-wrong/)
+    - [GPT Crush (look through some examples)](http://gptcrush.com/)
+    
+- **Create** a short text by prompting GPT-2/3 and **add** it to the [Google doc](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing). Put the prompted parts of the text you wrote in **bold**.
+  - e.g. use [Talk to Transformer](https://app.inferkit.com/demo) or [GPT-2 Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
+  - What does your text show about how the model works?
+  - How does the response match with what you expected?
+  - What do you think of future applications of GPT-3?
+
 
 ## <a name="week11"></a>Week 11 - Sound / Text Project Due
 
 ### <a name="week11.1"></a>Week 11 (11/23)
+- Review homework
+- Project check-in
+- Chat bots
 
 ### <a name="week11.2"></a>Week 11 (11/25)
 - **Project 3 - Sound / Text Due (11/25)**
