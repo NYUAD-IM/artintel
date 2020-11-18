@@ -98,6 +98,7 @@ Cyberduck SFTP:
 - Remove a file: `rm <FILENAME>`
 - Remove a folder with files in it: `rm -r <FOLDERNAME>` (Be careful with this command! Only in your directory.)
 - Remove all files of a certain type (jpg in this example): `~rm *jpg`
+- Check if other people are using the GPU `nvidia-smi`
 
 ### Locking the computers
 When working on the actual computers **don't suspend** them when you're done. This will make it so no one can SSH into them. ***Lock them.***

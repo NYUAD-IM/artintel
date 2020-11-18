@@ -349,7 +349,7 @@ Updates:
 - Autoencoders
   - [Autoencoder explained](https://youtu.be/9zKuYvjFFS8?t=56)
     
-- Lab computers
+- [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
   - Training example using SampleRNN
     - [https://github.com/mangtronix/samplernn-pytorch](https://github.com/mangtronix/samplernn-pytorch)
 
