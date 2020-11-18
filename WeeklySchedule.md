@@ -356,7 +356,8 @@ Updates:
   - [tmux: The 10 Most Important Commands](https://danielmiessler.com/study/tmux/)
   - [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
   - [How to Send Push Notifications to Your Phone From Any Script](https://medium.com/better-programming/how-to-send-push-notifications-to-your-phone-from-any-script-6b70e34748f6)
-  - [If This, Then That](https://ifttt.com/)
+  - [IFTTT - If This, Then That](https://ifttt.com/)
+  - [FileZilla SFTP client](https://filezilla-project.org/)
   
 - Interactive face swap
   - [Take This Lollipop](https://www.takethislollipop.com/)
