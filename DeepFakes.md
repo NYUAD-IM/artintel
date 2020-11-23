@@ -1,3 +1,9 @@
+# Deep Fakes Colabs
+[Avatars4All by Eyaler](https://github.com/eyaler/avatars4all)
+- [Colab to do realtime deep fake using First Order Model in browser using webcam](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_live.ipynb)
+- [Colab to generate and downlaod deep fake talking head video](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_bibi.ipynb)
+
+
 ### Installation
 [DeepFaceLab Linux installation](https://github.com/nagadit/DeepFaceLab_Linux)
 
