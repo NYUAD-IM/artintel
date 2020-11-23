@@ -391,6 +391,19 @@ Updates:
 - Review homework
 - Project check-in
 - Chat bots
+  - [Eliza](https://web.njit.edu/~ronkowit/eliza.html)
+  - [Building an AI-based Chatbot in Python](https://blog.datasciencedojo.com/building-an-ai-based-chatbot-in-python/)
+  - [I tricked GPT2 into working like a chatbot. (Reddit)](https://www.reddit.com/r/artificial/comments/cfgpvh/i_tricked_gpt2_into_working_like_a_chatbot_here/)
+  - [Talk to Transformer](https://app.inferkit.com/demo)
+- [avatars4all](https://github.com/eyaler/avatars4all)
+  - Live real-time avatars from your webcam in the browser (multiple Colabs)
+- [Use web camera in real-time on google colaboratory](https://github.com/a2kiti/webCamGoogleColab)
+  - [Web Cam Demo Colab](https://colab.research.google.com/github/a2kiti/webCamGoogleColab/blob/master/webCamGoogleColab_callbackVersion.ipynb)
+
+- [OpenAI API Access (has link to join waitlist)](https://beta.openai.com/)
+- [ml5js Getting Started](https://learn.ml5js.org/#/)
+  - [Image Classifier Demo](https://editor.p5js.org/ml5/sketches/ImageClassification)
+- [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
 
 ### <a name="week11.2"></a>Week 11 (11/25)
 - **Project 3 - Sound / Text Due (11/25)**
