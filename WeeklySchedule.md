@@ -409,11 +409,23 @@ Updates:
 - **Project 3 - Sound / Text Due (11/25)**
 - **Present** your Sound / Text project
 
+#### Homework (due before start of next class 11/30)
+- **Watch** [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0) (until 19:00, then it's just credits)
+- **Watch** [ml5.js: Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY)
+- **Read** [Hello ml5.js - A gentle introduction to ml5](https://learn.ml5js.org/#/tutorials/hello-ml5)
+- **Create** An interactive ml5.js sketch (using the p5 editor or your own editor) that uses the webcam, uploaded image from the user, user-entered text, or other user interaction to do something interesting. You can start from one of the ml5.js examples and modify it for your own use.
+- **Write** a paragraph of text explaining your sketch and add the link to your sketch and description to the [Google doc](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
+
 ## <a name="week12"></a>Week 12 - Interactive Applications
 
 ### <a name="week12.1"></a>Week 12 (11/30)
+- Review homework
 - Discuss Final Project
 - Techniques for interactive machine learning
+
+#### Homework ####
+- **Sign up** for your Final Project group in the [Google doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+- **Develop** the rough idea for your final project and add it to the [Google doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
 
 ### <a name="week12.2"></a>Week 12 (12/02)
 - **Present** your Final Project idea
@@ -422,11 +434,14 @@ Updates:
 ## <a name="week13"></a>Week 13
 
 ### <a name="week13.1"></a>Week 13 (12/07)
-- Ethics and social issues of machine learning / AI
-
-### <a name="week13.2"></a>Week 13 (12/09)
 - Final project check-in
 - Final project work session
+
+### <a name="week13.2"></a>Week 13 (12/09) - Final class!
+- Ethics and social issues of machine learning / AI
+- Wrap up discussion
+- Course evaluations
+- Goodbyes for now!
 
 ## <a name="finalsweek"></a>Finals Week - Final Project Due
 - **Final project due (12/17)**
