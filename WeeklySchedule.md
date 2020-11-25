@@ -420,16 +420,15 @@ Updates:
 
 ### <a name="week12.1"></a>Week 12 (11/30)
 - Review homework
-- Discuss Final Project
 - Techniques for interactive machine learning
+- Discuss Final Project
 
 #### Homework ####
 - **Sign up** for your Final Project group in the [Google doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
 - **Develop** the rough idea for your final project and add it to the [Google doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
 
 ### <a name="week12.2"></a>Week 12 (12/02)
-- **Present** your Final Project idea
-- Workshop: Interactive machine learning
+- Holiday
 
 ## <a name="week13"></a>Week 13
 
