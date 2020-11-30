@@ -423,6 +423,33 @@ Updates:
 - Techniques for interactive machine learning
 - Discuss Final Project
 
+#### Final Project ####
+For the final your are free to choose what you'd like to do. The project should be a creative use of machine learning. It should be more ambitious in scope compared to what we've done so far this semester. You could do any number of things. A few sample ideas are:
+
+- Build upon and fully complete one of your projects from earlier in the semester
+- Create an interactive classification app or game (example)
+- Create a physical comic book using style transfer
+- Create an interactive dance performance
+- Generate a musical composition or an EP of songs
+- Create a music/sound generation tool
+- Create a twitter bot (a variation could be a bot that learns and grows from people's responses)
+- Create an interactive application (tool/game/art piece) that uses text generation
+- Create an art piece that illustrates/amplifies characteristics of this technology (could be illuminating or comedic or both)
+The list could go on and on. The above should be considered far from exhaustive.
+
+You may work within a group or by yourself.
+
+##### Grading Rubric #####
+25% Creative Thinking: The project should not be just reproducing things using the tools we've looked at. It should have some novel implementation or approach in the application of the tech. Depending on the project, this could include indication of development of personal style/taste (if art project for example), and/or imaginative implementations of the tech in exploring ideas.
+
+25% Production Quality: The project needs to be well polished, with considerable work put into the finished work.
+
+25% Clear Conceptual Underpinning: The project needs to be well thought out, and have a clear concept that you are working with from start to finish. The documentation should clearly show the concepts you are engaging with.
+
+25% Machine Learning Application: The project should use and benefit from machine learning.
+
+
+
 #### Homework ####
 - **Sign up** for your Final Project group in the [Google doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
 - **Develop** the rough idea for your final project and add it to the [Google doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
