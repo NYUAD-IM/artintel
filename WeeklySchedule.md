@@ -448,6 +448,14 @@ You may work within a group or by yourself.
 
 25% Machine Learning Application: The project should use and benefit from machine learning.
 
+##### Documentation #####
+  - Required documentation (include on project site or separate page):
+    - Name of your project
+    - What inspired you to make this work?
+    - How does the content of your work related to some of the concepts we've covered in class?
+    - What tools did you use? How did the tools affect your creative process? (If you found the tools limiting you can also comment on that.)
+    - What have you learned as a result of making this work? What surprised you?
+
 
 
 #### Homework ####
