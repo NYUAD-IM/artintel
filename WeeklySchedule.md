@@ -471,6 +471,9 @@ You may work within a group or by yourself.
 - Final project check-in
 - Final project work session
 
+#### Homework ####
+- **Read** [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
+
 ### <a name="week13.2"></a>Week 13 (12/09) - Final class!
 - Ethics and social issues of machine learning / AI
 - Wrap up discussion
