@@ -23,7 +23,7 @@ https://github.com/nyuad-im/artintel
 
 [Reading responses](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing) - sign in with NYU account for access
 
-Class recordings - available on [NYU Classes](https://newclasses.nyu.edu/) (Class Name->Zoom->Cloud Recordings)
+Class recordings: available on [NYU Classes](https://newclasses.nyu.edu/) (Class Name->Zoom->Cloud Recordings)
 
 
 **Discord channel #artintel:** invite on [NYU Classes](https://newclasses.nyu.edu/)
