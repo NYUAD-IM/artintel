@@ -23,13 +23,13 @@
   - Supervised Learning
   - Unsupervised Learning
   - Reinforcement Learning
-  
+
 #### Homework (due before start of next class)
 - **Read**
   - Creative AI:  [https://medium.com/@creativeai/creativeai-9d4b2346faf3](https://medium.com/@creativeai/creativeai-9d4b2346faf3)  
   - What is AI &amp; History (Optional/Recommended): [Chapter 1 - Introduction - Artificial Intelligence a Modern Approach](http://web.cecs.pdx.edu/~mperkows/CLASS_479/2017_ZZ_00/02__GOOD_Russel=Norvig=Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
   - Neural Networks: [https://ml4a.github.io/ml4a/neural_networks/](https://ml4a.github.io/ml4a/neural_networks/)
-  
+
 - **Create** a face using the [StyleGAN2 Colab example](https://colab.research.google.com/gist/mangtronix/e19e0c4025fb20e26b7f83990780f0a0/stylegan2-google-colab-example.ipynb) and post it in the Discord (or send via email). If you have problems, ask for help! Make sure to save the example to your Google Drive before making edits.
 - (Optional) Post your generated face or video on social media (or through email, etc) and see what the response is.
 It's up to you to decide how to communicate your post (you can make it clear it's a generated face or not).
@@ -149,8 +149,8 @@ Updates:
   - [ml4a Demos](https://ml4a.github.io/demos/)
   - [ml5js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
   - [MobileNet details](https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69)
-  
-  
+
+
 #### Homework (due before start of next class)
 - **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 - **Write** 3-4 paragraphs of response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
@@ -163,7 +163,7 @@ Updates:
   - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
   - [Simple image classifier in-browser using ml5.js](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
   - [More ML4A in-browser demos](https://ml4a.github.io/demos/)
-  
+
 
 
 - Discuss Visual Project
@@ -193,8 +193,8 @@ Updates:
 - [Image scraping](ImageScraping.md)
 - AI Lab computers now available
   - 3x Alienware with nVidia 1080 Ti GPU
-  
-  
+
+
 - Links for project tools
   - [Manga GAN](https://github.com/nikitaa30/Manga-GAN)
   - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) for making Deep Fake videos
@@ -202,7 +202,7 @@ Updates:
   - [Cartoonize webapp - Mangtronix edition](https://colab.research.google.com/drive/1iS8Nv_RYYKV5jOYw4ecyBTUrxZ7l5ufj?usp=sharing) run the CartoonGAN webapp on your own colab - allows generating longer videos
   - [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow) more advanced cartoon example, has instructions for training your own dataset
 
-### <a name="week6.2"></a>Week 6 (10/14) - Visual Project work session 
+### <a name="week6.2"></a>Week 6 (10/14) - Visual Project work session
 - Work on visual project in class
 
 - **Visual Project (due 10/28)**
@@ -221,20 +221,20 @@ Updates:
   - The idea is to see how you can use the tools we've looked at in class (or any tool you can find)
     to express your creativity or make a comment on machine learning / AI
   - The work or documentation of it should be accessible on the web (e.g. for a printed work post photos)
-  
+
   - Required documentation (include on project site or separate page):
     - Name of your project
     - What inspired you to make this work?
     - How does the content of your work related to some of the concepts we've covered in class?
     - What tools did you use? How did the tools affect your creative process? (If you found the
       tools limiting you can also comment on that.)
-      
+
 
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
 
 ### <a name="week6.5.1"></a>Legislative day (10/18)
   - **Asynchronous class (do on your own time)**
-  
+
 #### Homework (due before start of next class)
   - **Watch** a film prominently featuring AI
     - Suggestions:
@@ -282,8 +282,8 @@ Updates:
 ### <a name="week9.1"></a>Week 9 (11/09)
 - Discuss Project 3 - Sound / Text
 
-- ** Sound / Text Project (due 11/25)**
-  - **Create** sound / music, or text using a machine learning algorithm 
+- **Sound / Text Project (due 11/25)**
+  - **Create** sound / music, or text using a machine learning algorithm
   - **Put** your project URL and documentation URL into the [project groups doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
   - You can incorporate the sound / text output into a larger work, e.g. your earlier visual project, website, printed image, interactive
     program or use the output of the machine learning algorithm as source material for
@@ -291,7 +291,7 @@ Updates:
   - The idea is to see how you can use the tools we've looked at in class (or any tool you can find)
     to express your creativity or make a comment on machine learning / AI
   - The work or documentation of it should be accessible on the web (e.g. for a printed work post photos)
-  
+
   - Required documentation (include on project site or separate page):
     - Name of your project
     - What inspired you to make this work?
@@ -348,7 +348,7 @@ Updates:
 ### <a name="week10.2"></a>Week 10 (11/18)
 - Autoencoders
   - [Autoencoder explained](https://youtu.be/9zKuYvjFFS8?t=56)
-    
+
 - [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
   - Training example using SampleRNN
     - [https://github.com/mangtronix/samplernn-pytorch](https://github.com/mangtronix/samplernn-pytorch)
@@ -358,10 +358,10 @@ Updates:
   - [How to Send Push Notifications to Your Phone From Any Script](https://medium.com/better-programming/how-to-send-push-notifications-to-your-phone-from-any-script-6b70e34748f6)
   - [IFTTT - If This, Then That](https://ifttt.com/)
   - [FileZilla SFTP client](https://filezilla-project.org/)
-  
+
 - Interactive face swap
   - [Take This Lollipop](https://www.takethislollipop.com/)
-  
+
 - Group checkin
 
 - Group work time
@@ -376,7 +376,7 @@ Updates:
     - [OPENAI’S LATEST BREAKTHROUGH IS ASTONISHINGLY POWERFUL, BUT STILL FIGHTING ITS FLAWS](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)
     - [Here Are A Few Ways GPT-3 Can Go Wrong](https://techcrunch.com/2020/08/07/here-are-a-few-ways-gpt-3-can-go-wrong/)
     - [GPT Crush (look through some examples)](http://gptcrush.com/)
-    
+
 <!--
 - **Create** a short text by prompting GPT-2/3 and **add** it to the [Google doc](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing). Put the prompted parts of the text you wrote in **bold**.
   - e.g. use [Talk to Transformer](https://app.inferkit.com/demo) or [GPT-2 Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
@@ -482,6 +482,3 @@ You may work within a group or by yourself.
 
 ## <a name="finalsweek"></a>Finals Week - Final Project Due
 - **Final project due (12/17)**
-
-
-
