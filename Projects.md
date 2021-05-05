@@ -1,6 +1,6 @@
 # Projects
 
-## Project 1: Speculative Design (due 9/30)
+## Project 1: Speculative Design
 - **Create** an "artifact" of speculative design that shows a potential application of AI. It could be a product mockup, video, news report, product marketing, etc.
 - **Write** 3-4 paragraphs describing your project and your process
   - Add a link to your documentation [here](https://docs.google.com/document/d/11C77xkL4QUAe0Xd7HF_WbUwuNblPlE7CFBM_4ZbJUp8/edit?usp=sharing)
@@ -10,7 +10,7 @@
 
 Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
 
-## Project 2: Visual (due 10/28)
+## Project 2: Visual
 - **Create** an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
 - **Put** your project URL into the [project groups doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
 - You can incorporate the visual output into a larger work, e.g. website, printed image, interactive
@@ -39,7 +39,7 @@ Production assignments are graded on the overall quality of work, comprehension 
 Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
 
 
-## Project 3: Sound / Text (due 11/25)
+## Project 3: Sound / Text
 - **Create** sound / music, or text using a machine learning algorithm
 - **Put** your project URL and documentation URL into the [project groups doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
 - You can incorporate the sound / text output into a larger work, e.g. your earlier visual project, website, printed image, interactive
@@ -61,7 +61,7 @@ Production assignments are graded on the overall quality of work, comprehension 
 Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
 
 
-## Final Project (due 12/17)
+## Final Project
 For the final your are free to choose what you'd like to do. The project should be a creative use of machine learning. It should be more ambitious in scope compared to what we've done so far this semester. You could do any number of things. A few sample ideas are:
 
 - Build upon and fully complete one of your projects from earlier in the semester
