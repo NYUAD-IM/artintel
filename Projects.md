@@ -6,7 +6,7 @@
   - Add a link to your documentation [here](https://docs.google.com/document/d/11C77xkL4QUAe0Xd7HF_WbUwuNblPlE7CFBM_4ZbJUp8/edit?usp=sharing)
 - **Prepare** a 5-10 minute presentation to explain your idea. You will give your presentation in the next class.
 
-## Grading Rubric
+### Grading Rubric
 
 Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
 
@@ -34,7 +34,7 @@ Production assignments are graded on the overall quality of work, comprehension 
   - What tools did you use? How did the tools affect your creative process? (If you found the
     tools limiting you can also comment on that.)
     
-## Grading Rubric
+### Grading Rubric
 
 Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
 
@@ -56,7 +56,7 @@ Production assignments are graded on the overall quality of work, comprehension 
   - What tools did you use? How did the tools affect your creative process? (If you found the
     tools limiting you can also comment on that.)
 
-## Grading Rubric
+### Grading Rubric
 
 Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
 
