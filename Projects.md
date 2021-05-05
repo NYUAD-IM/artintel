@@ -6,6 +6,9 @@
   - Add a link to your documentation [here](https://docs.google.com/document/d/11C77xkL4QUAe0Xd7HF_WbUwuNblPlE7CFBM_4ZbJUp8/edit?usp=sharing)
 - **Prepare** a 5-10 minute presentation to explain your idea. You will give your presentation in the next class.
 
+## Grading Rubric
+
+Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
 
 ## Project 2: Visual (due 10/28)
 - **Create** an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
@@ -30,6 +33,11 @@
   - How does the content of your work related to some of the concepts we've covered in class?
   - What tools did you use? How did the tools affect your creative process? (If you found the
     tools limiting you can also comment on that.)
+    
+## Grading Rubric
+
+Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
+
 
 ## Project 3: Sound / Text (due 11/25)
 - **Create** sound / music, or text using a machine learning algorithm
@@ -47,6 +55,10 @@
   - How does the content of your work related to some of the concepts we've covered in class?
   - What tools did you use? How did the tools affect your creative process? (If you found the
     tools limiting you can also comment on that.)
+
+## Grading Rubric
+
+Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
 
 
 ## Final Project (due 12/17)
