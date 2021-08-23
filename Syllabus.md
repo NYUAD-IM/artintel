@@ -2,13 +2,12 @@
 _Machine Learning for Artists_
 
 Course Number: IM-3312<br />
-Prof. Michael Ang<br />
-NYUAD Fall 2020<br />
-Location: Abu Dhabi / Zoom<br />
-Meeting Time: Monday 14:40 - 15:55 / Wednesday 14:40 - 17:20<br />
+Prof. Michael Ang - Assistant Professor of Practice of Interactive Media<br />
+NYUAD Fall 2021<br />
+Location: C3-116 / Zoom / Discord<br />
+Meeting Time: Tuesday 10:25 AM - 1:05 PM / Thursday 10:25 AM - 11:40 AM<br />
 Email Address: michael.ang@nyu.edu<br />
-Office: Discord / Zoom<br />
-Office Hours: Discord / By Appointment<br />
+Office Hours: By appointment / Zoom / Discord<br />
 Credits: 4<br />
 
 NYUAD A.rt I.ntel website:<br />
