@@ -93,7 +93,7 @@ The semester is organized roughly as follows:
   - Look at some of the math and code behind ML algorithms
   - Speculative Design Project
 - Weeks 4-8
-  - Applications of various types of neural nets &amp; deep learning for creative purposes
+  - Applications of various types of neural nets and deep learning for creative purposes
   - Visual Project
 
 - Weeks 9-14
