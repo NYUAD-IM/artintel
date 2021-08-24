@@ -3,7 +3,7 @@
 ## Project 1: Speculative Design
 - **Create** an "artifact" of speculative design that shows a potential application of AI. It could be a product mockup, video, news report, product marketing, etc.
 - **Write** 3-4 paragraphs describing your project and your process
-  - Add a link to your documentation [here](https://docs.google.com/document/d/11C77xkL4QUAe0Xd7HF_WbUwuNblPlE7CFBM_4ZbJUp8/edit?usp=sharing)
+  - Add a link to your documentation in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Prepare** a 5-10 minute presentation to explain your idea. You will give your presentation in the next class.
 
 ### Grading Rubric
@@ -12,7 +12,7 @@ Production assignments are graded on the overall quality of work, comprehension 
 
 ## Project 2: Visual
 - **Create** an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
-- **Put** your project URL into the [project groups doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+- **Put** your project URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - You can incorporate the visual output into a larger work, e.g. website, printed image, interactive
   program or use the output of the machine learning algorithm as source material for
   your creative process (e.g. generate images and then further manipulate them)
@@ -33,7 +33,7 @@ Production assignments are graded on the overall quality of work, comprehension 
   - How does the content of your work related to some of the concepts we've covered in class?
   - What tools did you use? How did the tools affect your creative process? (If you found the
     tools limiting you can also comment on that.)
-    
+
 ### Grading Rubric
 
 Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
@@ -41,7 +41,7 @@ Production assignments are graded on the overall quality of work, comprehension 
 
 ## Project 3: Sound / Text
 - **Create** sound / music, or text using a machine learning algorithm
-- **Put** your project URL and documentation URL into the [project groups doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+- **Put** your project URL and documentation URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - You can incorporate the sound / text output into a larger work, e.g. your earlier visual project, website, printed image, interactive
   program or use the output of the machine learning algorithm as source material for
   your creative process (e.g. generate sound / text and then further manipulate them)
