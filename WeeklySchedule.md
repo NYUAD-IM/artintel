@@ -71,7 +71,7 @@ It's up to you to decide how to communicate your post (you can make it clear it'
 - **Create** a new image or other output using one of these Colab notebooks (try to use one of your own input images rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
   - **Post** your image to the Discord (or send to me via email) with a short explanation of how you made it
   - If you have a problem with the Tensorflow version (e.g "AdamOptimizer not found") add [this code](https://colab.research.google.com/notebooks/tensorflow_version.ipynb)
-- **Find** a creative or interesting application of AI and **add** the link to the [Week 2 Google Doc](https://docs.google.com/document/d/10ninXTzvn1DJSnIdAdYPoc9xJ3-9kq8Cv1F9OH3lI_Y/edit?usp=sharing) with a short explanation of what's interesting about it
+- **Find** a creative or interesting application of AI and **add** the link to the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing) with a short explanation of what's interesting about it
 
 - (Optional) Read and try the neural network "from scratch" code in [Make Your Own Neural Network Chapter 2](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file)
   - [GitHub repository with examples](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
@@ -95,10 +95,10 @@ It's up to you to decide how to communicate your post (you can make it clear it'
 - **Read**
   - [Speculative Everything](https://readings.design/PDF/speculative-everything.pdf)
     - Read Chapter 1, Chapter 2 (pages 11-16), Chapter 3
-- **Make your group** for the Speculative Design project [here](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+- **Make your group** for the Speculative Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
 - **Start** developing ideas for a speculative design project about future applications of AI
   and be prepared to share your idea next class
-- **Update** your idea in the [Google Doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing) before class.
+- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 
 ### <a name="week3.2"></a>Week 3.2 - Speculative Design Workshop
 - Review speculative design ideas
@@ -115,7 +115,7 @@ Updates:
 #### Homework (due before start of <a href="#week4.2">Class 4.2</a> on Sept 30</a>)
 - **Create** an "artifact" for your speculative design. It could be a product mockup, video, news report, product marketing, etc.
 - **Write** 3-4 paragraphs describing your project and your process
-  - Add a link to your documentation [here](https://docs.google.com/document/d/11C77xkL4QUAe0Xd7HF_WbUwuNblPlE7CFBM_4ZbJUp8/edit?usp=sharing)
+  - Add a link to your documentation in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Prepare** a 5-10 minute presentation to explain your idea. You will give your presentation in the next class.
 
 
@@ -153,7 +153,7 @@ Updates:
 
 #### Homework (due before start of next class)
 - **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
-- **Write** 3-4 paragraphs of response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
+- **Write** 3-4 paragraphs of response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
 
 ### <a name="week5.2"></a>Week 5.2 - Neural Network Training Workshop
 - Discussion: The AI Revolution
@@ -173,11 +173,11 @@ Updates:
 
 #### Homework (due before start of next class)
 - **Read** [The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/)
-- **Write** 3-4 paragraphs of response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
-- **Make your group** for the Visual Design project [here](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+- **Write** 3-4 paragraphs of response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
+- **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for the Visual Project
   and be prepared to share your idea next class
-- **Update** your idea in the [Google Doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing) before class.
+- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 
 
 ## <a name="week6"></a>Week 6 - Visual tools
@@ -207,7 +207,7 @@ Updates:
 
 - **Visual Project (due 10/28)**
   - **Create** an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
-  - **Put** your project URL into the [project groups doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+  - **Put** your project URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
   - You can incorporate the visual output into a larger work, e.g. website, printed image, interactive
     program or use the output of the machine learning algorithm as source material for
     your creative process (e.g. generate images and then further manipulate them)
@@ -240,7 +240,7 @@ Updates:
     - Suggestions:
       - [Wikipedia list of AI films](https://en.wikipedia.org/wiki/List_of_artificial_intelligence_films)
       - [Guardian Top 20 Artificial Intelligence Films](https://www.theguardian.com/culture/gallery/2015/jan/08/the-top-20-artificial-intelligence-films-in-pictures)
-  - **Write** a response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
+  - **Write** a response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
     - What role does AI play in the film?
     - Do you agree with how AI is portrayed in its implications on society?
     - What does the film reveal about our feelings towards AI?
@@ -266,7 +266,7 @@ Updates:
 #### Homework (due before start of next class 11/02)
 - **Find** an inspirational work using AI for sound/text generation
 - **Find** a tool or technique that you would like to use / learn more about / find interesting
-- **Write** 2-3 paragraphs about the inspirational work and tool in the [Readings Doc](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
+- **Write** 2-3 paragraphs about the inspirational work and tool in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
 - Next class you will show the work and technique that you found to the rest of the class
 
 ## <a name="week8"></a>Week 8 - Sound / Text / Lab Computers
@@ -284,7 +284,7 @@ Updates:
 
 - **Sound / Text Project (due 11/25)**
   - **Create** sound / music, or text using a machine learning algorithm
-  - **Put** your project URL and documentation URL into the [project groups doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+  - **Put** your project URL and documentation URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
   - You can incorporate the sound / text output into a larger work, e.g. your earlier visual project, website, printed image, interactive
     program or use the output of the machine learning algorithm as source material for
     your creative process (e.g. generate sound / text and then further manipulate them)
@@ -316,7 +316,7 @@ Updates:
 
 
 - **Homework** (due 11/11):
-  - **Sign up** for Project 3 groups [here](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+  - **Sign up** for Project 3 groups in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
   - **Prepare** to share your project idea next class
 
 ### <a name="week9.2"></a>Week 9 (11/11)
@@ -367,7 +367,7 @@ Updates:
 - Group work time
 
 #### Homework (due before start of next class 11/23)
-- **Read** an article about GPT-3 and write a 2-3 paragraph response [here](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
+- **Read** an article about GPT-3 and write a 2-3 paragraph response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
   - Some suggested articles
     - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
       - [Responses on Hacker News](https://news.ycombinator.com/item?id=24003384)
@@ -414,7 +414,7 @@ Updates:
 - **Watch** [ml5.js: Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY)
 - **Read** [Hello ml5.js - A gentle introduction to ml5](https://learn.ml5js.org/#/tutorials/hello-ml5)
 - **Create** An interactive ml5.js sketch (using the p5 editor or your own editor) that uses the webcam, uploaded image from the user, user-entered text, or other user interaction to do something interesting. You can start from one of the ml5.js examples and modify it for your own use.
-- **Write** a paragraph of text explaining your sketch and add the link to your sketch and description to the [Google doc](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing)
+- **Write** a paragraph of text explaining your sketch and add the link to your sketch and description to the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
 
 ## <a name="week12"></a>Week 12 - Interactive Applications
 
@@ -459,8 +459,8 @@ You may work within a group or by yourself.
 
 
 #### Homework ####
-- **Sign up** for your Final Project group in the [Google doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
-- **Develop** the rough idea for your final project and add it to the [Google doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+- **Sign up** for your Final Project group in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Develop** the rough idea for your final project and add it to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 
 ### <a name="week12.2"></a>Week 12 (12/02)
 - Holiday
