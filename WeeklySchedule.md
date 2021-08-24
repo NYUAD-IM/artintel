@@ -1,5 +1,7 @@
 # Weekly Schedule
 
+_**Weekly Schedule to be updated for Fall 2021**_
+
 * [Week 1 - Introduction](#week1)
 * [Week 2 - Neural Networks](#week2)
 * [Week 3 - Neural Networks / Speculative Design](#week3)
