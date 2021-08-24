@@ -1,15 +1,13 @@
 # A.rt I.ntel
-_Machine Learning for Artists_
+_Machine Learning for Artists_<br/>
 
-_Fall 2020_<br />
+New York University Abu Dhabi Fall 2021<br/>
 Course Number: IM-3312<br />
-Prof. Michael Ang<br />
-NYUAD Fall 2020<br />
-Location: Abu Dhabi / Zoom<br />
-Meeting Time: Monday 14:40 - 15:55 / Wednesday 14:40 - 17:20<br />
+Prof. [Michael Ang](https://michaelang.com) -  Assistant Professor of Practice of Interactive Media<br />
+Location: C3-116 / Zoom / Discord<br />
+Meeting Time: Tuesday 10:25AM - 1:05PM / Thursday 10:25AM - 11:40AM<br />
 Email Address: michael.ang@nyu.edu<br />
-Office: Discord / Zoom<br />
-Office Hours: Discord / By Appointment<br />
+Office Hours: By Appointment / Zoom / Discord<br />
 Credits: 4<br />
 
 **Course website:<br />**
@@ -21,12 +19,10 @@ https://github.com/nyuad-im/artintel
 
 [Projects](Projects.md)
 
-[Reading responses](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing) - sign in with NYU account for access
-
-Class recordings: available on [NYU Classes](https://newclasses.nyu.edu/) (Class Name->Zoom->Cloud Recordings)
+[Reading responses](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing) - sign in with NYU account for access
 
 
-**Discord channel #artintel:** invite on [NYU Classes](https://newclasses.nyu.edu/)
+**Discord channel #artintel:** invite on [Brightspace](https://brightspace.nyu.edu/d2l/home/110671)
 
 
 ---
