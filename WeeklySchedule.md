@@ -20,6 +20,12 @@ _**Weekly Schedule to be updated for Fall 2021**_
 
 ## <a name="week1"></a>Week 1 - Introduction
 
+### <a name="week1.1"></a>Week 1.1 (8/31)
+- Introductions
+- Course overview
+
+### <a name="week1.1"></a>Week 1.2 (9/2)
+
 - What is Artificial Intelligence - Machine Learning?
 - Overview
   - Supervised Learning
@@ -39,7 +45,7 @@ It's up to you to decide how to communicate your post (you can make it clear it'
 
 ## <a name="week2"></a>Week 2 - Neural Networks
 
-### <a name="week2.1"></a>Week 2.1
+### <a name="week2.1"></a>Week 2.1 (9/7)
 - Review homework (StyleGAN2)
 - In-class discussion
   - “Unique, worry-free model photos” https://generated.photos/
@@ -60,7 +66,7 @@ It's up to you to decide how to communicate your post (you can make it clear it'
 - **Read** Looking Inside Neural Networks https://ml4a.github.io/ml4a/looking_inside_neural_nets/
 - (Optional) Deep Dream details (we’ll look at this again later when we talk about Convolutional Neural Networks) https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
 
-### <a name="week2.2"></a>Week 2.2
+### <a name="week2.2"></a>Week 2.2 (9/9)
 - Neural Network math
 - Introduction to neural network training
 - Classification Using Neural Networks
@@ -81,7 +87,7 @@ It's up to you to decide how to communicate your post (you can make it clear it'
 
 ## <a name="week3"></a>Week 3 - Speculative Design
 
-### <a name="week3.1"></a>Week 3.1 - Introduction to Speculative Design
+### <a name="week3.1"></a>Week 3.1 - Introduction to Speculative Design (9/14)
 - Review homework (new image, interesting applications)
 - Talk about Speculative Design project
 - Form groups for Speculative Design Project
@@ -102,7 +108,7 @@ It's up to you to decide how to communicate your post (you can make it clear it'
   and be prepared to share your idea next class
 - **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 
-### <a name="week3.2"></a>Week 3.2 - Speculative Design Workshop
+### <a name="week3.2"></a>Week 3.2 - Speculative Design Workshop (9/16)
 - Review speculative design ideas
 - Start working on the design ideas
 
@@ -114,7 +120,7 @@ Updates:
 - Office hour appointments are now available on [NYU Classes](https://newclasses.nyu.edu/) course page
 - FYI - [AI Art Gallery](https://www.nvidia.com/en-us/gtc/ai-art-gallery/) at Nvidia GPU Technology Conference (Oct 8)
 
-#### Homework (due before start of <a href="#week4.2">Class 4.2</a> on Sept 30</a>)
+#### Homework (due before start of next class)
 - **Create** an "artifact" for your speculative design. It could be a product mockup, video, news report, product marketing, etc.
 - **Write** 3-4 paragraphs describing your project and your process
   - Add a link to your documentation in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
@@ -123,7 +129,10 @@ Updates:
 
 ## <a name="week4"></a>Week 4 - Convolutional Neural Networks / Project Presentation
 
-### <a name="week4.1"></a>Week 4.1 - Convolutional Neural Networks
+### <a name="week4.1"></a>Week 4.1 - Project Presentations (9/21)
+- Speculative Design Project Presentations
+
+### <a name="week4.2"></a>Week 4.2 - Convolutional Neural Networks (9/23)
 - How convolutional neural networks work
 - Examples of convolutional neural networks
   - StyleGAN
@@ -143,7 +152,7 @@ Updates:
 
 ## <a name="week5"></a>Week 5 - Neural Network Training
 
-### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained
+### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (9/28)
 
 - Neural Network Training References
   - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
@@ -157,7 +166,7 @@ Updates:
 - **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 - **Write** 3-4 paragraphs of response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
 
-### <a name="week5.2"></a>Week 5.2 - Neural Network Training Workshop
+### <a name="week5.2"></a>Week 5.2 - Neural Network Training Workshop (9/30)
 - Discussion: The AI Revolution
 - Practical aspects of training
 - Examples
@@ -184,7 +193,7 @@ Updates:
 
 ## <a name="week6"></a>Week 6 - Visual tools
 
-### <a name="week6.1"></a>Week 6 (10/12) - Visual tools
+### <a name="week6.1"></a>Week 6 - Visual tools (10/5)
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
 - Review Visual Project ideas
 - Colab notebooks for generating images / video
@@ -204,10 +213,10 @@ Updates:
   - [Cartoonize webapp - Mangtronix edition](https://colab.research.google.com/drive/1iS8Nv_RYYKV5jOYw4ecyBTUrxZ7l5ufj?usp=sharing) run the CartoonGAN webapp on your own colab - allows generating longer videos
   - [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow) more advanced cartoon example, has instructions for training your own dataset
 
-### <a name="week6.2"></a>Week 6 (10/14) - Visual Project work session
+### <a name="week6.2"></a>Week 6 - Visual Project work session (10/7)
 - Work on visual project in class
 
-- **Visual Project (due 10/28)**
+- **Visual Project (due 10/12)**
   - **Create** an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
   - **Put** your project URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
   - You can incorporate the visual output into a larger work, e.g. website, printed image, interactive
@@ -232,6 +241,7 @@ Updates:
       tools limiting you can also comment on that.)
 
 
+<!--
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
 
 ### <a name="week6.5.1"></a>Legislative day (10/18)
@@ -247,6 +257,8 @@ Updates:
     - Do you agree with how AI is portrayed in its implications on society?
     - What does the film reveal about our feelings towards AI?
 
+-->
+
 ## <a name="week7"></a>Week 7 - Visual Project presentations
 
 <!--
@@ -256,35 +268,43 @@ Updates:
 - [pix2pix demo](https://affinelayer.com/pixsrv/)
 -->
 
+<!--
 ### <a name="week7.1"></a>Week 7 (10/26) - After break check-in
 - AI in films
 - Course feedback
 - Project check-in
 - Lab computers
+-->
 
-### <a name="week7.2"></a>Week 7 (10/28) - Visual Project presentations
+### <a name="week7.1"></a>Week 7.1 (10/12) - Visual Project presentations
 - In-class presentations of Visual Project
 
-#### Homework (due before start of next class 11/02)
+#### Homework (due before start of next class, after the break)
 - **Find** an inspirational work using AI for sound/text generation
 - **Find** a tool or technique that you would like to use / learn more about / find interesting
 - **Write** 2-3 paragraphs about the inspirational work and tool in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
 - Next class you will show the work and technique that you found to the rest of the class
 
+## SPRING BREAK
+
+### No class (10/19)
+
+### No class (10/21)
+
 ## <a name="week8"></a>Week 8 - Sound / Text / Lab Computers
 
-### <a name="week8.1"></a>Week 8 (11/02)
+### <a name="week8.1"></a>Week 8.1 (10/26)
 - Look at inspirational sound/text works and tools
 
-### <a name="week8.2"></a>Week 8 (11/04) Workshop
+### <a name="week8.2"></a>Week 8.2 (10/28) Workshop
 - Command line / Python / Lab Computer Workshop
 
 ## <a name="week9"></a>Week 9 - Sound / Text
 
-### <a name="week9.1"></a>Week 9 (11/09)
+### <a name="week9.1"></a>Week 9.1 (11/02)
 - Discuss Project 3 - Sound / Text
 
-- **Sound / Text Project (due 11/25)**
+- **Sound / Text Project (due 11/18)**
   - **Create** sound / music, or text using a machine learning algorithm
   - **Put** your project URL and documentation URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
   - You can incorporate the sound / text output into a larger work, e.g. your earlier visual project, website, printed image, interactive
@@ -317,11 +337,11 @@ Updates:
     - [GPT-2 Colab - train your own text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
 
 
-- **Homework** (due 11/11):
+- **Homework** (due before start of next class):
   - **Sign up** for Project 3 groups in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
   - **Prepare** to share your project idea next class
 
-### <a name="week9.2"></a>Week 9 (11/11)
+### <a name="week9.2"></a>Week 9.2 (11/04)
 - **Present** sound / text project ideas
 - Machine learning techniques for sound
   - [Magenta](https://magenta.tensorflow.org/)
@@ -345,9 +365,9 @@ Updates:
 
 ## <a name="week10"></a>Week 10
 
-### <a name="week10.1"></a>Week 10 (11/16) - Rescheduled
+### <a name="week10.1"></a>Week 10 (11/09) - TBD / Open
 
-### <a name="week10.2"></a>Week 10 (11/18)
+### <a name="week10.2"></a>Week 10 (11/11)
 - Autoencoders
   - [Autoencoder explained](https://youtu.be/9zKuYvjFFS8?t=56)
 
@@ -368,7 +388,7 @@ Updates:
 
 - Group work time
 
-#### Homework (due before start of next class 11/23)
+#### Homework (due before start of next class)
 - **Read** an article about GPT-3 and write a 2-3 paragraph response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
   - Some suggested articles
     - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
@@ -389,7 +409,7 @@ Updates:
 
 ## <a name="week11"></a>Week 11 - Sound / Text Project Due
 
-### <a name="week11.1"></a>Week 11 (11/23)
+### <a name="week11.1"></a>Week 11 (11/16)
 - Review homework
 - Project check-in
 - Chat bots
@@ -407,11 +427,11 @@ Updates:
   - [Image Classifier Demo](https://editor.p5js.org/ml5/sketches/ImageClassification)
 - [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
 
-### <a name="week11.2"></a>Week 11 (11/25)
-- **Project 3 - Sound / Text Due (11/25)**
+### <a name="week11.2"></a>Week 11 (11/18)
+- **Project 3 - Sound / Text Due (11/18)**
 - **Present** your Sound / Text project
 
-#### Homework (due before start of next class 11/30)
+#### Homework (due before start of next class)
 - **Watch** [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0) (until 19:00, then it's just credits)
 - **Watch** [ml5.js: Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY)
 - **Read** [Hello ml5.js - A gentle introduction to ml5](https://learn.ml5js.org/#/tutorials/hello-ml5)
@@ -420,12 +440,13 @@ Updates:
 
 ## <a name="week12"></a>Week 12 - Interactive Applications
 
-### <a name="week12.1"></a>Week 12 (11/30)
+### <a name="week12.1"></a>Week 12 (11/23)
 - Review homework
 - Techniques for interactive machine learning
 - Discuss Final Project
 
 #### Final Project ####
+- **Final project due last class (12/14)**
 For the final your are free to choose what you'd like to do. The project should be a creative use of machine learning. It should be more ambitious in scope compared to what we've done so far this semester. You could do any number of things. A few sample ideas are:
 
 - Build upon and fully complete one of your projects from earlier in the semester
@@ -464,23 +485,34 @@ You may work within a group or by yourself.
 - **Sign up** for your Final Project group in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Develop** the rough idea for your final project and add it to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 
-### <a name="week12.2"></a>Week 12 (12/02)
-- Holiday
-
-## <a name="week13"></a>Week 13
-
-### <a name="week13.1"></a>Week 13 (12/07)
+### <a name="week12.2"></a>Week 12 (11/25) - Final Project Check-in / Work Session
 - Final project check-in
 - Final project work session
+
+## <a name="week13"></a>Week 13 - LEGISLATIVE DAY - Class meets Monday 11/29
+
+### <a name="week13.1"></a>Week 13.1 (11/29) - TBD
 
 #### Homework ####
 - **Read** [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
 
-### <a name="week13.2"></a>Week 13 (12/09) - Final class!
+### No class (11/30)
+
+### No class (12/02)
+
+## <a name="week14"></a>Week 14
+
+### <a name="week14.1"></a>Week 14.1 (12/07) - Ethics and social issues of ML / AI
 - Ethics and social issues of machine learning / AI
+
+### <a name="week14.2"></a>Week 14.2 (12/09) - Final Project Check-in / TBD
+- Final project check-in
+
+## <a name="week14"></a>Week 15
+
+### <a name="week14.1"></a>Week 15.1 (12/14) - Final project presentations
+- **Final project due (12/14)**
+- Present final Projects
 - Wrap up discussion
 - Course evaluations
 - Goodbyes for now!
-
-## <a name="finalsweek"></a>Finals Week - Final Project Due
-- **Final project due (12/17)**
