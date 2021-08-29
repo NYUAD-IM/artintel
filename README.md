@@ -13,6 +13,9 @@ Credits: 4<br />
 **Course website:<br />**
 https://github.com/nyuad-im/artintel
 
+**Brightspace:<br />**
+https://brightspace.nyu.edu/d2l/home/110671
+
 [Syllabus](https://github.com/nyuad-im/artintel/blob/master/Syllabus.md)
 
 [Weekly Schedule](https://github.com/nyuad-im/artintel/blob/master/WeeklySchedule.md)
@@ -22,7 +25,7 @@ https://github.com/nyuad-im/artintel
 [Reading responses](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing) - sign in with NYU account for access
 
 
-**Discord channel #artintel:** invite on [Brightspace](https://brightspace.nyu.edu/d2l/home/110671)
+**Discord channel #artintel:** invite on [Brightspace](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5693439)
 
 
 ---
