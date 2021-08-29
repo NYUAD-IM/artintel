@@ -1,6 +1,4 @@
-# Weekly Schedule
-
-_**Weekly Schedule to be updated for Fall 2021**_
+# Weekly Schedule - Fall 2021
 
 * [Week 1 - Introduction](#week1)
 * [Week 2 - Neural Networks](#week2)
@@ -15,8 +13,9 @@ _**Weekly Schedule to be updated for Fall 2021**_
 * [Week 10 - Sound / Text / Lab Continued](#week10)
 * [Week 11 - Sound / Text Project Due](#week11)
 * [Week 12 - Interactive Applications](#week12)
-* [Week 13 - Ethics / Final Project](#week13)
-* [Finals Week - Final Project Due](#finalsweek)
+* [Week 13 - TBD](#week13)
+* [Week 14 - Ethics / Final Project](#week14)
+* [Week 15 - Final Project Due](#week15)
 
 ## <a name="week1"></a>Week 1 - Introduction
 
