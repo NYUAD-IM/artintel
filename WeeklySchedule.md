@@ -284,6 +284,8 @@ Updates:
 - **Write** 2-3 paragraphs about the inspirational work and tool in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
 - Next class you will show the work and technique that you found to the rest of the class
 
+### <a name="week7.2"></a>Week 7.2 (10/14) - TBD
+
 ## SPRING BREAK
 
 ### No class (10/19)
