@@ -215,7 +215,7 @@ Updates:
 ### <a name="week6.2"></a>Week 6 - Visual Project work session (10/7)
 - Work on visual project in class
 
-- **Visual Project (due 10/12)**
+- **Visual Project (due 10/14)**
   - **Create** an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
   - **Put** your project URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
   - You can incorporate the visual output into a larger work, e.g. website, printed image, interactive
@@ -258,7 +258,7 @@ Updates:
 
 -->
 
-## <a name="week7"></a>Week 7 - Visual Project presentations
+## <a name="week7"></a>Week 7 - TBD / Visual Project presentations
 
 <!--
 ### <a name="week7.1"></a>Week 7 (10/26) - Autoencoders, other forms of neural networks (or guest lecture)
@@ -275,7 +275,9 @@ Updates:
 - Lab computers
 -->
 
-### <a name="week7.1"></a>Week 7.1 (10/12) - Visual Project presentations
+### <a name="week7.1"></a>Week 7.1 (10/12) - TBD
+
+### <a name="week7.2"></a>Week 7.2 (10/14) - Visual Project presentations
 - In-class presentations of Visual Project
 
 #### Homework (due before start of next class, after the break)
@@ -283,8 +285,6 @@ Updates:
 - **Find** a tool or technique that you would like to use / learn more about / find interesting
 - **Write** 2-3 paragraphs about the inspirational work and tool in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
 - Next class you will show the work and technique that you found to the rest of the class
-
-### <a name="week7.2"></a>Week 7.2 (10/14) - TBD
 
 ## SPRING BREAK
 
@@ -368,7 +368,7 @@ Updates:
 
 ### <a name="week10.1"></a>Week 10 (11/09) - TBD / Open
 
-### <a name="week10.2"></a>Week 10 (11/11)
+### <a name="week10.2"></a>Week 10 (11/11) - Autoencoders
 - Autoencoders
   - [Autoencoder explained](https://youtu.be/9zKuYvjFFS8?t=56)
 
