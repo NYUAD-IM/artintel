@@ -6,14 +6,14 @@
 * [Week 4 - Project Presentation / Convolutional Neural Networks](#week4)
 * [Week 5 - Neural Network Training](#week5)
 * [Week 6 - Visual tools](#week6)
-* [Week 6.5 - Fall Break-ish](#week6.5)
 * [Week 7 - Visual project presentations](#week7)
+* SPRING BREAK
 * [Week 8 - Sound / Text / Lab Computers](#week8)
 * [Week 9 - Sound / Text](#week9)
 * [Week 10 - Sound / Text / Lab Continued](#week10)
 * [Week 11 - Sound / Text Project Due](#week11)
 * [Week 12 - Interactive Applications](#week12)
-* [Week 13 - TBD](#week13)
+* [Week 13 - LEGISLATIVE DAY / TBD](#week13)
 * [Week 14 - Ethics / Final Project](#week14)
 * [Week 15 - Final Project Due](#week15)
 
