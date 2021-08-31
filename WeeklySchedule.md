@@ -38,6 +38,7 @@
       - [CLIPIT PixelDraw Colab](https://colab.research.google.com/drive/1uya2CzekydPASALHtgrwxOekBMlaWGON?usp=sharing)
   - [Florida cops use AI to target people for a new "enhanced scrutiny" program](https://boingboing.net/2021/07/27/florida-cops-use-ai-to-target-people-for-a-new-enhanced-scrutiny-program.html)
   - [Moral Machine](https://www.moralmachine.net/) - A platform for public participation in and discussion of the human perspective on machine-made moral decisions
+  - [B0na F1de Artist Collective](https://www.b0naf1de.com/) - Jonghyun Jee's final project
 
   #### Homework (due before start of next class)
   - **Sign up** for Discord using the [Discord invite] on Brightspace (https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5693439) (optional, recommended)
