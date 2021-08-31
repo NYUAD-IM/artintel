@@ -57,7 +57,7 @@
 
 
 ### <a name="week1.1"></a>Week 1.2 (9/2)
-- Review homework (StyleGAN2)
+- Review homework (CLIPIT / StyleGAN2)
 
 - What is Artificial Intelligence - Machine Learning?
 - Overview
