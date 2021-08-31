@@ -24,28 +24,35 @@
 - Course overview
 - In-class discussion
   - “Unique, worry-free model photos” https://generated.photos/
-<!--
-  - “Japan’s first virtual model”
-    - https://www.instagram.com/imma.gram/?hl=en
-    - https://interestingengineering.com/meet-imma-the-worlds-first-computer-generated-model
--->
   - Deep Fakes
     - [Making a political figure deliver a new speech](https://www.theverge.com/tldr/2018/4/17/17247334/ai-fake-news-video-barack-obama-jordan-peele-buzzfeed)
   - Text generation - fake news
     - [Fake-News-Generating AI Deemed Too Dangerous for Public Release](https://www.extremetech.com/extreme/285857-fake-news-generating-ai-deemed-too-dangerous-for-public-release)
     - [OpenAI Releases Fake News Bot It Previously Deemed Too Dangerous](https://www.extremetech.com/extreme/301662-openai-releases-fake-news-bot-it-previously-deemed-too-dangerous)
     - [Faking the News with Natural Language Processing and GPT-2](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d)
+  - Speech Synthesis
+    - [Val Kilmer reclaims his voice through AI technology after throat cancer](https://www.thenationalnews.com/arts-culture/film/2021/08/21/val-kilmer-reclaims-his-voice-through-ai-technology-after-throat-cancer/)
+  - Text to image
+    - [OpenAI DALL-E](https://openai.com/blog/dall-e/)
+    - [Mindblowing AI pixel art](https://boingboing.net/2021/08/19/mindblowing-ai-pixel-art.html)
+      - [CLIPIT PixelDraw Colab](https://colab.research.google.com/drive/1uya2CzekydPASALHtgrwxOekBMlaWGON?usp=sharing)
+  - [Florida cops use AI to target people for a new "enhanced scrutiny" program](https://boingboing.net/2021/07/27/florida-cops-use-ai-to-target-people-for-a-new-enhanced-scrutiny-program.html)
   - [Moral Machine](https://www.moralmachine.net/) - A platform for public participation in and discussion of the human perspective on machine-made moral decisions
 
   #### Homework (due before start of next class)
+  - **Sign up** for Discord
   - **Read**
     - Creative AI:  [https://medium.com/@creativeai/creativeai-9d4b2346faf3](https://medium.com/@creativeai/creativeai-9d4b2346faf3)  
     - What is AI &amp; History (Optional/Recommended): [Chapter 1 - Introduction - Artificial Intelligence a Modern Approach](http://web.cecs.pdx.edu/~mperkows/CLASS_479/2017_ZZ_00/02__GOOD_Russel=Norvig=Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
-    - Neural Networks: [https://ml4a.github.io/ml4a/neural_networks/](https://ml4a.github.io/ml4a/neural_networks/)
 
-  - **Create** a face using the [StyleGAN2 Colab example](https://colab.research.google.com/gist/mangtronix/e19e0c4025fb20e26b7f83990780f0a0/stylegan2-google-colab-example.ipynb) and post it in the Discord (or send via email). If you have problems, ask for help! Make sure to save the example to your Google Drive before making edits.
-  - (Optional) Post your generated face or video on social media (or through email, etc) and see what the response is.
-  It's up to you to decide how to communicate your post (you can make it clear it's a generated face or not).
+  - **Create** a pixel art image using CLIPIT PixelDraw **OR** a face using StyleGAN2
+    - **Create** a pixel art image using the [CLIPIT PixelDraw example](https://colab.research.google.com/drive/1uya2CzekydPASALHtgrwxOekBMlaWGON?usp=sharing) and post it in the Discord (or send via email). If you have problems, ask for help! Make sure to save the example to your Google Drive before making edits. Why did you choose your prompt and what do you think the result reveals about how the image generation algorithm works?
+    - **Create** a face using the [StyleGAN2 Colab example](https://colab.research.google.com/gist/mangtronix/e19e0c4025fb20e26b7f83990780f0a0/stylegan2-google-colab-example.ipynb) and post it in the Discord (or send via email). If you have problems, ask for help! Make sure to save the example to your Google Drive before making edits.
+      - (Optional) Post your generated face or video on social media (or through email, etc) and see what the response is. It's up to you to decide how to communicate your post (you can make it clear it's a generated face or not).
+
+
+
+
 
 ### <a name="week1.1"></a>Week 1.2 (9/2)
 - Review homework (StyleGAN2)
@@ -59,9 +66,15 @@
   #### Homework (complete before start of next class)
   <!-- - **Read and try** (on Colab) [Make Your Own - Neural Network](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file) - Chapter 2 pages 122-149 (Python coding up until Neural Network code) -->
   - **Read** about supervised / unsupervised / reinforcement learning https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/
-  - **Read** Looking Inside Neural Networks https://ml4a.github.io/ml4a/looking_inside_neural_nets/
+  - **Read** Neural Networks: [https://ml4a.github.io/ml4a/neural_networks/](https://ml4a.github.io/ml4a/neural_networks/)
+
   - **Find** a creative or interesting application of AI and **add** the link to the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing) with a short explanation of what's interesting about it
   - (Optional) Deep Dream details (we’ll look at this again later when we talk about Convolutional Neural Networks) https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
+
+<!--
+- **Read** Looking Inside Neural Networks https://ml4a.github.io/ml4a/looking_inside_neural_nets/
+
+-->
 
 ## <a name="week2"></a>Week 2 - Speculative Design / Neural Networks
 
