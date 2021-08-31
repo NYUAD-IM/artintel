@@ -1,25 +1,25 @@
 # Weekly Schedule - Fall 2021
 
-* [Week 1 - Introduction](#week1)
-* [Week 2 - Neural Networks](#week2)
-* [Week 3 - Neural Networks / Speculative Design](#week3)
-* [Week 4 - Project Presentation / Convolutional Neural Networks](#week4)
-* [Week 5 - Neural Network Training](#week5)
-* [Week 6 - Visual tools](#week6)
-* [Week 7 - Visual project presentations](#week7)
+* [Week 1 - Introduction / What is Machine Learning?](#week1)
+* [Week 2 - Speculative Design / Neural Networks](#week2)
+* [Week 3 - Speculative Design Due / Visual Project Introduction](#week3)
+* [Week 4 - Convolutional Neural Networks / Neural Network Training](#week4)
+* [Week 5 - Neural Network Training / Visual Tools](#week5)
+* [Week 6 - Visual Tools / Visual Project Check-in](#week6)
+* [Week 7 - Visual Project Due / Sound / Text Project Introduction](#week7)
 * SPRING BREAK
-* [Week 8 - Sound / Text / Lab Computers](#week8)
-* [Week 9 - Sound / Text](#week9)
-* [Week 10 - Sound / Text / Lab Continued](#week10)
-* [Week 11 - Sound / Text Project Due](#week11)
-* [Week 12 - Interactive Applications](#week12)
-* [Week 13 - LEGISLATIVE DAY / TBD](#week13)
-* [Week 14 - Ethics / Final Project](#week14)
+* [Week 8 - Sound / Text Tools / Ethics and Bias](#week8)
+* [Week 9 - Present Sound / Text ideas](#week9)
+* [Week 10 - Other Techniques Sound / Autoencoders](#week10)
+* [Week 11 - Sound / Text Project Due / Final Project Introduction](#week11)
+* [Week 12 - Interactive Applications / ml5.js](#week12)
+* [Week 13 - CLASS MEETS MONDAY Present Final Project ideas / NO CLASS](#week13)
+* [Week 14 - Final Project check-in / Other topics](#week14)
 * [Week 15 - Final Project Due](#week15)
 
-## <a name="week1"></a>Week 1 - Introduction
+## <a name="week1"></a>Week 1 - Introduction / What is Machine Learning?
 
-### <a name="week1.1"></a>Week 1.1 (8/31)
+### <a name="week1.1"></a>Week 1.1 Introduction (8/31)
 - Introductions
 - Course overview
 - In-class discussion
@@ -279,6 +279,7 @@
 
 - Discuss Project 3 - Sound / Text
 
+
 - **Sound / Text Project (due 11/18)**
   - **Create** sound / music, or text using a machine learning algorithm
   - **Put** your project URL and documentation URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
@@ -313,6 +314,7 @@
 
 
 - **Homework** (due before start of next class):
+  - **Review** the [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-1118)
   - **Sign up** for Project 3 groups in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
   - **Prepare** to share your project idea next class
 
@@ -328,16 +330,6 @@
 ### <a name="week8.1"></a>Week 8.1 Sound and Text Tools (10/26)
 - Look at inspirational sound/text works and tools
 
-### <a name="week8.2"></a>Week 8.2 (10/28) Ethics and Bias
-- Discuss ethics of AI and bias in Machine Learning
-
-## <a name="week9"></a>Week 9 - Sound / Text
-
-### <a name="week9.1"></a>Week 9.1 Present Project Ideas for Sound and Text (11/02)
-- Present project ideas for Sound and Text
-
-### <a name="week9.2"></a>Week 9.2 (11/04)
-- **Present** sound / text project ideas
 - Machine learning techniques for sound
   - [Magenta](https://magenta.tensorflow.org/)
     - [MusicVAE: A tool for creating music with neural networks](https://medium.com/@wvsharber/musicvae-a-tool-for-creating-music-with-neural-networks-db0f4b84a698)
@@ -356,25 +348,10 @@
     - [This is what a deepfake voice clone used in a failed fraud attempt sounds like](https://www.theverge.com/2020/7/27/21339898/deepfake-audio-voice-clone-scam-attempt-nisos)
     - [Resemble.ai - TTS and cloing](https://www.resemble.ai/)
 
-- Workshop sound / text
 
-## <a name="week10"></a>Week 10
+#### Homework ####
+- **Read** [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
 
-### <a name="week10.1"></a>Week 10 (11/09) - TBD / Open
-
-### <a name="week10.2"></a>Week 10 (11/11) - Autoencoders
-- Autoencoders
-  - [Autoencoder explained](https://youtu.be/9zKuYvjFFS8?t=56)
-
-
-- Interactive face swap
-  - [Take This Lollipop](https://www.takethislollipop.com/)
-
-- Group checkin
-
-- Group work time
-
-#### Homework (due before start of next class)
 - **Read** an article about GPT-3 and write a 2-3 paragraph response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
   - Some suggested articles
     - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
@@ -385,19 +362,55 @@
     - [Here Are A Few Ways GPT-3 Can Go Wrong](https://techcrunch.com/2020/08/07/here-are-a-few-ways-gpt-3-can-go-wrong/)
     - [GPT Crush (look through some examples)](http://gptcrush.com/)
 
-<!--
 - **Create** a short text by prompting GPT-2/3 and **add** it to the [Google doc](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing). Put the prompted parts of the text you wrote in **bold**.
   - e.g. use [Talk to Transformer](https://app.inferkit.com/demo) or [GPT-2 Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
   - What does your text show about how the model works?
   - How does the response match with what you expected?
   - What do you think of future applications of GPT-3?
--->
+
+
+
+
+
+### <a name="week8.2"></a>Week 8.2 (10/28) Ethics and Bias
+- Discuss social implications and ethics of AI and bias in Machine Learning
+
+<!-- $$$ add homework -->
+### Homework (due next class)
+- **Work** on your Sound / Text Project idea and be ready to present your idea in class
+
+## <a name="week9"></a>Week 9 - Sound / Text
+
+### <a name="week9.1"></a>Week 9.1 Present Project Ideas for Sound and Text (11/02)
+- Present project ideas for Sound and Text
+
+### <a name="week9.2"></a>Week 9.2 - OpenAI and recent developments in AI(11/04)
+- Discuss the latest and greatest developments in machine learning / AI
+
+## <a name="week10"></a>Week 10
+
+### <a name="week10.1"></a>Week 10 (11/09) - Other techniques
+- Other techniques
+
+### <a name="week10.2"></a>Week 10 (11/11) - Autoencoders (tentative)
+- Autoencoders
+  - [Autoencoder explained](https://youtu.be/9zKuYvjFFS8?t=56)
 
 ## <a name="week11"></a>Week 11 - Sound / Text Project Due
 
-### <a name="week11.1"></a>Week 11 (11/16)
-- Review homework
-- Project check-in
+### <a name="week11.1"></a>Week 11.1 - Sound / Text Project Presentations (11/16)
+
+- **Project 3 - Sound / Text Due (11/16)**
+- **Present** your Sound / Text project
+
+#### Homework (due before start of next class)
+- **Watch** [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0) (until 19:00, then it's just credits)
+- **Watch** [ml5.js: Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY)
+- **Read** [Hello ml5.js - A gentle introduction to ml5](https://learn.ml5js.org/#/tutorials/hello-ml5)
+
+
+### <a name="week11.2"></a>Week 11.2 Final Project Introduction (11/18)
+
 - Chat bots
   - [Eliza](https://web.njit.edu/~ronkowit/eliza.html)
   - [Building an AI-based Chatbot in Python](https://blog.datasciencedojo.com/building-an-ai-based-chatbot-in-python/)
@@ -413,14 +426,7 @@
   - [Image Classifier Demo](https://editor.p5js.org/ml5/sketches/ImageClassification)
 - [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
 
-### <a name="week11.2"></a>Week 11 (11/18)
-- **Project 3 - Sound / Text Due (11/18)**
-- **Present** your Sound / Text project
-
 #### Homework (due before start of next class)
-- **Watch** [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0) (until 19:00, then it's just credits)
-- **Watch** [ml5.js: Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY)
-- **Read** [Hello ml5.js - A gentle introduction to ml5](https://learn.ml5js.org/#/tutorials/hello-ml5)
 - **Create** An interactive ml5.js sketch (using the p5 editor or your own editor) that uses the webcam, uploaded image from the user, user-entered text, or other user interaction to do something interesting. You can start from one of the ml5.js examples and modify it for your own use.
 - **Write** a paragraph of text explaining your sketch and add the link to your sketch and description to the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
 
@@ -429,43 +435,6 @@
 ### <a name="week12.1"></a>Week 12 (11/23)
 - Review homework
 - Techniques for interactive machine learning
-- Discuss Final Project
-
-#### Final Project ####
-- **Final project due last class (12/14)**
-For the final your are free to choose what you'd like to do. The project should be a creative use of machine learning. It should be more ambitious in scope compared to what we've done so far this semester. You could do any number of things. A few sample ideas are:
-
-- Build upon and fully complete one of your projects from earlier in the semester
-- Create an interactive classification app or game (example)
-- Create a physical comic book using style transfer
-- Create an interactive dance performance
-- Generate a musical composition or an EP of songs
-- Create a music/sound generation tool
-- Create a twitter bot (a variation could be a bot that learns and grows from people's responses)
-- Create an interactive application (tool/game/art piece) that uses text generation
-- Create an art piece that illustrates/amplifies characteristics of this technology (could be illuminating or comedic or both)
-The list could go on and on. The above should be considered far from exhaustive.
-
-You may work within a group or by yourself.
-
-##### Grading Rubric #####
-25% Creative Thinking: The project should not be just reproducing things using the tools we've looked at. It should have some novel implementation or approach in the application of the tech. Depending on the project, this could include indication of development of personal style/taste (if art project for example), and/or imaginative implementations of the tech in exploring ideas.
-
-25% Production Quality: The project needs to be well polished, with considerable work put into the finished work.
-
-25% Clear Conceptual Underpinning: The project needs to be well thought out, and have a clear concept that you are working with from start to finish. The documentation should clearly show the concepts you are engaging with.
-
-25% Machine Learning Application: The project should use and benefit from machine learning.
-
-##### Documentation #####
-  - Required documentation (include on project site or separate page):
-    - Name of your project
-    - What inspired you to make this work?
-    - How does the content of your work related to some of the concepts we've covered in class?
-    - What tools did you use? How did the tools affect your creative process? (If you found the tools limiting you can also comment on that.)
-    - What have you learned as a result of making this work? What surprised you?
-
-
 
 #### Homework ####
 - **Sign up** for your Final Project group in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
@@ -477,10 +446,9 @@ You may work within a group or by yourself.
 
 ## <a name="week13"></a>Week 13 - LEGISLATIVE DAY - Class meets Monday 11/29
 
-### <a name="week13.1"></a>Week 13.1 (11/29) - TBD
-
-#### Homework ####
-- **Read** [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
+### <a name="week13.1"></a>Week 13.1 (MONDAY 11/29) - Present project ideas
+- Short class 10:25-11:40AM
+- Present Final Project ideas
 
 ### No class (11/30)
 
@@ -488,11 +456,12 @@ You may work within a group or by yourself.
 
 ## <a name="week14"></a>Week 14
 
-### <a name="week14.1"></a>Week 14.1 (12/07) - Ethics and social issues of ML / AI
-- Ethics and social issues of machine learning / AI
-
-### <a name="week14.2"></a>Week 14.2 (12/09) - Final Project Check-in / TBD
+### <a name="week14.1"></a>Week 14.1 (12/07) - Final Project Check-in
 - Final project check-in
+- Other topics TBD
+
+### <a name="week14.2"></a>Week 14.2 (12/09) - Other topics / TBD
+- Other topics TBD
 
 ## <a name="week14"></a>Week 15
 
