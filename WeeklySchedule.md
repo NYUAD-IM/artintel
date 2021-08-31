@@ -40,7 +40,8 @@
   - [Moral Machine](https://www.moralmachine.net/) - A platform for public participation in and discussion of the human perspective on machine-made moral decisions
 
   #### Homework (due before start of next class)
-  - **Sign up** for Discord
+  - **Sign up** for Discord using the [Discord invite] on Brightspace (https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5693439) (optional, recommended)
+    - Discord is a third-party service. Use of Discord is optional, please consider anything you post there to be public.
   - **Read**
     - Creative AI:  [https://medium.com/@creativeai/creativeai-9d4b2346faf3](https://medium.com/@creativeai/creativeai-9d4b2346faf3)  
     - What is AI &amp; History (Optional/Recommended): [Chapter 1 - Introduction - Artificial Intelligence a Modern Approach](http://web.cecs.pdx.edu/~mperkows/CLASS_479/2017_ZZ_00/02__GOOD_Russel=Norvig=Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
