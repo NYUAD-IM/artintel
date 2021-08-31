@@ -2,20 +2,20 @@
 
 * [Week 1 - Introduction / What is Machine Learning?](#week1)
 * [Week 2 - Speculative Design / Neural Networks](#week2)
-* [Week 3 - Speculative Design Due / Visual Project Introduction](#week3)
+* [Week 3 - Speculative Design Project Due (9/14) / Visual Project Introduction](#week3)
 * [Week 4 - Convolutional Neural Networks / Neural Network Training](#week4)
 * [Week 5 - Neural Network Training / Visual Tools](#week5)
 * [Week 6 - Visual Tools / Visual Project Check-in](#week6)
-* [Week 7 - Visual Project Due / Sound / Text Project Introduction](#week7)
+* [Week 7 - Visual Project Due (10/12) / Sound / Text Project Introduction](#week7)
 * SPRING BREAK
 * [Week 8 - Sound / Text Tools / Ethics and Bias](#week8)
 * [Week 9 - Present Sound / Text ideas](#week9)
 * [Week 10 - Other Techniques Sound / Autoencoders](#week10)
-* [Week 11 - Sound / Text Project Due / Final Project Introduction](#week11)
+* [Week 11 - Sound / Text Project Due (11/16) / Final Project Introduction](#week11)
 * [Week 12 - Interactive Applications / ml5.js](#week12)
 * [Week 13 - CLASS MEETS MONDAY Present Final Project ideas / NO CLASS](#week13)
 * [Week 14 - Final Project check-in / Other topics](#week14)
-* [Week 15 - Final Project Due](#week15)
+* [Week 15 - Final Project Due (12/14)](#week15)
 
 ## <a name="week1"></a>Week 1 - Introduction / What is Machine Learning?
 
@@ -463,9 +463,9 @@
 ### <a name="week14.2"></a>Week 14.2 (12/09) - Other topics / TBD
 - Other topics TBD
 
-## <a name="week14"></a>Week 15
+## <a name="week15"></a>Week 15
 
-### <a name="week14.1"></a>Week 15.1 (12/14) - Final project presentations
+### <a name="week15.1"></a>Week 15.1 (12/14) - Final project presentations
 - **Final project due (12/14)**
 - Present final Projects
 - Wrap up discussion
