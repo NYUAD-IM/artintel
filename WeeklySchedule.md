@@ -41,7 +41,7 @@
   - [B0na F1de Artist Collective](https://www.b0naf1de.com/) - Jonghyun Jee's final project
 
   #### Homework (due before start of next class)
-  - **Sign up** for Discord using the [Discord invite] on Brightspace (https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5693439) (optional, recommended)
+  - **Sign up** for Discord using the [Discord invite](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5693439) on Brightspace  (optional, recommended)
     - Discord is a third-party service. Use of Discord is optional, please consider anything you post there to be public.
   - **Read**
     - Creative AI:  [https://medium.com/@creativeai/creativeai-9d4b2346faf3](https://medium.com/@creativeai/creativeai-9d4b2346faf3)  
