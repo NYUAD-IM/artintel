@@ -44,15 +44,17 @@
       - [CLIPIT PixelDraw Colab](https://colab.research.google.com/drive/1uya2CzekydPASALHtgrwxOekBMlaWGON?usp=sharing)
   - [Florida cops use AI to target people for a new "enhanced scrutiny" program](https://boingboing.net/2021/07/27/florida-cops-use-ai-to-target-people-for-a-new-enhanced-scrutiny-program.html)
   - [Moral Machine](https://www.moralmachine.net/) - A platform for public participation in and discussion of the human perspective on machine-made moral decisions
+  - [B0na F1de Artist Collective](https://www.b0naf1de.com/) - Jonghyun Jee's final project
 
   #### Homework (due before start of next class)
-  - **Sign up** for Discord
+  - **Sign up** for Discord using the [Discord invite](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5693439) on Brightspace  (optional, recommended)
+    - Discord is a third-party service. Use of Discord is optional, please consider anything you post there to be public.
   - **Read**
     - Creative AI:  [https://medium.com/@creativeai/creativeai-9d4b2346faf3](https://medium.com/@creativeai/creativeai-9d4b2346faf3)  
     - What is AI &amp; History (Optional/Recommended): [Chapter 1 - Introduction - Artificial Intelligence a Modern Approach](http://web.cecs.pdx.edu/~mperkows/CLASS_479/2017_ZZ_00/02__GOOD_Russel=Norvig=Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
 
   - **Create** a pixel art image using CLIPIT PixelDraw **OR** a face using StyleGAN2
-    - **Create** a pixel art image using the [CLIPIT PixelDraw example](https://colab.research.google.com/drive/1uya2CzekydPASALHtgrwxOekBMlaWGON?usp=sharing) and post it in the Discord (or send via email). If you have problems, ask for help! Make sure to save the example to your Google Drive before making edits. Why did you choose your prompt and what do you think the result reveals about how the image generation algorithm works?
+    - **Create** a pixel art image using the [CLIPIT PixelDraw example](https://colab.research.google.com/drive/1uya2CzekydPASALHtgrwxOekBMlaWGON?usp=sharing) and post it in the Discord (or send via email). If you have problems, ask for help! Make sure to save the example to your Google Drive before making edits. Why did you choose your prompt and what do you think the result reveals about how the image generation algorithm works? You can uncheck ```use_pixeldraw``` to see the generated image without pixelation.
     - **Create** a face using the [StyleGAN2 Colab example](https://colab.research.google.com/gist/mangtronix/e19e0c4025fb20e26b7f83990780f0a0/stylegan2-google-colab-example.ipynb) and post it in the Discord (or send via email). If you have problems, ask for help! Make sure to save the example to your Google Drive before making edits.
       - (Optional) Post your generated face or video on social media (or through email, etc) and see what the response is. It's up to you to decide how to communicate your post (you can make it clear it's a generated face or not).
 
@@ -61,7 +63,7 @@
 
 
 ### <a name="week1.1"></a>Week 1.2 (9/2)
-- Review homework (StyleGAN2)
+- Review homework (CLIPIT / StyleGAN2)
 
 - What is Artificial Intelligence - Machine Learning?
 - Overview
