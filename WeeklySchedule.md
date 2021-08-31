@@ -22,35 +22,13 @@
 ### <a name="week1.1"></a>Week 1.1 (8/31)
 - Introductions
 - Course overview
-
-### <a name="week1.1"></a>Week 1.2 (9/2)
-
-- What is Artificial Intelligence - Machine Learning?
-- Overview
-  - Supervised Learning
-  - Unsupervised Learning
-  - Reinforcement Learning
-
-#### Homework (due before start of next class)
-- **Read**
-  - Creative AI:  [https://medium.com/@creativeai/creativeai-9d4b2346faf3](https://medium.com/@creativeai/creativeai-9d4b2346faf3)  
-  - What is AI &amp; History (Optional/Recommended): [Chapter 1 - Introduction - Artificial Intelligence a Modern Approach](http://web.cecs.pdx.edu/~mperkows/CLASS_479/2017_ZZ_00/02__GOOD_Russel=Norvig=Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
-  - Neural Networks: [https://ml4a.github.io/ml4a/neural_networks/](https://ml4a.github.io/ml4a/neural_networks/)
-
-- **Create** a face using the [StyleGAN2 Colab example](https://colab.research.google.com/gist/mangtronix/e19e0c4025fb20e26b7f83990780f0a0/stylegan2-google-colab-example.ipynb) and post it in the Discord (or send via email). If you have problems, ask for help! Make sure to save the example to your Google Drive before making edits.
-- (Optional) Post your generated face or video on social media (or through email, etc) and see what the response is.
-It's up to you to decide how to communicate your post (you can make it clear it's a generated face or not).
-
-
-## <a name="week2"></a>Week 2 - Neural Networks
-
-### <a name="week2.1"></a>Week 2.1 (9/7)
-- Review homework (StyleGAN2)
 - In-class discussion
   - “Unique, worry-free model photos” https://generated.photos/
+<!--
   - “Japan’s first virtual model”
     - https://www.instagram.com/imma.gram/?hl=en
     - https://interestingengineering.com/meet-imma-the-worlds-first-computer-generated-model
+-->
   - Deep Fakes
     - [Making a political figure deliver a new speech](https://www.theverge.com/tldr/2018/4/17/17247334/ai-fake-news-video-barack-obama-jordan-peele-buzzfeed)
   - Text generation - fake news
@@ -59,36 +37,38 @@ It's up to you to decide how to communicate your post (you can make it clear it'
     - [Faking the News with Natural Language Processing and GPT-2](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d)
   - [Moral Machine](https://www.moralmachine.net/) - A platform for public participation in and discussion of the human perspective on machine-made moral decisions
 
-#### Homework (complete before start of next class)
-<!-- - **Read and try** (on Colab) [Make Your Own - Neural Network](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file) - Chapter 2 pages 122-149 (Python coding up until Neural Network code) -->
-- **Read** about supervised / unsupervised / reinforcement learning https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/
-- **Read** Looking Inside Neural Networks https://ml4a.github.io/ml4a/looking_inside_neural_nets/
-- (Optional) Deep Dream details (we’ll look at this again later when we talk about Convolutional Neural Networks) https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
+  #### Homework (due before start of next class)
+  - **Read**
+    - Creative AI:  [https://medium.com/@creativeai/creativeai-9d4b2346faf3](https://medium.com/@creativeai/creativeai-9d4b2346faf3)  
+    - What is AI &amp; History (Optional/Recommended): [Chapter 1 - Introduction - Artificial Intelligence a Modern Approach](http://web.cecs.pdx.edu/~mperkows/CLASS_479/2017_ZZ_00/02__GOOD_Russel=Norvig=Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
+    - Neural Networks: [https://ml4a.github.io/ml4a/neural_networks/](https://ml4a.github.io/ml4a/neural_networks/)
 
-### <a name="week2.2"></a>Week 2.2 (9/9)
-- Neural Network math
-- Introduction to neural network training
-- Classification Using Neural Networks
-  - [Classification of Rock, Paper, Scissors ](https://www.youtube.com/watch?v=KNAWp2S3w94&feature=youtu.be&t=50)
-- Colab / Neural Network Workshop
-- Colab examples
-  - https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb
+  - **Create** a face using the [StyleGAN2 Colab example](https://colab.research.google.com/gist/mangtronix/e19e0c4025fb20e26b7f83990780f0a0/stylegan2-google-colab-example.ipynb) and post it in the Discord (or send via email). If you have problems, ask for help! Make sure to save the example to your Google Drive before making edits.
+  - (Optional) Post your generated face or video on social media (or through email, etc) and see what the response is.
+  It's up to you to decide how to communicate your post (you can make it clear it's a generated face or not).
 
-#### Homework (due before start of next class)
-- **Create** a new image or other output using one of these Colab notebooks (try to use one of your own input images rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
-  - **Post** your image to the Discord (or send to me via email) with a short explanation of how you made it
-  - If you have a problem with the Tensorflow version (e.g "AdamOptimizer not found") add [this code](https://colab.research.google.com/notebooks/tensorflow_version.ipynb)
-- **Find** a creative or interesting application of AI and **add** the link to the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing) with a short explanation of what's interesting about it
+### <a name="week1.1"></a>Week 1.2 (9/2)
+- Review homework (StyleGAN2)
 
-- (Optional) Read and try the neural network "from scratch" code in [Make Your Own Neural Network Chapter 2](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file)
-  - [GitHub repository with examples](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
+- What is Artificial Intelligence - Machine Learning?
+- Overview
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinforcement Learning
 
+  #### Homework (complete before start of next class)
+  <!-- - **Read and try** (on Colab) [Make Your Own - Neural Network](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file) - Chapter 2 pages 122-149 (Python coding up until Neural Network code) -->
+  - **Read** about supervised / unsupervised / reinforcement learning https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/
+  - **Read** Looking Inside Neural Networks https://ml4a.github.io/ml4a/looking_inside_neural_nets/
+  - **Find** a creative or interesting application of AI and **add** the link to the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing) with a short explanation of what's interesting about it
+  - (Optional) Deep Dream details (we’ll look at this again later when we talk about Convolutional Neural Networks) https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
 
-## <a name="week3"></a>Week 3 - Speculative Design
+## <a name="week2"></a>Week 2 - Speculative Design / Neural Networks
 
-### <a name="week3.1"></a>Week 3.1 - Introduction to Speculative Design (9/14)
+### <a name="week2.1"></a>Week 2.1 Introduction to Speculative Design (9/7)
 - Review homework (new image, interesting applications)
 - Talk about Speculative Design project
+  - <a href="https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-1-speculative-design-due-921">Speculative Design Project requirements<a/>
 - Form groups for Speculative Design Project
 - Lecture references:
   - [Critical Design - Dunne & Raby](http://dunneandraby.co.uk/content/bydandr/13/0)
@@ -98,40 +78,71 @@ It's up to you to decide how to communicate your post (you can make it clear it'
   - [Here's a Baby VR Headset for the Parents of the Future - Stuart Candy](https://www.vice.com/en_au/article/d38adx/baby-vr-headset-future-parents-stuart-candy)
   - [The Optimization of Parenthood - Addie Wagenknecht](https://vimeo.com/43489750)
 
+  - Product References:
+      - [Neuralink product page](https://neuralink.com/applications/)
+      - [AI meeting scheduler](https://x.ai/)
+
 #### Homework (due before start of next class)
 - **Read**
   - [Speculative Everything](https://readings.design/PDF/speculative-everything.pdf)
     - Read Chapter 1, Chapter 2 (pages 11-16), Chapter 3
+- **Review** the [Speculative Design Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-1-speculative-design-due-921)
 - **Make your group** for the Speculative Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
-- **Start** developing ideas for a speculative design project about future applications of AI
-  and be prepared to share your idea next class
+- **Start** developing ideas for a speculative design project about future applications of AI and be prepared to share your idea next class
 - **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 
+
+### <a name="week2.2"></a>Week 2.2 (9/9)
+- Neural Networks
+- Classification Using Neural Networks
+  - [Classification of Rock, Paper, Scissors ](https://www.youtube.com/watch?v=KNAWp2S3w94&feature=youtu.be&t=50)
+- Introduction to neural network training
+- Colab / Neural Network Workshop
+- Colab examples
+  - https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb
+
+#### Homework (due before start of next class)
+- Finish your Speculative Design Project and be ready to present in class
+
+
+## <a name="week3"></a>Week 3 - Speculative Design Presentations / Visual Project Introduction
+
+### <a name="week3.1"></a>Week 3.1 - Speculative Design Project Presentations (9/14)
+- Speculative Design Project Presentations
+
+<!--
 ### <a name="week3.2"></a>Week 3.2 - Speculative Design Workshop (9/16)
 - Review speculative design ideas
 - Start working on the design ideas
 
-- References:
-    - [Neuralink product page](https://neuralink.com/applications/)
-    - [AI meeting scheduler](https://x.ai/)
-
-Updates:
-- Office hour appointments are now available on [NYU Classes](https://newclasses.nyu.edu/) course page
-- FYI - [AI Art Gallery](https://www.nvidia.com/en-us/gtc/ai-art-gallery/) at Nvidia GPU Technology Conference (Oct 8)
+-->
 
 #### Homework (due before start of next class)
-- **Create** an "artifact" for your speculative design. It could be a product mockup, video, news report, product marketing, etc.
-- **Write** 3-4 paragraphs describing your project and your process
-  - Add a link to your documentation in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Prepare** a 5-10 minute presentation to explain your idea. You will give your presentation in the next class.
+- **Create** a new image or other output using one of these Colab notebooks (try to use one of your own input images rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
+  - **Post** your image to the Discord (or send to me via email) with a short explanation of how you made it
+  - If you have a problem with the Tensorflow version (e.g "AdamOptimizer not found") add [this code](https://colab.research.google.com/notebooks/tensorflow_version.ipynb)
+
+- (Optional) Read and try the neural network "from scratch" code in [Make Your Own Neural Network Chapter 2](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file)
+  - [GitHub repository with examples](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
+
+### <a name="week3.2"></a>Week 3.2 -  (9/16)
+- Review homework
+- Discuss Visual Project
+  - [Visual Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-2-visual-due-last-class-before-spring-break-1014")
+    - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
+    - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
+
+- Introduction to Visual tools
+
+- **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Start** developing ideas for the Visual Project
+  and be prepared to share your idea next class
+- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 
 
-## <a name="week4"></a>Week 4 - Convolutional Neural Networks / Project Presentation
+## <a name="week4"></a>Week 4 - Convolutional Neural Networks
 
-### <a name="week4.1"></a>Week 4.1 - Project Presentations (9/21)
-- Speculative Design Project Presentations
-
-### <a name="week4.2"></a>Week 4.2 - Convolutional Neural Networks (9/23)
+### <a name="week4.1"></a>Week 4.1 - Convolutional Neural Networks (9/21)
 - How convolutional neural networks work
 - Examples of convolutional neural networks
   - StyleGAN
@@ -148,10 +159,7 @@ Updates:
   - [ConvNetJS digit classification demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
   - [ml5js - GPU accelerated JavaScript in the browser](https://learn.ml5js.org/#/)
 
-
-## <a name="week5"></a>Week 5 - Neural Network Training
-
-### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (9/28)
+### <a name="week4.2"></a>Week 4.2 -  Neural Network Training (9/23)
 
 - Neural Network Training References
   - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
@@ -160,12 +168,13 @@ Updates:
   - [ml5js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
   - [MobileNet details](https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69)
 
-
 #### Homework (due before start of next class)
-- **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
-- **Write** 3-4 paragraphs of response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
+  - **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+  - **Write** 3-4 paragraphs of response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
 
-### <a name="week5.2"></a>Week 5.2 - Neural Network Training Workshop (9/30)
+## <a name="week5"></a>Week 5 - Neural Network Training
+
+### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (9/28)
 - Discussion: The AI Revolution
 - Practical aspects of training
 - Examples
@@ -174,20 +183,18 @@ Updates:
   - [Simple image classifier in-browser using ml5.js](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
   - [More ML4A in-browser demos](https://ml4a.github.io/demos/)
 
+<!-- add training exercise -->
 
 
-- Discuss Visual Project
-  - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
-  - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
+### <a name="week5.2"></a>Week 5.2 - Neural Network Training Workshop (9/30)
+
+
+
 
 
 #### Homework (due before start of next class)
 - **Read** [The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/)
 - **Write** 3-4 paragraphs of response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
-- **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Start** developing ideas for the Visual Project
-  and be prepared to share your idea next class
-- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 
 
 ## <a name="week6"></a>Week 6 - Visual tools
