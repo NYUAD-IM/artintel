@@ -176,6 +176,7 @@
 
 ### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (9/28)
 - Discussion: The AI Revolution
+- Review Visual Project ideas
 - Practical aspects of training
 - Examples
   - [GAN Training Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb?authuser=2)
@@ -186,9 +187,23 @@
 <!-- add training exercise -->
 
 
-### <a name="week5.2"></a>Week 5.2 - Neural Network Training Workshop (9/30)
+### <a name="week5.2"></a>Week 5.2 - Visual Tools (9/30)
 
+<!--
+-->
+- Links for project tools
+  - [Manga GAN](https://github.com/nikitaa30/Manga-GAN)
+  - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) for making Deep Fake videos
+  - [Cartoonize](https://github.com/experience-ml/cartoonize) cartoonize images/video
+  - [Cartoonize webapp - Mangtronix edition](https://colab.research.google.com/drive/1iS8Nv_RYYKV5jOYw4ecyBTUrxZ7l5ufj?usp=sharing) run the CartoonGAN webapp on your own colab - allows generating longer videos
+  - [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow) more advanced cartoon example, has instructions for training your own dataset
 
+- Colab notebooks for generating images / video
+  - [StyleGAN2 Colab example](https://colab.research.google.com/gist/mangtronix/e19e0c4025fb20e26b7f83990780f0a0/stylegan2-google-colab-example.ipynb)
+  - [Neural Style Transfer Colab](https://colab.research.google.com/drive/1-7ZMHjCG2lTdsZMpVMSpDWzTG6e-cwf3)
+  - [12 Colabs That Matter](https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0)
+  - [Neural Synthesis](https://colab.research.google.com/drive/1xeJAhTEwI3TNH_CJnTMq5AJuPkOs8sJ6)
+- [Image scraping](ImageScraping.md)
 
 
 
@@ -199,53 +214,22 @@
 
 ## <a name="week6"></a>Week 6 - Visual tools
 
-### <a name="week6.1"></a>Week 6 - Visual tools (10/5)
+### <a name="week6.1"></a>Week 6 - Command-line / Python / Lab Computer Workshop (10/5)
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
-- Review Visual Project ideas
-- Colab notebooks for generating images / video
-  - [StyleGAN2 Colab example](https://colab.research.google.com/gist/mangtronix/e19e0c4025fb20e26b7f83990780f0a0/stylegan2-google-colab-example.ipynb)
-  - [Neural Style Transfer Colab](https://colab.research.google.com/drive/1-7ZMHjCG2lTdsZMpVMSpDWzTG6e-cwf3)
-  - [12 Colabs That Matter](https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0)
-  - [Neural Synthesis](https://colab.research.google.com/drive/1xeJAhTEwI3TNH_CJnTMq5AJuPkOs8sJ6)
-- [Image scraping](ImageScraping.md)
-- AI Lab computers now available
-  - 3x Alienware with nVidia 1080 Ti GPU
+
+- [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
+  - Training example using SampleRNN
+    - [https://github.com/mangtronix/samplernn-pytorch](https://github.com/mangtronix/samplernn-pytorch)
+
+  - [tmux: The 10 Most Important Commands](https://danielmiessler.com/study/tmux/)
+  - [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
+  - [How to Send Push Notifications to Your Phone From Any Script](https://medium.com/better-programming/how-to-send-push-notifications-to-your-phone-from-any-script-6b70e34748f6)
+  - [IFTTT - If This, Then That](https://ifttt.com/)
+  - [FileZilla SFTP client](https://filezilla-project.org/)
 
 
-- Links for project tools
-  - [Manga GAN](https://github.com/nikitaa30/Manga-GAN)
-  - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) for making Deep Fake videos
-  - [Cartoonize](https://github.com/experience-ml/cartoonize) cartoonize images/video
-  - [Cartoonize webapp - Mangtronix edition](https://colab.research.google.com/drive/1iS8Nv_RYYKV5jOYw4ecyBTUrxZ7l5ufj?usp=sharing) run the CartoonGAN webapp on your own colab - allows generating longer videos
-  - [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow) more advanced cartoon example, has instructions for training your own dataset
-
-### <a name="week6.2"></a>Week 6 - Visual Project work session (10/7)
-- Work on visual project in class
-
-- **Visual Project (due 10/14)**
-  - **Create** an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
-  - **Put** your project URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-  - You can incorporate the visual output into a larger work, e.g. website, printed image, interactive
-    program or use the output of the machine learning algorithm as source material for
-    your creative process (e.g. generate images and then further manipulate them)
-  - Some ideas:
-    - create a series of related images using style transfer and present them on a website
-    - generate the description of an using GPT-2 and then draw it yourself
-    - create an animation through the latent space of StyleGAN
-    - cartoonize some images to create a comic strip (online or printed)
-    - generate an image using machine learning and redraw it yourself
-  - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
-  - The idea is to see how you can use the tools we've looked at in class (or any tool you can find)
-    to express your creativity or make a comment on machine learning / AI
-  - The work or documentation of it should be accessible on the web (e.g. for a printed work post photos)
-
-  - Required documentation (include on project site or separate page):
-    - Name of your project
-    - What inspired you to make this work?
-    - How does the content of your work related to some of the concepts we've covered in class?
-    - What tools did you use? How did the tools affect your creative process? (If you found the
-      tools limiting you can also comment on that.)
-
+### <a name="week6.2"></a>Week 6 - Visual Project Check-in (10/7)
+- Visual Project check-in
 
 <!--
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
@@ -265,7 +249,7 @@
 
 -->
 
-## <a name="week7"></a>Week 7 - TBD / Visual Project presentations
+## <a name="week7"></a>Week 7 - Visual Project presentations / Sound and Text Introduction
 
 <!--
 ### <a name="week7.1"></a>Week 7 (10/26) - Autoencoders, other forms of neural networks (or guest lecture)
@@ -282,9 +266,7 @@
 - Lab computers
 -->
 
-### <a name="week7.1"></a>Week 7.1 (10/12) - TBD
-
-### <a name="week7.2"></a>Week 7.2 (10/14) - Visual Project presentations
+### <a name="week7.1"></a>Week 7.1 (10/12) - Visual Project presentations
 - In-class presentations of Visual Project
 
 #### Homework (due before start of next class, after the break)
@@ -293,23 +275,8 @@
 - **Write** 2-3 paragraphs about the inspirational work and tool in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
 - Next class you will show the work and technique that you found to the rest of the class
 
-## SPRING BREAK
+### <a name="week7.2"></a>Week 7.2 (10/14) - Sound / Text Project Discussion
 
-### No class (10/19)
-
-### No class (10/21)
-
-## <a name="week8"></a>Week 8 - Sound / Text / Lab Computers
-
-### <a name="week8.1"></a>Week 8.1 (10/26)
-- Look at inspirational sound/text works and tools
-
-### <a name="week8.2"></a>Week 8.2 (10/28) Workshop
-- Command line / Python / Lab Computer Workshop
-
-## <a name="week9"></a>Week 9 - Sound / Text
-
-### <a name="week9.1"></a>Week 9.1 (11/02)
 - Discuss Project 3 - Sound / Text
 
 - **Sound / Text Project (due 11/18)**
@@ -349,6 +316,26 @@
   - **Sign up** for Project 3 groups in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
   - **Prepare** to share your project idea next class
 
+
+## SPRING BREAK
+
+### No class (10/19)
+
+### No class (10/21)
+
+## <a name="week8"></a>Week 8 - Sound and Text Tools / Ethics and Bias
+
+### <a name="week8.1"></a>Week 8.1 Sound and Text Tools (10/26)
+- Look at inspirational sound/text works and tools
+
+### <a name="week8.2"></a>Week 8.2 (10/28) Ethics and Bias
+- Discuss ethics of AI and bias in Machine Learning
+
+## <a name="week9"></a>Week 9 - Sound / Text
+
+### <a name="week9.1"></a>Week 9.1 Present Project Ideas for Sound and Text (11/02)
+- Present project ideas for Sound and Text
+
 ### <a name="week9.2"></a>Week 9.2 (11/04)
 - **Present** sound / text project ideas
 - Machine learning techniques for sound
@@ -379,15 +366,6 @@
 - Autoencoders
   - [Autoencoder explained](https://youtu.be/9zKuYvjFFS8?t=56)
 
-- [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
-  - Training example using SampleRNN
-    - [https://github.com/mangtronix/samplernn-pytorch](https://github.com/mangtronix/samplernn-pytorch)
-
-  - [tmux: The 10 Most Important Commands](https://danielmiessler.com/study/tmux/)
-  - [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
-  - [How to Send Push Notifications to Your Phone From Any Script](https://medium.com/better-programming/how-to-send-push-notifications-to-your-phone-from-any-script-6b70e34748f6)
-  - [IFTTT - If This, Then That](https://ifttt.com/)
-  - [FileZilla SFTP client](https://filezilla-project.org/)
 
 - Interactive face swap
   - [Take This Lollipop](https://www.takethislollipop.com/)
