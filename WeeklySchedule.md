@@ -66,6 +66,11 @@
 - Review homework (CLIPIT / StyleGAN2)
 
 - What is Artificial Intelligence - Machine Learning?
+  - [Intro to Machine Learning (YouTube)](https://www.youtube.com/watch?v=KNAWp2S3w94&t=50s)
+  - [Neural Networks](https://ml4a.github.io/ml4a/neural_networks/)
+  - [Inceptionism: Going Deeper into Neural Networks](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
+  - [9 of the Funniest and Most Shocking AI Fails](https://lovetheidea.co.uk/9-funniest-shocking-ai-fails/)
+
 - Overview
   - Supervised Learning
   - Unsupervised Learning
@@ -76,7 +81,7 @@
   - **Read** about supervised / unsupervised / reinforcement learning https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/
   - **Read** Neural Networks: [https://ml4a.github.io/ml4a/neural_networks/](https://ml4a.github.io/ml4a/neural_networks/)
 
-  - **Find** a creative or interesting application of AI and **add** the link to the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing) with a short explanation of what's interesting about it
+  - **Find** a creative or interesting application of AI and **add** the link to the [Brightspace Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/261633/View) with a short explanation of what's interesting about it
   - (Optional) Deep Dream details (we’ll look at this again later when we talk about Convolutional Neural Networks) https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
 
 <!--
