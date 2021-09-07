@@ -94,6 +94,7 @@
 - Lecture references:
   - [Critical Design - Dunne & Raby](http://dunneandraby.co.uk/content/bydandr/13/0)
   - [Speculative Design - Inside Design](https://www.invisionapp.com/inside-design/speculative-design/)
+  - [The Futures Cone, use and history](https://thevoroscope.com/2017/02/24/the-futures-cone-use-and-history/)
   - [Stealing from the future with speculative design](https://uxdesign.cc/stealing-from-the-future-with-speculative-design-e769059b6689)
   - [Robotic Feral Dogs - Natalie Jeremijenko](https://inhabitat.com/robotic-pollution-sniffing-eco-dogs/robotic-pollution-sniffing-eco-dogs-robotic-feral-dogs-robo-eco-dogs-robo-pollution-sniffing-dogs-natalie-jeremijenko-jeff-warren-diego-rotalde-feral-robots-robotic-design-robotic-eco-dogs-4/)
   - [Here's a Baby VR Headset for the Parents of the Future - Stuart Candy](https://www.vice.com/en_au/article/d38adx/baby-vr-headset-future-parents-stuart-candy)
@@ -102,6 +103,22 @@
   - Product References:
       - [Neuralink product page](https://neuralink.com/applications/)
       - [AI meeting scheduler](https://x.ai/)
+  
+Class examples:
+  - [iPhone Deep Fusion image processing](https://cdn.vox-cdn.com/thumbor/tlZw5DfFLzhsEYjW7SNhJFSH0Cg=/0x0:2000x1333/1200x0/filters:focal(0x0:2000x1333):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19187275/lcimg_e39768f8_e95b_4100_b3e7_e2b009bc429d.jpg)
+  - [A collection of pre-trained StyleGAN 2 models to download](https://pythonawesome.com/a-collection-of-pre-trained-stylegan-2-models-to-download/)
+    - See the difference in quality of faces compared to horses
+  - Uncanny Valley
+    - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
+      - [The Uncanny Valley: The Original Essay by Masahiro Mori](https://spectrum.ieee.org/the-uncanny-valley)
+    - [Honda's new ASIMO robot, more human-like than ever](https://phys.org/news/2014-04-honda-asimo-robot-human-like.html) 2014
+    - [Sophia, Hanson Robotics’ most advanced human-like robot](https://www.hansonrobotics.com/sophia/)
+      - [The agony of Sophia, the world's first robot citizen condemned to a lifeless career in marketing (Wired)](https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics)
+    - [This person does not exist](https://thispersondoesnotexist.com/)
+  - Neuralink
+    - [Elon Musk's Neuralink monkey brain demo explained (YouTube)](https://www.youtube.com/watch?v=3Ya-bAYri84)
+    - [Elon Musk's Neuralink 'shows monkey playing Pong with mind' (BBC)[https://www.bbc.com/news/technology-56688812]
+  - [A Facebook-scale simulator to detect harmful behaviors (Facebook AI)](https://ai.facebook.com/blog/a-facebook-scale-simulator-to-detect-harmful-behaviors/)
 
 #### Homework (due before start of next class)
 - **Read**
