@@ -125,7 +125,7 @@ Class examples:
   - [Speculative Everything](https://readings.design/PDF/speculative-everything.pdf)
     - Read Chapter 1, Chapter 2 (pages 11-16), Chapter 3
 - **Review** the [Speculative Design Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-1-speculative-design-due-921)
-- **Make your group** for the Speculative Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+- **Make your group** for the Speculative Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for a speculative design project about future applications of AI and be prepared to share your idea next class
 - **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 
@@ -140,9 +140,35 @@ Class examples:
   - [Classification of Rock, Paper, Scissors ](https://www.youtube.com/watch?v=KNAWp2S3w94&feature=youtu.be&t=50)
 <!-- - Introduction to neural network training -->
   
+
+#### Homework (due before start of next class)
+- Finish your Speculative Design Project and be ready to present in class
+  - Refer to [Projects - Speculative Design Project](Projects.md#projects) for the detailed requirements
+
+
+## <a name="week3"></a>Week 3 - Speculative Design Presentations / Visual Project Introduction
+
+### <a name="week3.1"></a>Week 3.1 - Speculative Design Project Presentations (9/14)
+- Speculative Design Project Presentations
+  - Give a 5-10 minute presentation of your project and be prepared for feedback from the class
+
+<!--
+### <a name="week3.2"></a>Week 3.2 - Speculative Design Workshop (9/16)
+- Review speculative design ideas
+- Start working on the design ideas
+
+-->
+
+- Discuss Visual Project
+  - [Visual Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-2-visual-due-last-class-before-spring-break-1014")
+    - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
+    - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
+
+- Introduction to Visual tools  
+  
 - Class tools
   - Colab / Neural Network Introduction
-    - [Colab Introduction (Colab)[https://colab.research.google.com/notebooks/intro.ipynb]
+    - [Colab Introduction (Colab](https://colab.research.google.com/notebooks/intro.ipynb)
     - [Deep Learning Basics (Colab)](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
     - [Python Tutorial With Google Colab (Colab)](https://colab.research.google.com/drive/1sLkLW3H3PbSC1kyeNNt5WpQivcYqBg69?usp=sharing)
   
@@ -156,22 +182,6 @@ Class examples:
 
 
 #### Homework (due before start of next class)
-- Finish your Speculative Design Project and be ready to present in class
-
-
-## <a name="week3"></a>Week 3 - Speculative Design Presentations / Visual Project Introduction
-
-### <a name="week3.1"></a>Week 3.1 - Speculative Design Project Presentations (9/14)
-- Speculative Design Project Presentations
-
-<!--
-### <a name="week3.2"></a>Week 3.2 - Speculative Design Workshop (9/16)
-- Review speculative design ideas
-- Start working on the design ideas
-
--->
-
-#### Homework (due before start of next class)
 - **Create** a new image or other output using one of these Colab notebooks (try to use one of your own input images rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
   - **Post** your image to the Discord (or send to me via email) with a short explanation of how you made it
   - If you have a problem with the Tensorflow version (e.g "AdamOptimizer not found") add [this code](https://colab.research.google.com/notebooks/tensorflow_version.ipynb)
@@ -181,12 +191,6 @@ Class examples:
 
 ### <a name="week3.2"></a>Week 3.2 -  (9/16)
 - Review homework
-- Discuss Visual Project
-  - [Visual Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-2-visual-due-last-class-before-spring-break-1014")
-    - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
-    - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
-
-- Introduction to Visual tools
 
 - **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for the Visual Project
