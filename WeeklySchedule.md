@@ -137,9 +137,21 @@ Class examples:
 - Classification Using Neural Networks
   - [Classification of Rock, Paper, Scissors ](https://www.youtube.com/watch?v=KNAWp2S3w94&feature=youtu.be&t=50)
 <!-- - Introduction to neural network training -->
-- Colab / Neural Network Workshop
-- Colab examples
-  - https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb
+  
+- Class tools
+  - Colab / Neural Network Introduction
+    - [Colab Introduction (Colab)[https://colab.research.google.com/notebooks/intro.ipynb]
+    - [Deep Learning Basics (Colab)](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
+    - [Python Tutorial With Google Colab (Colab)](https://colab.research.google.com/drive/1sLkLW3H3PbSC1kyeNNt5WpQivcYqBg69?usp=sharing)
+  
+- Machine learning on our lab computers
+  - [Lab Computer access](LabComputers.md)
+  - [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
+  
+- Machine learning in the browser
+  - [ml5.js](https://ml5js.org/)
+  - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
+
 
 #### Homework (due before start of next class)
 - Finish your Speculative Design Project and be ready to present in class
