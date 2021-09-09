@@ -2,9 +2,9 @@
 
 ## Project 1: Speculative Design (due 9/14)
 - **Create** an "artifact" of speculative design that shows a potential application of AI. It could be a product mockup, video, news report, product marketing, etc.
-  - Add a link to the documentation of your project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+  - Add a link to the documentation of your project in the [Projects Spreadhseet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Write** 3-4 paragraphs of documentation describing your project and your process
-  - Add a link to your documentation in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+  - Add a link to your documentation in the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Prepare** a 5-10 minute presentation to explain your idea. You will give your presentation in class. Be ready to receive feedback on your project and give feedback to the other groups.
 
 ### Grading Rubric
@@ -13,7 +13,7 @@ Production assignments are graded on the overall quality of work, comprehension 
 
 ## Project 2: Visual (due last class before spring break 10/14)
 - **Create** an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
-- **Put** your project URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Put** your project URL into the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - You can incorporate the visual output into a larger work, e.g. website, printed image, interactive
   program or use the output of the machine learning algorithm as source material for
   your creative process (e.g. generate images and then further manipulate them)
@@ -42,7 +42,7 @@ Production assignments are graded on the overall quality of work, comprehension 
 
 ## Project 3: Sound / Text (due 11/18)
 - **Create** sound / music, or text using a machine learning algorithm
-- **Put** your project URL and documentation URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Put** your project URL and documentation URL into the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - You can incorporate the sound / text output into a larger work, e.g. your earlier visual project, website, printed image, interactive
   program or use the output of the machine learning algorithm as source material for
   your creative process (e.g. generate sound / text and then further manipulate them)
