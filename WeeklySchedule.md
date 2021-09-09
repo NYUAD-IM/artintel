@@ -132,6 +132,8 @@ Class examples:
 
 ### <a name="week2.2"></a>Week 2.2 (9/9)
 - Neural Networks
+  - [Professor’s perceptron paved the way for AI – 60 years too soon](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)
+  - [Perceptron (Wikipedia)](https://en.wikipedia.org/wiki/Perceptron)
   - [Neural Networks (ml4a)](https://ml4a.github.io/ml4a/neural_networks/)
   - [What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/)
 - Classification Using Neural Networks
