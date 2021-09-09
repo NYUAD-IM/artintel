@@ -132,9 +132,11 @@ Class examples:
 
 ### <a name="week2.2"></a>Week 2.2 (9/9)
 - Neural Networks
+  - [Neural Networks (ml4a)](https://ml4a.github.io/ml4a/neural_networks/)
+  - [What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/)
 - Classification Using Neural Networks
   - [Classification of Rock, Paper, Scissors ](https://www.youtube.com/watch?v=KNAWp2S3w94&feature=youtu.be&t=50)
-- Introduction to neural network training
+<!-- - Introduction to neural network training -->
 - Colab / Neural Network Workshop
 - Colab examples
   - https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb
