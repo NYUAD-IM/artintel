@@ -115,6 +115,7 @@ Class examples:
     - [Sophia, Hanson Robotics’ most advanced human-like robot](https://www.hansonrobotics.com/sophia/)
       - [The agony of Sophia, the world's first robot citizen condemned to a lifeless career in marketing (Wired)](https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics)
     - [This person does not exist](https://thispersondoesnotexist.com/)
+    - [lilmequela Instagram influencer - 🤖 19-year-old Robot living in LA 💖 (Instagram)](https://www.instagram.com/lilmiquela/?hl=en)
   - Neuralink
     - [Elon Musk's Neuralink monkey brain demo explained (YouTube)](https://www.youtube.com/watch?v=3Ya-bAYri84)
     - [Elon Musk's Neuralink 'shows monkey playing Pong with mind' (BBC)[https://www.bbc.com/news/technology-56688812]
