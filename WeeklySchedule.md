@@ -159,6 +159,18 @@ Class examples:
 
 -->
 
+
+#### Homework (due before start of next class)
+- **Create** a new image or other output using one of these Colab notebooks (try to use one of your own input images rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
+  - **Post** your image to the Discord (or send to me via email) with a short explanation of how you made it
+  - If you have a problem with the Tensorflow version (e.g "AdamOptimizer not found") add [this code](https://colab.research.google.com/notebooks/tensorflow_version.ipynb)
+
+- (Optional) Read and try the neural network "from scratch" code in [Make Your Own Neural Network Chapter 2](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file)
+  - [GitHub repository with examples](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
+
+### <a name="week3.2"></a>Week 3.2 -  (9/16)
+- Review homework
+  
 - Discuss Visual Project
   - [Visual Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-2-visual-due-last-class-before-spring-break-1014")
     - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
@@ -181,16 +193,6 @@ Class examples:
   - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
 
 
-#### Homework (due before start of next class)
-- **Create** a new image or other output using one of these Colab notebooks (try to use one of your own input images rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
-  - **Post** your image to the Discord (or send to me via email) with a short explanation of how you made it
-  - If you have a problem with the Tensorflow version (e.g "AdamOptimizer not found") add [this code](https://colab.research.google.com/notebooks/tensorflow_version.ipynb)
-
-- (Optional) Read and try the neural network "from scratch" code in [Make Your Own Neural Network Chapter 2](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file)
-  - [GitHub repository with examples](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
-
-### <a name="week3.2"></a>Week 3.2 -  (9/16)
-- Review homework
 
 - **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for the Visual Project
