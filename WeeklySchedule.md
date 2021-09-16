@@ -185,6 +185,10 @@ Class examples:
     - [Deep Learning Basics (Colab)](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
     - [Python Tutorial With Google Colab (Colab)](https://colab.research.google.com/drive/1sLkLW3H3PbSC1kyeNNt5WpQivcYqBg69?usp=sharing)
   
+    - [VQGAN+Clip with WikiArt GAN - DALL-E alternative (Colab)](https://colab.research.google.com/drive/1kUVn_pkm83nCWFNAQxNzSS9glxHkZi1Z?usp=sharing)
+      - There are English versions of this Colab available, the version above is working with the model from WikiArt. See [Generating AI “Art” with VQGAN+CLIP](https://learn.adafruit.com/generating-ai-art-with-vqgan-clip) for instructions
+      - Inspired by [OpenAI DALL-E text to image](https://openai.com/blog/dall-e/)
+  
 - Machine learning on our lab computers
   - [Lab Computer access](LabComputers.md)
   - [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
