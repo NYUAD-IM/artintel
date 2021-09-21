@@ -223,7 +223,6 @@ Class examples:
   - [StyleGAN explanation](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
   - [Convolutional Neural Network Colab](https://colab.research.google.com/github/NYUAD-IM/artintel/blob/master/Code/Week_04/Convolutional_Neural_Network.ipynb#scrollTo=Iv1SLDu_bYXh)
   - [ConvNetJS digit classification demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
-  - [ml5js - GPU accelerated JavaScript in the browser](https://learn.ml5js.org/#/)
   
 - **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for the Visual Project
