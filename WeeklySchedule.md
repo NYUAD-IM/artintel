@@ -218,6 +218,7 @@ Class examples:
   - [Convolution demo](https://ml4a.github.io/demos/convolution/)
   - [Convolution all filters demo](https://ml4a.github.io/demos/convolution_all/)
   - [ConvNet viewer](https://ml4a.github.io/guides/ConvnetViewer/)
+  - [Convolutional Neural Network Visualization by Otavio Good (YouTube)](https://www.youtube.com/watch?v=f0t-OCG79-U)
   - [WaveNet audio generation](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
   - [StyleGAN explanation](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
   - [Convolutional Neural Network Colab](https://colab.research.google.com/github/NYUAD-IM/artintel/blob/master/Code/Week_04/Convolutional_Neural_Network.ipynb#scrollTo=Iv1SLDu_bYXh)
