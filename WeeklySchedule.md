@@ -192,6 +192,11 @@ Class examples:
 ## <a name="week4"></a>Week 4 - Convolutional Neural Networks
 
 ### <a name="week4.1"></a>Week 4.1 - Convolutional Neural Networks (9/21)
+- AI in the news
+  - [Police to Deploy Snitch Bots That Search for 'Undesirable Social Behaviors'](https://gizmodo.com/singapore-police-to-deploy-snitch-bots-that-search-for-1847629866)
+  - [Pandemic Robots Deployed in Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679)
+  - [Police use Tesla's autopilot to stop the car after drunk driver passes out](https://boingboing.net/2021/09/20/police-use-teslas-autopilot-to-stop-the-car-after-drunk-driver-passes-out.html)
+  
 - Introduction to Visual tools continued
 
 - Machine learning on our lab computers
