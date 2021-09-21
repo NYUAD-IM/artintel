@@ -342,7 +342,7 @@ Class examples:
 ### <a name="week7.1"></a>Week 7.1 (10/12) - Visual Project presentations
 - In-class presentations of Visual Project
 
-#### Homework (due before start of next class, after the break)
+#### Homework (due before start of next class)
 - **Find** an inspirational work using AI for sound/text generation
 - **Find** a tool or technique that you would like to use / learn more about / find interesting
 - **Write** 2-3 paragraphs about the inspirational work and tool in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
