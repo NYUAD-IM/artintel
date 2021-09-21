@@ -199,13 +199,13 @@ Class examples:
   
 - Introduction to Visual tools continued
 
-- Machine learning on our lab computers
-  - [Lab Computer access](LabComputers.md)
-  - [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
-  
-- Machine learning in the browser
-  - [ml5.js](https://ml5js.org/)
-  - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)  
+  - Machine learning on our lab computers
+    - [Lab Computer access](LabComputers.md)
+    - [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
+
+  - Machine learning in the browser
+    - [ml5.js](https://ml5js.org/)
+    - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)  
 
   
 - How convolutional neural networks work
