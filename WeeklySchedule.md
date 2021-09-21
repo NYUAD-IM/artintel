@@ -177,6 +177,9 @@ Class examples:
     - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
     - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
 
+## <a name="week4"></a>Week 4 - Convolutional Neural Networks
+
+### <a name="week4.1"></a>Week 4.1 - Convolutional Neural Networks (9/21)
 - Introduction to Visual tools  
   
 - Class tools
@@ -195,19 +198,9 @@ Class examples:
   
 - Machine learning in the browser
   - [ml5.js](https://ml5js.org/)
-  - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
-
-
-
-- **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Start** developing ideas for the Visual Project
-  and be prepared to share your idea next class
-- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
-
-
-## <a name="week4"></a>Week 4 - Convolutional Neural Networks
-
-### <a name="week4.1"></a>Week 4.1 - Convolutional Neural Networks (9/21)
+  - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)  
+  
+  
 - How convolutional neural networks work
 - Examples of convolutional neural networks
   - StyleGAN
@@ -223,8 +216,15 @@ Class examples:
   - [Convolutional Neural Network Colab](https://colab.research.google.com/github/NYUAD-IM/artintel/blob/master/Code/Week_04/Convolutional_Neural_Network.ipynb#scrollTo=Iv1SLDu_bYXh)
   - [ConvNetJS digit classification demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
   - [ml5js - GPU accelerated JavaScript in the browser](https://learn.ml5js.org/#/)
+  
+- **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Start** developing ideas for the Visual Project
+  and be prepared to share your idea next class
+- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
+
 
 ### <a name="week4.2"></a>Week 4.2 -  Neural Network Training (9/23)
+- Share project ideas
 
 - Neural Network Training References
   - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
