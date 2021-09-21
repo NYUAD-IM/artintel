@@ -169,17 +169,14 @@ Class examples:
 - (Optional) Read and try the neural network "from scratch" code in [Make Your Own Neural Network Chapter 2](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file)
   - [GitHub repository with examples](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 
-### <a name="week3.2"></a>Week 3.2 -  (9/16)
+### <a name="week3.2"></a>Week 3.2 - Introduction to Visual tools (9/16)
 - Review homework
   
 - Discuss Visual Project
   - [Visual Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-2-visual-due-last-class-before-spring-break-1014")
     - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
     - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
-
-## <a name="week4"></a>Week 4 - Convolutional Neural Networks
-
-### <a name="week4.1"></a>Week 4.1 - Convolutional Neural Networks (9/21)
+  
 - Introduction to Visual tools  
   
 - Class tools
@@ -191,7 +188,12 @@ Class examples:
     - [VQGAN+Clip with WikiArt GAN - DALL-E alternative (Colab)](https://colab.research.google.com/drive/1kUVn_pkm83nCWFNAQxNzSS9glxHkZi1Z?usp=sharing)
       - There are English versions of this Colab available, the version above is working with the model from WikiArt. See [Generating AI “Art” with VQGAN+CLIP](https://learn.adafruit.com/generating-ai-art-with-vqgan-clip) for instructions
       - Inspired by [OpenAI DALL-E text to image](https://openai.com/blog/dall-e/)
-  
+
+## <a name="week4"></a>Week 4 - Convolutional Neural Networks
+
+### <a name="week4.1"></a>Week 4.1 - Convolutional Neural Networks (9/21)
+- Introduction to Visual tools continued
+
 - Machine learning on our lab computers
   - [Lab Computer access](LabComputers.md)
   - [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
@@ -199,7 +201,7 @@ Class examples:
 - Machine learning in the browser
   - [ml5.js](https://ml5js.org/)
   - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)  
-  
+
   
 - How convolutional neural networks work
 - Examples of convolutional neural networks
@@ -254,8 +256,6 @@ Class examples:
 
 ### <a name="week5.2"></a>Week 5.2 - Visual Tools (9/30)
 
-<!--
--->
 - Links for project tools
   - [Manga GAN](https://github.com/nikitaa30/Manga-GAN)
   - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) for making Deep Fake videos
