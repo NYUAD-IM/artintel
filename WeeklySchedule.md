@@ -244,11 +244,16 @@ Class examples:
   - [How to Train StyleGAN to Generate Realistic Faces](https://towardsdatascience.com/how-to-train-stylegan-to-generate-realistic-faces-d4afca48e705)
     - (Advanced)[Training a GAN from your Own Images: StyleGAN2 ADA (YouTube)](https://www.youtube.com/watch?v=kbDd5lW6rkM)
   - [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
+  
+- Overview of Brightspace Reading Responses
+  - Post your reading response as a new thread in the Brightspace Discussion Topic for that reading
 
 #### Homework (due before start of next class)
   - **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
-  - **Write** 3-4 paragraphs of response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
-
+and AI develops more capabilities? How will the relationship between humans and machines change?
+  - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/268945/View)
+    - How far do you think we are towards Artificial General Intelligence? What are some of the changes (positive and negative) you see coming as machine learning 
+  
 ## <a name="week5"></a>Week 5 - Neural Network Training
 
 ### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (9/28)
