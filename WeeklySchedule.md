@@ -241,6 +241,8 @@ Class examples:
   - [ml4a Demos](https://ml4a.github.io/demos/)
   - [ml5js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
   - [MobileNet details](https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69)
+  - [How to Train StyleGAN to Generate Realistic Faces](https://towardsdatascience.com/how-to-train-stylegan-to-generate-realistic-faces-d4afca48e705)
+    - (Advanced)[Training a GAN from your Own Images: StyleGAN2 ADA (YouTube)](https://www.youtube.com/watch?v=kbDd5lW6rkM)
   - [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
 
 #### Homework (due before start of next class)
