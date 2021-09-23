@@ -265,6 +265,8 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
   - [Simple image classifier in-browser using ml5.js](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
   - [More ML4A in-browser demos](https://ml4a.github.io/demos/)
+  - [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/)
+    - Demonstrates how slight differences in the neural network layout force the network to learn higher-level patterns. e.g. original StyleGAN2 became trained to absolute pixel coordinates.
 
 <!-- add training exercise -->
 
