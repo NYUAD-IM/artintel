@@ -258,7 +258,6 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (9/28)
 - Discussion: The AI Revolution
-- Review Visual Project ideas
 - Practical aspects of training
 - Examples
   - [GAN Training Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb?authuser=2)
@@ -269,9 +268,24 @@ and AI develops more capabilities? How will the relationship between humans and 
     - Demonstrates how slight differences in the neural network layout force the network to learn higher-level patterns. e.g. original StyleGAN2 became trained to absolute pixel coordinates.
 
 <!-- add training exercise -->
+  
+#### Homework (due before start of next class)
+  - **Read** the following articles and be ready to discuss in class
+    - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
+    - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+    - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
 
 
-### <a name="week5.2"></a>Week 5.2 - Visual Tools (9/30)
+### <a name="week5.2"></a>Week 5.2 - Guest Lecture - Joerg Blumtritt (9/30)
+  - Guest Lecture with [Joerg Blumtritt](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/faculty/joerg-blumtritt.html)
+  - Discussion including these topics:
+    - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
+    - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+    - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
+
+  
+  
+<!--
 
 - Links for project tools
   - [Manga GAN](https://github.com/nikitaa30/Manga-GAN)
@@ -292,6 +306,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 #### Homework (due before start of next class)
 - **Read** [The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/)
 - **Write** 3-4 paragraphs of response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
+-->
 
 
 ## <a name="week6"></a>Week 6 - Visual tools
