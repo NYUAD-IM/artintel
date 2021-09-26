@@ -131,7 +131,7 @@ Class examples:
 - **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 
 
-### <a name="week2.2"></a>Week 2.2 (9/9)
+### <a name="week2.2"></a>Week 2.2 Neural Networks (9/9)
 - Neural Networks
   - [Professor’s perceptron paved the way for AI – 60 years too soon](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)
   - [Perceptron (Wikipedia)](https://en.wikipedia.org/wiki/Perceptron)
