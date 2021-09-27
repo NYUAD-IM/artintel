@@ -99,6 +99,7 @@
 - Lecture references:
   - [Critical Design - Dunne & Raby](http://dunneandraby.co.uk/content/bydandr/13/0)
   - [Speculative Design - Inside Design](https://www.invisionapp.com/inside-design/speculative-design/)
+  - [The Futures Cone, use and history](https://thevoroscope.com/2017/02/24/the-futures-cone-use-and-history/)
   - [Stealing from the future with speculative design](https://uxdesign.cc/stealing-from-the-future-with-speculative-design-e769059b6689)
   - [Robotic Feral Dogs - Natalie Jeremijenko](https://inhabitat.com/robotic-pollution-sniffing-eco-dogs/robotic-pollution-sniffing-eco-dogs-robotic-feral-dogs-robo-eco-dogs-robo-pollution-sniffing-dogs-natalie-jeremijenko-jeff-warren-diego-rotalde-feral-robots-robotic-design-robotic-eco-dogs-4/)
   - [Here's a Baby VR Headset for the Parents of the Future - Stuart Candy](https://www.vice.com/en_au/article/d38adx/baby-vr-headset-future-parents-stuart-candy)
@@ -107,34 +108,55 @@
   - Product References:
       - [Neuralink product page](https://neuralink.com/applications/)
       - [AI meeting scheduler](https://x.ai/)
+  
+Class examples:
+  - [iPhone Deep Fusion image processing](https://cdn.vox-cdn.com/thumbor/tlZw5DfFLzhsEYjW7SNhJFSH0Cg=/0x0:2000x1333/1200x0/filters:focal(0x0:2000x1333):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19187275/lcimg_e39768f8_e95b_4100_b3e7_e2b009bc429d.jpg)
+  - [A collection of pre-trained StyleGAN 2 models to download](https://pythonawesome.com/a-collection-of-pre-trained-stylegan-2-models-to-download/)
+    - See the difference in quality of faces compared to horses
+  - Uncanny Valley
+    - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
+      - [The Uncanny Valley: The Original Essay by Masahiro Mori](https://spectrum.ieee.org/the-uncanny-valley)
+    - [Honda's new ASIMO robot, more human-like than ever](https://phys.org/news/2014-04-honda-asimo-robot-human-like.html) 2014
+    - [Sophia, Hanson Robotics’ most advanced human-like robot](https://www.hansonrobotics.com/sophia/)
+      - [The agony of Sophia, the world's first robot citizen condemned to a lifeless career in marketing (Wired)](https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics)
+    - [This person does not exist](https://thispersondoesnotexist.com/)
+    - [lilmequela Instagram influencer - 🤖 19-year-old Robot living in LA 💖 (Instagram)](https://www.instagram.com/lilmiquela/?hl=en)
+  - Neuralink
+    - [Elon Musk's Neuralink monkey brain demo explained (YouTube)](https://www.youtube.com/watch?v=3Ya-bAYri84)
+    - [Elon Musk's Neuralink 'shows monkey playing Pong with mind' (BBC)[https://www.bbc.com/news/technology-56688812]
+  - [A Facebook-scale simulator to detect harmful behaviors (Facebook AI)](https://ai.facebook.com/blog/a-facebook-scale-simulator-to-detect-harmful-behaviors/)
 
 #### Homework (due before start of next class)
 - **Read**
   - [Speculative Everything](https://readings.design/PDF/speculative-everything.pdf)
     - Read Chapter 1, Chapter 2 (pages 11-16), Chapter 3
 - **Review** the [Speculative Design Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-1-speculative-design-due-921)
-- **Make your group** for the Speculative Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1qNrM-y9v7d1bLEWM8vftXMykj4tTjqwPNhAC_C-2Sm8/edit?usp=sharing)
+- **Make your group** for the Speculative Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for a speculative design project about future applications of AI and be prepared to share your idea next class
 - **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 
 
-### <a name="week2.2"></a>Week 2.2 (9/9)
+### <a name="week2.2"></a>Week 2.2 Neural Networks (9/9)
 - Neural Networks
+  - [Professor’s perceptron paved the way for AI – 60 years too soon](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)
+  - [Perceptron (Wikipedia)](https://en.wikipedia.org/wiki/Perceptron)
+  - [Neural Networks (ml4a)](https://ml4a.github.io/ml4a/neural_networks/)
+  - [What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/)
 - Classification Using Neural Networks
   - [Classification of Rock, Paper, Scissors ](https://www.youtube.com/watch?v=KNAWp2S3w94&feature=youtu.be&t=50)
-- Introduction to neural network training
-- Colab / Neural Network Workshop
-- Colab examples
-  - https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb
+<!-- - Introduction to neural network training -->
+  
 
 #### Homework (due before start of next class)
 - Finish your Speculative Design Project and be ready to present in class
+  - Refer to [Projects - Speculative Design Project](Projects.md#projects) for the detailed requirements
 
 
 ## <a name="week3"></a>Week 3 - Speculative Design Presentations / Visual Project Introduction
 
 ### <a name="week3.1"></a>Week 3.1 - Speculative Design Project Presentations (9/14)
 - Speculative Design Project Presentations
+  - Give a 5-10 minute presentation of your project and be prepared for feedback from the class
 
 <!--
 ### <a name="week3.2"></a>Week 3.2 - Speculative Design Workshop (9/16)
@@ -142,6 +164,7 @@
 - Start working on the design ideas
 
 -->
+
 
 #### Homework (due before start of next class)
 - **Create** a new image or other output using one of these Colab notebooks (try to use one of your own input images rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
@@ -151,24 +174,45 @@
 - (Optional) Read and try the neural network "from scratch" code in [Make Your Own Neural Network Chapter 2](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file)
   - [GitHub repository with examples](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 
-### <a name="week3.2"></a>Week 3.2 -  (9/16)
+### <a name="week3.2"></a>Week 3.2 - Introduction to Visual tools (9/16)
 - Review homework
+  
 - Discuss Visual Project
   - [Visual Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-2-visual-due-last-class-before-spring-break-1014")
     - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
     - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
-
-- Introduction to Visual tools
-
-- **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Start** developing ideas for the Visual Project
-  and be prepared to share your idea next class
-- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
-
+  
+- Introduction to Visual tools  
+  
+- Class tools
+  - Colab / Neural Network Introduction
+    - [Colab Introduction (Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+    - [Deep Learning Basics (Colab)](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
+    - [Python Tutorial With Google Colab (Colab)](https://colab.research.google.com/drive/1sLkLW3H3PbSC1kyeNNt5WpQivcYqBg69?usp=sharing)
+  
+    - [VQGAN+Clip with WikiArt GAN - DALL-E alternative (Colab)](https://colab.research.google.com/drive/1kUVn_pkm83nCWFNAQxNzSS9glxHkZi1Z?usp=sharing)
+      - There are English versions of this Colab available, the version above is working with the model from WikiArt. See [Generating AI “Art” with VQGAN+CLIP](https://learn.adafruit.com/generating-ai-art-with-vqgan-clip) for instructions
+      - Inspired by [OpenAI DALL-E text to image](https://openai.com/blog/dall-e/)
 
 ## <a name="week4"></a>Week 4 - Convolutional Neural Networks
 
 ### <a name="week4.1"></a>Week 4.1 - Convolutional Neural Networks (9/21)
+- AI in the news
+  - [Police to Deploy Snitch Bots That Search for 'Undesirable Social Behaviors'](https://gizmodo.com/singapore-police-to-deploy-snitch-bots-that-search-for-1847629866)
+  - [Pandemic Robots Deployed in Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679)
+  - [Police use Tesla's autopilot to stop the car after drunk driver passes out](https://boingboing.net/2021/09/20/police-use-teslas-autopilot-to-stop-the-car-after-drunk-driver-passes-out.html)
+  
+- Introduction to Visual tools continued
+
+  - Machine learning on our lab computers
+    - [Lab Computer access](LabComputers.md)
+    - [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
+
+  - Machine learning in the browser
+    - [ml5.js](https://ml5js.org/)
+    - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)  
+
+  
 - How convolutional neural networks work
 - Examples of convolutional neural networks
   - StyleGAN
@@ -179,13 +223,22 @@
   - [Convolution demo](https://ml4a.github.io/demos/convolution/)
   - [Convolution all filters demo](https://ml4a.github.io/demos/convolution_all/)
   - [ConvNet viewer](https://ml4a.github.io/guides/ConvnetViewer/)
+  - [Convolutional Neural Network Visualization by Otavio Good (YouTube)](https://www.youtube.com/watch?v=f0t-OCG79-U)
   - [WaveNet audio generation](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
   - [StyleGAN explanation](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
   - [Convolutional Neural Network Colab](https://colab.research.google.com/github/NYUAD-IM/artintel/blob/master/Code/Week_04/Convolutional_Neural_Network.ipynb#scrollTo=Iv1SLDu_bYXh)
+  - [OpenAI Microscope](https://openai.com/blog/microscope/)
+    - [Inception 1 - Deep Dream](https://microscope.openai.com/models/inceptionv1?models.technique=deep_dream)
   - [ConvNetJS digit classification demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
-  - [ml5js - GPU accelerated JavaScript in the browser](https://learn.ml5js.org/#/)
+  
+- **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Start** developing ideas for the Visual Project
+  and be prepared to share your idea next class
+- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
+
 
 ### <a name="week4.2"></a>Week 4.2 -  Neural Network Training (9/23)
+- Share project ideas
 
 - Neural Network Training References
   - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
@@ -193,30 +246,52 @@
   - [ml4a Demos](https://ml4a.github.io/demos/)
   - [ml5js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
   - [MobileNet details](https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69)
+  - [How to Train StyleGAN to Generate Realistic Faces](https://towardsdatascience.com/how-to-train-stylegan-to-generate-realistic-faces-d4afca48e705)
+    - (Advanced)[Training a GAN from your Own Images: StyleGAN2 ADA (YouTube)](https://www.youtube.com/watch?v=kbDd5lW6rkM)
+  - [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
+  
+- Overview of Brightspace Reading Responses
+  - Post your reading response as a new thread in the Brightspace Discussion Topic for that reading
 
 #### Homework (due before start of next class)
   - **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
-  - **Write** 3-4 paragraphs of response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
-
+and AI develops more capabilities? How will the relationship between humans and machines change?
+  - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/268945/View)
+    - How far do you think we are towards Artificial General Intelligence? What are some of the changes (positive and negative) you see coming as machine learning 
+  
 ## <a name="week5"></a>Week 5 - Neural Network Training
 
 ### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (9/28)
 - Discussion: The AI Revolution
-- Review Visual Project ideas
 - Practical aspects of training
 - Examples
   - [GAN Training Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb?authuser=2)
   - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
   - [Simple image classifier in-browser using ml5.js](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
   - [More ML4A in-browser demos](https://ml4a.github.io/demos/)
+  - [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/)
+    - Demonstrates how slight differences in the neural network layout force the network to learn higher-level patterns. e.g. original StyleGAN2 became trained to absolute pixel coordinates.
 
 <!-- add training exercise -->
+  
+#### Homework (due before start of next class)
+  - **Read** the following articles and be ready to discuss in class
+    - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
+    - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+    - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
 
 
-### <a name="week5.2"></a>Week 5.2 - Visual Tools (9/30)
+### <a name="week5.2"></a>Week 5.2 - Guest Lecture - Joerg Blumtritt (9/30)
+  - Guest Lecture with [Joerg Blumtritt](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/faculty/joerg-blumtritt.html)
+  - Discussion including these topics:
+    - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
+    - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+    - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
 
+  
+  
 <!--
--->
+
 - Links for project tools
   - [Manga GAN](https://github.com/nikitaa30/Manga-GAN)
   - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) for making Deep Fake videos
@@ -236,6 +311,7 @@
 #### Homework (due before start of next class)
 - **Read** [The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/)
 - **Write** 3-4 paragraphs of response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
+-->
 
 
 ## <a name="week6"></a>Week 6 - Visual tools
@@ -295,7 +371,7 @@
 ### <a name="week7.1"></a>Week 7.1 (10/12) - Visual Project presentations
 - In-class presentations of Visual Project
 
-#### Homework (due before start of next class, after the break)
+#### Homework (due before start of next class)
 - **Find** an inspirational work using AI for sound/text generation
 - **Find** a tool or technique that you would like to use / learn more about / find interesting
 - **Write** 2-3 paragraphs about the inspirational work and tool in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
