@@ -22,7 +22,9 @@ https://brightspace.nyu.edu/d2l/home/110671
 
 [Projects](Projects.md)
 
-[Reading responses](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing) - sign in with NYU account for access
+[Reading Responses (Brightspace)](https://brightspace.nyu.edu/d2l/le/110671/discussions/List) - sign in with NYU account for access
+
+[Useful Colabs](Colabs.md)
 
 
 **Discord channel #artintel:** invite on [Brightspace](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5693439)
