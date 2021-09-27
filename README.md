@@ -24,7 +24,7 @@ https://brightspace.nyu.edu/d2l/home/110671
 
 [Reading Responses (Brightspace)](https://brightspace.nyu.edu/d2l/le/110671/discussions/List) - sign in with NYU account for access
 
-[Useful Colabs](Colabs.md)
+[Useful Colabs](UsefulColabs.md)
 
 
 **Discord channel #artintel:** invite on [Brightspace](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5693439)

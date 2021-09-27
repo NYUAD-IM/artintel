@@ -4,8 +4,8 @@
 * [Week 2 - Speculative Design / Neural Networks](#week2)
 * [Week 3 - Speculative Design Project Due (9/14) / Visual Project Introduction](#week3)
 * [Week 4 - Convolutional Neural Networks / Neural Network Training](#week4)
-* [Week 5 - Neural Network Training / Visual Tools](#week5)
-* [Week 6 - Visual Tools / Visual Project Check-in](#week6)
+* [Week 5 - Neural Network Training / Politics in AI](#week5)
+* [Week 6 - Visual Project Check-in / Bias in algorithms](#week6)
 * [Week 7 - Visual Project Due (10/12) / Sound / Text Project Introduction](#week7)
 * SPRING BREAK
 * [Week 8 - Sound / Text Tools / Ethics and Bias](#week8)
@@ -108,7 +108,7 @@
   - Product References:
       - [Neuralink product page](https://neuralink.com/applications/)
       - [AI meeting scheduler](https://x.ai/)
-  
+
 Class examples:
   - [iPhone Deep Fusion image processing](https://cdn.vox-cdn.com/thumbor/tlZw5DfFLzhsEYjW7SNhJFSH0Cg=/0x0:2000x1333/1200x0/filters:focal(0x0:2000x1333):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19187275/lcimg_e39768f8_e95b_4100_b3e7_e2b009bc429d.jpg)
   - [A collection of pre-trained StyleGAN 2 models to download](https://pythonawesome.com/a-collection-of-pre-trained-stylegan-2-models-to-download/)
@@ -145,7 +145,7 @@ Class examples:
 - Classification Using Neural Networks
   - [Classification of Rock, Paper, Scissors ](https://www.youtube.com/watch?v=KNAWp2S3w94&feature=youtu.be&t=50)
 <!-- - Introduction to neural network training -->
-  
+
 
 #### Homework (due before start of next class)
 - Finish your Speculative Design Project and be ready to present in class
@@ -176,20 +176,20 @@ Class examples:
 
 ### <a name="week3.2"></a>Week 3.2 - Introduction to Visual tools (9/16)
 - Review homework
-  
+
 - Discuss Visual Project
   - [Visual Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-2-visual-due-last-class-before-spring-break-1014")
     - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
     - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
-  
+
 - Introduction to Visual tools  
-  
+
 - Class tools
   - Colab / Neural Network Introduction
     - [Colab Introduction (Colab](https://colab.research.google.com/notebooks/intro.ipynb)
     - [Deep Learning Basics (Colab)](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
     - [Python Tutorial With Google Colab (Colab)](https://colab.research.google.com/drive/1sLkLW3H3PbSC1kyeNNt5WpQivcYqBg69?usp=sharing)
-  
+
     - [VQGAN+Clip with WikiArt GAN - DALL-E alternative (Colab)](https://colab.research.google.com/drive/1kUVn_pkm83nCWFNAQxNzSS9glxHkZi1Z?usp=sharing)
       - There are English versions of this Colab available, the version above is working with the model from WikiArt. See [Generating AI “Art” with VQGAN+CLIP](https://learn.adafruit.com/generating-ai-art-with-vqgan-clip) for instructions
       - Inspired by [OpenAI DALL-E text to image](https://openai.com/blog/dall-e/)
@@ -201,7 +201,7 @@ Class examples:
   - [Police to Deploy Snitch Bots That Search for 'Undesirable Social Behaviors'](https://gizmodo.com/singapore-police-to-deploy-snitch-bots-that-search-for-1847629866)
   - [Pandemic Robots Deployed in Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679)
   - [Police use Tesla's autopilot to stop the car after drunk driver passes out](https://boingboing.net/2021/09/20/police-use-teslas-autopilot-to-stop-the-car-after-drunk-driver-passes-out.html)
-  
+
 - Introduction to Visual tools continued
 
   - Machine learning on our lab computers
@@ -212,7 +212,7 @@ Class examples:
     - [ml5.js](https://ml5js.org/)
     - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)  
 
-  
+
 - How convolutional neural networks work
 - Examples of convolutional neural networks
   - StyleGAN
@@ -230,7 +230,7 @@ Class examples:
   - [OpenAI Microscope](https://openai.com/blog/microscope/)
     - [Inception 1 - Deep Dream](https://microscope.openai.com/models/inceptionv1?models.technique=deep_dream)
   - [ConvNetJS digit classification demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
-  
+
 - **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for the Visual Project
   and be prepared to share your idea next class
@@ -249,7 +249,7 @@ Class examples:
   - [How to Train StyleGAN to Generate Realistic Faces](https://towardsdatascience.com/how-to-train-stylegan-to-generate-realistic-faces-d4afca48e705)
     - (Advanced)[Training a GAN from your Own Images: StyleGAN2 ADA (YouTube)](https://www.youtube.com/watch?v=kbDd5lW6rkM)
   - [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
-  
+
 - Overview of Brightspace Reading Responses
   - Post your reading response as a new thread in the Brightspace Discussion Topic for that reading
 
@@ -257,14 +257,31 @@ Class examples:
   - **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 and AI develops more capabilities? How will the relationship between humans and machines change?
   - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/268945/View)
-    - How far do you think we are towards Artificial General Intelligence? What are some of the changes (positive and negative) you see coming as machine learning 
-  
+    - How far do you think we are towards Artificial General Intelligence? What are some of the changes (positive and negative) you see coming as machine learning
+
 ## <a name="week5"></a>Week 5 - Neural Network Training
 
 ### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (9/28)
+- Schedule update
 - Discussion: The AI Revolution
-- Practical aspects of training
-- Examples
+
+- [Useful Colabs](UsefulColabs.md)
+- Lab access
+- Command-line / Python / Lab Computers
+
+- [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
+  - Training example using SampleRNN
+    - [https://github.com/mangtronix/samplernn-pytorch](https://github.com/mangtronix/samplernn-pytorch)
+
+  - [tmux: The 10 Most Important Commands](https://danielmiessler.com/study/tmux/)
+  - [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
+  - [How to Send Push Notifications to Your Phone From Any Script](https://medium.com/better-programming/how-to-send-push-notifications-to-your-phone-from-any-script-6b70e34748f6)
+  - [IFTTT - If This, Then That](https://ifttt.com/)
+  - [FileZilla SFTP client](https://filezilla-project.org/)
+
+
+
+- Training Examples
   - [GAN Training Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb?authuser=2)
   - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
   - [Simple image classifier in-browser using ml5.js](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
@@ -273,7 +290,7 @@ and AI develops more capabilities? How will the relationship between humans and 
     - Demonstrates how slight differences in the neural network layout force the network to learn higher-level patterns. e.g. original StyleGAN2 became trained to absolute pixel coordinates.
 
 <!-- add training exercise -->
-  
+
 #### Homework (due before start of next class)
   - **Read** the following articles and be ready to discuss in class
     - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
@@ -288,8 +305,14 @@ and AI develops more capabilities? How will the relationship between humans and 
     - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
     - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
 
-  
-  
+#### Homework (due before start of next class 10/5)
+- **Work** on your Visual Project
+- **Prepare** to share your idea at our next class together on 10/7
+  - What is your latest idea?
+  - What Colabs / software are you using?
+  - Is there anything you need help with? Feel free to ask on Discord as you go!
+
+
 <!--
 
 - Links for project tools
@@ -308,30 +331,31 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 
 
-#### Homework (due before start of next class)
-- **Read** [The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/)
-- **Write** 3-4 paragraphs of response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
 -->
 
 
 ## <a name="week6"></a>Week 6 - Visual tools
 
-### <a name="week6.1"></a>Week 6 - Command-line / Python / Lab Computer Workshop (10/5)
-- Reading discussion - The Politics of Images in Machine Learning Training Sets
+### <a name="week6.1"></a>Visual Project Check-In
+- Project idea discussion and feedback
 
-- [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
-  - Training example using SampleRNN
-    - [https://github.com/mangtronix/samplernn-pytorch](https://github.com/mangtronix/samplernn-pytorch)
 
-  - [tmux: The 10 Most Important Commands](https://danielmiessler.com/study/tmux/)
-  - [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
-  - [How to Send Push Notifications to Your Phone From Any Script](https://medium.com/better-programming/how-to-send-push-notifications-to-your-phone-from-any-script-6b70e34748f6)
-  - [IFTTT - If This, Then That](https://ifttt.com/)
-  - [FileZilla SFTP client](https://filezilla-project.org/)
+#### Homework (due before start of next class)
+  - **Read** [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.biennial.com/journal/issue-9/excavating-ai-the-politics-of-images-in-machine-learning-training-sets)
+and AI develops more capabilities? How will the relationship between humans and machines change?
+  - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/269790/View)
+
 
 
 ### <a name="week6.2"></a>Week 6 - Visual Project Check-in (10/7)
-- Visual Project check-in
+- Reading discussion - The Politics of Images in Machine Learning Training Sets
+- [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
+
+#### Homework (due before start of next class)
+- **Finish** your Visual Project
+- **Add** the links to your project and documentation to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Prepare a 5 minute presentation of your project and be ready to receive and give feedback
+
 
 <!--
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
