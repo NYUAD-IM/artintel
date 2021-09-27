@@ -49,7 +49,7 @@ $ pip install chromedriver-autoinstaller
 Get the Chromedriver that matches your currently installed version of Chrome and save the path into a shell variable.
 You need to run this each time you login / make a new shell
 ````bash
-$ CHROMEDRIVER = `python -c "import chromedriver_autoinstaller; print(chromedriver_autoinstaller.install())"`
+$ CHROMEDRIVER=`python -c "import chromedriver_autoinstaller; print(chromedriver_autoinstaller.install())"`
 ````
 
 On Mac you may need to get `chromedriver` out of quarantine before running it the first time.
