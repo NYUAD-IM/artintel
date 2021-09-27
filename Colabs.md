@@ -9,6 +9,7 @@ Also see [12 Colab Notebooks that matter
 - [What is Colaboratory?](https://colab.research.google.com/notebooks/intro.ipynb)
 - [Python Tutorial With Google Colab](https://colab.research.google.com/drive/1sLkLW3H3PbSC1kyeNNt5WpQivcYqBg69?usp=sharing)
 - [Deep Learning Basics](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
+- [Basic classification: Classify images of clothing](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb)
 
 ## Image Generation
 
