@@ -1,6 +1,6 @@
 # Image scraping
 
-## Scraping Google Images (2020-10)
+## Scraping Google Images (2021-09)
 
 Install [google-images-download](https://github.com/hardikvasa/google-images-download) from the source repository
 
@@ -30,6 +30,7 @@ $ ls downloads/cats/
 Downloading more than 100 images requires installing Chromedriver to automatically scroll
 through the Google image search results.
 
+<!--
 Download [Chromedriver](https://chromedriver.chromium.org/)
 
 You should have the file `chromedriver`. Pass the path to this file when running the command.
@@ -38,11 +39,29 @@ On Mac you need to get `chromedriver` out of quarantine before running it the fi
 ````bash
 $ xattr -d com.apple.quarantine chromedriver
 ````
+-->
+
+Install chromedriver-autoinstaller
+````bash
+$ pip install chromedriver-autoinstaller
+````
+
+Get the Chromedriver that matches your currently installed version of Chrome and save the path into a shell variable.
+You need to run this each time you login / make a new shell
+````bash
+$ CHROMEDRIVER = `python -c import chromedriver_autoinstaller; print(chromedriver_autoinstaller.install())`
+$ echo Installed Chromedriver to $CHROMEDRIVER
+````
+
+On Mac you may need to get `chromedriver` out of quarantine before running it the first time.
+````bash
+$ xattr -d com.apple.quarantine $CHROMEDRIVER
+````
 
 
 Get 200 images for "cats".
 ````bash
-$ googleimagesdownload -k cats -l 200 --chromedriver ~/Downloads/chromedriver
+$ googleimagesdownload -k cats -l 200 --chromedriver $CHROMEDRIVER
 ````
 
 ## Browser Extensions
