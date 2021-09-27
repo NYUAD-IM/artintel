@@ -1,5 +1,10 @@
 # Image scraping
 
+## icrawler
+icrawler supports image scraping from several different sites (Google, Flickr, any arbitrary site)
+
+https://icrawler.readthedocs.io/en/latest/index.html#
+
 ## Scraping Google Images (2021-09)
 
 Install [google-images-download](https://github.com/hardikvasa/google-images-download) from the source repository
