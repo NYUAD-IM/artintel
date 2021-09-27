@@ -43,7 +43,7 @@ $ xattr -d com.apple.quarantine chromedriver
 
 Install chromedriver-autoinstaller
 ````bash
-$ pip install chromedriver-autoinstaller
+$ pip3 install chromedriver-autoinstaller
 ````
 
 Get the Chromedriver that matches your currently installed version of Chrome and save the path into a shell variable.
