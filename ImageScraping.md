@@ -63,6 +63,8 @@ Get 200 images for "cats".
 $ googleimagesdownload -k cats -l 200 --chromedriver $CHROMEDRIVER
 ````
 
+See the other [Input Arguments](https://google-images-download.readthedocs.io/en/latest/arguments.html) for more options.
+
 ## Browser Extensions
 
 [Image Downloader for Chrome](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj)
