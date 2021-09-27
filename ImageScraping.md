@@ -1,5 +1,7 @@
 # Image scraping
 
+Image scraping is a bit of dark art - search engines like Google often have arbitrary limits on the number of images you can search for and other image sources can be a bit messy in their organization.
+
 ## icrawler
 icrawler supports image scraping from several different sites (Google, Flickr, any arbitrary site)
 
