@@ -259,11 +259,20 @@ and AI develops more capabilities? How will the relationship between humans and 
   - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/268945/View)
     - How far do you think we are towards Artificial General Intelligence? What are some of the changes (positive and negative) you see coming as machine learning
 
-## <a name="week5"></a>Week 5 - Neural Network Training
+## <a name="week5"></a>Week 5 - Colabs and IM Lab / Politics in AI
 
 ### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (9/28)
 - Schedule update
 - Discussion: The AI Revolution
+  
+- Training Examples
+  - [GAN Training Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb?authuser=2)
+  - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
+  - [Simple image classifier in-browser using ml5.js](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
+  - [More ML4A in-browser demos](https://ml4a.github.io/demos/)
+  - [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/)
+    - Demonstrates how slight differences in the neural network layout force the network to learn higher-level patterns. e.g. original StyleGAN2 became trained to absolute pixel coordinates.
+
 
 - [Useful Colabs](UsefulColabs.md)
 - Lab access
@@ -279,15 +288,6 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [IFTTT - If This, Then That](https://ifttt.com/)
   - [FileZilla SFTP client](https://filezilla-project.org/)
 
-
-
-- Training Examples
-  - [GAN Training Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb?authuser=2)
-  - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
-  - [Simple image classifier in-browser using ml5.js](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)
-  - [More ML4A in-browser demos](https://ml4a.github.io/demos/)
-  - [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/)
-    - Demonstrates how slight differences in the neural network layout force the network to learn higher-level patterns. e.g. original StyleGAN2 became trained to absolute pixel coordinates.
 
 <!-- add training exercise -->
 
