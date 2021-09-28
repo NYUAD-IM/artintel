@@ -5,7 +5,7 @@
 * [Week 3 - Speculative Design Project Due (9/14) / Visual Project Introduction](#week3)
 * [Week 4 - Convolutional Neural Networks / Neural Network Training](#week4)
 * [Week 5 - Neural Network Training / Politics in AI](#week5)
-* [Week 6 - Visual Project Check-in / Bias in algorithms](#week6)
+* [Week 6 - Visual Project Check-in / Bias in Datasets](#week6)
 * [Week 7 - Visual Project Due (10/12) / Sound / Text Project Introduction](#week7)
 * SPRING BREAK
 * [Week 8 - Sound / Text Tools / Ethics and Bias](#week8)
@@ -335,7 +335,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 -->
 
 
-## <a name="week6"></a>Week 6 - Visual tools
+## <a name="week6"></a>Week 6 - Visual project check-in / Bias in Datasets
 
 ### <a name="week6.1"></a>Visual Project Check-In
 - Project idea discussion and feedback
@@ -348,9 +348,10 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 
 
-### <a name="week6.2"></a>Week 6 - Visual Project Check-in (10/7)
+### <a name="week6.2"></a>Week 6 - Bias in Datasets (10/7)
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
 - [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
+- [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/)
 
 #### Homework (due before start of next class)
 - **Finish** your Visual Project
