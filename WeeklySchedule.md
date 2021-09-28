@@ -4,7 +4,7 @@
 * [Week 2 - Speculative Design / Neural Networks](#week2)
 * [Week 3 - Speculative Design Project Due (9/14) / Visual Project Introduction](#week3)
 * [Week 4 - Convolutional Neural Networks / Neural Network Training](#week4)
-* [Week 5 - Neural Network Training / Politics in AI](#week5)
+* [Week 5 - Useful Colabs & IM Lab / Politics in AI](#week5)
 * [Week 6 - Visual Project Check-in / Bias in algorithms](#week6)
 * [Week 7 - Visual Project Due (10/12) / Sound / Text Project Introduction](#week7)
 * SPRING BREAK
