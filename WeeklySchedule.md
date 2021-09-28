@@ -279,7 +279,6 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [FileZilla SFTP client](https://filezilla-project.org/)
 
 
-
 - Training Examples
   - VQGAN+CLIP using 'A painting of the Tower of London by Pablo Picasso' different models
     - [VQGAN+CLIP (mangtronix) Tower by Picasso WikiArt](https://colab.research.google.com/drive/1WY4HYKErqAbrQTpmtUt96cEXEW-GjK_a?usp=sharing)
