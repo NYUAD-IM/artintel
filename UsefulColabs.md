@@ -15,14 +15,16 @@ Also see [12 Colab Notebooks that matter
 
 ### Text to Image
 
+- Create an image from a text prompt using VQGAN+CLIP
+  - [VQGAN+CLIP (mangtronix)](https://colab.research.google.com/drive/12kIHOyKKDlBNUIMOqMgNKgEQriSYGV0P?usp=sharing)
+    - Working as 2021-09-28
+  - [VQGAN+CLIP (mangtronix) - Tower by Picasso WikiArt](https://colab.research.google.com/drive/1WY4HYKErqAbrQTpmtUt96cEXEW-GjK_a?usp=sharing)
+    - Example using WikiArt GAN and starting image
+  - [VQGAN+CLIP (mangtronix) - Tower by Picasso ImageNet](https://colab.research.google.com/drive/1MMbEHFnkQXh_Cm1R_7njVjO6znkpfjps?usp=sharing)
+    - Example using ImageNet GAN and starting image
+
 - Generate a pixel art image from a text prompt using CLIP
   - [CLIPIT PixelDraw demo](https://colab.research.google.com/drive/1uya2CzekydPASALHtgrwxOekBMlaWGON?usp=sharing)
-
-- Image to text with VQGAN+CLIP
-  - [VQGAN+CLIP (with pooling).ipynb](https://colab.research.google.com/drive/1ZAus_gn2RhTZWzOWUpPERNC0Q8OhZRTZ)
-
-- Image to text using WikiArt VQGAN+CLIP
-  - [VQGAN+CLIP (z+quantize method con augmentations, interfaz amigable) - mangtronix](https://colab.research.google.com/drive/1kUVn_pkm83nCWFNAQxNzSS9glxHkZi1Z?usp=sharing)
 
 
 ### Generate faces

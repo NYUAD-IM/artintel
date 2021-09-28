@@ -267,7 +267,6 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 - [Useful Colabs](UsefulColabs.md)
 - Lab access
-- Command-line / Python / Lab Computers
 
 - [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
   - Training example using SampleRNN
@@ -282,6 +281,9 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 
 - Training Examples
+  - VQGAN+CLIP using 'A painting of the Tower of London by Pablo Picasso' different models
+    - [VQGAN+CLIP (mangtronix) Tower by Picasso WikiArt](https://colab.research.google.com/drive/1WY4HYKErqAbrQTpmtUt96cEXEW-GjK_a?usp=sharing)
+    - [VQGAN+CLIP (mangtronix) - Tower by Picasso ImageNet](https://colab.research.google.com/drive/1MMbEHFnkQXh_Cm1R_7njVjO6znkpfjps?usp=sharing)
   - [GAN Training Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb?authuser=2)
   - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
   - [Simple image classifier in-browser using ml5.js](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)

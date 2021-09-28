@@ -1,7 +1,8 @@
 # Art Intel Computers
 
 ### Access Information
-The login information is linked on the course page on [NYU Classes](https://newclasses.nyu.edu/)
+<!-- $$$ Brightspace update each semester -->
+The login information is linked on the course page on [Brightspace Lab Computer Logins](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5937697)
 
 You can connect with TeamViewer to the Linux desktop, or connect using ssh (while on the NYUAD network or using NYUAD VPN). Physical access is not currently allowed.
 
@@ -54,7 +55,7 @@ You can log into your assigned class computer remotely via SSH:
 We will use tmux for a detachable command line window. tmux commands:
 - Check if there is another session running (list sessions): `tmux ls`
 - Start a new session: `tmux new -s <YOURNAME>`
-- Detach window (while in a session): `ctrl+b` then `d` 
+- Detach window (while in a session): `ctrl+b` then `d`
 - Reattach to a session: `tmux a -t <NAMEOFSESSION>`
 - Kill a session: `tmux kill-session -t <NAMEOFSESSION>`
 -->
@@ -64,6 +65,14 @@ We will use tmux for a detachable command line window. tmux commands:
 - deactivate env: `conda deactivate`
 - list enviroments: `conda env list`
 - remove an environment: `conda remove --name <YOUR_ENV_NAME> --all`
+
+### Persistent terminal connections
+
+You can use tmux to make a persistent terminal for running long scripts. The scripts
+will keep running even if you disconnect (e.g. your wifi cuts out).
+
+- [tmux: The 10 Most Important Commands](https://danielmiessler.com/study/tmux/)
+- [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
 
 ### SFTP
 We'll use SFTP to move files between our computers and the class computers.
