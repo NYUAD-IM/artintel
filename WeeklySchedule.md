@@ -275,18 +275,30 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 
 - [Useful Colabs](UsefulColabs.md)
-- Lab access
+
+**Lab access (as of 9/28)**<br/>
+IM Lab Open Hours<br/>
+Sun: 12pm - 7pm<br/>
+Tue: 12pm - 7pm<br/>
+Thu: 1:15pm - 6pm<br/>
+
+The IM Lab is back in business and we look forward to welcoming you back during the hours listed above!
+
+Please note, we will be limited to 8 people including lab staff so please make sure you are accessing the lab to make use of its resources.
+  
 - Command-line / Python / Lab Computers
 
-- [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
-  - Training example using SampleRNN
-    - [https://github.com/mangtronix/samplernn-pytorch](https://github.com/mangtronix/samplernn-pytorch)
-
+  - [Lab computer instructions](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
+  - [Lab computer logins](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5937697)
   - [tmux: The 10 Most Important Commands](https://danielmiessler.com/study/tmux/)
   - [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
   - [How to Send Push Notifications to Your Phone From Any Script](https://medium.com/better-programming/how-to-send-push-notifications-to-your-phone-from-any-script-6b70e34748f6)
   - [IFTTT - If This, Then That](https://ifttt.com/)
   - [FileZilla SFTP client](https://filezilla-project.org/)
+
+  - Training example using SampleRNN
+    - [https://github.com/mangtronix/samplernn-pytorch](https://github.com/mangtronix/samplernn-pytorch)
+
 
 
 <!-- add training exercise -->
