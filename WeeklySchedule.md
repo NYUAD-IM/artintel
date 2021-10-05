@@ -7,7 +7,7 @@
 * [Week 5 - Neural Network Training / Politics in AI](#week5)
 * [Week 6 - Visual Project Check-in / Bias in Datasets](#week6)
 * [Week 7 - Visual Project Due (10/12) / Sound / Text Project Introduction](#week7)
-* SPRING BREAK
+* FALL BREAK
 * [Week 8 - Sound / Text Tools / Ethics and Bias](#week8)
 * [Week 9 - Present Sound / Text ideas](#week9)
 * [Week 10 - Other Techniques Sound / Autoencoders](#week10)
@@ -447,7 +447,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - **Prepare** to share your project idea next class
 
 
-## SPRING BREAK
+## FALL BREAK
 
 ### No class (10/19)
 
