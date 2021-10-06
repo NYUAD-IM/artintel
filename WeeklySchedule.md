@@ -350,6 +350,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week6.2"></a>Week 6 - Bias in Datasets (10/7)
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
+- [AI colorization (Twitter)](https://twitter.com/gwenckatz/status/1381652071695351810)
 - [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 - [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/)
 
