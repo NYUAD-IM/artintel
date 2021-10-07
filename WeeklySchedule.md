@@ -353,7 +353,11 @@ and AI develops more capabilities? How will the relationship between humans and 
 - [AI colorization (Twitter)](https://twitter.com/gwenckatz/status/1381652071695351810)
 - [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 - [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/)
-- [AI outperforms doctors at spotting breast cancer, say researchers](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
+  
+  
+- Breaking new
+  - [AI outperforms doctors at spotting breast cancer, say NYUAD researchers](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
+  - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imaging-using-ai/)
 
 #### Homework (due before start of next class)
 - **Finish** your Visual Project
