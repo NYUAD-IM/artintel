@@ -353,8 +353,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 - [AI colorization (Twitter)](https://twitter.com/gwenckatz/status/1381652071695351810)
 - [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 - [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/)
-  
-  
+
+
 - AI in the news
   - [AI outperforms doctors at spotting breast cancer, say NYUAD researchers](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
   - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imaging-using-ai/)
@@ -364,7 +364,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 #### Homework (due before start of next class)
 - **Finish** your Visual Project
 - **Add** the links to your project and documentation to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Prepare a 5 minute presentation of your project and be ready to receive and give feedback
+- **Prepare** a 5 minute presentation of your project and be ready to receive and give feedback
 
 
 <!--
@@ -408,8 +408,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 #### Homework (due before start of next class)
 - **Find** an inspirational work using AI for sound/text generation
 - **Find** a tool or technique that you would like to use / learn more about / find interesting
-- **Write** 2-3 paragraphs about the inspirational work and tool in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
-- Next class you will show the work and technique that you found to the rest of the class
+- **Write** 2-3 paragraphs about the inspirational work and tool in the [Brightspace Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/272388/View)
 
 ### <a name="week7.2"></a>Week 7.2 (10/14) - Sound / Text Project Discussion
 
@@ -417,6 +416,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 
 - **Sound / Text Project (due 11/18)**
+  - [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-1118)
   - **Create** sound / music, or text using a machine learning algorithm
   - **Put** your project URL and documentation URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
   - You can incorporate the sound / text output into a larger work, e.g. your earlier visual project, website, printed image, interactive
@@ -450,12 +450,9 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 
 - **Homework** (due before start of next class):
-  - **Review** the [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-1118)
-  - **Sign up** for Project 3 groups in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-  - **Prepare** to share your project idea next class
+  - No homework - have a great break!
 
-
-## FALL BREAK
+## FALL BREAK / FALL BREAK / FALL BREAK
 
 ### No class (10/19)
 
@@ -513,7 +510,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 <!-- $$$ add homework -->
 ### Homework (due next class)
-- **Work** on your Sound / Text Project idea and be ready to present your idea in class
+- **Sign up** for Project 3 groups in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Prepare** to share your project idea next class
 
 ## <a name="week9"></a>Week 9 - Sound / Text
 
