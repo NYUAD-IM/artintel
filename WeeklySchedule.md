@@ -575,8 +575,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Techniques for interactive machine learning
 
 #### Homework ####
-- **Sign up** for your Final Project group in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Develop** the rough idea for your final project and add it to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Sign up** for your Final Project group in Brightspace
+- **Develop** the rough idea for your final project and add it your group description in Brightspace
 
 ### <a name="week12.2"></a>Week 12 (11/25) - Final Project Check-in / Work Session
 - Final project check-in
@@ -600,6 +600,10 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week14.2"></a>Week 14.2 (12/09) - Other topics / TBD
 - Other topics TBD
+
+#### Homework ####
+- **Submit** your Final Project URL via Brightspace->Assignments->Final Project
+- **Prepare** a 5 minute presentation of your project
 
 ## <a name="week15"></a>Week 15
 
