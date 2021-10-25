@@ -488,7 +488,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 #### Homework ####
 - **Read** [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
 
-- **Read** an article about GPT-3 and write a 2-3 paragraph response in the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
+- **Read** an article about GPT-3 and write a 2-3 paragraph response in Brightspace->Discussions->Reading Responses->Week 8
   - Some suggested articles
     - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
       - [Responses on Hacker News](https://news.ycombinator.com/item?id=24003384)
@@ -498,7 +498,7 @@ and AI develops more capabilities? How will the relationship between humans and 
     - [Here Are A Few Ways GPT-3 Can Go Wrong](https://techcrunch.com/2020/08/07/here-are-a-few-ways-gpt-3-can-go-wrong/)
     - [GPT Crush (look through some examples)](http://gptcrush.com/)
 
-- **Create** a short text by prompting GPT-2/3 and **add** it to the [Google doc](https://docs.google.com/document/d/1w8jeIuuJKWnsXEtVGnN12yoCLtXhg_nX-Q1M7Ld6OuI/edit?usp=sharing). Put the prompted parts of the text you wrote in **bold**.
+- **Create** a short text by prompting GPT-2/3 and **submit** it to Brightspace->Assignments->Week 8. Put the prompted parts of the text you wrote in **bold**.
   - e.g. use [Talk to Transformer](https://app.inferkit.com/demo) or [GPT-2 Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
   - What does your text show about how the model works?
   - How does the response match with what you expected?
@@ -513,7 +513,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 <!-- $$$ add homework -->
 ### Homework (due next class)
-- **Sign up** for Project 3 groups in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Sign up** for Project 3 groups in Brightspace
 - **Prepare** to share your project idea next class
 
 ## <a name="week9"></a>Week 9 - Sound / Text
@@ -565,7 +565,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 #### Homework (due before start of next class)
 - **Create** An interactive ml5.js sketch (using the p5 editor or your own editor) that uses the webcam, uploaded image from the user, user-entered text, or other user interaction to do something interesting. You can start from one of the ml5.js examples and modify it for your own use.
-- **Write** a paragraph of text explaining your sketch and add the link to your sketch and description to the [Readings Doc](https://docs.google.com/document/d/1MWwb1x4ylSdiikkB_WQlyuZd_ytVueZV2hIFopOc5_w/edit?usp=sharing)
+- **Write** a paragraph of text explaining your sketch
+- **Submit** the link to your sketch and description to Brightspace->Assignments->Week 11 
 
 ## <a name="week12"></a>Week 12 - Interactive Applications
 
