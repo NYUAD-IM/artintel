@@ -412,8 +412,9 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week7.2"></a>Week 7.2 (10/14) - Sound / Text Project Discussion
 
+- Look at inspirational sound/text works and tools  
+  
 - Discuss Project 3 - Sound / Text
-
 
 - **Sound / Text Project (due 11/18)**
   - [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-1118)
@@ -440,13 +441,6 @@ and AI develops more capabilities? How will the relationship between humans and 
   - Recurrent Neural Networks
     - [3 minute explanation video](https://www.youtube.com/watch?v=C0xoB8L8ms0)
     - [The unreasonable effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-  - Long Short-Term Memory Neural Networks (LSTM)
-    - [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-  - GPT-2 / 3
-    - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
-    - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
-    - [Talk to transformer](https://app.inferkit.com/demo)
-    - [GPT-2 Colab - train your own text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
 
 
 - **Homework** (due before start of next class):
@@ -461,7 +455,16 @@ and AI develops more capabilities? How will the relationship between humans and 
 ## <a name="week8"></a>Week 8 - Sound and Text Tools / Ethics and Bias
 
 ### <a name="week8.1"></a>Week 8.1 Sound and Text Tools (10/26)
-- Look at inspirational sound/text works and tools
+
+  - Machine learning techniques for text
+    - Long Short-Term Memory Neural Networks (LSTM)
+    - [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  - GPT-2 / 3
+    - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
+    - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
+    - [Talk to transformer](https://app.inferkit.com/demo)
+    - [GPT-2 Colab - train your own text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
+
 
 - Machine learning techniques for sound
   - [Magenta](https://magenta.tensorflow.org/)
