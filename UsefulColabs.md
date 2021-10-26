@@ -47,7 +47,9 @@ Also see [12 Colab Notebooks that matter
 ## Generate text
 
 - Generate text using GPT-2 with uploaded text
-  - [GPT-2 Text Finetuning on uploaded text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
+  <!-- Old customized version - [GPT-2 Text Finetuning on uploaded text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing) -->
+  - [Train a GPT-2 Text-Generating Model with finetuning on your own text](https://colab.research.google.com/drive/1E44LTs0eBUJ2BXz3xa64002qvYla7Tl2?usp=sharing)
+    - Working as of 2021-10-26
 
 - Generate Arabic using GPT-2
   - [Arabic GPT2 model (small): Text Generation  + Arabic Text Classification](https://colab.research.google.com/drive/1posUGU3Qgqq1zAqKJ5tmWXmh8vnNXUiH?usp=sharing)
