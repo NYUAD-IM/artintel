@@ -463,8 +463,8 @@ and AI develops more capabilities? How will the relationship between humans and 
     - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
     - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
     - [Talk to transformer](https://app.inferkit.com/demo)
-    - [GPT-2 Colab - train your own text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
-
+    <!-- Old customized version - [GPT-2 Colab - train your own text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing) -->
+    - [GPT-2 Colab - train your own text (2021-10-26)][https://colab.research.google.com/drive/1E44LTs0eBUJ2BXz3xa64002qvYla7Tl2?usp=sharing]
 
 - Machine learning techniques for sound
   - [Magenta](https://magenta.tensorflow.org/)
