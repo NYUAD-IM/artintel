@@ -568,6 +568,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 - **Create** An interactive ml5.js sketch (using the p5 editor or your own editor) that uses the webcam, uploaded image from the user, user-entered text, or other user interaction to do something interesting. You can start from one of the ml5.js examples and modify it for your own use.
 - **Write** a paragraph of text explaining your sketch
 - **Submit** the link to your sketch and description to Brightspace->Assignments->Week 11 
+- **Sign up** for your Final Project group in Brightspace
+- **Develop** the rough idea for your final project and add it your group description in Brightspace
 
 ## <a name="week12"></a>Week 12 - Interactive Applications
 
@@ -576,8 +578,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Techniques for interactive machine learning
 
 #### Homework ####
-- **Sign up** for your Final Project group in Brightspace
-- **Develop** the rough idea for your final project and add it your group description in Brightspace
+- **Work** on the idea for your final project
 
 ### <a name="week12.2"></a>Week 12 (11/25) - Final Project Check-in / Work Session
 - Final project check-in
