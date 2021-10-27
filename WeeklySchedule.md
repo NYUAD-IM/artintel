@@ -466,24 +466,6 @@ and AI develops more capabilities? How will the relationship between humans and 
     <!-- Old customized version - [GPT-2 Colab - train your own text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing) -->
     - [GPT-2 Colab - train your own text (2021-10-26)](https://colab.research.google.com/drive/1E44LTs0eBUJ2BXz3xa64002qvYla7Tl2?usp=sharing)
 
-- Machine learning techniques for sound
-  - [Magenta](https://magenta.tensorflow.org/)
-    - [MusicVAE: A tool for creating music with neural networks](https://medium.com/@wvsharber/musicvae-a-tool-for-creating-music-with-neural-networks-db0f4b84a698)
-    - [Piano transcription](https://magenta.tensorflow.org/onsets-frames)
-      - [Piano Scribe (In-browser using Magenta.js)](https://piano-scribe.glitch.me/)
-    - [Magenta Demos](https://magenta.tensorflow.org/demos)
-    - [Melody Mixer](https://experiments.withgoogle.com/ai/melody-mixer/view/)
-    - [Magenta Studio lets you use AI tools for inspiration in Ableton Live](https://cdm.link/2019/02/magenta-studio-ai-ableton-live/)
-  - [WaveNet A generative model for raw audio](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
-  - [Generating Audio Using Recurrent Neural Networks](https://apfalz.github.io/rnn/rnn_demo.html)
-  - [SampleRNN examples](https://soundcloud.com/samplernn)
-  - [SampleRRN code](https://github.com/Unisound/SampleRNN)
-  - [Training notes for WaveNet and RNN](https://karlhiner.com/music_generation/wavenet_and_samplernn/)
-  - [Technical: Architecture of Speech Recognition](http://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
-  - Audio deepfakes
-    - [This is what a deepfake voice clone used in a failed fraud attempt sounds like](https://www.theverge.com/2020/7/27/21339898/deepfake-audio-voice-clone-scam-attempt-nisos)
-    - [Resemble.ai - TTS and cloing](https://www.resemble.ai/)
-
 
 #### Homework ####
 - **Read** [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
@@ -509,9 +491,28 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 
 ### <a name="week8.2"></a>Week 8.2 (10/28) Ethics and Bias
+- Review texts made with GPT
 - Discuss social implications and ethics of AI and bias in Machine Learning
+  
+- Machine learning techniques for sound
+  - [Magenta](https://magenta.tensorflow.org/)
+    - [MusicVAE: A tool for creating music with neural networks](https://medium.com/@wvsharber/musicvae-a-tool-for-creating-music-with-neural-networks-db0f4b84a698)
+    - [Piano transcription](https://magenta.tensorflow.org/onsets-frames)
+      - [Piano Scribe (In-browser using Magenta.js)](https://piano-scribe.glitch.me/)
+    - [Magenta Demos](https://magenta.tensorflow.org/demos)
+    - [Melody Mixer](https://experiments.withgoogle.com/ai/melody-mixer/view/)
+    - [Magenta Studio lets you use AI tools for inspiration in Ableton Live](https://cdm.link/2019/02/magenta-studio-ai-ableton-live/)
+  - [WaveNet A generative model for raw audio](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
+  - [Generating Audio Using Recurrent Neural Networks](https://apfalz.github.io/rnn/rnn_demo.html)
+  - [SampleRNN examples](https://soundcloud.com/samplernn)
+  - [SampleRRN code](https://github.com/Unisound/SampleRNN)
+  - [Training notes for WaveNet and RNN](https://karlhiner.com/music_generation/wavenet_and_samplernn/)
+  - [Technical: Architecture of Speech Recognition](http://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
+  - Audio deepfakes
+    - [This is what a deepfake voice clone used in a failed fraud attempt sounds like](https://www.theverge.com/2020/7/27/21339898/deepfake-audio-voice-clone-scam-attempt-nisos)
+    - [Resemble.ai - TTS and cloing](https://www.resemble.ai/)
 
-<!-- $$$ add homework -->
+
 ### Homework (due next class)
 - **Sign up** for Project 3 groups in Brightspace
 - **Prepare** to share your project idea next class
