@@ -542,7 +542,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [‘Yeah, we’re spooked’: AI starting to have big real-world impact, says expert (The Guardian)](https://www.theguardian.com/technology/2021/oct/29/yeah-were-spooked-ai-starting-to-have-big-real-world-impact-says-expert)
   - [These historical artefacts are totally faked
  (Wired UK)](https://www.wired.co.uk/article/fake-artefacts-ai)
- - [How Artificial Intelligence Sees Art History (The Met)](https://www.metmuseum.org/perspectives/articles/2019/2/artificial-intelligence-machine-learning-art-authorship)
+  - [How Artificial Intelligence Sees Art History (The Met)](https://www.metmuseum.org/perspectives/articles/2019/2/artificial-intelligence-machine-learning-art-authorship)
 
 ### <a name="week9.2"></a>Week 9.2 - OpenAI and recent developments in AI(11/04)
 - Discuss the latest and greatest developments in machine learning / AI
