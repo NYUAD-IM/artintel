@@ -524,6 +524,13 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Review GPT responses
 - Present project ideas for Sound and Text
 
+- Sequence-to-Sequence models
+  - [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
+  - "The core idea behind the Transformer model is self-attention—the ability to attend to different positions of the input sequence to compute a representation of that sequence." [Transformer model for language understanding (Tensorflow)](https://www.tensorflow.org/text/tutorials/transformer)
+  - [Visualizing A Neural Machine Translation Model](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+  - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+  - Transformer model low level explanation
+
 - Sound / Text Tools
   - [ml5.js Sound Classifier](https://learn.ml5js.org/#/reference/sound-classifier)
     - [ml5.js speech commands demo (p5js Web Editor)](https://editor.p5js.org/codingtrain/sketches/yjtv-rAxF)
@@ -537,6 +544,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Generating Piano Music with Transformer](https://magenta.tensorflow.org/piano-transformer)
   - [Lip Syncing Videos - Wav2Lip](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/)
     - [Wav2Lip interactive demo](https://bhaasha.iiit.ac.in/lipsync/)
+    - [Wav2Lip Colab (ml4a)](https://colab.research.google.com/github/ml4a/ml4a/blob/master/examples/models/Wav2Lip.ipynb)
 
 - Discussion
   - [‘Yeah, we’re spooked’: AI starting to have big real-world impact, says expert (The Guardian)](https://www.theguardian.com/technology/2021/oct/29/yeah-were-spooked-ai-starting-to-have-big-real-world-impact-says-expert)
