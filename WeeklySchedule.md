@@ -413,7 +413,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 ### <a name="week7.2"></a>Week 7.2 (10/14) - Sound / Text Project Discussion
 
 - Look at inspirational sound/text works and tools  
-  
+
 - Discuss Project 3 - Sound / Text
 
 - **Sound / Text Project (due 11/18)**
@@ -493,7 +493,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 ### <a name="week8.2"></a>Week 8.2 (10/28) Ethics and Bias
 - Review texts made with GPT
 - Discuss social implications and ethics of AI and bias in Machine Learning
-  
+
 - Machine learning techniques for sound
   - [Magenta](https://magenta.tensorflow.org/)
     - [MusicVAE: A tool for creating music with neural networks](https://medium.com/@wvsharber/musicvae-a-tool-for-creating-music-with-neural-networks-db0f4b84a698)
@@ -521,6 +521,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week9.1"></a>Week 9.1 Present Project Ideas for Sound and Text (11/02)
 - Omar Visual Project presentation
+- Review GPT responses
 - Present project ideas for Sound and Text
 
 ### <a name="week9.2"></a>Week 9.2 - OpenAI and recent developments in AI(11/04)
@@ -568,7 +569,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 #### Homework (due before start of next class)
 - **Create** An interactive ml5.js sketch (using the p5 editor or your own editor) that uses the webcam, uploaded image from the user, user-entered text, or other user interaction to do something interesting. You can start from one of the ml5.js examples and modify it for your own use.
 - **Write** a paragraph of text explaining your sketch
-- **Submit** the link to your sketch and description to Brightspace->Assignments->Week 11 
+- **Submit** the link to your sketch and description to Brightspace->Assignments->Week 11
 - **Sign up** for your Final Project group in Brightspace
 - **Develop** the rough idea for your final project and add it your group description in Brightspace
 
