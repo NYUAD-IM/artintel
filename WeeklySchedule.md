@@ -524,6 +524,26 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Review GPT responses
 - Present project ideas for Sound and Text
 
+- Sound / Text Tools
+  - [ml5.js Sound Classifier](https://learn.ml5js.org/#/reference/sound-classifier)
+    - [ml5.js speech commands demo (p5js Web Editor)](https://editor.p5js.org/codingtrain/sketches/yjtv-rAxF)
+    - [Train a custom sound classifier](https://teachablemachine.withgoogle.com/train/audio) model using [Teachable Machine](https://teachablemachine.withgoogle.com/)
+    - [ml5.js: Sound Classification (The Coding Train / YouTube)](https://www.youtube.com/watch?v=cO4UP2dX944)
+  - [AIVA - The Artificial Intelligence composing emotional soundtrack music](https://aiva.ai/)
+  - [How to Build a Twitter Text-Generating AI Bot With GPT-2 (Max Woolf)](https://minimaxir.com/2020/01/twitter-gpt2-bot/)
+  - [GPT-J-6B live demo](https://6b.eleuther.ai/)
+    - [GPT-J-6B details](https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/)
+    - [Fun and Dystopia With AI-Based Code Generation Using GPT-J-6B (Max Woolf)](https://minimaxir.com/2021/06/gpt-j-6b/)
+  - [Generating Piano Music with Transformer](https://magenta.tensorflow.org/piano-transformer)
+  - [Lip Syncing Videos - Wav2Lip](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/)
+    - [Wav2Lip interactive demo](https://bhaasha.iiit.ac.in/lipsync/)
+
+- Discussion
+  - [‘Yeah, we’re spooked’: AI starting to have big real-world impact, says expert (The Guardian)](https://www.theguardian.com/technology/2021/oct/29/yeah-were-spooked-ai-starting-to-have-big-real-world-impact-says-expert)
+  - [These historical artefacts are totally faked
+ (Wired UK)](https://www.wired.co.uk/article/fake-artefacts-ai)
+ - [How Artificial Intelligence Sees Art History (The Met)](https://www.metmuseum.org/perspectives/articles/2019/2/artificial-intelligence-machine-learning-art-authorship)
+
 ### <a name="week9.2"></a>Week 9.2 - OpenAI and recent developments in AI(11/04)
 - Discuss the latest and greatest developments in machine learning / AI
 
