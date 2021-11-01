@@ -520,6 +520,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 ## <a name="week9"></a>Week 9 - Sound / Text
 
 ### <a name="week9.1"></a>Week 9.1 Present Project Ideas for Sound and Text (11/02)
+- Omar Visual Project presentation
 - Present project ideas for Sound and Text
 
 ### <a name="week9.2"></a>Week 9.2 - OpenAI and recent developments in AI(11/04)
