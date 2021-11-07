@@ -575,6 +575,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week10.1"></a>Week 10 (11/09) - Other techniques
 - Other techniques
+  - [Jukebox Colab](https://colab.research.google.com/drive/1zk-FqAHHmytbSSyJp0pYx1L-UVT_ffNq?usp=sharing)
 
 ### <a name="week10.2"></a>Week 10 (11/11) - Autoencoders (tentative)
 - Autoencoders
