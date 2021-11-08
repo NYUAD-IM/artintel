@@ -573,7 +573,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ## <a name="week10"></a>Week 10
 
-### <a name="week10.1"></a>Week 10 (11/09) - Other techniques
+### <a name="week10.1"></a>Week 10 (11/09) - Other techniques - Project Check-In
 - Other techniques
   - [OpenAI Jukebox](https://openai.com/blog/jukebox/)
   - [Do Electric Songwriters Dream Of Human Muses?](https://www.stereogum.com/2084173/openai-jukebox-artificial-intelligence-songs/columns/sounding-board/)
@@ -584,6 +584,17 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [OpenAI Jukebox - Mangtronix Edition](https://github.com/mangtronix/jukebox)
     - Downloadable ersion of OpenAI Jukebox with simpler usage with config files
     - Has example of generating a continuation of a song using first 5 seconds of audio, with artist, genre, and lyrics
+  
+- Lab machine access
+  - Lab machine logins
+  - Lab access
+  - TeamViewer access
+  - ssh access
+  - Installing software
+  - Running software
+  - Transferring files
+  
+- Check-in of projects group by group
 
 ### <a name="week10.2"></a>Week 10 (11/11) - Autoencoders (tentative)
 - Autoencoders
