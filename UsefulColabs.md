@@ -52,4 +52,9 @@ Also see [12 Colab Notebooks that matter
     - Working as of 2021-10-26
 
 - Generate Arabic using GPT-2
-  - [Arabic GPT2 model (small): Text Generation  + Arabic Text Classification](https://colab.research.google.com/drive/1posUGU3Qgqq1zAqKJ5tmWXmh8vnNXUiH?usp=sharing)
+  - [GPT2-Small-Arabic](https://huggingface.co/akhooli/gpt2-small-arabic)
+    - GPT2 model from Arabic Wikipedia dataset
+  - [GPT2-Small-Arabic-Poetry](https://huggingface.co/akhooli/gpt2-small-arabic-poetry) 
+    - Fine-tuned model of Arabic poetry
+  - [Arabic GPT2 model (small): Text Generation  + Arabic Text Classification (Colab)](https://colab.research.google.com/drive/1posUGU3Qgqq1zAqKJ5tmWXmh8vnNXUiH?usp=sharing)
+
