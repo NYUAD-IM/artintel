@@ -6,6 +6,20 @@ The login information is linked on the course page on [Brightspace Lab Computer 
 
 You can connect with TeamViewer to the Linux desktop, or connect using ssh (while on the NYUAD network or using NYUAD VPN). Physical access is not currently allowed.
 
+# TeamViewer
+
+[Download TeamViewer](https://www.teamviewer.com/en/)
+
+TeamViewer allows for a remote desktop connection (see Brightspace for the TeamViewer connection ID and password).
+
+You can transfer files by clicking the files icon on the TeamViewer screen.
+
+<img src="Assets/TeamViewer_file_transfer.png" width="600" alt="TeamViewer file transfer icon"/>
+
+This is an easy way to upload and download files from/to your local computer.
+<img src="Assets/TeamViewer_transfer.png" width="900" alt="TeamViewer file transfer"/>
+
+
 # Linux / Python
 Here are some tutorials to get you started with the command line and Python
 
@@ -46,8 +60,14 @@ Any changes to Python version, python libraries, etc. you want to make will happ
 **Please do NOT make changes to the system (e.g. using sudo) without asking Mang first.** If you activate your conda environment you should be able to do everything without using sudo.
 
 
+### Conda Usage
+- activate env: `conda activate <YOUR_ENV_NAME>`
+- deactivate env: `conda deactivate`
+- list enviroments: `conda env list`
+- remove an environment: `conda remove --name <YOUR_ENV_NAME> --all`
+
 ### SSH
-You can log into your assigned class computer remotely via SSH:
+You can log into your assigned class computer remotely via SSH (on campus or while using the VPN):
 - `ssh nyuad@<IPADDRESS>`
 
 <!--
@@ -60,12 +80,6 @@ We will use tmux for a detachable command line window. tmux commands:
 - Kill a session: `tmux kill-session -t <NAMEOFSESSION>`
 -->
 
-### Conda Usage
-- activate env: `conda activate <YOUR_ENV_NAME>`
-- deactivate env: `conda deactivate`
-- list enviroments: `conda env list`
-- remove an environment: `conda remove --name <YOUR_ENV_NAME> --all`
-
 ### Persistent terminal connections
 
 You can use tmux to make a persistent terminal for running long scripts. The scripts
@@ -75,7 +89,7 @@ will keep running even if you disconnect (e.g. your wifi cuts out).
 - [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
 
 ### SFTP
-We'll use SFTP to move files between our computers and the class computers.
+You can use SFTP to move files between our computers and the class computers.
 
 You can use the `sftp` command line program or GUI programs like Cyberduck.
 
