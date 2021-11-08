@@ -575,6 +575,10 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week10.1"></a>Week 10 (11/09) - Other techniques
 - Other techniques
+  - [OpenAI Jukebox](https://openai.com/blog/jukebox/)
+  - [Do Electric Songwriters Dream Of Human Muses?](https://www.stereogum.com/2084173/openai-jukebox-artificial-intelligence-songs/columns/sounding-board/)
+  - ["openai jukebox" (Twitter)](https://twitter.com/search?q=openai%20jukebox&src=typed_query)
+    - Do we see any *awesome* examples?
   - [Jukebox with audio priming, artist, genre, and lyrics (Colab)](https://colab.research.google.com/drive/1zk-FqAHHmytbSSyJp0pYx1L-UVT_ffNq?usp=sharing)
   - [Installing software on lab machines (Video)](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/6064230)
   - [OpenAI Jukebox - Mangtronix Edition](https://github.com/mangtronix/jukebox)
