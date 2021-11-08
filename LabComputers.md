@@ -165,8 +165,7 @@ See [instructions](https://www.nyu.edu/life/information-technology/getting-start
 
 Enter 'push' as the secondary password to trigger 2FA.
 
-![VPN login](Assets/VPN_login.png?raw=true "VPN login")
-
+<img src="Assets/VPN_login.png" width=400 alt="VPN login">
 
 <!--
 ### Machine setup
