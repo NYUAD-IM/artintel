@@ -4,7 +4,7 @@
 <!-- $$$ Brightspace update each semester -->
 The login information is linked on the course page on [Brightspace Lab Computer Logins](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5937697)
 
-You can connect with TeamViewer to the Linux desktop, or connect using ssh (while on the NYUAD network or using NYUAD VPN). Physical access is not currently allowed.
+You can use the computers in the IM Lab during open hours, connect with TeamViewer, or connect using ssh (while on the NYUAD network or using NYUAD VPN).
 
 # TeamViewer
 
