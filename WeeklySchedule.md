@@ -35,7 +35,7 @@
     - [Faking the News with Natural Language Processing and GPT-2](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d)
   - Speech Synthesis
     - [Val Kilmer reclaims his voice through AI technology after throat cancer](https://www.thenationalnews.com/arts-culture/film/2021/08/21/val-kilmer-reclaims-his-voice-through-ai-technology-after-throat-cancer/)
-    - [Ultra-realistic voice cloning](https://www.descript.com/overdub)
+    - [Ultra-realistic voice cloning / text to speech (TTS)](https://www.descript.com/overdub)
   - Code generation
     - [GitHub Copilot](https://copilot.github.com/)
   - Text to image
@@ -510,7 +510,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Technical: Architecture of Speech Recognition](http://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
   - Audio deepfakes
     - [This is what a deepfake voice clone used in a failed fraud attempt sounds like](https://www.theverge.com/2020/7/27/21339898/deepfake-audio-voice-clone-scam-attempt-nisos)
-    - [Resemble.ai - TTS and cloing](https://www.resemble.ai/)
+    - [Resemble.ai - TTS (text to speech) and voice cloning](https://www.resemble.ai/)
 
 
 ### Homework (due next class)
