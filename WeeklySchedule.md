@@ -619,6 +619,11 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week11.2"></a>Week 11.2 Final Project Introduction (11/18)
 - Sound / Text Project Presentations
+  
+- ml5js
+  - [ml5js Getting Started](https://learn.ml5js.org/#/)
+  - [Image Classifier Demo](https://editor.p5js.org/ml5/sketches/ImageClassification)
+
 
 - Chat bots
   - [Eliza](https://web.njit.edu/~ronkowit/eliza.html)
@@ -631,8 +636,6 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Web Cam Demo Colab](https://colab.research.google.com/github/a2kiti/webCamGoogleColab/blob/master/webCamGoogleColab_callbackVersion.ipynb)
 
 - [OpenAI API Access (has link to join waitlist)](https://beta.openai.com/)
-- [ml5js Getting Started](https://learn.ml5js.org/#/)
-  - [Image Classifier Demo](https://editor.p5js.org/ml5/sketches/ImageClassification)
 - [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
 
 #### Homework (due before start of next class)
