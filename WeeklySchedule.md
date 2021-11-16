@@ -605,6 +605,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 ### <a name="week11.1"></a>Week 11.1 - Sound / Text Project Presentations (11/16)
 
 - **Project 3 - Sound / Text Due (11/16)**
+  - **Add** a link to your project and documentation to the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Present** your Sound / Text project
 
 #### Homework (due before start of next class)
