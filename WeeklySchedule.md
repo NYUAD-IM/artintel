@@ -610,7 +610,10 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 #### Homework (due before start of next class)
 - **Watch** [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0) (until 19:00, then it's just credits)
+
+<!--  
 - **Watch** [ml5.js: Image Classification with MobileNet](https://www.youtube.com/watch?v=yNkAuWz5lnY)
+-->
 - **Read** [Hello ml5.js - A gentle introduction to ml5](https://learn.ml5js.org/#/tutorials/hello-ml5)
 
 
