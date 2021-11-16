@@ -618,6 +618,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 
 ### <a name="week11.2"></a>Week 11.2 Final Project Introduction (11/18)
+- Sound / Text Project Presentations
 
 - Chat bots
   - [Eliza](https://web.njit.edu/~ronkowit/eliza.html)
