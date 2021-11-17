@@ -633,6 +633,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [ml5.js: Image Classification with MobileNet (YouTube)](https://www.youtube.com/watch?v=yNkAuWz5lnY)
   - [Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
   - [PoseNet example using p5.js](https://editor.p5js.org/ml5/sketches/PoseNet_webcam)
+  - [PoseNet dots (p5 Web Editor)](https://editor.p5js.org/mangtronix/sketches/olqXXWx4p)
 
 
 <!--
