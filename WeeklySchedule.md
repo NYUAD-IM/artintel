@@ -654,19 +654,24 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Review homework
 
 - More ml5js
+  - [Image Classification with Teachable Machine, ml5.js and p5.js](https://nishanc.medium.com/image-classification-with-teachable-machine-ml5-js-and-p5-js-233fbdf48fe7)
+  - [CharRNN (ml5js)](https://learn.ml5js.org/#/reference/charrnn)
+    - [Training a charRNN and using the model in ml5js (GitHub)](https://github.com/ml5js/training-charRNN)
+  - [ml5.js Serial](https://makeabilitylab.github.io/physcomp/communication/ml5js-serial.html)
 
 - Chat bots
   - [Eliza](https://web.njit.edu/~ronkowit/eliza.html)
   - [Building an AI-based Chatbot in Python](https://blog.datasciencedojo.com/building-an-ai-based-chatbot-in-python/)
   - [I tricked GPT2 into working like a chatbot. (Reddit)](https://www.reddit.com/r/artificial/comments/cfgpvh/i_tricked_gpt2_into_working_like_a_chatbot_here/)
   - [Talk to Transformer](https://app.inferkit.com/demo)
-
-<!--
-- [avatars4all](https://github.com/eyaler/avatars4all)
-  - Live real-time avatars from your webcam in the browser (multiple Colabs)
-- [Use web camera in real-time on google colaboratory](https://github.com/a2kiti/webCamGoogleColab)
-  - [Web Cam Demo Colab](https://colab.research.google.com/github/a2kiti/webCamGoogleColab/blob/master/webCamGoogleColab_callbackVersion.ipynb)
--->
+  - [GPT-J-6B live demo](https://6b.eleuther.ai/)
+  - [GPT-J 6B (huggingface)](https://huggingface.co/EleutherAI/gpt-j-6B)
+  - [avatars4all](https://github.com/eyaler/avatars4all)
+    - Live real-time avatars from your webcam in the browser (multiple Colabs)
+  - [Use web camera in real-time on google colaboratory](https://github.com/a2kiti/webCamGoogleColab)
+    - [Web Cam Demo Colab](https://colab.research.google.com/github/a2kiti/webCamGoogleColab/blob/master/webCamGoogleColab_callbackVersion.ipynb)
+  
+- Project feedback
 
 #### Homework ####
 - **Work** on the idea for your final project
