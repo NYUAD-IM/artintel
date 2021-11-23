@@ -672,6 +672,9 @@ and AI develops more capabilities? How will the relationship between humans and 
     - [Web Cam Demo Colab](https://colab.research.google.com/github/a2kiti/webCamGoogleColab/blob/master/webCamGoogleColab_callbackVersion.ipynb)
   
 - Project feedback
+  
+- Announcement: IM Show
+  - Dec 15 3-6pm
 
 #### Homework ####
 - **Work** on the idea for your final project
