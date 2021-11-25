@@ -687,6 +687,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week13.1"></a>Week 13.1 (MONDAY 11/29) - Present project ideas
 - Short class 10:25-11:40AM
+- Sound/text presentation
 - Present Final Project ideas
 
 ### No class (11/30)
