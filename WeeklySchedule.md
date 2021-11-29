@@ -716,3 +716,15 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Present final Projects
   - Presentation of 5-7 minutes only! Share the best and most important results / reflection
 - Goodbyes for now!
+
+### <a name="week15.2"></a>Week 15.2 (12/15) - IM End of Semester Show!!
+
+**IM Show - Wednesday Dec 15 - 3-6pm in Arts Center lobby**
+
+- All IM students need to attend and show a project
+- Setup Dec 12-14
+- Final setup 11am-1pm Dec 15
+- Show our projects 3-5pm
+- See great projects from your fellow students!
+- Performances from Circuit Breakers, Performing Robots, and Live Coding 5-6pm!  
+  
