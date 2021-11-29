@@ -726,5 +726,6 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Final setup 11am-1pm Dec 15
 - Show our projects 3-5pm
 - See great projects from your fellow students!
-- Performances from Circuit Breakers, Performing Robots, and Live Coding 5-6pm!  
+- Performances from Circuit Breakers, Performing Robots, and Live Coding 5-6pm! 
+- Cleanup 6-9pm - All equipment back to IM Lab
   
