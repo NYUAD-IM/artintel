@@ -633,6 +633,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [ml5.js: Image Classification with MobileNet (YouTube)](https://www.youtube.com/watch?v=yNkAuWz5lnY)
   - [Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
   - [PoseNet example using p5.js](https://editor.p5js.org/ml5/sketches/PoseNet_webcam)
+  - [PoseNet dots (p5 Web Editor)](https://editor.p5js.org/mangtronix/sketches/olqXXWx4p)
 
 
 <!--
@@ -653,19 +654,27 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Review homework
 
 - More ml5js
+  - [Image Classification with Teachable Machine, ml5.js and p5.js](https://nishanc.medium.com/image-classification-with-teachable-machine-ml5-js-and-p5-js-233fbdf48fe7)
+  - [CharRNN (ml5js)](https://learn.ml5js.org/#/reference/charrnn)
+    - [Training a charRNN and using the model in ml5js (GitHub)](https://github.com/ml5js/training-charRNN)
+  - [ml5.js Serial](https://makeabilitylab.github.io/physcomp/communication/ml5js-serial.html)
 
 - Chat bots
   - [Eliza](https://web.njit.edu/~ronkowit/eliza.html)
   - [Building an AI-based Chatbot in Python](https://blog.datasciencedojo.com/building-an-ai-based-chatbot-in-python/)
   - [I tricked GPT2 into working like a chatbot. (Reddit)](https://www.reddit.com/r/artificial/comments/cfgpvh/i_tricked_gpt2_into_working_like_a_chatbot_here/)
   - [Talk to Transformer](https://app.inferkit.com/demo)
-
-<!--
-- [avatars4all](https://github.com/eyaler/avatars4all)
-  - Live real-time avatars from your webcam in the browser (multiple Colabs)
-- [Use web camera in real-time on google colaboratory](https://github.com/a2kiti/webCamGoogleColab)
-  - [Web Cam Demo Colab](https://colab.research.google.com/github/a2kiti/webCamGoogleColab/blob/master/webCamGoogleColab_callbackVersion.ipynb)
--->
+  - [GPT-J-6B live demo](https://6b.eleuther.ai/)
+  - [GPT-J 6B (huggingface)](https://huggingface.co/EleutherAI/gpt-j-6B)
+  - [avatars4all](https://github.com/eyaler/avatars4all)
+    - Live real-time avatars from your webcam in the browser (multiple Colabs)
+  - [Use web camera in real-time on google colaboratory](https://github.com/a2kiti/webCamGoogleColab)
+    - [Web Cam Demo Colab](https://colab.research.google.com/github/a2kiti/webCamGoogleColab/blob/master/webCamGoogleColab_callbackVersion.ipynb)
+  
+- Project feedback
+  
+- Announcement: IM Show
+  - Dec 15 3-6pm
 
 - Work on final project
 
@@ -680,6 +689,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week13.1"></a>Week 13.1 (MONDAY 11/29) - Present project ideas
 - Short class 10:25-11:40AM
+- Sound/text presentation
 - Present Final Project ideas
 
 ### No class (11/30)
@@ -710,3 +720,16 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Present final Projects
   - Presentation of 5-7 minutes only! Share the best and most important results / reflection
 - Goodbyes for now!
+
+### <a name="week15.2"></a>Week 15.2 (12/15) - IM End of Semester Show!!
+
+**IM Show - Wednesday Dec 15 - 3-6pm in Arts Center lobby**
+
+- All IM students need to attend and show a project
+- Setup Dec 12-14
+- Final setup 11am-1pm Dec 15
+- Show our projects 3-5pm
+- See great projects from your fellow students!
+- Performances from Circuit Breakers, Performing Robots, and Live Coding 5-6pm! 
+- Cleanup 6-9pm - All equipment back to IM Lab
+  
