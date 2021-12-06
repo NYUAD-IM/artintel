@@ -667,6 +667,8 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Web Cam Demo Colab](https://colab.research.google.com/github/a2kiti/webCamGoogleColab/blob/master/webCamGoogleColab_callbackVersion.ipynb)
 -->
 
+- Work on final project
+
 #### Homework ####
 - **Work** on the idea for your final project
 
@@ -690,6 +692,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Ethics and future of machine learning / AI
 - Final project check-in
 - Final project work session
+- IM Show signup
+  - [A.rt I.ntel IM Show Projects (Spreadsheet)](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
 
 ### <a name="week14.2"></a>Week 14.2 (12/09) - Wrap-up discussion
 - Wrap up discussion
