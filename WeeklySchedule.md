@@ -670,9 +670,9 @@ and AI develops more capabilities? How will the relationship between humans and 
     - Live real-time avatars from your webcam in the browser (multiple Colabs)
   - [Use web camera in real-time on google colaboratory](https://github.com/a2kiti/webCamGoogleColab)
     - [Web Cam Demo Colab](https://colab.research.google.com/github/a2kiti/webCamGoogleColab/blob/master/webCamGoogleColab_callbackVersion.ipynb)
-  
+
 - Project feedback
-  
+
 - Announcement: IM Show
   - Dec 15 3-6pm
 
@@ -700,6 +700,13 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week14.1"></a>Week 14.1 (12/07) - Ethics + Future Applications / Final Project Check-in
 - Ethics and future of machine learning / AI
+  - [Two AIs talk about becoming human. (GPT-3) (YouTube)](https://youtu.be/jz78fSnBG0s)
+  - [This Robot would let 5 People die | AI on Moral Questions | Sophia answers the Trolley Problem
+ (YouTube)](https://www.youtube.com/watch?v=8MjIU4eq__A)
+  - [Isaac Asimov's Three Laws of Robotics (Wikipedia)](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
+  - [A Robot That Harms: When Machines Make Life Or Death Decisions (NPR)](https://www.npr.org/sections/alltechconsidered/2016/08/29/490775247/a-robot-that-hurts-confronts-future-when-machines-make-life-death-decisions)
+  - [Scientists Built an AI to Give Ethical Advice, But It Turned Out Super Racist (Futurism)](https://futurism.com/delphi-ai-ethics-racist)
+  - [Ask Delphi (Allen Institue for AI)](https://delphi.allenai.org/)
 - Final project check-in
 - Final project work session
 - IM Show signup
@@ -730,6 +737,5 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Final setup 11am-1pm Dec 15
 - Show our projects 3-5pm
 - See great projects from your fellow students!
-- Performances from Circuit Breakers, Performing Robots, and Live Coding 5-6pm! 
+- Performances from Circuit Breakers, Performing Robots, and Live Coding 5-6pm!
 - Cleanup 6-9pm - All equipment back to IM Lab
-  
