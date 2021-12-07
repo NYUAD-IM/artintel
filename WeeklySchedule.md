@@ -713,6 +713,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [A.rt I.ntel IM Show Projects (Spreadsheet)](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
 
 ### <a name="week14.2"></a>Week 14.2 (12/09) - Wrap-up discussion
+- Final Project Presentations Round 1
 - Wrap up discussion
 - Course evaluations
 
@@ -724,7 +725,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week15.1"></a>Week 15.1 (12/14) - Final project presentations
 - **Final project due (12/14)**
-- Present final Projects
+- Present final Projects - Round 2
   - Presentation of 5-7 minutes only! Share the best and most important results / reflection
 - Goodbyes for now!
 
@@ -733,8 +734,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 **IM Show - Wednesday Dec 15 - 3-6pm in Arts Center lobby**
 
 - All IM students need to attend and show a project
-- Setup Dec 12-14
-- Final setup 11am-1pm Dec 15
+- Setup Sunday Dec 12 - 2-4pm
+- Final setup Dec 15 - 11am-1pm 
 - Show our projects 3-5pm
 - See great projects from your fellow students!
 - Performances from Circuit Breakers, Performing Robots, and Live Coding 5-6pm!
