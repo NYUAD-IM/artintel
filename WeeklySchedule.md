@@ -715,8 +715,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 ### <a name="week14.2"></a>Week 14.2 (12/09) - Wrap-up discussion
 - Final Project Presentations Round 1
 - IM Show signup
-  - [A.rt I.ntel IM Show Projects (Spreadsheet)](https://docs.google.com/spreadsheets/d/1vj
-- Wrap up discussion
+  - [A.rt I.ntel IM Show Projects (Spreadsheet)](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
+
 - Course evaluations
 
 #### Homework ####
