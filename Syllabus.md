@@ -1,11 +1,11 @@
 # A.rt I.ntel
 _Machine Learning for Artists_
 
-New York University Abu Dhabi Fall 2021<br/>
+New York University Abu Dhabi Spring 2023<br/>
 Course Number: IM-3312<br />
 Prof. [Michael Ang](https://michaelang.com) -  Assistant Professor of Practice of Interactive Media<br />
-Location: C3-116 / Zoom / Discord<br />
-Meeting Time: Tuesday 10:25AM - 1:05PM / Thursday 10:25AM - 11:40AM<br />
+Location: C3-006 / Discord<br/>
+Meeting Time: Tuesday 11:20AM - 12:35PM / Thursday 9:55AM - 12:35PM<br/>
 Email Address: michael.ang@nyu.edu<br />
 Office Hours: By Appointment / Zoom / Discord<br />
 Credits: 4<br />
