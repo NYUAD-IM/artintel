@@ -14,7 +14,7 @@ Credits: 4<br />
 https://github.com/nyuad-im/artintel
 
 **Brightspace:<br />**
-https://brightspace.nyu.edu/d2l/home/110671
+https://brightspace.nyu.edu/d2l/home/265669
 
 [Syllabus](https://github.com/nyuad-im/artintel/blob/master/Syllabus.md)
 
@@ -27,7 +27,7 @@ https://brightspace.nyu.edu/d2l/home/110671
 [Useful Colabs](UsefulColabs.md)
 
 
-**Discord channel #artintel:** invite on [Brightspace](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5693439)
+**Discord channel #artintel:** invite on Brightspace
 
 
 ---
