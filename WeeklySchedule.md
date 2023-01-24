@@ -29,10 +29,12 @@
     - [Progression in the capabilities of face generation](https://machinelearningmastery.com/wp-content/uploads/2019/06/Example-of-the-Progression-in-the-Capabilities-of-GANs-from-2014-to-2017.png)
   - Deep Fakes
     - [Making a political figure deliver a new speech](https://www.theverge.com/tldr/2018/4/17/17247334/ai-fake-news-video-barack-obama-jordan-peele-buzzfeed)
-  - Text generation - fake news
+  - Text generation
     - [Fake-News-Generating AI Deemed Too Dangerous for Public Release](https://www.extremetech.com/extreme/285857-fake-news-generating-ai-deemed-too-dangerous-for-public-release)
     - [OpenAI Releases Fake News Bot It Previously Deemed Too Dangerous](https://www.extremetech.com/extreme/301662-openai-releases-fake-news-bot-it-previously-deemed-too-dangerous)
     - [Faking the News with Natural Language Processing and GPT-2](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d)
+    - [ChatGPT](https://openai.com/blog/chatgpt/)
+      - [ChatGPT interactive](https://chat.openai.com/chat)
   - Speech Synthesis
     - [Val Kilmer reclaims his voice through AI technology after throat cancer](https://www.thenationalnews.com/arts-culture/film/2021/08/21/val-kilmer-reclaims-his-voice-through-ai-technology-after-throat-cancer/)
     - [Ultra-realistic voice cloning / text to speech (TTS)](https://www.descript.com/overdub)
@@ -42,6 +44,9 @@
     - [OpenAI DALL-E](https://openai.com/blog/dall-e/)
     - [Mindblowing AI pixel art](https://boingboing.net/2021/08/19/mindblowing-ai-pixel-art.html)
       - [CLIPIT PixelDraw Colab](https://colab.research.google.com/drive/1uya2CzekydPASALHtgrwxOekBMlaWGON?usp=sharing)
+    - [OpenAI DALL-E 2](https://openai.com/dall-e-2/)
+    - [Midjourney](https://midjourney.com/)
+    - [Stable Diffusion examples](https://neuroflash.com/blog/stable-diffusion-examples-3/)
   - [Florida cops use AI to target people for a new "enhanced scrutiny" program](https://boingboing.net/2021/07/27/florida-cops-use-ai-to-target-people-for-a-new-enhanced-scrutiny-program.html)
   - [Moral Machine](https://www.moralmachine.net/) - A platform for public participation in and discussion of the human perspective on machine-made moral decisions
  
