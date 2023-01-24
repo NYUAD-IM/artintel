@@ -79,13 +79,15 @@ The list could go on and on. The above should be considered far from exhaustive.
 You may work within a group or by yourself.
 
 ### Grading Rubric
-- 25% Creative Thinking: The project should not be just reproducing things using the tools we've looked at. It should have some novel implementation or approach in the application of the tech. Depending on the project, this could include indication of development of personal style/taste (if art project for example), and/or imaginative implementations of the tech in exploring ideas.
+- 10pts Creative Thinking: The project should not be just reproducing things using the tools we've looked at. It should have some novel implementation or approach in the application of the tech. Depending on the project, this could include indication of development of personal style/taste (if art project for example), and/or imaginative implementations of the tech in exploring ideas.
 
-- 25% Production Quality: The project needs to be well polished, with considerable work put into the finished work.
+- 10pts Production Quality: The project needs to be well polished, with considerable work put into the finished work.
 
-- 25% Clear Conceptual Underpinning: The project needs to be well thought out, and have a clear concept that you are working with from start to finish. The documentation should clearly show the concepts you are engaging with.
+- 10pts Clear Conceptual Underpinning: The project needs to be well thought out, and have a clear concept that you are working with from start to finish. The documentation should clearly show the concepts you are engaging with.
 
-- 25% Machine Learning Application: The project should use and benefit from machine learning.
+- 10pts Machine Learning Application: The project should use and benefit from machine learning.
+- 10pts Documentation
+- Total / 50pts
 
 ### Documentation
 - Required documentation (include on project site or separate page):
