@@ -91,7 +91,8 @@
   - **Read** about supervised / unsupervised / reinforcement learning https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/
   - **Read** Neural Networks: [https://ml4a.github.io/ml4a/neural_networks/](https://ml4a.github.io/ml4a/neural_networks/)
 
-  - **Find** a creative or interesting application of AI and **add** the link to the [Brightspace Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/261633/View) with a short explanation of what's interesting about it
+  - **Find** a creative or interesting application of AI and **add** the link to the [Brightspace Discussion]([https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/261633/View](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/374245/View)) with a short explanation (2-3 paragraphs) of what's interesting about it
+    - (Bonus) Include something you made with the tool (e.g. image, sound, text)
   - (Optional) Deep Dream details (we’ll look at this again later when we talk about Convolutional Neural Networks) https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
 
 <!--
