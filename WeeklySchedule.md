@@ -19,7 +19,7 @@
 
 ## <a name="week1"></a>Week 1 - Introduction / What is Machine Learning?
 
-### <a name="week1.1"></a>Week 1.1 Introduction (8/31)
+### <a name="week1.1"></a>Week 1.1 Introduction (1/24)
 - Introductions
 - Course overview
 - In-class discussion
@@ -72,7 +72,7 @@
 
 
 
-### <a name="week1.1"></a>Week 1.2 (9/2)
+### <a name="week1.1"></a>Week 1.2 (1/26)
 - Review homework - articles about AI / machine learning
 
 - What is Artificial Intelligence - Machine Learning?
@@ -102,7 +102,7 @@
 
 ## <a name="week2"></a>Week 2 - Speculative Design / Neural Networks
 
-### <a name="week2.1"></a>Week 2.1 Introduction to Speculative Design (9/7)
+### <a name="week2.1"></a>Week 2.1 Introduction to Speculative Design (1/31)
 - Review homework (new image, interesting applications)
 - Talk about Speculative Design project
   - <a href="https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-1-speculative-design-due-921">Speculative Design Project requirements<a/>
@@ -147,7 +147,7 @@ Class examples:
 - **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 
 
-### <a name="week2.2"></a>Week 2.2 Neural Networks (9/9)
+### <a name="week2.2"></a>Week 2.2 Neural Networks (2/2)
 - Neural Networks
   - [Professor’s perceptron paved the way for AI – 60 years too soon](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)
   - [Perceptron (Wikipedia)](https://en.wikipedia.org/wiki/Perceptron)
@@ -165,7 +165,7 @@ Class examples:
 
 ## <a name="week3"></a>Week 3 - Speculative Design Presentations / Visual Project Introduction
 
-### <a name="week3.1"></a>Week 3.1 - Speculative Design Project Presentations (9/14)
+### <a name="week3.1"></a>Week 3.1 - Speculative Design Project Presentations (2/7)
 - Speculative Design Project Presentations
   - Give a 5-10 minute presentation of your project and be prepared for feedback from the class
 
