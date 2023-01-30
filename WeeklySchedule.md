@@ -1,21 +1,21 @@
-# Weekly Schedule - Fall 2021
+# Weekly Schedule - Spring 2023
 
 * [Week 1 - Introduction / What is Machine Learning?](#week1)
 * [Week 2 - Speculative Design / Neural Networks](#week2)
-* [Week 3 - Speculative Design Project Due (9/14) / Visual Project Introduction](#week3)
-* [Week 4 - Convolutional Neural Networks / Neural Network Training](#week4)
+* [Week 3 - More Neural Networks / Speculative Design Project Due (2/9)](#week3)
+* [Week 4 - Visual Project Introduction / Convolutional Neural Networks & Neural Network Training](#week4)
 * [Week 5 - Neural Network Training / Politics in AI](#week5)
 * [Week 6 - Visual Project Check-in / Bias in Datasets](#week6)
-* [Week 7 - Visual Project Due (10/12) / Sound / Text Project Introduction](#week7)
+* [Week 7 - Visual Project Due (3/9) / Sound / Text Project Introduction](#week7)
 * FALL BREAK
 * [Week 8 - Sound / Text Tools / Ethics and Bias](#week8)
 * [Week 9 - Present Sound / Text ideas](#week9)
 * [Week 10 - Other Techniques Sound / Autoencoders](#week10)
-* [Week 11 - Sound / Text Project Due (11/16) / Final Project Introduction](#week11)
+* [Week 11 - Sound / Text Project Due (4/13) / Final Project Introduction](#week11)
 * [Week 12 - Interactive Applications / ml5.js](#week12)
 * [Week 13 - CLASS MEETS MONDAY Present Final Project ideas / NO CLASS](#week13)
 * [Week 14 - Final Project check-in / Other topics](#week14)
-* [Week 15 - Final Project Due (12/14)](#week15)
+* [Week 15 - Final Project Due (5/11)](#week15)
 
 ## <a name="week1"></a>Week 1 - Introduction / What is Machine Learning?
 
@@ -159,13 +159,20 @@ Class examples:
 
 
 #### Homework (due before start of next class)
-- Finish your Speculative Design Project and be ready to present in class
-  - Refer to [Projects - Speculative Design Project](Projects.md#projects) for the detailed requirements
+- Work on your Speculative Design Project
 
 
-## <a name="week3"></a>Week 3 - Speculative Design Presentations / Visual Project Introduction
+## <a name="week3"></a>Week 3 - More Neural Networks / Speculative Design Presentations (2/9)
 
-### <a name="week3.1"></a>Week 3.1 - Speculative Design Project Presentations (2/7)
+### <a name="week3.1"></a>Week 3.1 - More Neural Networks
+- Links TBD $$$
+
+#### Homework (due before start of next class)
+- Finish your Speculative Design Project
+  - Update the projects doc with a link to your documentation
+  - Prepare to present in class
+
+### <a name="week3.2"></a>Week 3.2 - Speculative Design Project Presentations (2/9)
 - Speculative Design Project Presentations
   - Give a 5-10 minute presentation of your project and be prepared for feedback from the class
 
@@ -176,6 +183,7 @@ Class examples:
 
 -->
 
+# Schedule below to be updated $$$
 
 #### Homework (due before start of next class)
 - **Create** a new image or other output using one of these Colab notebooks (try to use one of your own input images rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
@@ -184,6 +192,7 @@ Class examples:
 
 - (Optional) Read and try the neural network "from scratch" code in [Make Your Own Neural Network Chapter 2](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file)
   - [GitHub repository with examples](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
+
 
 ### <a name="week3.2"></a>Week 3.2 - Introduction to Visual tools (9/16)
 - Review homework
