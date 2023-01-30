@@ -165,7 +165,7 @@ Class examples:
 ## <a name="week3"></a>Week 3 - More Neural Networks / Speculative Design Presentations (2/9)
 
 ### <a name="week3.1"></a>Week 3.1 - More Neural Networks
-- Links TBD $$$
+- Links TBD
 
 #### Homework (due before start of next class)
 - Finish your Speculative Design Project
@@ -183,7 +183,7 @@ Class examples:
 
 -->
 
-# Schedule below to be updated $$$
+# Schedule below to be updated
 
 #### Homework (due before start of next class)
 - **Create** a new image or other output using one of these Colab notebooks (try to use one of your own input images rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
