@@ -134,7 +134,7 @@ Class examples:
     - [lilmequela Instagram influencer - 🤖 19-year-old Robot living in LA 💖 (Instagram)](https://www.instagram.com/lilmiquela/?hl=en)
   - Neuralink
     - [Elon Musk's Neuralink monkey brain demo explained (YouTube)](https://www.youtube.com/watch?v=3Ya-bAYri84)
-    - [Elon Musk's Neuralink 'shows monkey playing Pong with mind' (BBC)[https://www.bbc.com/news/technology-56688812]
+    - [Elon Musk's Neuralink 'shows monkey playing Pong with mind' (BBC)](https://www.bbc.com/news/technology-56688812)
   - [A Facebook-scale simulator to detect harmful behaviors (Facebook AI)](https://ai.facebook.com/blog/a-facebook-scale-simulator-to-detect-harmful-behaviors/)
 
 #### Homework (due before start of next class)
