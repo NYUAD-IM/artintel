@@ -164,8 +164,24 @@ Class examples:
 
 ## <a name="week3"></a>Week 3 - More Neural Networks / Speculative Design Presentations (2/9)
 
-### <a name="week3.1"></a>Week 3.1 - More Neural Networks
-- Links TBD
+### <a name="week3.1"></a>Week 3.1 - More Neural Networks  
+- How convolutional neural networks work
+- Examples of convolutional neural networks
+  - StyleGAN
+- Training and retraining of CNNs
+
+- Lecture links
+  - [Convolutional Neural Networks - ml4a](https://ml4a.github.io/ml4a/convnets/)
+  - [Convolution demo](https://ml4a.github.io/demos/convolution/)
+  - [Convolution all filters demo](https://ml4a.github.io/demos/convolution_all/)
+  - [ConvNet viewer](https://ml4a.github.io/guides/ConvnetViewer/)
+  - [Convolutional Neural Network Visualization by Otavio Good (YouTube)](https://www.youtube.com/watch?v=f0t-OCG79-U)
+  - [WaveNet audio generation](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
+  - [StyleGAN explanation](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
+  - [Convolutional Neural Network Colab](https://colab.research.google.com/github/NYUAD-IM/artintel/blob/master/Code/Week_04/Convolutional_Neural_Network.ipynb#scrollTo=Iv1SLDu_bYXh)
+  - [OpenAI Microscope](https://openai.com/blog/microscope/)
+    - [Inception 1 - Deep Dream](https://microscope.openai.com/models/inceptionv1?models.technique=deep_dream)
+  - [ConvNetJS digit classification demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
 
 #### Homework (due before start of next class)
 - Finish your Speculative Design Project
@@ -232,24 +248,6 @@ Class examples:
     - [ml5.js](https://ml5js.org/)
     - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)  
 
-
-- How convolutional neural networks work
-- Examples of convolutional neural networks
-  - StyleGAN
-- Training and retraining of CNNs
-
-- Lecture links
-  - [Convolutional Neural Networks - ml4a](https://ml4a.github.io/ml4a/convnets/)
-  - [Convolution demo](https://ml4a.github.io/demos/convolution/)
-  - [Convolution all filters demo](https://ml4a.github.io/demos/convolution_all/)
-  - [ConvNet viewer](https://ml4a.github.io/guides/ConvnetViewer/)
-  - [Convolutional Neural Network Visualization by Otavio Good (YouTube)](https://www.youtube.com/watch?v=f0t-OCG79-U)
-  - [WaveNet audio generation](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
-  - [StyleGAN explanation](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
-  - [Convolutional Neural Network Colab](https://colab.research.google.com/github/NYUAD-IM/artintel/blob/master/Code/Week_04/Convolutional_Neural_Network.ipynb#scrollTo=Iv1SLDu_bYXh)
-  - [OpenAI Microscope](https://openai.com/blog/microscope/)
-    - [Inception 1 - Deep Dream](https://microscope.openai.com/models/inceptionv1?models.technique=deep_dream)
-  - [ConvNetJS digit classification demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
 
 - **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for the Visual Project
