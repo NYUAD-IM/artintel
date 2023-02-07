@@ -3,7 +3,7 @@
 ## Project 1: Speculative Design (due 2/9)
 - **Create** an "artifact" of speculative design that shows a potential application of AI. It could be a product mockup, video, news report, product marketing, etc.
   - Add a link to the documentation of your project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Write** 3-4 paragraphs of documentation describing your project and your process
+- **Write** 5-6 paragraphs (approximately a page) of documentation describing your project and your process
   - Add a link to your documentation in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Prepare** a 5-10 minute presentation to explain your idea. You will give your presentation in class. Be ready to receive feedback on your project and give feedback to the other groups.
 
