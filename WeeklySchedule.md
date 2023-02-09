@@ -200,18 +200,17 @@ Class examples:
 
 -->
 
-# Schedule below to be updated
-
 #### Homework (due before start of next class)
 - **Create** a new image or other output using one of these Colab notebooks (try to use one of your own input images rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
   - **Post** your image to the Discord (or send to me via email) with a short explanation of how you made it
   - If you have a problem with the Tensorflow version (e.g "AdamOptimizer not found") add [this code](https://colab.research.google.com/notebooks/tensorflow_version.ipynb)
 
-- (Optional) Read and try the neural network "from scratch" code in [Make Your Own Neural Network Chapter 2](http://www.mediafire.com/file/72oi6vzp9l2ps9a/Make_Your_Own_Neural_Network_-_Chapter_1_and_2.pdf/file)
-  - [GitHub repository with examples](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 
+# Schedule below to be updated
 
-### <a name="week3.2"></a>Week 3.2 - Introduction to Visual tools (9/16)
+## <a name="week4"></a>Week 4 - Visual tools
+
+### <a name="week4.1"></a>Week 4.1 - Introduction to Visual tools (2/14)
 - Review homework
 
 - Discuss Visual Project
@@ -231,9 +230,8 @@ Class examples:
       - There are English versions of this Colab available, the version above is working with the model from WikiArt. See [Generating AI “Art” with VQGAN+CLIP](https://learn.adafruit.com/generating-ai-art-with-vqgan-clip) for instructions
       - Inspired by [OpenAI DALL-E text to image](https://openai.com/blog/dall-e/)
 
-## <a name="week4"></a>Week 4 - Convolutional Neural Networks
 
-### <a name="week4.1"></a>Week 4.1 - Convolutional Neural Networks (9/21)
+### <a name="week4.2"></a>Week 4.2 - Visual Tools Continued (2/16)
 - AI in the news
   - [Police to Deploy Snitch Bots That Search for 'Undesirable Social Behaviors'](https://gizmodo.com/singapore-police-to-deploy-snitch-bots-that-search-for-1847629866)
   - [Pandemic Robots Deployed in Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679)
@@ -254,6 +252,7 @@ Class examples:
 - **Start** developing ideas for the Visual Project
   and be prepared to share your idea next class
 - **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
+
 
 
 ### <a name="week4.2"></a>Week 4.2 -  Neural Network Training (9/23)
