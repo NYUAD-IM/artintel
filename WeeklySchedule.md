@@ -201,9 +201,10 @@ Class examples:
 -->
 
 #### Homework (due before start of next class)
-- **Create** a new image or other output using one of these Colab notebooks (use your own input images / text / etc rather than the built-in ones) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
-  - [Useful Colabs (A.rt I.ntel)](https://github.com/NYUAD-IM/artintel/blob/master/UsefulColabs.md)
-  - **Post** your image / output to Week 3 Brightspace discussion with a description of how you made it
+- **Create** a new image or other output using one of these Colab notebooks (use your own input images / text / etc rather than the built-in ones)
+  - [Useful Colabs (A.rt I.ntel)](https://github.com/NYUAD-IM/artintel/blob/master/UsefulColabs.md) - includes links to explanations of Google Colab
+  - [12 Colab Notebooks that matter](https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0)
+  - **Post** your image / output to Week 3 Brightspace discussion with a description (2 paragraphs) of how you made it
   - If you have a problem with the Tensorflow version (e.g "AdamOptimizer not found") add [this code](https://colab.research.google.com/notebooks/tensorflow_version.ipynb)
 
 
