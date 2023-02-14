@@ -17,6 +17,9 @@
 * [Week 14 - Final Project check-in / Other topics](#week14)
 * [Week 15 - Final Project Due (5/11)](#week15)
 
+
+[Projects Description](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md) - [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) 
+
 ## <a name="week1"></a>Week 1 - Introduction / What is Machine Learning?
 
 ### <a name="week1.1"></a>Week 1.1 Introduction (1/24)
