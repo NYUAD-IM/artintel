@@ -232,7 +232,9 @@ Class examples:
   - ChatGPT
     - [Introductory slides on what the technology is by NYU Prof. Habash](https://docs.google.com/presentation/d/1W8o1FQmWlQ8g9cPFHpxMQUFJvXTwAybU/edit#slide=id.p1)
     - [Advice provided by NYU Office of the Provost](https://t.e2ma.net/click/ax6aexc/inkp93f/qh1cpfg)
+    - [Some Colleges Cautiously Embrace Wikipedia](https://www.chronicle.com/article/some-colleges-cautiously-embrace-wikipedia/)
   - Stable Diffusion / Midjourney
+    - [Stable Diffusion litigation](https://stablediffusionlitigation.com/) - includes simple (biased) description of how Stable Diffusion works
   - Class policy
   - Crediting / referencing AI tools
     - Disclose prompt
