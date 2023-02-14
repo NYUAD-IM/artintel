@@ -213,7 +213,9 @@ Class examples:
 ## <a name="week4"></a>Week 4 - Visual tools
 
 ### <a name="week4.1"></a>Week 4.1 - Introduction to Visual tools (2/14)
-- Review homework
+- Review homework (issues)
+  - Use of "free" commercial tools
+  - Learning how to learn
 
 - Discuss Visual Project
   - [Visual Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-2-visual-due-last-class-before-spring-break-1014")
@@ -221,6 +223,13 @@ Class examples:
     - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
 
 - Introduction to Visual tools  
+  
+- Discussion - Authorship and AI Tools
+  - ChatGPT
+  - Stable Diffusion / Midjourney
+  - Class policy
+  - Crediting / referencing AI tools
+    - Disclose prompt
 
 - Class tools
   - Colab / Neural Network Introduction
