@@ -219,8 +219,9 @@ Class examples:
 
 - Discuss Visual Project
   - [Visual Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-2-visual-due-last-class-before-spring-break-1014")
-    - Create an image, series of images or video using a machine learning algorithm (e.g. using Colab, Artbreeder, other online tools)
+    - Create an *artwork* that is an image, series of images or video using a machine learning algorithm (e.g. using Colab, Midjourney, Stable Diffusion, other online tools)
     - The work should somehow address one of the concepts we’ve covered in class (e.g. extending creativity, who is the author?, real/fake, AI revolution, bias, etc)
+    - The work must make a creative or critical statement (simple use of the tools is not enough)
 
 - Introduction to Visual tools  
   
