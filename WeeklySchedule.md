@@ -230,6 +230,8 @@ Class examples:
   
 - Discussion - Authorship and AI Tools
   - ChatGPT
+    - [Introductory slides on what the technology is by NYU Prof. Habash](https://docs.google.com/presentation/d/1W8o1FQmWlQ8g9cPFHpxMQUFJvXTwAybU/edit#slide=id.p1)
+    - [Advice provided by NYU Office of the Provost](https://t.e2ma.net/click/ax6aexc/inkp93f/qh1cpfg)
   - Stable Diffusion / Midjourney
   - Class policy
   - Crediting / referencing AI tools
