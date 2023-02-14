@@ -20,7 +20,9 @@ https://brightspace.nyu.edu/d2l/home/265669
 
 [Weekly Schedule](https://github.com/nyuad-im/artintel/blob/master/WeeklySchedule.md)
 
-[Projects](Projects.md)
+[Projects Description](Projects.md)
+
+[Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) - submit your project links here
 
 [Reading Responses (Brightspace)](https://brightspace.nyu.edu/d2l/le/110671/discussions/List) - sign in with NYU account for access
 
