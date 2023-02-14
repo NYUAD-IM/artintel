@@ -211,8 +211,6 @@ Class examples:
   - If you have a problem with the Tensorflow version (e.g "AdamOptimizer not found") add [this code](https://colab.research.google.com/notebooks/tensorflow_version.ipynb)
 
 
-# Schedule below to be updated
-
 ## <a name="week4"></a>Week 4 - Visual tools
 
 ### <a name="week4.1"></a>Week 4.1 - Introduction to Visual tools (2/14)
