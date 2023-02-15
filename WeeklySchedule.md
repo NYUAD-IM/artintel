@@ -257,6 +257,8 @@ Class examples:
   - [Police use Tesla's autopilot to stop the car after drunk driver passes out](https://boingboing.net/2021/09/20/police-use-teslas-autopilot-to-stop-the-car-after-drunk-driver-passes-out.html)
 
 - Introduction to Visual tools continued
+  
+  - [Generative AI for Makers (Makezine)](https://makezine.com/article/craft/fine-art/generative-ai-for-makers-ai-has-truly-arrived-and-its-here-to-help-you-make-and-craft/)
 
   - Machine learning on our lab computers
     - [Lab Computer access](LabComputers.md)
