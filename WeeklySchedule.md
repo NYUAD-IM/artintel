@@ -250,6 +250,8 @@ Class examples:
 
 ### <a name="week4.2"></a>Week 4.2 - Visual Tools Continued (2/16)
 - AI in the news
+  - [Experts say she will end humanity. Here's the fix, w Elon Musk, ChatGPT, AI robots.
+](https://www.youtube.com/watch?v=zpRM25pUD8w)
   - [Police to Deploy Snitch Bots That Search for 'Undesirable Social Behaviors'](https://gizmodo.com/singapore-police-to-deploy-snitch-bots-that-search-for-1847629866)
   - [Pandemic Robots Deployed in Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679)
   - [Police use Tesla's autopilot to stop the car after drunk driver passes out](https://boingboing.net/2021/09/20/police-use-teslas-autopilot-to-stop-the-car-after-drunk-driver-passes-out.html)
