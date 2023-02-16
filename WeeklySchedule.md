@@ -276,7 +276,7 @@ Class examples:
 
 #### Homework (due before start of next class)
 
-Visual project progress
+Visual project initial idea:
 - **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for the Visual Project
   and be prepared to share your idea next class
