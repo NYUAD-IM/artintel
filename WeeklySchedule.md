@@ -294,7 +294,9 @@ and AI develops more capabilities? How will the relationship between humans and 
 ### <a name="week4.2"></a>Week 4.2 -  Neural Network Training (2/16)
 - Discuss reading
 - Share project ideas
-
+  
+- AI in the news
+  - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/)
 
 - Neural Network Training References
   - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
