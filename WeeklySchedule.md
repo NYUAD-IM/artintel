@@ -232,7 +232,6 @@ Class examples:
     - [Advice provided by NYU Office of the Provost](https://t.e2ma.net/click/ax6aexc/inkp93f/qh1cpfg)
     - [Some Colleges Cautiously Embrace Wikipedia](https://www.chronicle.com/article/some-colleges-cautiously-embrace-wikipedia/)
   - Stable Diffusion / Midjourney
-    - [Stable Diffusion litigation](https://stablediffusionlitigation.com/) - includes simple (biased) description of how Stable Diffusion works
   - Class policy
   - Crediting / referencing AI tools
     - Disclose prompt
@@ -258,7 +257,12 @@ Class examples:
   - [Police use Tesla's autopilot to stop the car after drunk driver passes out](https://boingboing.net/2021/09/20/police-use-teslas-autopilot-to-stop-the-car-after-drunk-driver-passes-out.html)
 
 - Introduction to Visual tools continued
-  
+  - [Stable Diffusion](https://stability.ai/blog/stable-diffusion-v2-release)
+    - [Stable Diffusion litigation](https://stablediffusionlitigation.com/) - includes simple (biased) description of how Stable Diffusion works
+    - [Stable Diffusion lab access (Brightspace)](https://brightspace.nyu.edu/d2l/le/lessons/265669/units/8229531)
+    - Prompt ideas
+      - [OpenArt Prompt Book](https://openart.ai/promptbook)
+      - [Prompt Hero](https://prompthero.com/) - (note some outputs are questionable - common to many prompt sites)
   - [Generative AI for Makers (Makezine)](https://makezine.com/article/craft/fine-art/generative-ai-for-makers-ai-has-truly-arrived-and-its-here-to-help-you-make-and-craft/)
 
   - Machine learning on our lab computers
