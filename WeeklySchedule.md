@@ -276,7 +276,7 @@ Class examples:
 
 
 
-### <a name="week4.2"></a>Week 4.2 -  Neural Network Training (9/23)
+### <a name="week4.2"></a>Week 4.2 -  Neural Network Training (2/16)
 - Share project ideas
 
 - Neural Network Training References
@@ -300,7 +300,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ## <a name="week5"></a>Week 5 - Neural Network Training
 
-### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (9/28)
+### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (3/21)
 - Schedule update
 - Discussion: The AI Revolution
 
@@ -338,7 +338,7 @@ and AI develops more capabilities? How will the relationship between humans and 
     - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
 
 
-### <a name="week5.2"></a>Week 5.2 - Guest Lecture - Joerg Blumtritt (9/30)
+### <a name="week5.2"></a>Week 5.2 - Guest Lecture - Joerg Blumtritt (3/21)
   - Guest Lecture with [Joerg Blumtritt](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/faculty/joerg-blumtritt.html)
   - Discussion including these topics:
     - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
