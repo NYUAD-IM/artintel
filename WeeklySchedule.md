@@ -274,15 +274,26 @@ Class examples:
     - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)  
 
 
+#### Homework (due before start of next class)
+
+Visual project progress
 - **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for the Visual Project
   and be prepared to share your idea next class
 - **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
+ 
+Reading:
+- **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+and AI develops more capabilities? How will the relationship between humans and machines change?
+- **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/268945/View)
+  - How far do you think we are towards Artificial General Intelligence? What are some of the changes (positive and negative) you see coming as machine learning  
 
-
+# Schedule below to be updated
 
 ### <a name="week4.2"></a>Week 4.2 -  Neural Network Training (2/16)
+- Discuss reading
 - Share project ideas
+
 
 - Neural Network Training References
   - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
@@ -297,11 +308,7 @@ Class examples:
 - Overview of Brightspace Reading Responses
   - Post your reading response as a new thread in the Brightspace Discussion Topic for that reading
 
-#### Homework (due before start of next class)
-  - **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
-and AI develops more capabilities? How will the relationship between humans and machines change?
-  - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/268945/View)
-    - How far do you think we are towards Artificial General Intelligence? What are some of the changes (positive and negative) you see coming as machine learning
+
 
 ## <a name="week5"></a>Week 5 - Neural Network Training
 
