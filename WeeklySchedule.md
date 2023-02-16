@@ -258,8 +258,9 @@ Class examples:
 
 - Introduction to Visual tools continued
   - [Stable Diffusion](https://stability.ai/blog/stable-diffusion-v2-release)
-    - [Stable Diffusion litigation](https://stablediffusionlitigation.com/) - includes simple (biased) description of how Stable Diffusion works
     - [Stable Diffusion lab access (Brightspace)](https://brightspace.nyu.edu/d2l/le/lessons/265669/units/8229531)
+    - [Stable Diffusion litigation](https://stablediffusionlitigation.com/) - includes simple (biased) description of how Stable Diffusion works
+    - [Do AI images violate copyright? A lawyer explains the Stable Diffusion lawsuit](https://boingboing.net/2023/01/23/do-ai-images-violate-copyright-a-lawyer-explains-the-stable-diffusion-lawsuit.html)
     - Prompt ideas
       - [OpenArt Prompt Book](https://openart.ai/promptbook)
       - [Prompt Hero](https://prompthero.com/) - (note some outputs are questionable - common to many prompt sites)
