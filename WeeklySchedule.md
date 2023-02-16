@@ -252,6 +252,7 @@ Class examples:
 - AI in the news
   - [Experts say she will end humanity. Here's the fix, w Elon Musk, ChatGPT, AI robots.
 ](https://www.youtube.com/watch?v=zpRM25pUD8w)
+    - [DeepMind’s AI Trained For 5 Years... But Why? - cooperative machine learning (2 Minute Papers)](https://www.youtube.com/watch?v=HTON7odbW0o)
   - [Police to Deploy Snitch Bots That Search for 'Undesirable Social Behaviors'](https://gizmodo.com/singapore-police-to-deploy-snitch-bots-that-search-for-1847629866)
   - [Pandemic Robots Deployed in Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679)
   - [Police use Tesla's autopilot to stop the car after drunk driver passes out](https://boingboing.net/2021/09/20/police-use-teslas-autopilot-to-stop-the-car-after-drunk-driver-passes-out.html)
