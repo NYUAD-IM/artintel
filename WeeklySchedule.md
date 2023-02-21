@@ -252,9 +252,12 @@ Class examples:
   - [Experts say she will end humanity. Here's the fix, w Elon Musk, ChatGPT, AI robots.
 ](https://www.youtube.com/watch?v=zpRM25pUD8w)
     - [DeepMind’s AI Trained For 5 Years... But Why? - cooperative machine learning (2 Minute Papers)](https://www.youtube.com/watch?v=HTON7odbW0o)
-  - [Police to Deploy Snitch Bots That Search for 'Undesirable Social Behaviors'](https://gizmodo.com/singapore-police-to-deploy-snitch-bots-that-search-for-1847629866)
-  - [Pandemic Robots Deployed in Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679)
-  - [Police use Tesla's autopilot to stop the car after drunk driver passes out](https://boingboing.net/2021/09/20/police-use-teslas-autopilot-to-stop-the-car-after-drunk-driver-passes-out.html)
+  - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/)
+
+  - Older news (from 2021, almost ancient history)
+    - [Police to Deploy Snitch Bots That Search for 'Undesirable Social Behaviors'](https://gizmodo.com/singapore-police-to-deploy-snitch-bots-that-search-for-1847629866)
+    - [Pandemic Robots Deployed in Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679)
+    - [Police use Tesla's autopilot to stop the car after drunk driver passes out](https://boingboing.net/2021/09/20/police-use-teslas-autopilot-to-stop-the-car-after-drunk-driver-passes-out.html)
 
 - Introduction to Visual tools continued
   - [Stable Diffusion](https://stability.ai/blog/stable-diffusion-v2-release)
@@ -268,6 +271,7 @@ Class examples:
 
   - Machine learning on our lab computers
     - [Lab Computer access](LabComputers.md)
+    - [Stable Diffusion UI (Easy Diffusion)](https://github.com/cmdr2/stable-diffusion-ui)
     - [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
 
   - Machine learning in the browser
@@ -289,14 +293,31 @@ and AI develops more capabilities? How will the relationship between humans and 
 - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/371624/View)
   - How far do you think we are towards Artificial General Intelligence? What are some of the changes (positive and negative) you see coming as machine learning  
 
-# Schedule below to be updated
+## <a name="week5"></a>Week 5 - Neural Network Training
 
-### <a name="week4.2"></a>Week 4.2 -  Neural Network Training (2/16)
+### <a name="week5.1"></a>Week 4.2 -  Neural Network Training (2/21)
 - Discuss reading
+  - Reading responses will be due the day *before* class
+  - Post your reading response as a new thread in the Brightspace Discussion Topic for that reading
+
+- Uncanny Valley
+  - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
+    - [The Uncanny Valley: The Original Essay by Masahiro Mori](https://spectrum.ieee.org/the-uncanny-valley)
+  - [Honda's new ASIMO robot, more human-like than ever](https://phys.org/news/2014-04-honda-asimo-robot-human-like.html) 2014
+  - [Sophia, Hanson Robotics’ most advanced human-like robot](https://www.hansonrobotics.com/sophia/)
+    - [The agony of Sophia, the world's first robot citizen condemned to a lifeless career in marketing (Wired)](https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics)
+
 - Share project ideas
+  - Discuss use of tools
   
 - AI in the news
-  - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/)
+  - [AI outperforms doctors at spotting breast cancer, say NYUAD researchers (2021)](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
+  - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imagin  g-using-ai/)
+  - [Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams
+(paper)](https://www.nature.com/articles/s41467-021-26023-2)
+
+  - [Netflix Made an Anime Using AI Due to a 'Labor Shortage,' and Fans Are Pissed (Vice)](https://www.vice.com/en/article/bvmqkv/netflix-anime-dog-and-the-boy-ai-generated-art)
+  - [Thousands of People Can’t Stop Watching AI-Generated Sitcom ‘Nothing, Forever’ (Vice)](https://www.vice.com/en/article/88qy3p/thousands-of-people-cant-stop-watching-ai-tv-show-nothing-forever)
 
 - Neural Network Training References
   - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
@@ -306,21 +327,27 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [MobileNet details](https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69)
   - [How to Train StyleGAN to Generate Realistic Faces](https://towardsdatascience.com/how-to-train-stylegan-to-generate-realistic-faces-d4afca48e705)
     - (Advanced)[Training a GAN from your Own Images: StyleGAN2 ADA (YouTube)](https://www.youtube.com/watch?v=kbDd5lW6rkM)
+
+- Generative Adversarial Networks (GANs)
+  - [Supervised vs Unsupervised Learning: Difference Between Them](https://www.guru99.com/supervised-vs-unsupervised-learning.html)
+    - Supervised
+      - labelled input and output data (known inputs to known outputs / answers)
+      - model maps new input to predicted output
+      - typically used for classification and regression (prediction)
+    - Unsupervised
+      - unlabelled data (raw inputs, no outputs)
+      - model finds patterns in input data
+      - model maps new input to found pattern in training data
+      - typcially used for clustering and association
+  - [A Gentle Introduction to Generative Adversarial Networks (GANs)](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/)
+  - [Deep Convolutional Generative Adversarial Network (Tensorflow docs)](https://www.tensorflow.org/tutorials/generative/dcgan)
+    - [Run in Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb)
+
   - [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
+  - [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
 
-- Overview of Brightspace Reading Responses
-  - Post your reading response as a new thread in the Brightspace Discussion Topic for that reading
-
-
-
-## <a name="week5"></a>Week 5 - Neural Network Training
-
-### <a name="week5.1"></a>Week 5.1 - How Neural Networks are Trained (3/21)
-- Schedule update
-- Discussion: The AI Revolution
-
-- [Useful Colabs](UsefulColabs.md)
-- Lab access
+### <a name="week5.2"></a>Week 5.2 - How Neural Networks are Trained (2/23)
+- Requested visual tools
 
 - [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
   - Training example using SampleRNN
@@ -331,7 +358,6 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [How to Send Push Notifications to Your Phone From Any Script](https://medium.com/better-programming/how-to-send-push-notifications-to-your-phone-from-any-script-6b70e34748f6)
   - [IFTTT - If This, Then That](https://ifttt.com/)
   - [FileZilla SFTP client](https://filezilla-project.org/)
-
 
 - Training Examples
   - VQGAN+CLIP using 'A painting of the Tower of London by Pablo Picasso' different models
@@ -347,26 +373,16 @@ and AI develops more capabilities? How will the relationship between humans and 
 <!-- add training exercise -->
 
 #### Homework (due before start of next class)
-  - **Read** the following articles and be ready to discuss in class
-    - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
-    - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
-    - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
+- **Read** the following articles and be ready to discuss in class
+  - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
+  - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+  - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
 
-
-### <a name="week5.2"></a>Week 5.2 - Guest Lecture - Joerg Blumtritt (3/21)
-  - Guest Lecture with [Joerg Blumtritt](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/faculty/joerg-blumtritt.html)
-  - Discussion including these topics:
-    - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
-    - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
-    - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
-
-#### Homework (due before start of next class 10/5)
 - **Work** on your Visual Project
 - **Prepare** to share your idea at our next class together on 10/7
   - What is your latest idea?
   - What Colabs / software are you using?
   - Is there anything you need help with? Feel free to ask on Discord as you go!
-
 
 <!--
 
@@ -409,17 +425,13 @@ and AI develops more capabilities? How will the relationship between humans and 
 - [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/)
 
 
-- AI in the news
-  - [AI outperforms doctors at spotting breast cancer, say NYUAD researchers](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
-  - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imaging-using-ai/)
-  - [Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams
-(paper)](https://www.nature.com/articles/s41467-021-26023-2)
 
 #### Homework (due before start of next class)
 - **Finish** your Visual Project
 - **Add** the links to your project and documentation to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Prepare** a 5 minute presentation of your project and be ready to receive and give feedback
-
+  - Do not exceed 5 minutes! Practice your presentation to check the timing
+  - Share your most important ideas / concepts / statements and leave time for dicussion
 
 <!--
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
@@ -545,6 +557,12 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 
 ### <a name="week8.2"></a>Week 8.2 (10/28) Ethics and Bias
+
+- Musical Interlude
+  - [Bremer/McCoy - Højt At Flyve (audio)](https://www.youtube.com/watch?v=BKwkd8dzPF4)
+  - [Bremer/McCoy interview / behind the scenes (YouTube)](https://www.youtube.com/watch?v=kF8Rxsw2eYk)
+    - "The inspiration for the album comes from a lot of different places. It comes from all the music we listen to and also the life we are living."
+
 - Review texts made with GPT
 - Discuss social implications and ethics of AI and bias in Machine Learning
 
