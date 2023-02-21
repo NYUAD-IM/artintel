@@ -293,9 +293,9 @@ and AI develops more capabilities? How will the relationship between humans and 
 - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/371624/View)
   - How far do you think we are towards Artificial General Intelligence? What are some of the changes (positive and negative) you see coming as machine learning  
 
-## <a name="week5"></a>Week 5 - Neural Network Training
+## <a name="week5"></a>Week 5 - Visual Neural Networks
 
-### <a name="week5.1"></a>Week 4.2 -  Neural Network Training (2/21)
+### <a name="week5.1"></a>Week 4.2 - Discussion / Project Ideas / Generative Networks (2/21)
 - Discuss reading
   - Reading responses will be due the day *before* class
   - Post your reading response as a new thread in the Brightspace Discussion Topic for that reading
@@ -346,7 +346,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
   - [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
 
-### <a name="week5.2"></a>Week 5.2 - How Neural Networks are Trained (2/23)
+### <a name="week5.2"></a>Week 5.2 - More Visual Tools (2/23)
 - Requested visual tools
 
 - [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
