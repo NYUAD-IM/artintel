@@ -1,8 +1,15 @@
 # Stable Diffusion Guide (2023)
 
-The lab computers have [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) installed with the [Easy Diffusion](https://github.com/cmdr2/stable-diffusion-ui) web UI. The web UI is accessible while on campus or using the VPN.
+Stable Diffusion
+- [How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU)
+- [How does Stable Diffusion work?](https://stable-diffusion-art.com/how-stable-diffusion-work/)
+- Stable Diffusion 2 uses Open CLIP, which was trained using 5.85 billion image / text pairs from [LAION-5B](https://laion.ai/blog/laion-5b/)
+- Open AI's [CLIP](https://openai.com/blog/clip/) was designed to describe what is in an image
+  - This model can be used to help guide image generation by evaluating generated images 
 
-[How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU)
+## Accessing Stable Diffusion
+
+The lab computers have [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) installed with the [Easy Diffusion](https://github.com/cmdr2/stable-diffusion-ui) web UI. The web UI is accessible while on campus or using the VPN.
 
 [Stable Diffusion web UI links (Brightspace, class students only)](https://brightspace.nyu.edu/d2l/le/lessons/265669/units/8229531)
 
