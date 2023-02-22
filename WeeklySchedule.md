@@ -347,6 +347,11 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
 
 ### <a name="week5.2"></a>Week 5.2 - More Visual Tools (2/23)
+- AI in the news
+  - [Imagining new Indian sci-fi stories through the power of AI (2023)](https://wepresent.wetransfer.com/stories/prateek-arora-midjourney-indian-cinema)
+    - Imagining Indian Sci-Fi
+  - [How People with Disabilities Are Using AI to Improve Their Lives (2019)](https://www.pbs.org/wgbh/nova/article/people-with-disabilities-use-ai-to-improve-their-lives/)
+  
 - Requested visual tools
 
 - [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
