@@ -32,6 +32,8 @@ Note: when exploring text to image models some links (e.g. to custom trained mod
 
 Recommended initial settings:
 
+![Easy Diffusion recommended settings](Assets/SD_settings.jpg)
+
 
 These settings offer a good balance of speed and quality while exploring while using our shared machines. Once you have a prompt or image that you like you can experiment with other settings to increase the quality of the final output.
 
