@@ -2,6 +2,8 @@
 
 The lab computers have [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) installed with the [Easy Diffusion](https://github.com/cmdr2/stable-diffusion-ui) web UI. The web UI is accessible while on campus or using the VPN.
 
+[How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU)
+
 [Stable Diffusion web UI links (Brightspace, class students only)](https://brightspace.nyu.edu/d2l/le/lessons/265669/units/8229531)
 
 Available models:
@@ -15,8 +17,9 @@ Available models:
     - Slower than base since higher resolution
     - Recommended for higher resolution output after exploring prompts
     - 5GB model checkpoint
--  Stable Diffusion 1.4
-  - Previous version, mostly of historical interest
+- Stable Diffusion 1.4
+  - Previous version with different training
+  - [Stable Diffusion 1 vs 2 - What you need to know](https://www.assemblyai.com/blog/stable-diffusion-1-vs-2-what-you-need-to-know/)
 
 Note: when exploring text to image models some links (e.g. to custom trained models) eventually lead to NSFW content.
 
