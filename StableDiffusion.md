@@ -41,6 +41,7 @@ These settings offer a good balance of speed and quality while exploring while u
 
 ### Saving the prompt
 - Hover over the generated image and select "Copy settings (TXT)"
+  - (Enabled by the [Copy Settings plugin](https://github.com/cmdr2/stable-diffusion-ui/wiki/UI-Plugins#information-plugins))
 
 ### Downloading your image
 - Hover over image and click Download
