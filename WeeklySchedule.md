@@ -312,7 +312,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   
 - AI in the news
   - [AI outperforms doctors at spotting breast cancer, say NYUAD researchers (2021)](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
-  - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imagin  g-using-ai/)
+  - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imaging-using-ai/)
   - [Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams
 (paper)](https://www.nature.com/articles/s41467-021-26023-2)
 
