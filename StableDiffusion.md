@@ -49,7 +49,9 @@ These settings offer a good balance of speed and quality while exploring while u
 "Created with Stable Diffusion 2.1 using prompt {prompt}" and include prompt JSON with code formatting. Include any input image. There should be enough information to recreate the image you generated (similar to including your source code).
 
 e.g.
-![Assets/New_York_University_Abu_Dhabi_is_a_private_liberal_arts_college_located_in_Abu_Dhabi_United_Arab_Emi_Seed-1111797_Steps-50_Guidance-7.5.jpeg]
+
+![Generated image of NYUAD](Assets/New_York_University_Abu_Dhabi_is_a_private_liberal_arts_college_located_in_Abu_Dhabi_United_Arab_Emi_Seed-1111797_Steps-50_Guidance-7.5.jpeg)
+
 Created with Stable Diffusion 2.1 using prompt "New York University Abu Dhabi is a private liberal arts college located in Abu Dhabi United Arab Emirates"
 
 Prompt data:
