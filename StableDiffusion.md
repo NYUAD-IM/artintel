@@ -40,7 +40,7 @@ These settings offer a good balance of speed and quality while exploring while u
 - With the Euler Ancestral sampler (recommended for initial ideation) running more inference steps ("Draw another 25 steps") may significantly change the image. Other samplers generally increase the quality rather than changing the image 
 
 ### Saving the prompt
-- Click the copy icon next to the prompt window to copy the settings as JSON code
+- Hover over the generated image and select "Copy settings (TXT)"
 
 ### Downloading your image
 - Hover over image and click Download
