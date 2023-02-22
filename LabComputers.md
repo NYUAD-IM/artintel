@@ -2,7 +2,7 @@
 
 We have three lab machines available for use:
 - Alienware PC running Ubuntu
-- nVidia RTX 1080 video card with 8GB VRAM
+- nVidia GTX 1080 Ti video card with 11GB VRAM
 
 ### Direct Access Information (advanced users)
 <!-- $$$ Brightspace update each semester -->
