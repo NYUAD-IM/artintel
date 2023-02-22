@@ -1,7 +1,7 @@
 # Art Intel Computers
 
 We have three lab machines available for use:
-- Alienware PC running Ubuntu
+- Alienware PC running Ubuntu 18
 - nVidia GTX 1080 Ti video card with 11GB VRAM
 
 ### Direct Access Information (advanced users)
