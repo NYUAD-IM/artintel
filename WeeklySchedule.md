@@ -295,7 +295,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ## <a name="week5"></a>Week 5 - Visual Neural Networks
 
-### <a name="week5.1"></a>Week 4.2 - Discussion / Project Ideas / Generative Networks (2/21)
+### <a name="week5.1"></a>Week 5.1 - Discussion / Project Ideas / Generative Networks (2/21)
 - Discuss reading
   - Reading responses will be due the day *before* class
   - Post your reading response as a new thread in the Brightspace Discussion Topic for that reading
@@ -352,7 +352,8 @@ and AI develops more capabilities? How will the relationship between humans and 
     - Imagining Indian Sci-Fi
   - [How People with Disabilities Are Using AI to Improve Their Lives (2019)](https://www.pbs.org/wgbh/nova/article/people-with-disabilities-use-ai-to-improve-their-lives/)
   
-- Requested visual tools
+- Stable Diffusion Workshop
+  - [Stable Diffusion Guide (artintel)](StableDiffusion.md)
 
 - [Lab computers](https://github.com/NYUAD-IM/artintel/blob/master/LabComputers.md)
   - Training example using SampleRNN
