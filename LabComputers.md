@@ -1,6 +1,10 @@
 # Art Intel Computers
 
-### Access Information
+We have three lab machines available for use:
+- Alienware PC running Ubuntu
+- nVidia RTX 1080 video card with 8GB VRAM
+
+### Direct Access Information (advanced users)
 <!-- $$$ Brightspace update each semester -->
 The login information is linked on the course page on [Lab Computer Logins (Brightspace)]([https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5937697](https://brightspace.nyu.edu/d2l/le/lessons/265669/units/8229531))
 
