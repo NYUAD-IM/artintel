@@ -42,12 +42,45 @@ These settings offer a good balance of speed and quality while exploring while u
 ### Saving the prompt
 - Click the copy icon next to the prompt window to copy the settings as JSON code
 
+### Downloading your image
+- Hover over image and click Download
+
 ### Crediting your images
-"Created with Stable Diffusion 2.1 using prompt {prompt}" and include prompt JSON with code formatting.
+"Created with Stable Diffusion 2.1 using prompt {prompt}" and include prompt JSON with code formatting. Include any input image. There should be enough information to recreate the image you generated (similar to including your source code).
 
 e.g.
+![Assets/New_York_University_Abu_Dhabi_is_a_private_liberal_arts_college_located_in_Abu_Dhabi_United_Arab_Emi_Seed-1111797_Steps-50_Guidance-7.5.jpeg]
+Created with Stable Diffusion 2.1 using prompt "New York University Abu Dhabi is a private liberal arts college located in Abu Dhabi United Arab Emirates"
+
+Prompt data:
+```
+prompt: New York University Abu Dhabi is a private liberal arts college located in Abu Dhabi United Arab Emirates
+seed: 1111797
+negative_prompt: 
+num_outputs: 1
+num_inference_steps: 50
+guidance_scale: 7.5
+width: 512
+height: 512
+vram_usage_level: balanced
+use_stable_diffusion_model: v2-1_512-ema-pruned
+use_vae_model: 
+stream_progress_updates: true
+stream_image_progress: false
+show_only_filtered_image: true
+output_format: jpeg
+output_quality: 75
+metadata_output_format: txt
+original_prompt: New York University Abu Dhabi is a private liberal arts college located in Abu Dhabi United Arab Emirates
+active_tags: 
+inactive_tags: 
+sampler_name: euler_a
+```
+
 
 ### Increasing output quality
+- Adjust your prompt
+- Change the guidance scale
 - Use the 768x768 model
 - Change samplers and run more inference steps
   - The recommended / default Euler Ancestral is fast but will change the image rather than increasing the quality
