@@ -4,6 +4,7 @@ Stable Diffusion
 - [How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU)
 - [How does Stable Diffusion work?](https://stable-diffusion-art.com/how-stable-diffusion-work/)
 - Stable Diffusion 2 uses Open CLIP, which was trained using 5.85 billion image / text pairs from [LAION-5B](https://laion.ai/blog/laion-5b/)
+  - [CLIP Search Demo](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn.laion.ai&index=laion5B-H-14&useMclip=false) search for images in the LAION-5B dataset from text description
 - Open AI's [CLIP](https://openai.com/blog/clip/) was designed to describe what is in an image
   - This model can be used to help guide image generation by evaluating generated images 
 
