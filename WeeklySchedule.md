@@ -414,7 +414,10 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ## <a name="week6"></a>Week 6 - Visual project check-in / Bias in Datasets
 
-### <a name="week6.1"></a>Visual Project Check-In
+### <a name="week6.1"></a>Visual Project / Stable Diffusion
+  
+- Project idea discussion and feedback  
+  
 - AI in the news
   - [AI-Created Images Aren’t Protected By Copyright Law According To U.S. Copyright Office - 2023-02-23](https://www.forbes.com/sites/mattnovak/2023/02/22/ai-created-images-in-new-comic-book-arent-protected-by-copyright-law-according-to-us-copyright-office/?sh=467fd5e27ce4)
   
@@ -426,7 +429,12 @@ and AI develops more capabilities? How will the relationship between humans and 
   
 > “The Office does not question Ms. Kashtanova’s contention that she expended significant time and effort working with Midjourney. But that effort does not make her the ‘author’ of Midjourney images under copyright law,” the Copyright Office wrote.
   
-- Project idea discussion and feedback
+
+Stable Diffusion training
+- Stable Diffusion 2 was trained on ~2.3 billion image / text pairs from a subset of images from [LAION-5B](https://laion.ai/blog/laion-5b/)
+  - [LAION-5B CLIP Search Demo](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn.laion.ai&index=laion5B-H-14&useMclip=false) search for images in the LAION-5B dataset from text description
+- [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/
+  - [laion-aesthetic-6pls search](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images)
 
 
 #### Homework (due before start of next class)
