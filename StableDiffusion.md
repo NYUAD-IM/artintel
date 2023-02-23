@@ -131,3 +131,5 @@ Outpainting is a technique to extend an existing image to a larger canvas. The e
 - [stablediffusion infinity](https://huggingface.co/spaces/lnyan/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
   - Watch the video for instructions on the (rather confusing) UI
 - [stablediffusion-infinity (Hugging Space)](https://huggingface.co/spaces/lnyan/stablediffusion-infinity) - live demo on Hugging Space
+
+https://user-images.githubusercontent.com/1665437/197244111-51884b3b-dffe-4dcf-a82a-fa5117c79934.mp4
