@@ -379,6 +379,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 <!-- add training exercise -->
 
 #### Homework (due before start of next class)
+- **Watch** [How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile](https://youtu.be/1CIpzeNxIhU)
 - **Read** the following articles and be ready to discuss in class
   - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
   - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
