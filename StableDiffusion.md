@@ -59,7 +59,7 @@ These settings offer a good balance of speed and quality while exploring while u
 - Hover over image and click Download
 
 ### Crediting your images
-"Created with Stable Diffusion 2.1 using prompt {prompt}" and include prompt JSON with code formatting. Include any input image. There should be enough information to recreate the image you generated (similar to including your source code).
+"Created with Stable Diffusion 2.1 using prompt {prompt}" and include prompt data with code formatting. Include any input image. There should be enough information to recreate the image you generated (similar to including your source code).
 
 Hover over the generated image and select "Copy settings (TXT)" to get the full prompt data copied to your clipboard.
 
