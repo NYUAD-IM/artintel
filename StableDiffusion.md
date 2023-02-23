@@ -107,6 +107,8 @@ sampler_name: euler_a
   - Hover over image and "Draw another 25 steps"
 - Fix faces (runs another model over the generated image to fix faces)
 - Upscale your image (runs another model to upscale)
+- Use inpainting to selectively regenerate parts of your image
+- Use img2img to regenerate your image using the current image as input
 
 ## Writing prompts
 - [Stable Diffusion Prompt Book](https://openart.ai/promptbook)
@@ -121,3 +123,12 @@ Techniques
 - Start with an input image that you create (e.g. a simple drawing) and use that to condition the generated image.
 - Take a generated output image and use that as the input image to continue refining / tweaking it
 - Mask part of the input image to have Stable Diffusion just paint those areas. E.g. draw a simple skyline into one of your photos then mask that area to have Stable Diffusion replace your drawing with generated imagery
+
+# Outpainting (and repainting)
+
+Outpainting is a technique to extend an existing image to a larger canvas. The existing image is extended outwards.
+
+- [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity
+https://huggingface.co/spaces/lnyan/stablediffusion-infinity) Outpainting with Stable Diffusion on an infinite canvas
+  - Watch the video for instructions on the (rather confusing) UI
+- [stablediffusion-infinity (Hugging Space)](https://huggingface.co/spaces/lnyan/stablediffusion-infinity) - live demo on Hugging Space
