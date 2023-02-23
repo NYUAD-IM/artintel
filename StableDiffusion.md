@@ -126,7 +126,7 @@ Techniques
 
 # Outpainting (and repainting)
 
-Outpainting is a technique to extend an existing image to a larger canvas. The existing image is extended outwards.
+Outpainting is a technique to extend an existing image to a larger canvas. The existing image is extended outwards. You can also erase parts of the existing image and repaint them.
 
 - [stablediffusion infinity](https://huggingface.co/spaces/lnyan/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
   - Watch the video for instructions on the (rather confusing) UI
