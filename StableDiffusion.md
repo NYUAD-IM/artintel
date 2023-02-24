@@ -10,6 +10,11 @@ Stable Diffusion
 
 ## Accessing Stable Diffusion
 
+Apple devices
+- [DiffusionBee](https://diffusionbee.com/) - app for M1/M2 laptops
+- [Draw Things](https://drawthings.ai/) - app for iOS and M1/M2 laptops
+  - M1/M2 recommended
+
 The lab computers have [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) installed with the [Easy Diffusion](https://github.com/cmdr2/stable-diffusion-ui) web UI. The web UI is accessible while on campus or using the VPN.
 
 [Stable Diffusion web UI links (Brightspace, class students only)](https://brightspace.nyu.edu/d2l/le/lessons/265669/units/8229531)
