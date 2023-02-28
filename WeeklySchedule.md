@@ -416,6 +416,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 ## <a name="week6"></a>Week 6 - Visual project check-in / Bias in Datasets
 
 ### <a name="week6.1"></a>Visual Project / Stable Diffusion
+- Reading discussion
   
 - Project idea discussion and feedback  
   
@@ -444,21 +445,13 @@ and AI develops more capabilities? How will the relationship between humans and 
   - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/269790/View)
 
 
-
 ### <a name="week6.2"></a>Week 6 - Bias in Datasets (10/7)
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
 - [AI colorization (Twitter)](https://twitter.com/gwenckatz/status/1381652071695351810)
 - [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 - [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/)
 
-
-
-#### Homework (due before start of next class)
-- **Finish** your Visual Project
-- **Add** the links to your project and documentation to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Prepare** a 5 minute presentation of your project and be ready to receive and give feedback
-  - Do not exceed 5 minutes! Practice your presentation to check the timing
-  - Share your most important ideas / concepts / statements and leave time for dicussion
+- Project checkin / work session
 
 <!--
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
@@ -495,15 +488,18 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Lab computers
 -->
 
-### <a name="week7.1"></a>Week 7.1 (10/12) - Visual Project presentations
-- In-class presentations of Visual Project
-
+### <a name="week7.1"></a>Week 7.1 (10/12) - Visual Project Work Session
+- Work on your visual project
+  
 #### Homework (due before start of next class)
-- **Find** an inspirational work using AI for sound/text generation
-- **Find** a tool or technique that you would like to use / learn more about / find interesting
-- **Write** 2-3 paragraphs about the inspirational work and tool in the [Brightspace Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/272388/View)
+- **Finish** your Visual Project
+- **Add** the links to your project and documentation to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Prepare** a 5 minute presentation of your project and be ready to receive and give feedback
+  - Do not exceed 5 minutes! Practice your presentation to check the timing
+  - Share your most important ideas / concepts / statements and leave time for dicussion
 
-### <a name="week7.2"></a>Week 7.2 (10/14) - Sound / Text Project Discussion
+### <a name="week7.2"></a>Week 7.2 (10/14) -  Visual Project presentations
+- In-class presentations of Visual Project
 
 - Look at inspirational sound/text works and tools  
 
@@ -527,14 +523,11 @@ and AI develops more capabilities? How will the relationship between humans and 
     - What tools did you use? How did the tools affect your creative process? (If you found the
       tools limiting you can also comment on that.)
 
-
-- Machine learning techniques for text
-  - "Vanilla" Neural Networks
-    - [Looking inside neural nets](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
-  - Recurrent Neural Networks
-    - [3 minute explanation video](https://www.youtube.com/watch?v=C0xoB8L8ms0)
-    - [The unreasonable effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-
+#### Homework (due before start of class after break)
+- **Find** an inspirational work using AI for sound/text generation
+- **Find** a tool or technique that you would like to use / learn more about / find interesting
+- **Write** 2-3 paragraphs about the inspirational work and tool in the [Brightspace Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/272388/View)
+  
 
 - **Homework** (due before start of next class):
   - No homework - have a great break!
@@ -548,6 +541,13 @@ and AI develops more capabilities? How will the relationship between humans and 
 ## <a name="week8"></a>Week 8 - Sound and Text Tools / Ethics and Bias
 
 ### <a name="week8.1"></a>Week 8.1 Sound and Text Tools (10/26)
+    
+- Machine learning techniques for text
+  - "Vanilla" Neural Networks
+    - [Looking inside neural nets](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
+  - Recurrent Neural Networks
+    - [3 minute explanation video](https://www.youtube.com/watch?v=C0xoB8L8ms0)
+    - [The unreasonable effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
   - Machine learning techniques for text
     - Long Short-Term Memory Neural Networks (LSTM)
