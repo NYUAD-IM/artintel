@@ -444,7 +444,7 @@ Stable Diffusion training
 #### Homework (due before start of next class)
   - **Read** [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.biennial.com/journal/issue-9/excavating-ai-the-politics-of-images-in-machine-learning-training-sets)
 and AI develops more capabilities? How will the relationship between humans and machines change?
-  - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/269790/View)
+  - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/371625/View)
 
 
 ### <a name="week6.2"></a>Week 6 - Bias in Datasets (3/2)
