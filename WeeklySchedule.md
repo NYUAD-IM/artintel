@@ -430,7 +430,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 > “A person who provides text prompts to Midjourney does not ‘actually form’ the generated images and is not the ‘master mind’ behind them. [...] The information in the prompt may ‘influence’ generated image, but prompt text does not dictate a specific result,” the Copyright Office explained.
   
 > “The Office does not question Ms. Kashtanova’s contention that she expended significant time and effort working with Midjourney. But that effort does not make her the ‘author’ of Midjourney images under copyright law,” the Copyright Office wrote.
-  
+
+  - [Tesla Autopilot Duped By ‘Phantom’ Images (2020)](https://threatpost.com/tesla-autopilot-duped-by-phantom-images/152491/)
 
 Stable Diffusion training
 - Stable Diffusion 2 was trained on ~2.3 billion image / text pairs from a subset of images from [LAION-5B](https://laion.ai/blog/laion-5b/)
