@@ -447,7 +447,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/269790/View)
 
 
-### <a name="week6.2"></a>Week 6 - Bias in Datasets (10/7)
+### <a name="week6.2"></a>Week 6 - Bias in Datasets (3/2)
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
 - [AI colorization (Twitter)](https://twitter.com/gwenckatz/status/1381652071695351810)
 - [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
@@ -476,7 +476,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 ## <a name="week7"></a>Week 7 - Visual Project presentations / Sound and Text Introduction
 
 <!--
-### <a name="week7.1"></a>Week 7 (10/26) - Autoencoders, other forms of neural networks (or guest lecture)
+### <a name="week7.1"></a>Week 7 (/26) - Autoencoders, other forms of neural networks (or guest lecture)
 - [MNIST digits autoencoder Colab](https://colab.research.google.com/github/AFAgarap/examples/blob/master/community/en/autoencoder.ipynb)
 - [pix2pix ml4a](https://ml4a.github.io/guides/Pix2Pix/)
 - [pix2pix demo](https://affinelayer.com/pixsrv/)
@@ -490,7 +490,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Lab computers
 -->
 
-### <a name="week7.1"></a>Week 7.1 (10/12) - Visual Project Work Session
+### <a name="week7.1"></a>Week 7.1 (3/7) - Visual Project Work Session
 - Work on your visual project
   
 #### Homework (due before start of next class)
@@ -500,14 +500,14 @@ and AI develops more capabilities? How will the relationship between humans and 
   - Do not exceed 5 minutes! Practice your presentation to check the timing
   - Share your most important ideas / concepts / statements and leave time for dicussion
 
-### <a name="week7.2"></a>Week 7.2 (10/14) -  Visual Project presentations
+### <a name="week7.2"></a>Week 7.2 (3/9) -  Visual Project presentations
 - In-class presentations of Visual Project
 
 - Look at inspirational sound/text works and tools  
 
 - Discuss Project 3 - Sound / Text
 
-- **Sound / Text Project (due 11/18)**
+- **Sound / Text Project (due TBD)**
   - [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-1118)
   - **Create** sound / music, or text using a machine learning algorithm
   - **Put** your project URL and documentation URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
