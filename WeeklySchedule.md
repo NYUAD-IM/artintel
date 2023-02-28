@@ -384,6 +384,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
   - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
   - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
+  - [Meet the Artist Using Ritual Magic to Trap Self-Driving Cars (Vice, 2017)](https://www.vice.com/en/article/ywwba5/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars)
 
 - **Work** on your Visual Project
 - **Prepare** to share your idea at our next class together on 10/7
