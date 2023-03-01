@@ -491,6 +491,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 -->
 
 ### <a name="week7.1"></a>Week 7.1 (3/7) - Visual Project Work Session
+- AI in the news
+  - [Robots let ChatGPT touch the real world thanks to Microsoft (2023)](https://arstechnica.com/information-technology/2023/02/robots-let-chatgpt-touch-the-real-world-thanks-to-microsoft/)
 - Work on your visual project
   
 #### Homework (due before start of next class)
