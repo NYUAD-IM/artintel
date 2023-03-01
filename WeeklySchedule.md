@@ -453,6 +453,9 @@ and AI develops more capabilities? How will the relationship between humans and 
 - [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 - [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/)
 
+- AI in the news
+  - [Robots let ChatGPT touch the real world thanks to Microsoft (2023)](https://arstechnica.com/information-technology/2023/02/robots-let-chatgpt-touch-the-real-world-thanks-to-microsoft/)
+    
 - Project checkin / work session
 
 <!--
@@ -491,8 +494,6 @@ and AI develops more capabilities? How will the relationship between humans and 
 -->
 
 ### <a name="week7.1"></a>Week 7.1 (3/7) - Visual Project Work Session
-- AI in the news
-  - [Robots let ChatGPT touch the real world thanks to Microsoft (2023)](https://arstechnica.com/information-technology/2023/02/robots-let-chatgpt-touch-the-real-world-thanks-to-microsoft/)
 - Work on your visual project
   
 #### Homework (due before start of next class)
