@@ -36,6 +36,7 @@ Production assignments are graded on the overall quality of work, comprehension 
   - What tools did you use? How did the tools affect your creative process? (If you found the
     tools limiting you can also comment on that.)
     - For text to image and related techniques, include the prompts that you used
+  - Documentation of the contribution of each group member (what each group member did)
 
 ### Grading Rubric
 
