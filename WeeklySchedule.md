@@ -531,11 +531,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 #### Homework (due before start of class after break)
 - **Find** an inspirational work using AI for sound/text generation
 - **Find** a tool or technique that you would like to use / learn more about / find interesting
-- **Write** 2-3 paragraphs about the inspirational work and tool in the [Brightspace Discussion](https://brightspace.nyu.edu/d2l/le/110671/discussions/topics/272388/View)
+- **Write** 2-3 paragraphs about the inspirational work and tool in the [Brightspace Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/371626/View)
   
-
-- **Homework** (due before start of next class):
-  - No homework - have a great break!
 
 ## FALL BREAK / FALL BREAK / FALL BREAK
 
