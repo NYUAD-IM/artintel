@@ -17,7 +17,7 @@ Production assignments are graded on the overall quality of work, comprehension 
 - You can incorporate the visual output into a larger work, e.g. website, printed image, interactive
   program or use the output of the machine learning algorithm as source material for
   your creative process (e.g. generate images and then further manipulate them)
-- The work must make a creative or critical statement (not just make simple use of the tools)
+- The work must make a creative or critical statement (it must do more than just use AI tools, it has to make a statement or provoke some questions)
 - Some ideas:
   - create a series of related images using style transfer and present them on a website
   - generate the description of an using GPT-2 and then draw it yourself
@@ -32,7 +32,7 @@ Production assignments are graded on the overall quality of work, comprehension 
 - Required documentation (include on project site or separate page):
   - Name of your project
   - What inspired you to make this work?
-  - How does the content of your work related to some of the concepts we've covered in class?
+  - How does the content of your work relate to some of the concepts we've covered in class?
   - What tools did you use? How did the tools affect your creative process? (If you found the
     tools limiting you can also comment on that.)
     - For text to image and related techniques, include the prompts that you used
