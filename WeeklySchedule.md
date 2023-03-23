@@ -534,19 +534,24 @@ and AI develops more capabilities? How will the relationship between humans and 
 - **Write** 2-3 paragraphs about the inspirational work and tool in the [Brightspace Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/371626/View)
   
 
-## FALL BREAK / FALL BREAK / FALL BREAK
-
-### No class (10/19)
-
-### No class (10/21)
+## SPRING BREAK / SPRING BREAK / SPRING BREAK
 
 ## <a name="week8"></a>Week 8 - Sound and Text Tools / Ethics and Bias
+### <a name="week8.1"></a>Week 8.1 NO CLASS - Spring Break (3/21)
 
-### <a name="week8.1"></a>Week 8.1 Sound and Text Tools (10/26)
+### <a name="week8.2"></a>Week 8.2 Sound and Text Tools (3/23)
+- Midterm course review
+  - How is the course going for you?
+  - What's working well?
+  - Any changes / suggestions?
+  - Project feedback
+    - Make an artistic / creative statement as well as using the tools
+    - Can you make something that provokes emotions and questions in the audience?
     
 - Machine learning techniques for text
-  - "Vanilla" Neural Networks
+  - Review of "Vanilla" Neural Networks
     - [Looking inside neural nets](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
+
   - Recurrent Neural Networks
     - [3 minute explanation video](https://www.youtube.com/watch?v=C0xoB8L8ms0)
     - [The unreasonable effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
@@ -565,8 +570,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 #### Homework ####
 - **Read** [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
 
-- **Read** an article about GPT-3 and write a 2-3 paragraph response in Brightspace->Discussions->Reading Responses->Week 8
-  - Some suggested articles
+- **Find and read** an article about GPT and write a 2-3 paragraph response in Brightspace->Discussions->Reading Responses->Week 8
+  - Some suggested articles (ancient history fro 2020)
     - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
       - [Responses on Hacker News](https://news.ycombinator.com/item?id=24003384)
     - [Someone let a GPT-3 bot loose on Reddit — it didn’t end well](https://thenextweb.com/neural/2020/10/07/someone-let-a-gpt-3-bot-loose-on-reddit-it-didnt-end-well/)
@@ -576,7 +581,7 @@ and AI develops more capabilities? How will the relationship between humans and 
     - [GPT Crush (look through some examples)](http://gptcrush.com/)
 
 - **Create** a short text by prompting GPT-2/3 and **submit** it to Brightspace->Assignments->Week 8. Put the prompted parts of the text you wrote in **bold**.
-  - e.g. use [Talk to Transformer](https://app.inferkit.com/demo) or [GPT-2 Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
+  - e.g. use ChatGPT or [Talk to Transformer](https://app.inferkit.com/demo) or [GPT-2 Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
   - What does your text show about how the model works?
   - How does the response match with what you expected?
   - What do you think of future applications of GPT-3?
@@ -706,9 +711,9 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ## <a name="week11"></a>Week 11 - Sound / Text Project Due
 
-### <a name="week11.1"></a>Week 11.1 - Sound / Text Project Presentations (11/16)
+### <a name="week11.1"></a>Week 11.2 - Sound / Text Project Presentations (4/13)
 
-- **Project 3 - Sound / Text Due (11/16)**
+- **Project 3 - Sound / Text Due (4/13)**
   - **Add** a link to your project and documentation to the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Present** your Sound / Text project
 
@@ -717,15 +722,13 @@ and AI develops more capabilities? How will the relationship between humans and 
 - **Read** [Hello ml5.js - A gentle introduction to ml5](https://learn.ml5js.org/#/tutorials/hello-ml5)
 
 
-### <a name="week11.2"></a>Week 11.2 Final Project Introduction / ml5js (11/18)
-- Brightspace admin
-  - Make sure you have joined your group and submitted via Brightspace for the Sound / Text project
+## <a name="week12"></a>Week 12 - Interactive Applications
 
-- Sound / Text Project Presentations
+### <a name="week12.1"></a>Week 12.1 Final Project Introduction / ml5js (4/18)
 
 - Introduction to [Final Project](Projects.md)
 
-- AI in the news
+- AI in the news (2020)
   - [Much ‘Artificial Intelligence’ Is Still People Behind a Screen](https://www.bloomberg.com/opinion/articles/2021-10-13/how-good-is-ai-much-artificial-intelligence-is-still-people-behind-a-screen)
 
 - ml5js
@@ -749,9 +752,14 @@ and AI develops more capabilities? How will the relationship between humans and 
 - **Sign up** for your Final Project group in Brightspace
 - **Develop** the rough idea for your final project and add it your group description in Brightspace
 
-## <a name="week12"></a>Week 12 - Interactive Applications
+### <a name="week12.2"></a>Week 12 (4/20) - NO CLASS - Eid
+- No class
 
-### <a name="week12.1"></a>Week 12 (11/23) - Interactive Machine Learning
+
+## <a name="week13"></a>Week 13 - ml5js / Final project
+
+
+### <a name="week13.1"></a>Week 13.1 (4/25)) - Interactive Machine Learning
 - Review homework
 
 - More ml5js
@@ -774,32 +782,19 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 - Project feedback
 
-- Announcement: IM Show
-  - Dec 15 3-6pm
-
 - Work on final project
 
 #### Homework ####
 - **Work** on the idea for your final project
 
-### <a name="week12.2"></a>Week 12 (11/25) - Final Project Check-in / Work Session
+### <a name="week13.1"></a>Week 13.1 (4/27) - Final Project Check-in / Work Session
 - Final project check-in
 - Final project work session
 
-## <a name="week13"></a>Week 13 - LEGISLATIVE DAY - Class meets Monday 11/29
-
-### <a name="week13.1"></a>Week 13.1 (MONDAY 11/29) - Present project ideas
-- Short class 10:25-11:40AM
-- Sound/text presentation
-- Present Final Project ideas
-
-### No class (11/30)
-
-### No class (12/02)
 
 ## <a name="week14"></a>Week 14
 
-### <a name="week14.1"></a>Week 14.1 (12/07) - Ethics + Future Applications / Final Project Check-in
+### <a name="week14.1"></a>Week 14.1 (5/2) - Ethics + Future Applications / Final Project Check-in
 - Ethics and future of machine learning / AI
   - [Two AIs talk about becoming human. (GPT-3) (YouTube)](https://youtu.be/jz78fSnBG0s)
   - [This Robot would let 5 People die | AI on Moral Questions | Sophia answers the Trolley Problem
@@ -813,12 +808,9 @@ and AI develops more capabilities? How will the relationship between humans and 
 - IM Show signup
   - [A.rt I.ntel IM Show Projects (Spreadsheet)](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
 
-### <a name="week14.2"></a>Week 14.2 (12/09) - Wrap-up discussion
-- Final Project Presentations Round 1
-- IM Show signup
-  - [A.rt I.ntel IM Show Projects (Spreadsheet)](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
+### <a name="week14.2"></a>Week 14.2 (5/4) - Final project work session
+- Work session
 
-- Course evaluations
 
 #### Homework ####
 - **Submit** your Final Project URL via Brightspace->Assignments->Final Project
@@ -826,20 +818,22 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ## <a name="week15"></a>Week 15
 
-### <a name="week15.1"></a>Week 15.1 (12/14) - Final project presentations
-- **Final project due (12/14)**
-- Present final Projects - Round 2
+### <a name="week15.1"></a>Week 15.1 (5/9) - Final project work session
+- Work session
+
+### <a name="week15.2"></a>Week 15.2 (5/11) - Final project presentations
+- **Final project due (5/11)**
+- Present final Projects
   - Presentation of 5-7 minutes only! Share the best and most important results / reflection
 - Goodbyes for now!
 
-### <a name="week15.2"></a>Week 15.2 (12/15) - IM End of Semester Show!!
+### <a name="week15.3"></a>Week 15.2 (5/12) - IM End of Semester Show!!
 
-**IM Show - Wednesday Dec 15 - 3-6pm in Arts Center lobby**
+**IM Show - Thursday May 12 - 6-9pm in Arts Center lobby**
 
 - All IM students need to attend and show a project
-- Setup Sunday Dec 12 - 2-4pm
-- Final setup Dec 15 - 11am-1pm 
-- Show our projects 3-5pm
+- Setup TBD
+- Final setup TBD
+- Show our projects 6-9pm
 - See great projects from your fellow students!
-- Performances from Circuit Breakers, Performing Robots, and Live Coding 5-6pm!
-- Cleanup 6-9pm - All equipment back to IM Lab
+- Cleanup 9pm - All equipment back to IM Lab
