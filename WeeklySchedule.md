@@ -547,60 +547,61 @@ and AI develops more capabilities? How will the relationship between humans and 
   - Project feedback
     - Make an artistic / creative statement as well as using the tools
     - Can you make something that provokes emotions and questions in the audience?
-    
+  - Reading feedback
+    - Write your own opinion / response to the article
+    - Don't summarize the article (we have tools for that)
+
+- Introduce Project 3 - Sound / Text
+
+- Discuss sound / text tools
+  - Lab machines are available (Linux / nVidia 1080ti GPU)
+
+- Markov chains for text generation
+  - [ML Basics: Markov Models Write Fairy Tales](https://thagomizer.com/blog/2017/11/07/markov-models.html)
+  - [Markov chain example (p5editor)](https://editor.p5js.org/mangtronix/sketches/fIDj9rhjC)
+
 - Machine learning techniques for text
   - Review of "Vanilla" Neural Networks
     - [Looking inside neural nets](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
+
+  - Sequence to Sequence Models
+    - [Sequence to Sequence model diagrams](https://towardsdatascience.com/transformers-141e32e69591)
+    - [Visualizing A Neural Machine Translation Model](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+
 
   - Recurrent Neural Networks
     - [3 minute explanation video](https://www.youtube.com/watch?v=C0xoB8L8ms0)
     - [The unreasonable effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-  - Machine learning techniques for text
-    - Long Short-Term Memory Neural Networks (LSTM)
+  - Long Short-Term Memory Neural Networks (LSTM)
     - [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-  - GPT-2 / 3
-    - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
+  - Transformers
     - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
     - [Talk to transformer](https://app.inferkit.com/demo)
+
+  - Generative Pre-Trained Transformers (GPT)
+    - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
+    - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+      - Transformer model low level explanation
+    - GPT-2 / 3 
+      - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
     <!-- Old customized version - [GPT-2 Colab - train your own text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing) -->
-    - [GPT-2 Colab - train your own text (2021-10-26)](https://colab.research.google.com/drive/1E44LTs0eBUJ2BXz3xa64002qvYla7Tl2?usp=sharing)
+      - [GPT-2 Colab - train your own text (2021-10-26)](https://colab.research.google.com/drive/1E44LTs0eBUJ2BXz3xa64002qvYla7Tl2?usp=sharing)
+    - ChatGPT
+      - GPT-3.5 with additional training using reinforcement from human feedback
+      - GPT-3.5 is best suited for text completions
+        - How do we get it to answer our questions?
+      - [Introducing ChatGPT (OpenAI blog)](https://openai.com/blog/chatgpt)
+      - [Aligning language models to follow instructions (OpenAI blog)](https://openai.com/research/instruction-following)
+      - [Learning from human preferences
+ (OpenAI blog)](https://openai.com/research/learning-from-human-preferences)
+        - reinforcement learning from human feedback (RLHF)
+        - Does human feedback always lead to better results?
+          - Biases / lack of knowledge of evaluators can become embedded
+          - Reinforcement learning tries to optimize the reward
+            - Easier for system to learn tricks / cheats rather than solving the general problem
 
-
-#### Homework ####
-- **Read** [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
-
-- **Find and read** an article about GPT and write a 2-3 paragraph response in Brightspace->Discussions->Reading Responses->Week 8
-  - Some suggested articles (ancient history fro 2020)
-    - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
-      - [Responses on Hacker News](https://news.ycombinator.com/item?id=24003384)
-    - [Someone let a GPT-3 bot loose on Reddit — it didn’t end well](https://thenextweb.com/neural/2020/10/07/someone-let-a-gpt-3-bot-loose-on-reddit-it-didnt-end-well/)
-    - [GPT-3 Creative Fiction](https://www.gwern.net/GPT-3)
-    - [OPENAI’S LATEST BREAKTHROUGH IS ASTONISHINGLY POWERFUL, BUT STILL FIGHTING ITS FLAWS](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)
-    - [Here Are A Few Ways GPT-3 Can Go Wrong](https://techcrunch.com/2020/08/07/here-are-a-few-ways-gpt-3-can-go-wrong/)
-    - [GPT Crush (look through some examples)](http://gptcrush.com/)
-
-- **Create** a short text by prompting GPT-2/3 and **submit** it to Brightspace->Assignments->Week 8. Put the prompted parts of the text you wrote in **bold**.
-  - e.g. use ChatGPT or [Talk to Transformer](https://app.inferkit.com/demo) or [GPT-2 Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
-  - What does your text show about how the model works?
-  - How does the response match with what you expected?
-  - What do you think of future applications of GPT-3?
-
-
-
-
-
-### <a name="week8.2"></a>Week 8.2 (10/28) Ethics and Bias
-
-- Musical Interlude
-  - [Bremer/McCoy - Højt At Flyve (audio)](https://www.youtube.com/watch?v=BKwkd8dzPF4)
-  - [Bremer/McCoy interview / behind the scenes (YouTube)](https://www.youtube.com/watch?v=kF8Rxsw2eYk)
-    - "The inspiration for the album comes from a lot of different places. It comes from all the music we listen to and also the life we are living."
-
-- Review texts made with GPT
-- Discuss social implications and ethics of AI and bias in Machine Learning
-
-- Machine learning techniques for sound
+- Machine learning techniques for sound (time permitting)
   - [Magenta](https://magenta.tensorflow.org/)
     - [MusicVAE: A tool for creating music with neural networks](https://medium.com/@wvsharber/musicvae-a-tool-for-creating-music-with-neural-networks-db0f4b84a698)
     - [Piano transcription](https://magenta.tensorflow.org/onsets-frames)
@@ -619,23 +620,45 @@ and AI develops more capabilities? How will the relationship between humans and 
     - [Resemble.ai - TTS (text to speech) and voice cloning](https://www.resemble.ai/)
 
 
-### Homework (due next class)
-- **Sign up** for Project 3 groups in Brightspace
-- **Prepare** to share your project idea next class
+#### Homework ####
+- **Find and read** an article about GPT and write a 2-3 paragraph response in Brightspace->Discussions->Reading Responses->Week 8
+  - Some suggested articles (ancient history fro 2020)
+    - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
+      - [Responses on Hacker News](https://news.ycombinator.com/item?id=24003384)
+    - [Someone let a GPT-3 bot loose on Reddit — it didn’t end well](https://thenextweb.com/neural/2020/10/07/someone-let-a-gpt-3-bot-loose-on-reddit-it-didnt-end-well/)
+    - [GPT-3 Creative Fiction](https://www.gwern.net/GPT-3)
+    - [OPENAI’S LATEST BREAKTHROUGH IS ASTONISHINGLY POWERFUL, BUT STILL FIGHTING ITS FLAWS](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)
+    - [Here Are A Few Ways GPT-3 Can Go Wrong](https://techcrunch.com/2020/08/07/here-are-a-few-ways-gpt-3-can-go-wrong/)
+    - [GPT Crush (look through some examples)](http://gptcrush.com/)
+
+- **Create** a short text by prompting GPT and **submit** it to Brightspace->Assignments->Week 8. Put the prompted parts of the text you wrote in **bold**.
+  - e.g. use ChatGPT or [Talk to Transformer](https://app.inferkit.com/demo) or [GPT-2 Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
+  - What does your text show about how the model works?
+  - How does the response match with what you expected?
+  - What do you think of future applications of GPT?
+
+- **Start** developing your Project 3 Sound / Text idea
+
+
+### <a name="week8.2"></a>Week 8.2 (10/28) Ethics and Bias
+
+
+- Review texts made with GPT
+
+
+
 
 ## <a name="week9"></a>Week 9 - Sound / Text
 
-### <a name="week9.1"></a>Week 9.1 Present Project Ideas for Sound and Text (11/02)
-- Omar Visual Project presentation
+### <a name="week9.1"></a>Week 9.1 Sound and Text (11/02)
+
+- Musical Interlude
+  - [Bremer/McCoy - Højt At Flyve (audio)](https://www.youtube.com/watch?v=BKwkd8dzPF4)
+  - [Bremer/McCoy interview / behind the scenes (YouTube)](https://www.youtube.com/watch?v=kF8Rxsw2eYk)
+    - "The inspiration for the album comes from a lot of different places. It comes from all the music we listen to and also the life we are living."
+
 - Review GPT responses
 - Present project ideas for Sound and Text
-
-- Sequence-to-Sequence models
-  - [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
-  - "The core idea behind the Transformer model is self-attention—the ability to attend to different positions of the input sequence to compute a representation of that sequence." [Transformer model for language understanding (Tensorflow)](https://www.tensorflow.org/text/tutorials/transformer)
-  - [Visualizing A Neural Machine Translation Model](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
-  - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-  - Transformer model low level explanation
 
 - Sound / Text Tools
   - [ml5.js Sound Classifier](https://learn.ml5js.org/#/reference/sound-classifier)
@@ -652,48 +675,58 @@ and AI develops more capabilities? How will the relationship between humans and 
     - [Wav2Lip interactive demo](https://bhaasha.iiit.ac.in/lipsync/)
     - [Wav2Lip Colab (ml4a)](https://colab.research.google.com/github/ml4a/ml4a/blob/master/examples/models/Wav2Lip.ipynb)
 
-- Class examples
-  - [Open AI Jukebox](https://openai.com/blog/jukebox/)
-    - [Jukebox Explorer](https://jukebox.openai.com/) pre-generated examples
-    - [Command-line code](https://github.com/openai/jukebox/)
-    - [Jukebox Colab](https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb) - only runs on Colab Pro
   - [AI generated death metal](https://www.sciencealert.com/new-24-7-ai-generated-death-metal-youtube-stream-is-giving-us-anxiety)
     - [Relentless Doppelgänger (YouTube) - generated by SampleRNN
     - [Death Metal Lofi (YouTube) - generated by OpenAI Jukebox
     - [DEATH DECLINE - Useless Sacrifice [Brutal Death Metal | Thrash Metal] (YouTube)](https://www.youtube.com/watch?v=IaJ2UHiTa0o) - human band! First result for "death metal" on YouTube
 
+  - [OpenAI Jukebox](https://openai.com/blog/jukebox/)
+    - [Jukebox Explorer](https://jukebox.openai.com/) pre-generated examples
+    - [Command-line code](https://github.com/openai/jukebox/)
+    - [OpenAI Jukebox - Mangtronix Edition](https://github.com/mangtronix/jukebox)
+      - Downloadable version of OpenAI Jukebox with simpler usage with config files
+      - Has example of generating a continuation of a song using first 5 seconds of audio, with artist, genre, and lyrics
+    - [Jukebox Colab](https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb) - only runs on Colab Pro
+    - [Jukebox with audio priming, artist, genre, and lyrics (Colab)](https://colab.research.google.com/drive/1zk-FqAHHmytbSSyJp0pYx1L-UVT_ffNq?usp=sharing)
+
+  - [Do Electric Songwriters Dream Of Human Muses?](https://www.stereogum.com/2084173/openai-jukebox-artificial-intelligence-songs/columns/sounding-board/)
+  - ["openai jukebox" (Twitter)](https://twitter.com/search?q=openai%20jukebox&src=typed_query)
+    - Do we see any *awesome* examples?
+  - [Installing software on lab machines (Video)](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/6064230)
+
+
 
 #### Homework ####
-- **Read** [‘Yeah, we’re spooked’: AI starting to have big real-world impact, says expert (The Guardian)](https://www.theguardian.com/technology/2021/oct/29/yeah-were-spooked-ai-starting-to-have-big-real-world-impact-says-expert)
-  - No write up required, but let's have a lively discussion!
+- **Sign up** for Project 3 groups in the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Prepare** to share your project idea next class
 
 
-### <a name="week9.2"></a>Week 9.2 - OpenAI and recent developments in AI(11/04)
-- Dicuss reading
+### <a name="week9.2"></a>Week 9.2 - Present project ideas (3/30)
+- Present your project idea for feedback (5 minute presentation)
 - Discuss the latest and greatest developments in machine learning / AI
 
+<!-- Outdated
 - Work example
   - [These historical artefacts are totally faked
  (Wired UK)](https://www.wired.co.uk/article/fake-artefacts-ai)
   - [How Artificial Intelligence Sees Art History (The Met)](https://www.metmuseum.org/perspectives/articles/2019/2/artificial-intelligence-machine-learning-art-authorship)
+-->
+
+- **Read** [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
+- **Read** [Timnit Gebru Is Calling Attention to the Pitfalls of AI](https://www.wsj.com/articles/timnit-gebru-is-calling-attention-to-the-pitfalls-of-ai-8e658a58)
+
+- **Read** [‘Yeah, we’re spooked’: AI starting to have big real-world impact, says expert (The Guardian)](https://www.theguardian.com/technology/2021/oct/29/yeah-were-spooked-ai-starting-to-have-big-real-world-impact-says-expert)
+  - No write up required, but let's have a lively discussion!
+
 
 ## <a name="week10"></a>Week 10
 
-### <a name="week10.1"></a>Week 10 (11/09) - Other techniques - Project Check-In
-- Other techniques
-  - [OpenAI Jukebox](https://openai.com/blog/jukebox/)
-  - [Do Electric Songwriters Dream Of Human Muses?](https://www.stereogum.com/2084173/openai-jukebox-artificial-intelligence-songs/columns/sounding-board/)
-  - ["openai jukebox" (Twitter)](https://twitter.com/search?q=openai%20jukebox&src=typed_query)
-    - Do we see any *awesome* examples?
-  - [Jukebox with audio priming, artist, genre, and lyrics (Colab)](https://colab.research.google.com/drive/1zk-FqAHHmytbSSyJp0pYx1L-UVT_ffNq?usp=sharing)
-  - [Installing software on lab machines (Video)](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/6064230)
-  - [OpenAI Jukebox - Mangtronix Edition](https://github.com/mangtronix/jukebox)
-    - Downloadable ersion of OpenAI Jukebox with simpler usage with config files
-    - Has example of generating a continuation of a song using first 5 seconds of audio, with artist, genre, and lyrics
+### <a name="week10.1"></a>Week 10.1 (4/4) - Other techniques - Project Check-In
+- Discuss social implications and ethics of AI and bias in Machine Learning
 
 - Check-in of projects group by group
 
-### <a name="week10.2"></a>Week 10 (11/11) - Lab Machines
+### <a name="week10.2"></a>Week 10.2 (4/6) - Lab Machines
 
 - Lab machine access
   - Lab machine logins
