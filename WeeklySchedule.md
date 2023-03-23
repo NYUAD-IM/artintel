@@ -555,6 +555,17 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 - Discuss sound / text tools
   - Lab machines are available (Linux / nVidia 1080ti GPU)
+  - Why running machine learning models is hard
+    - Training models requires huge resources
+    - Need powerful GPU (parallel processing)
+    - Large model size makes hosting difficult
+      - Multi-gigabyte checkpoint files need to be loaded
+    - SOTA (State of the Art) models are often too large to be run with consumer GPUs
+    - Trend is for models to be hosted / closed source / closed data
+      - Notable exception is Stable Diffusion
+        - Open source
+        - Open data
+        - Optimized to run locally on reasonable hardware
 
 - Markov chains for text generation
   - [ML Basics: Markov Models Write Fairy Tales](https://thagomizer.com/blog/2017/11/07/markov-models.html)
