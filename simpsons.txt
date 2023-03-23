@@ -1,0 +1,153 @@
+[MG03] Bart Jumps
+Bart Jumps                                             Written by Matt Groening
+===============================================================================
+[$Id: mg03 1.2 1993/05/30 14:31:32 rjc Exp $]
+===============================================================================
+> Didja notice...
+===============================================================================
+    ... the obligatory mouse hole in the corner?
+    ... Homer is credited as `Dad'?
+
+===============================================================================
+> Freeze-Frame Fun
+===============================================================================
+>> Jump number one
+
+Bart lands on his head.  His entire body collapses; his legs flail outwards.
+
+>> Jump number two
+
+Bart lands on his butt.  He flattens onto his back.  His eyeballs pop out of
+their sockets and land back in them when they reach the ground.  Bart's body
+does a small bounce, and the eyeballs pop out and back a second time.
+
+>> Jump number three
+
+Bart opens his eyes mid-leap and realizes that there's nobody there to catch
+him.  His eyes bug out, and he lands on his head.  His body compresses and
+springs back, landing him on his back.  Bart's nose is swollen, he has a
+dazed grin on his face, and his eyes are askew.  There is a new bruise on
+his shirt.
+
+>> Jump number four
+
+A truly stupendous jump.  He clenches his teeth and leaps into the air.
+His mouth opens as if to yell `Cowabanga!', then he turns so that his head
+lands first.  Upon contact with the floor, yellow impact lines emerge from
+his head, and his entire body turns as if to jelly.  His body expands
+back, throwing him a foot into the air, then lands a second time on his
+head with the same impact lines and jelly-transformation.  One more bounce
+six inches off the ground.  As Bart's tongue hangs sickly out of his mouth,
+he lands flat on his back and his body flattens.  His eyeballs detach from
+his head and bounce into the air.  His body recoils from the impact and
+bounces into the air, catching up with his eyeballs.  Then his body falls,
+leaving his eyeballs in the air, which eventually fall and land back in
+their sockets.
+
+===============================================================================
+> Animation goofs
+===============================================================================
+>> Bart's forehead miraculously sprouts a bandage during Act Two.  He doesn't
+have one when he starts the jump, but he does when he's on the floor.
+
+>> The bruise on Bart's shirt he earned Act Three has vanished in Act Four.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% B = Bart, H = Homer
+%
+% Bart stands on a table, Homer stands a few feet away.  On the wall are
+% a portrait of Marge and a framed sign, ``No foolish horseplay.''
+% Homer reaches his arms towards Bart.
+
+H: Leap into your father's arms.  Come on, just like the old days!
+B: I'm too big now, Dad.  There's no way.
+
+% As Homer continues to plead, Bart does some knee bends and otherwise
+% prepares to jump.
+
+H: Come on, boy!  Leap!  Do it!  Atta boy!  Come on, Bart!
+
+% Bart not so much leaps as hops feebly off the table, landing on (and
+% bouncing off) his spiky-haired head.  Homer scowls.
+
+H: You call that a leap?
+
+% [End of Act One.]
+%
+% Bart is back on the table.  Bart is annoyed in a bored, whiney sort of way.
+% During the conversation, Bart continues doing knee bends and otherwise
+% preparing to jump.
+
+B: Dad, why are we doing this?
+H: You've always afraid of falling on your head ever since you were a
+   little baby.  I'm trying to help you overcome that fear.
+B: You want me to jump because I've always been ... jumpy?
+
+% Bart jumps...
+
+H: [laughs] That's a good one son.  Always been jumpy! [laughs more]
+
+% ... and lands on his butt because Homer was laughing too hard.
+%
+% [End of Act Two.]
+%
+% Back on the table.  Bart is whining.  His forehead has a small bandage,
+% as well as an unbandaged bruise.
+
+B: Daaad, this is really dumb.  My head still from the last two times...
+H: Let's go, boy.  No excuses.  Leap!  Leap, boy!  I wanna see some
+   gumption!
+
+% Bart closes his eyes, clenches his fists, and starts doing knee bends in
+% preparation for a really big leap.
+
+H: Leap like you never, um...  Leap like you never...
+
+% Homer turns his head to the side, mentally distracted.
+
+H: What's the past tense of leap?
+
+% Homer wanders off in search of a dictionary just as Bart jumps.
+
+H: Leapt?  Leaped?  That doesn't sound right...
+
+% Bart lands on his head, bounces once, and reclines on the floor yet
+% again, a new bruise on his shirt.  The usual cartoon embellishments
+% emanate from Bart's head.
+%
+% Off-screen, Homer flips through the dictionary.  (Three page flips.)
+% He returns, dictionary in hand, and all smiles.
+
+H: Well, whaddya know!  Leaped <and> leapt.  They're <both> right!
+
+% [End of Act Three.]
+%
+% You know the set-up.
+
+B: But Dad...
+H: I haven't got all day.  Now leap, and give it all you got.
+B: Do I have to?
+H: Bart!
+
+% The doorbell rings.
+
+H: I'll get it.
+
+% Homer turns and leaves.  Meanwhile, Bart has closed his eyes and
+% jumped.  He lands on his head, bounces twice, and lies, inert,
+% flat on his back.
+%
+% Homer returns, four boxing gloves in his hand.
+
+H: Good news, son!  The boxing gloves have arrived!
+
+% [End of Act Four.]
+===============================================================================
+Shorts summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Tracey Ullman Show, and the reproduced articles
+remain the property of the original authors.  I'm just taking credit for the
+compilation.)
+Conversion by Howard Jones (ha.jones@ic.ac.uk)

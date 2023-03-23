@@ -603,6 +603,7 @@ and AI develops more capabilities? How will the relationship between humans and 
       - GPT-3.5 is best suited for text completions
         - How do we get it to answer our questions?
       - [Introducing ChatGPT (OpenAI blog)](https://openai.com/blog/chatgpt)
+      - [How ChatGPT Works: The Model Behind The Bot (Medium)](https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286)
       - [Aligning language models to follow instructions (OpenAI blog)](https://openai.com/research/instruction-following)
       - [Learning from human preferences
  (OpenAI blog)](https://openai.com/research/learning-from-human-preferences)
