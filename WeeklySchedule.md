@@ -508,7 +508,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 - Look at inspirational sound/text works and tools  
 
-- Discuss Project 3 - Sound / Text
+- Discuss [Project 3 - Sound / Text](Projects.md)
 
 - **Sound / Text Project (due TBD)**
   - [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-1118)
@@ -551,7 +551,7 @@ and AI develops more capabilities? How will the relationship between humans and 
     - Write your own opinion / response to the article
     - Don't summarize the article (we have tools for that)
 
-- Introduce Project 3 - Sound / Text
+- Introduce [Project 3 - Sound / Text](Projects.md)
 
 - Discuss sound / text tools
   - Lab machines are available (Linux / nVidia 1080ti GPU)
