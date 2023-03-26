@@ -652,14 +652,6 @@ and AI develops more capabilities? How will the relationship between humans and 
 - **Start** developing your Project 3 Sound / Text idea
 
 
-### <a name="week8.2"></a>Week 8.2 (10/28) Ethics and Bias
-
-
-- Review texts made with GPT
-
-
-
-
 ## <a name="week9"></a>Week 9 - Sound / Text
 
 ### <a name="week9.1"></a>Week 9.1 Sound and Text (11/02)
