@@ -670,7 +670,6 @@ and AI develops more capabilities? How will the relationship between humans and 
     - "The inspiration for the album comes from a lot of different places. It comes from all the music we listen to and also the life we are living."
 
 - Review GPT responses
-- Present project ideas for Sound and Text
 
 - Sound / Text Tools
   - [ml5.js Sound Classifier](https://learn.ml5js.org/#/reference/sound-classifier)
