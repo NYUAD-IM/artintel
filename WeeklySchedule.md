@@ -9,7 +9,7 @@
 * [Week 7 - Visual Project Due (3/9) / Sound / Text Project Introduction](#week7)
 * FALL BREAK
 * [Week 8 - Sound / Text Tools / Ethics and Bias](#week8)
-* [Week 9 - Present Sound / Text ideas](#week9)
+* [Week 9 - Sound / Text](#week9)
 * [Week 10 - Other Techniques Sound / Autoencoders](#week10)
 * [Week 11 - Sound / Text Project Due (4/13) / Final Project Introduction](#week11)
 * [Week 12 - Interactive Applications / ml5.js](#week12)
