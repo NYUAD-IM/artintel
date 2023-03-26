@@ -553,19 +553,6 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 - Introduce [Project 3 - Sound / Text](Projects.md)
 
-- Discuss sound / text tools
-  - Lab machines are available (Linux / nVidia 1080ti GPU)
-  - Why running machine learning models is hard
-    - Training models requires huge resources
-    - Need powerful GPU (parallel processing)
-    - Large model size makes hosting difficult
-      - Multi-gigabyte checkpoint files need to be loaded
-    - SOTA (State of the Art) models are often too large to be run with consumer GPUs
-    - Trend is for models to be hosted / closed source / closed data
-      - Notable exception is Stable Diffusion
-        - Open source
-        - Open data
-        - Optimized to run locally on reasonable hardware
 
 - Markov chains for text generation
   - [ML Basics: Markov Models Write Fairy Tales](https://thagomizer.com/blog/2017/11/07/markov-models.html)
@@ -584,52 +571,14 @@ and AI develops more capabilities? How will the relationship between humans and 
     - [3 minute explanation video](https://www.youtube.com/watch?v=C0xoB8L8ms0)
     - [The unreasonable effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-  - Long Short-Term Memory Neural Networks (LSTM)
-    - [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-  - Transformers
-    - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
-    - [Talk to transformer](https://app.inferkit.com/demo)
 
-  - Generative Pre-Trained Transformers (GPT)
-    - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
-    - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-      - Transformer model low level explanation
-    - GPT-2 / 3 
-      - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
-    <!-- Old customized version - [GPT-2 Colab - train your own text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing) -->
-      - [GPT-2 Colab - train your own text (2021-10-26)](https://colab.research.google.com/drive/1E44LTs0eBUJ2BXz3xa64002qvYla7Tl2?usp=sharing)
-    - ChatGPT
-      - GPT-3.5 with additional training using reinforcement from human feedback
-      - GPT-3.5 is best suited for text completions
-        - How do we get it to answer our questions?
-      - [Introducing ChatGPT (OpenAI blog)](https://openai.com/blog/chatgpt)
-      - [How ChatGPT Works: The Model Behind The Bot (Medium)](https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286)
-      - [Aligning language models to follow instructions (OpenAI blog)](https://openai.com/research/instruction-following)
-      - [Learning from human preferences
- (OpenAI blog)](https://openai.com/research/learning-from-human-preferences)
-        - reinforcement learning from human feedback (RLHF)
-        - Does human feedback always lead to better results?
-          - Biases / lack of knowledge of evaluators can become embedded
-          - Reinforcement learning tries to optimize the reward
-            - Easier for system to learn tricks / cheats rather than solving the general problem
+- Embeddings
+  - [Image t-SNE viewer](https://ml4a.github.io/guides/ImageTSNEViewer/)
+    - Demonstrates how to visualize a high dimensional embedded space in 2D/3D so we can make sense of it
+  - [Glossary of Deep Learning: Word Embedding](https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca)
 
-- Machine learning techniques for sound (time permitting)
-  - [Magenta](https://magenta.tensorflow.org/)
-    - [MusicVAE: A tool for creating music with neural networks](https://medium.com/@wvsharber/musicvae-a-tool-for-creating-music-with-neural-networks-db0f4b84a698)
-    - [Piano transcription](https://magenta.tensorflow.org/onsets-frames)
-      - [Piano Scribe (In-browser using Magenta.js)](https://piano-scribe.glitch.me/)
-    - [Magenta Demos](https://magenta.tensorflow.org/demos)
-    - [Melody Mixer](https://experiments.withgoogle.com/ai/melody-mixer/view/)
-    - [Magenta Studio lets you use AI tools for inspiration in Ableton Live](https://cdm.link/2019/02/magenta-studio-ai-ableton-live/)
-  - [WaveNet A generative model for raw audio](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
-  - [Generating Audio Using Recurrent Neural Networks](https://apfalz.github.io/rnn/rnn_demo.html)
-  - [SampleRNN examples](https://soundcloud.com/samplernn)
-  - [SampleRRN code](https://github.com/Unisound/SampleRNN)
-  - [Training notes for WaveNet and RNN](https://karlhiner.com/music_generation/wavenet_and_samplernn/)
-  - [Technical: Architecture of Speech Recognition](http://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
-  - Audio deepfakes
-    - [This is what a deepfake voice clone used in a failed fraud attempt sounds like](https://www.theverge.com/2020/7/27/21339898/deepfake-audio-voice-clone-scam-attempt-nisos)
-    - [Resemble.ai - TTS (text to speech) and voice cloning](https://www.resemble.ai/)
+- Artist examples
+  - [Stranger Visions - Heather Dewey-Hagborg](https://deweyhagborg.com/projects/stranger-visions)
 
 
 #### Homework ####
@@ -662,6 +611,87 @@ and AI develops more capabilities? How will the relationship between humans and 
     - "The inspiration for the album comes from a lot of different places. It comes from all the music we listen to and also the life we are living."
 
 - Review GPT responses
+
+<!--
+More links
+https://openai.com/blog/planning-for-agi-and-beyond
+https://jalammar.github.io/illustrated-gpt2/
+-->
+
+- AI in the news
+  - [Noam Chomsky: The False Promise of ChatGPT (NYT Opinions, 2023)](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
+
+- Long Short-Term Memory Neural Networks (LSTM)
+  - [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- Transformers
+  - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
+  - [Talk to transformer](https://app.inferkit.com/demo)
+
+- Generative Pre-Trained Transformers (GPT)
+  - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
+  - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+    - Transformer model low level explanation
+  - GPT-2 / 3 
+    - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
+  <!-- Old customized version - [GPT-2 Colab - train your own text](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing) -->
+    - [GPT-2 Colab - train your own text (2021-10-26)](https://colab.research.google.com/drive/1E44LTs0eBUJ2BXz3xa64002qvYla7Tl2?usp=sharing)
+  - ChatGPT
+    - GPT-3.5 with additional training using reinforcement from human feedback
+    - GPT-3.5 is best suited for text completions
+      - How do we get it to answer our questions?
+    - [Introducing ChatGPT (OpenAI blog)](https://openai.com/blog/chatgpt)
+    - [How ChatGPT Works: The Model Behind The Bot (Medium)](https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286)
+    - [Aligning language models to follow instructions (OpenAI blog)](https://openai.com/research/instruction-following)
+    - [Learning from human preferences
+(OpenAI blog)](https://openai.com/research/learning-from-human-preferences)
+      - reinforcement learning from human feedback (RLHF)
+      - Does human feedback always lead to better results?
+        - Biases / lack of knowledge of evaluators can become embedded
+        - Reinforcement learning tries to optimize the reward
+          - Easier for system to learn tricks / cheats rather than solving the general problem
+
+- Why running machine learning models is hard
+  - Training models requires huge resources
+  - Need powerful GPU (parallel processing)
+  - Large model size makes hosting difficult
+    - Multi-gigabyte checkpoint files need to be loaded
+  - SOTA (State of the Art) models are often too large to be run with consumer GPUs
+  - Trend is for models to be hosted / closed source / closed data
+    - Notable exception is Stable Diffusion
+      - Open source
+      - Open data
+      - Optimized to run locally on reasonable hardware
+  - Lab machines are available (Linux / nVidia 1080ti GPU)
+
+
+- Machine learning techniques for sound
+  - [Magenta](https://magenta.tensorflow.org/)
+    - [MusicVAE: A tool for creating music with neural networks](https://medium.com/@wvsharber/musicvae-a-tool-for-creating-music-with-neural-networks-db0f4b84a698)
+    - [Piano transcription](https://magenta.tensorflow.org/onsets-frames)
+      - [Piano Scribe (In-browser using Magenta.js)](https://piano-scribe.glitch.me/)
+    - [Magenta Demos](https://magenta.tensorflow.org/demos)
+    - [Melody Mixer](https://experiments.withgoogle.com/ai/melody-mixer/view/)
+    - [Magenta Studio lets you use AI tools for inspiration in Ableton Live](https://cdm.link/2019/02/magenta-studio-ai-ableton-live/)
+    - [Performance RNN (Magenta)](https://magenta.tensorflow.org/performance-rnn)
+      - An LSTM-based recurrent neural network designed to model polyphonic music with expressive timing and dynamics
+      - Browser demos
+    - [Piano Genie (Magenta)](https://magenta.tensorflow.org/pianogenie)
+      - Maps simple button presses to 88 keys of piano using LSTM
+      - [Piano Genie demo](http://piano-genie.glitch.me/)
+  - [WaveNet A generative model for raw audio](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
+  - [Generating Audio Using Recurrent Neural Networks](https://apfalz.github.io/rnn/rnn_demo.html)
+  - [SampleRNN examples](https://soundcloud.com/samplernn)
+  - [SampleRRN code](https://github.com/Unisound/SampleRNN)
+  - [Training notes for WaveNet and RNN](https://karlhiner.com/music_generation/wavenet_and_samplernn/)
+  - [Technical: Architecture of Speech Recognition](http://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
+  - Audio deepfakes
+    - [This is what a deepfake voice clone used in a failed fraud attempt sounds like](https://www.theverge.com/2020/7/27/21339898/deepfake-audio-voice-clone-scam-attempt-nisos)
+    - [Resemble.ai - TTS (text to speech) and voice cloning](https://www.resemble.ai/)
+
+  - [AudioLM](https://google-research.github.io/seanet/audiolm/examples/)
+    - Does very good continuations of speech and music (apparently)
+    - No trained model available
+
 
 - Sound / Text Tools
   - [ml5.js Sound Classifier](https://learn.ml5js.org/#/reference/sound-classifier)
@@ -698,6 +728,11 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Installing software on lab machines (Video)](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/6064230)
 
 
+- [AI Image Generators Routinely Display Gender and Cultural Bias (Gizmodo)](https://gizmodo.com/ai-dall-e-stability-ai-stable-diffusion-1849728302)
+  - [Diffusion Bias Explorer
+ (Huggingface Space)](https://huggingface.co/spaces/society-ethics/DiffusionBiasExplorer)
+    - Online tool for trying different prompt variations
+
 
 #### Homework ####
 - **Sign up** for Project 3 groups in the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
@@ -715,8 +750,8 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [How Artificial Intelligence Sees Art History (The Met)](https://www.metmuseum.org/perspectives/articles/2019/2/artificial-intelligence-machine-learning-art-authorship)
 -->
 
-- **Read** [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
-- **Read** [Timnit Gebru Is Calling Attention to the Pitfalls of AI](https://www.wsj.com/articles/timnit-gebru-is-calling-attention-to-the-pitfalls-of-ai-8e658a58)
+- **Read** [We read the paper that forced Timnit Gebru out of Google (Technology Review, 2020)](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
+- **Read** [Why Timnit Gebru Isn’t Waiting for Big Tech to Fix AI's Problems (Time, 2022)](https://time.com/6132399/timnit-gebru-ai-google/)
 
 - **Read** [‘Yeah, we’re spooked’: AI starting to have big real-world impact, says expert (The Guardian)](https://www.theguardian.com/technology/2021/oct/29/yeah-were-spooked-ai-starting-to-have-big-real-world-impact-says-expert)
   - No write up required, but let's have a lively discussion!
