@@ -611,6 +611,11 @@ and AI develops more capabilities? How will the relationship between humans and 
     - "The inspiration for the album comes from a lot of different places. It comes from all the music we listen to and also the life we are living."
 
 - Review GPT responses
+  
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/)
+  
+**Up to here was covered in class, extra links below**
 
 <!--
 More links
