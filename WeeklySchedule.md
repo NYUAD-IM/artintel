@@ -757,10 +757,10 @@ https://jalammar.github.io/illustrated-gpt2/
 
 - **Read** [We read the paper that forced Timnit Gebru out of Google (Technology Review, 2020)](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class (no written response)
   
-- **Read** [AI Image Generators Routinely Display Gender and Cultural Bias (Gizmodo)](https://gizmodo.com/ai-dall-e-stability-ai-stable-diffusion-1849728302) (no written response)
+- **Read** [AI Image Generators Routinely Display Gender and Cultural Bias (Gizmodo)](https://gizmodo.com/ai-dall-e-stability-ai-stable-diffusion-1849728302) (no written response but post an image made using the tool below)
   - [Diffusion Bias Explorer
- (Huggingface Space)](https://huggingface.co/spaces/society-ethics/DiffusionBiasExplorer)
-    - Online tool for trying different prompt variations
+ (Huggingface Space)](https://huggingface.co/spaces/society-ethics/DiffusionBiasExplorer) Online tool for trying different prompt variations
+  - **Post** an image pair that you feel reveals gender or cultural bias in one of the models
 
 <!--
 - **Read** [Why Timnit Gebru Isn’t Waiting for Big Tech to Fix AI's Problems (Time, 2022)](https://time.com/6132399/timnit-gebru-ai-google/)
