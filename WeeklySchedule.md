@@ -603,7 +603,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ## <a name="week9"></a>Week 9 - Sound / Text
 
-### <a name="week9.1"></a>Week 9.1 Sound and Text (11/02)
+### <a name="week9.1"></a>Week 9.1 Sound and Text (3/28)
 
 - Musical Interlude
   - [Bremer/McCoy - Højt At Flyve (audio)](https://www.youtube.com/watch?v=BKwkd8dzPF4)
@@ -751,6 +751,7 @@ https://jalammar.github.io/illustrated-gpt2/
 
 ### <a name="week9.2"></a>Week 9.2 - Present project ideas (3/30)
 - Present your project idea for feedback (5 minute presentation)
+- ChatGPT continued
 - Discuss the latest and greatest developments in machine learning / AI
 
 <!-- Outdated
@@ -761,11 +762,23 @@ https://jalammar.github.io/illustrated-gpt2/
 -->
 
 - **Read** [We read the paper that forced Timnit Gebru out of Google (Technology Review, 2020)](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
-- **Read** [Why Timnit Gebru Isn’t Waiting for Big Tech to Fix AI's Problems (Time, 2022)](https://time.com/6132399/timnit-gebru-ai-google/)
 
+<!--
+- **Read** [Why Timnit Gebru Isn’t Waiting for Big Tech to Fix AI's Problems (Time, 2022)](https://time.com/6132399/timnit-gebru-ai-google/)
 - **Read** [‘Yeah, we’re spooked’: AI starting to have big real-world impact, says expert (The Guardian)](https://www.theguardian.com/technology/2021/oct/29/yeah-were-spooked-ai-starting-to-have-big-real-world-impact-says-expert)
   - No write up required, but let's have a lively discussion!
-
+-->
+  
+- **Find** an artwork that deals with artificial intelligence / machine learning
+  - **Post** a response to the Brightspace discussion
+  - What is your response to the artwork? What drew you to the piece?
+  - How is the artist making use of artificial intelligence?
+  - What is the concept, question, or statement of the piece? How does using AI support the concept?
+  - Example list from [AI Artists](https://aiartists.org/ai-artist-founding-members)
+    - [Wayne McGregor](https://aiartists.org/wayne-mcgregor) - generative dance gestures
+    - [Sofia Crespo](https://aiartists.org/sofia-crespo) - Neural Zoo
+    - [Memo Atken](https://aiartists.org/memo-akten) - Learning to See
+    - [Mario Klingemann](https://aiartists.org/mario-klingemann) - Memories of Passersby I
 
 ## <a name="week10"></a>Week 10
 
