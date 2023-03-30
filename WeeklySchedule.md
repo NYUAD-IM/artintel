@@ -738,12 +738,6 @@ https://jalammar.github.io/illustrated-gpt2/
   - [Installing software on lab machines (Video)](https://brightspace.nyu.edu/d2l/le/lessons/110671/units/6064230)
 
 
-- [AI Image Generators Routinely Display Gender and Cultural Bias (Gizmodo)](https://gizmodo.com/ai-dall-e-stability-ai-stable-diffusion-1849728302)
-  - [Diffusion Bias Explorer
- (Huggingface Space)](https://huggingface.co/spaces/society-ethics/DiffusionBiasExplorer)
-    - Online tool for trying different prompt variations
-
-
 #### Homework ####
 - **Sign up** for Project 3 groups in the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Prepare** to share your project idea next class
@@ -761,7 +755,12 @@ https://jalammar.github.io/illustrated-gpt2/
   - [How Artificial Intelligence Sees Art History (The Met)](https://www.metmuseum.org/perspectives/articles/2019/2/artificial-intelligence-machine-learning-art-authorship)
 -->
 
-- **Read** [We read the paper that forced Timnit Gebru out of Google (Technology Review, 2020)](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class
+- **Read** [We read the paper that forced Timnit Gebru out of Google (Technology Review, 2020)](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class (no written response)
+  
+- **Read** [AI Image Generators Routinely Display Gender and Cultural Bias (Gizmodo)](https://gizmodo.com/ai-dall-e-stability-ai-stable-diffusion-1849728302) (no written response)
+  - [Diffusion Bias Explorer
+ (Huggingface Space)](https://huggingface.co/spaces/society-ethics/DiffusionBiasExplorer)
+    - Online tool for trying different prompt variations
 
 <!--
 - **Read** [Why Timnit Gebru Isn’t Waiting for Big Tech to Fix AI's Problems (Time, 2022)](https://time.com/6132399/timnit-gebru-ai-google/)
@@ -770,7 +769,7 @@ https://jalammar.github.io/illustrated-gpt2/
 -->
   
 - **Find** an artwork that deals with artificial intelligence / machine learning
-  - **Post** a response to the Brightspace discussion
+  - **Post** a 3 paragraph response to the Brightspace discussion
   - What is your response to the artwork? What drew you to the piece?
   - How is the artist making use of artificial intelligence?
   - What is the concept, question, or statement of the piece? How does using AI support the concept?
@@ -782,12 +781,12 @@ https://jalammar.github.io/illustrated-gpt2/
 
 ## <a name="week10"></a>Week 10
 
-### <a name="week10.1"></a>Week 10.1 (4/4) - Other techniques - Project Check-In
+### <a name="week10.1"></a>Week 10.1 (4/4) - AI Ethics / AI Artists
 - Discuss social implications and ethics of AI and bias in Machine Learning
+- Discuss AI artworks
 
-- Check-in of projects group by group
-
-### <a name="week10.2"></a>Week 10.2 (4/6) - Lab Machines
+### <a name="week10.2"></a>Week 10.2 (4/6) - Requested topics
+- Requested topics
 
 - Lab machine access
   - Lab machine logins
@@ -805,7 +804,11 @@ https://jalammar.github.io/illustrated-gpt2/
 
 ## <a name="week11"></a>Week 11 - Sound / Text Project Due
 
-### <a name="week11.1"></a>Week 11.2 - Sound / Text Project Presentations (4/13)
+### <a name="week11.1"></a>Week 11.1 - Sound / Text Work Session (4/13)
+- Requested topics
+- Work session
+  
+### <a name="week11.2"></a>Week 11.2 - Sound / Text Project Presentations (4/13)
 
 - **Project 3 - Sound / Text Due (4/13)**
   - **Add** a link to your project and documentation to the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
