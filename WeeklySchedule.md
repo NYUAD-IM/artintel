@@ -793,6 +793,11 @@ https://jalammar.github.io/illustrated-gpt2/
   - [Petition for Keeping Up the Progress Tempo on AI Research While Securing Its Transparency and Safety (LAION)](https://laion.ai/blog/petition/)
     - "Calling [an] international organization to transparently coordinate and progress on large-scale AI research and its safety"
     - "The recent proposition of decelerating AI research as a means to ensure safety and progress presents an understandable but untenable approach that will be detrimental to both objectives. Corporate or state actors will make advancements in the dark while simultaneously curtailing the public research community's ability to scrutinize the safety aspects of advanced AI systems thoroughly."
+  - More background - AlphaGo (2019)
+    - [Why DeepMind AlphaGo Zero is a game changer for AI research](https://hub.packtpub.com/deepmind-alphago-zero-game-changer-for-ai-research/)
+    - AlphaGo Zero started with only the rules of Go and played millions of games against itself (in a few days), becoming the world's strongest Go player
+  - (Time permitting) [
+Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Guardian)](https://www.theguardian.com/fashion/2023/apr/03/ai-virtual-models-fashion-brands)
 - Discuss AI artworks
 
 ### <a name="week10.2"></a>Week 10.2 (4/6) - Requested topics
