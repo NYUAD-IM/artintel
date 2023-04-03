@@ -801,6 +801,8 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - Discuss AI artworks
 
 ### <a name="week10.2"></a>Week 10.2 (4/6) - Requested topics
+- [AI Art: How artists are using and confronting machine learning (MoMA / YouTube)](https://youtu.be/G2XdZIC3AM8)
+  
 - Requested topics
 
 - Lab machine access
