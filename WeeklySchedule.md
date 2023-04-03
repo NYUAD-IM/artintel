@@ -865,7 +865,7 @@ https://jalammar.github.io/illustrated-gpt2/
 ## <a name="week13"></a>Week 13 - ml5js / Final project
 
 
-### <a name="week13.1"></a>Week 13.1 (4/25)) - Interactive Machine Learning
+### <a name="week13.1"></a>Week 13.1 (4/25) - Interactive Machine Learning
 - Review homework
 
 - More ml5js
