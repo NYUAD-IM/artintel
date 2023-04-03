@@ -792,6 +792,7 @@ https://jalammar.github.io/illustrated-gpt2/
   - [Statement from the listed authors of Stochastic Parrots on the “AI pause” letter](https://www.dair-institute.org/blog/letter-statement-March2023) - Timnit Gebru responds to Musk et al.
   - [Petition for Keeping Up the Progress Tempo on AI Research While Securing Its Transparency and Safety (LAION)](https://laion.ai/blog/petition/)
     - "Calling [an] international organization to transparently coordinate and progress on large-scale AI research and its safety"
+    - "The recent proposition of decelerating AI research as a means to ensure safety and progress presents an understandable but untenable approach that will be detrimental to both objectives. Corporate or state actors will make advancements in the dark while simultaneously curtailing the public research community's ability to scrutinize the safety aspects of advanced AI systems thoroughly."
 - Discuss AI artworks
 
 ### <a name="week10.2"></a>Week 10.2 (4/6) - Requested topics
