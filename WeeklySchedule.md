@@ -790,6 +790,8 @@ https://jalammar.github.io/illustrated-gpt2/
   - [Asilomar AI Principles](https://futureoflife.org/open-letter/ai-principles/)
     - "one of the earliest and most influential sets of AI governance principles" (self-stated)
   - [Statement from the listed authors of Stochastic Parrots on the “AI pause” letter](https://www.dair-institute.org/blog/letter-statement-March2023) - Timnit Gebru responds to Musk et al.
+  - [Petition for Keeping Up the Progress Tempo on AI Research While Securing Its Transparency and Safety (LAION)](https://laion.ai/blog/petition/)
+    - "Calling [an] international organization to transparently coordinate and progress on large-scale AI research and its safety"
 - Discuss AI artworks
 
 ### <a name="week10.2"></a>Week 10.2 (4/6) - Requested topics
