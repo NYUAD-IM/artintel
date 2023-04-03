@@ -10,7 +10,7 @@
 * FALL BREAK
 * [Week 8 - Sound / Text Tools / Ethics and Bias](#week8)
 * [Week 9 - Sound / Text](#week9)
-* [Week 10 - Other Techniques Sound / Autoencoders](#week10)
+* [Week 10 - Other Techniques Sound](#week10)
 * [Week 11 - Sound / Text Project Due (4/13) / Final Project Introduction](#week11)
 * [Week 12 - Interactive Applications / ml5.js](#week12)
 * [Week 13 - CLASS MEETS MONDAY Present Final Project ideas / NO CLASS](#week13)
