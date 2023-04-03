@@ -783,6 +783,13 @@ https://jalammar.github.io/illustrated-gpt2/
 
 ### <a name="week10.1"></a>Week 10.1 (4/4) - AI Ethics / AI Artists
 - Discuss social implications and ethics of AI and bias in Machine Learning
+  
+- AI in the news (2023)
+  - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
+    - "We call on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4."
+  - [Asilomar AI Principles](https://futureoflife.org/open-letter/ai-principles/)
+    - "one of the earliest and most influential sets of AI governance principles" (self-stated)
+  - [Statement from the listed authors of Stochastic Parrots on the “AI pause” letter](https://www.dair-institute.org/blog/letter-statement-March2023) - Timnit Gebru responds to Musk et al.
 - Discuss AI artworks
 
 ### <a name="week10.2"></a>Week 10.2 (4/6) - Requested topics
