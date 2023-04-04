@@ -799,6 +799,11 @@ https://jalammar.github.io/illustrated-gpt2/
   - (Time permitting) [
 Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Guardian)](https://www.theguardian.com/fashion/2023/apr/03/ai-virtual-models-fashion-brands)
 - Discuss AI artworks
+  
+#### Homework
+- **Read** [Asilomar AI Principles](https://futureoflife.org/open-letter/ai-principles/)
+  - "one of the earliest and most influential sets of AI governance principles" (self-stated)
+
 
 ### <a name="week10.2"></a>Week 10.2 (4/6) - Requested topics
 - [AI Art: How artists are using and confronting machine learning (MoMA / YouTube)](https://youtu.be/G2XdZIC3AM8)
