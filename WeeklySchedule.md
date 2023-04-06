@@ -808,6 +808,9 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 ### <a name="week10.2"></a>Week 10.2 (4/6) - Requested topics
 - [AI Art: How artists are using and confronting machine learning (MoMA / YouTube)](https://youtu.be/G2XdZIC3AM8)
   
+- [ChatGPT example prompts](https://prompts.chat/)
+  - Making ChatGPT act in a certain role
+  
 - AI artists discussion
 - Project check-in
 
