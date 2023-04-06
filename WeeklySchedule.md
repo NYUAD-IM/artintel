@@ -808,8 +808,10 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 ### <a name="week10.2"></a>Week 10.2 (4/6) - Requested topics
 - [AI Art: How artists are using and confronting machine learning (MoMA / YouTube)](https://youtu.be/G2XdZIC3AM8)
   
-- Requested topics
+- AI artists discussion
+- Project check-in
 
+  <!--
 - Lab machine access
   - Lab machine logins
   - Lab access
@@ -818,15 +820,19 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
   - Installing software
   - Running software
   - Transferring files
+-->
 
 <!--
 - Autoencoders
   - [Autoencoder explained](https://youtu.be/9zKuYvjFFS8?t=56)
 -->
+  
+#### Homework
+- Work on your projects (due 4/13)
 
 ## <a name="week11"></a>Week 11 - Sound / Text Project Due
 
-### <a name="week11.1"></a>Week 11.1 - Sound / Text Work Session (4/13)
+### <a name="week11.1"></a>Week 11.1 - Sound / Text Work Session (4/11)
 - Requested topics
 - Work session
   
