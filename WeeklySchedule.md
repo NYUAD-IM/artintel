@@ -814,7 +814,7 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - AI artists discussion
 - Project check-in
 
-  <!--
+<!--
 - Lab machine access
   - Lab machine logins
   - Lab access
