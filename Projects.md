@@ -31,6 +31,7 @@ Production assignments are graded on the overall quality of work, comprehension 
 
 - Required documentation (include on project site or separate page):
   - Name of your project
+  - What concepts are you examining in your work? What response are you hoping to provoke in the audience? 
   - What inspired you to make this work?
   - How does the content of your work relate to some of the concepts we've covered in class?
   - What tools did you use? How did the tools affect your creative process? (If you found the
