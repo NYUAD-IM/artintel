@@ -56,10 +56,17 @@ Production assignments are graded on the overall quality of work, comprehension 
 
 - Required documentation (include on project site or separate page):
   - Name of your project
+  - What concepts are you examining in your work? What response are you hoping to provoke in the audience?
   - What inspired you to make this work?
   - How does the content of your work related to some of the concepts we've covered in class?
   - What tools did you use? How did the tools affect your creative process? (If you found the
     tools limiting you can also comment on that.)
+    
+- In-class presentation
+  - 5-7 minute presentation of your project
+  - Cover the most important concepts and results
+  - 10 minutes of response / questions
+  - Additional time is available for performances (contact Mang in advance)
 
 ### Grading Rubric
 
