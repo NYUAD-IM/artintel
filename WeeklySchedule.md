@@ -841,6 +841,7 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
   - [OpenAI's GPT-4: A Spark Of Intelligence! (Two Minute Papers / YouTube)](https://www.youtube.com/watch?v=wHiOKDlA8Ac)
   - [Presentation discussing examples from the paper (YouTube)](https://www.youtube.com/watch?v=qbIk7-JPB2c)
   - [Can GPT 4 Prompt Itself? MemoryGPT, AutoGPT, Jarvis, Claude-Next (AI Explained / YouTube)](https://www.youtube.com/watch?v=6NoTuqDAkfg)
+  - [Someone Asked an Autonomous AI to 'Destroy Humanity': This Is What Happened (Vice)](https://www.vice.com/en/article/93kw7p/someone-asked-an-autonomous-ai-to-destroy-humanity-this-is-what-happened) - ChaosGPT
   
 - Work session
   
