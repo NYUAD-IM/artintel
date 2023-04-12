@@ -836,7 +836,12 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 ## <a name="week11"></a>Week 11 - Sound / Text Project Due
 
 ### <a name="week11.1"></a>Week 11.1 - Sound / Text Work Session (4/11)
-- Requested topics
+- AI in the news (2023)
+  - [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (arXiv)](https://arxiv.org/abs/2303.12712)
+  - [OpenAI's GPT-4: A Spark Of Intelligence! (Two Minute Papers / YouTube)](https://www.youtube.com/watch?v=wHiOKDlA8Ac)
+  - [Presentation discussing examples from the paper (YouTube)](https://www.youtube.com/watch?v=qbIk7-JPB2c)
+  - [Can GPT 4 Prompt Itself? MemoryGPT, AutoGPT, Jarvis, Claude-Next (AI Explained / YouTube)](https://www.youtube.com/watch?v=6NoTuqDAkfg)
+  
 - Work session
   
 ### <a name="week11.2"></a>Week 11.2 - Sound / Text Project Presentations (4/13)
