@@ -840,8 +840,6 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
   - [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (arXiv)](https://arxiv.org/abs/2303.12712)
   - [OpenAI's GPT-4: A Spark Of Intelligence! (Two Minute Papers / YouTube)](https://www.youtube.com/watch?v=wHiOKDlA8Ac)
   - [Presentation discussing examples from the paper (YouTube)](https://www.youtube.com/watch?v=qbIk7-JPB2c)
-  - [Can GPT 4 Prompt Itself? MemoryGPT, AutoGPT, Jarvis, Claude-Next (AI Explained / YouTube)](https://www.youtube.com/watch?v=6NoTuqDAkfg)
-  - [Someone Asked an Autonomous AI to 'Destroy Humanity': This Is What Happened (Vice)](https://www.vice.com/en/article/93kw7p/someone-asked-an-autonomous-ai-to-destroy-humanity-this-is-what-happened) - ChaosGPT
   
 - Work session
   
@@ -860,10 +858,17 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 
 ### <a name="week12.1"></a>Week 12.1 Final Project Introduction / ml5js (4/18)
 
+- Announcements
+  - IM End of Semester show
+  
 - Introduction to [Final Project](Projects.md)
 
 - AI in the news (2020)
   - [Much ‘Artificial Intelligence’ Is Still People Behind a Screen](https://www.bloomberg.com/opinion/articles/2021-10-13/how-good-is-ai-much-artificial-intelligence-is-still-people-behind-a-screen)
+- AI in the news (2023)
+  - [Can GPT 4 Prompt Itself? MemoryGPT, AutoGPT, Jarvis, Claude-Next (AI Explained / YouTube)](https://www.youtube.com/watch?v=6NoTuqDAkfg)
+  - [Someone Asked an Autonomous AI to 'Destroy Humanity': This Is What Happened (Vice)](https://www.vice.com/en/article/93kw7p/someone-asked-an-autonomous-ai-to-destroy-humanity-this-is-what-happened) - ChaosGPT
+
 
 - ml5js
   - [ml5js Getting Started](https://learn.ml5js.org/#/)
