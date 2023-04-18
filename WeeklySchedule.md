@@ -884,10 +884,10 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
 -->
 
-#### Homework (due before start of next class)
+#### Homework (due before start of next class 4/25)
 - **Create** An interactive ml5.js sketch (using the p5 editor or your own editor) that uses the webcam, uploaded image from the user, user-entered text, or other user interaction to do something interesting. You can start from one of the [ml5.js examples](https://editor.p5js.org/ml5/sketches) and modify it for your own use.
 - **Write** a paragraph of text explaining your sketch
-- **Submit** the link to your sketch and description to Brightspace->Assignments->Week 11
+- **Post** the link to your sketch and description to the [Brightspace->Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/381012/View)
 - **Sign up** for your Final Project group on the [Projects Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Develop** the rough idea for your final project and add it your group description in the [Projects Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 
