@@ -966,13 +966,14 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
   - Presentation of 5-7 minutes only! Share the best and most important results / reflection
 - Goodbyes for now!
 
-### <a name="week15.3"></a>Week 15.2 (5/12) - IM End of Semester Show!!
+### <a name="week15.3"></a>Week 15.2 (5/11) - IM End of Semester Show!!
 
-**IM Show - Thursday May 12 - 6-9pm in Arts Center lobby**
+**IM Show - Thursday May 11 - 5-7pm in Arts Center lobby**
 
 - All IM students need to attend and show a project
-- Setup TBD
+- Setup Wednesday
 - Final setup TBD
-- Show our projects 6-9pm
+- Show our projects 5-7pm
 - See great projects from your fellow students!
-- Cleanup 9pm - All equipment back to IM Lab
+- Group photo 7pm
+- Cleanup 7pm - All equipment back to IM Lab
