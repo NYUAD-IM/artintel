@@ -888,8 +888,8 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - **Create** An interactive ml5.js sketch (using the p5 editor or your own editor) that uses the webcam, uploaded image from the user, user-entered text, or other user interaction to do something interesting. You can start from one of the [ml5.js examples](https://editor.p5js.org/ml5/sketches) and modify it for your own use.
 - **Write** a paragraph of text explaining your sketch
 - **Submit** the link to your sketch and description to Brightspace->Assignments->Week 11
-- **Sign up** for your Final Project group in Brightspace
-- **Develop** the rough idea for your final project and add it your group description in Brightspace
+- **Sign up** for your Final Project group on the [Projects Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Develop** the rough idea for your final project and add it your group description in the [Projects Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 
 ### <a name="week12.2"></a>Week 12 (4/20) - NO CLASS - Eid
 - No class
