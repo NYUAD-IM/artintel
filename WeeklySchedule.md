@@ -948,17 +948,20 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
   - [A.rt I.ntel IM Show Projects (Spreadsheet)](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
 
 ### <a name="week14.2"></a>Week 14.2 (5/4) - Final project work session
+- IM End of Semester Show
+- Project check in
 - Work session
 
 
+## <a name="week15"></a>Week 15
+
+### <a name="week15.1"></a>Week 15.1 (5/9) - Final discussion
+- Topics TBD
+  
 #### Homework ####
 - **Submit** your Final Project URL via Brightspace->Assignments->Final Project
 - **Prepare** a **5 minute** presentation of your project
 
-## <a name="week15"></a>Week 15
-
-### <a name="week15.1"></a>Week 15.1 (5/9) - Final project work session
-- Work session
 
 ### <a name="week15.2"></a>Week 15.2 (5/11) - Final project presentations
 - **Final project due (5/11)**
