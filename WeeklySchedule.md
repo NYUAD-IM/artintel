@@ -949,19 +949,29 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 
 ### <a name="week14.2"></a>Week 14.2 (5/4) - Final project work session
 - IM End of Semester Show
+- Sign up for Show and make equipment requests -> [AI - IM Show S2023](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
+  - You can check out equipment now via [NYUAD Arts Booking (VPN required)](https://nyuad-artsbooking.nyu.edu/)
+  - Special requests such as LCD monitors or large TVs will be considered across all classes
 - Project check in
 - Work session
 
 
 ## <a name="week15"></a>Week 15
 
-### <a name="week15.1"></a>Week 15.1 (5/9) - Final discussion
-- Topics TBD
+### <a name="week15.1"></a>Week 15.1 (5/9) - Final discussion / Project Check-in
+- Future of AI
+- Project Check-In
+- Course review (time permitting)
   
 #### Homework ####
 - **Submit** your Final Project URL via Brightspace->Assignments->Final Project
 - **Prepare** a **5 minute** presentation of your project
 
+### IM Show Setup - Wednesday 5/10 - Arts Center Lobby 2-4:30pm
+- Bring your project to the Arts Center Lobby
+- Collect any equipment such as LCD monitor, TV
+- Set up project and check working
+- Can leave basic equipment, take laptops
 
 ### <a name="week15.2"></a>Week 15.2 (5/11) - Final project presentations
 - **Final project due (5/11)**
@@ -972,11 +982,10 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 ### <a name="week15.3"></a>Week 15.2 (5/11) - IM End of Semester Show!!
 
 **IM Show - Thursday May 11 - 5-7pm in Arts Center lobby**
-
 - All IM students need to attend and show a project
-- Setup Wednesday
-- Final setup TBD
+- Arrive 4pm, make sure project is setup and working
 - Show our projects 5-7pm
 - See great projects from your fellow students!
 - Group photo 7pm
-- Cleanup 7pm - All equipment back to IM Lab
+- Cleanup starts after group photo
+  - All equipment back to IM Lab, checkin with Lab Assistant
