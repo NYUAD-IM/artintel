@@ -961,8 +961,8 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 ### <a name="week15.1"></a>Week 15.1 (5/9) - Final discussion / Project Check-in
 - Future of AI
 - Project Check-In
-- Course review
-  - Please fill out [A.rt I.ntel Course Review Questionnaire](https://go.blueja.io/IaDOWNk-c0uemZXNfpvf6A)
+- Course feedback
+  - Please fill out [A.rt I.ntel Course Feedback Questionnaire](https://go.blueja.io/IaDOWNk-c0uemZXNfpvf6A)
   
 #### Homework ####
 - **Submit** your Final Project URL via Brightspace->Assignments->Final Project
