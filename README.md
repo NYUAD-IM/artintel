@@ -24,7 +24,7 @@ https://brightspace.nyu.edu/d2l/home/351324
 
 [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) - submit your project links here
 
-[Reading Responses (Brightspace)](https://brightspace.nyu.edu/d2l/le/110671/discussions/List) - sign in with NYU account for access
+[Reading Responses (Brightspace)](https://brightspace.nyu.edu/d2l/le/351324/discussions/List) - sign in with NYU account for access
 
 [Useful Colabs](UsefulColabs.md)
 
