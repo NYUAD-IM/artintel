@@ -18,7 +18,8 @@ https://brightspace.nyu.edu/d2l/home/351324
 
 [Syllabus](https://github.com/nyuad-im/artintel/blob/master/Syllabus.md)
 
-[Schedule Overview Spreadsheet](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
+[Schedule Overview](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
+
 [Weekly Schedule Notes](https://github.com/nyuad-im/artintel/blob/master/WeeklySchedule.md)
 
 [Projects Description](Projects.md)
