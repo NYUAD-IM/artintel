@@ -1,28 +1,32 @@
-# Weekly Schedule - Spring 2023
+# Weekly Schedule - Spring 2024
+
+[Class Schedule Overview Spreadsheet](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
+
+# **Individal classes currently being updated for S2024 - please refer to overview above for exact dates**
 
 * [Week 1 - Introduction / What is Machine Learning?](#week1)
 * [Week 2 - Speculative Design / Neural Networks](#week2)
-* [Week 3 - More Neural Networks / Speculative Design Project Due (2/9)](#week3)
+* [Week 3 - More Neural Networks / Speculative Design Project Due](#week3)
 * [Week 4 - Visual Project Introduction / Convolutional Neural Networks & Neural Network Training](#week4)
 * [Week 5 - Neural Network Training / Politics in AI](#week5)
 * [Week 6 - Visual Project Check-in / Bias in Datasets](#week6)
-* [Week 7 - Visual Project Due (3/9) / Sound / Text Project Introduction](#week7)
-* FALL BREAK
-* [Week 8 - Sound / Text Tools / Ethics and Bias](#week8)
+* [Week 7 - Visual Project Due / Sound / Text Project Introduction](#week7)
+* SPRING BREAK
+* [Week 8 - SPRING BREAK / Sound / Text Tools / Ethics and Bias](#week8)
 * [Week 9 - Sound / Text](#week9)
 * [Week 10 - Other Techniques Sound](#week10)
-* [Week 11 - Sound / Text Project Due (4/13) / Final Project Introduction](#week11)
+* [Week 11 - Sound / Text Project Due / Final Project Introduction](#week11)
 * [Week 12 - Interactive Applications / ml5.js](#week12)
-* [Week 13 - CLASS MEETS MONDAY Present Final Project ideas / NO CLASS](#week13)
+* [Week 13 - Present Final Project ideas / NO CLASS](#week13)
 * [Week 14 - Final Project check-in / Other topics](#week14)
-* [Week 15 - Final Project Due (5/11)](#week15)
+* [Week 15 - Final Project Due / Course wrap-up and IM Show](#week15)
 
 
 [Projects Description](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md) - [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) 
 
 ## <a name="week1"></a>Week 1 - Introduction / What is Machine Learning?
 
-### <a name="week1.1"></a>Week 1.1 Introduction (1/24)
+### <a name="week1.1"></a>Week 1.1 Introduction
 - Introductions
 - Course overview
 - In-class discussion
@@ -75,7 +79,7 @@
 
 
 
-### <a name="week1.1"></a>Week 1.2 (1/26)
+### <a name="week1.1"></a>Week 1.2
 - Review homework - articles about AI / machine learning
 
 - What is Artificial Intelligence - Machine Learning?
@@ -105,7 +109,7 @@
 
 ## <a name="week2"></a>Week 2 - Speculative Design / Neural Networks
 
-### <a name="week2.1"></a>Week 2.1 Introduction to Speculative Design (1/31)
+### <a name="week2.1"></a>Week 2.1 Introduction to Speculative Design
 - Review homework (new image, interesting applications)
 - Talk about Speculative Design project
   - <a href="https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-1-speculative-design-due-921">Speculative Design Project requirements<a/>
@@ -150,7 +154,7 @@ Class examples:
 - **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 
 
-### <a name="week2.2"></a>Week 2.2 Neural Networks (2/2)
+### <a name="week2.2"></a>Week 2.2 Neural Networks
 - Neural Networks
   - [Professor’s perceptron paved the way for AI – 60 years too soon](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)
   - [Perceptron (Wikipedia)](https://en.wikipedia.org/wiki/Perceptron)
@@ -165,7 +169,7 @@ Class examples:
 - Work on your Speculative Design Project
 
 
-## <a name="week3"></a>Week 3 - More Neural Networks / Speculative Design Presentations (2/9)
+## <a name="week3"></a>Week 3 - More Neural Networks / Speculative Design Presentations
 
 ### <a name="week3.1"></a>Week 3.1 - More Neural Networks  
 - How convolutional neural networks work
@@ -192,7 +196,7 @@ Class examples:
   - Update the projects doc with a link to your documentation
   - Prepare to present in class
 
-### <a name="week3.2"></a>Week 3.2 - Speculative Design Project Presentations (2/9)
+### <a name="week3.2"></a>Week 3.2 - Speculative Design Project Presentations
 - Speculative Design Project Presentations
   - Give a 5-10 minute presentation of your project and be prepared for feedback from the class
 
@@ -213,7 +217,7 @@ Class examples:
 
 ## <a name="week4"></a>Week 4 - Visual tools
 
-### <a name="week4.1"></a>Week 4.1 - Introduction to Visual tools (2/14)
+### <a name="week4.1"></a>Week 4.1 - Introduction to Visual tools
 - Review homework (issues)
   - Use of "free" commercial tools
   - Learning how to learn
@@ -247,7 +251,7 @@ Class examples:
       - Inspired by [OpenAI DALL-E text to image](https://openai.com/blog/dall-e/)
 
 
-### <a name="week4.2"></a>Week 4.2 - Visual Tools Continued (2/16)
+### <a name="week4.2"></a>Week 4.2 - Visual Tools Continued
 - AI in the news
   - [Experts say she will end humanity. Here's the fix, w Elon Musk, ChatGPT, AI robots.
 ](https://www.youtube.com/watch?v=zpRM25pUD8w)
@@ -295,7 +299,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ## <a name="week5"></a>Week 5 - Visual Neural Networks
 
-### <a name="week5.1"></a>Week 5.1 - Discussion / Project Ideas / Generative Networks (2/21)
+### <a name="week5.1"></a>Week 5.1 - Discussion / Project Ideas / Generative Networks
 - Discuss reading
   - Reading responses will be due the day *before* class
   - Post your reading response as a new thread in the Brightspace Discussion Topic for that reading
@@ -346,7 +350,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
   - [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
 
-### <a name="week5.2"></a>Week 5.2 - More Visual Tools (2/23)
+### <a name="week5.2"></a>Week 5.2 - More Visual Tools
 - AI in the news
   - [Imagining new Indian sci-fi stories through the power of AI (2023)](https://wepresent.wetransfer.com/stories/prateek-arora-midjourney-indian-cinema)
     - Imagining Indian Sci-Fi
@@ -387,7 +391,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Meet the Artist Using Ritual Magic to Trap Self-Driving Cars (Vice, 2017)](https://www.vice.com/en/article/ywwba5/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars)
 
 - **Work** on your Visual Project
-- **Prepare** to share your idea at our next class together on 10/7
+- **Prepare** to share your idea at our next class together
   - What is your latest idea?
   - What Colabs / software are you using?
   - Is there anything you need help with? Feel free to ask on Discord as you go!
@@ -447,7 +451,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/371625/View)
 
 
-### <a name="week6.2"></a>Week 6 - Bias in Datasets (3/2)
+### <a name="week6.2"></a>Week 6 - Bias in Datasets
 - Reading discussion - The Politics of Images in Machine Learning Training Sets
 - [AI colorization (Twitter)](https://twitter.com/gwenckatz/status/1381652071695351810)
 - [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
@@ -493,7 +497,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Lab computers
 -->
 
-### <a name="week7.1"></a>Week 7.1 (3/7) - Visual Project Work Session
+### <a name="week7.1"></a>Week 7.1 - Visual Project Work Session
 - Work on your visual project
   
 #### Homework (due before start of next class)
@@ -503,7 +507,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - Do not exceed 5 minutes! Practice your presentation to check the timing
   - Share your most important ideas / concepts / statements and leave time for dicussion
 
-### <a name="week7.2"></a>Week 7.2 (3/9) -  Visual Project presentations
+### <a name="week7.2"></a>Week 7.2 -  Visual Project presentations
 - In-class presentations of Visual Project
 
 - Look at inspirational sound/text works and tools  
@@ -536,10 +540,10 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ## SPRING BREAK / SPRING BREAK / SPRING BREAK
 
-## <a name="week8"></a>Week 8 - Sound and Text Tools / Ethics and Bias
-### <a name="week8.1"></a>Week 8.1 NO CLASS - Spring Break (3/21)
+## <a name="week8"></a>Week 8 - SPRING BREAK / Sound and Text Tools / Ethics and Bias
+### <a name="week8.1"></a>Week 8.1 NO CLASS - Spring Break
 
-### <a name="week8.2"></a>Week 8.2 Sound and Text Tools (3/23)
+### <a name="week8.2"></a>Week 8.2 Sound and Text Tools
 - Midterm course review
   - How is the course going for you?
   - What's working well?
@@ -603,7 +607,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ## <a name="week9"></a>Week 9 - Sound / Text
 
-### <a name="week9.1"></a>Week 9.1 Sound and Text (3/28)
+### <a name="week9.1"></a>Week 9.1 Sound and Text
 
 - Musical Interlude
   - [Bremer/McCoy - Højt At Flyve (audio)](https://www.youtube.com/watch?v=BKwkd8dzPF4)
@@ -743,7 +747,7 @@ https://jalammar.github.io/illustrated-gpt2/
 - **Prepare** to share your project idea next class
 
 
-### <a name="week9.2"></a>Week 9.2 - Present project ideas (3/30)
+### <a name="week9.2"></a>Week 9.2 - Present project ideas
 - Present your project idea for feedback (5 minute presentation)
 - ChatGPT continued
 - Discuss the latest and greatest developments in machine learning / AI
@@ -781,7 +785,7 @@ https://jalammar.github.io/illustrated-gpt2/
 
 ## <a name="week10"></a>Week 10
 
-### <a name="week10.1"></a>Week 10.1 (4/4) - AI Ethics / AI Artists
+### <a name="week10.1"></a>Week 10.1 - AI Ethics / AI Artists
 - Discuss social implications and ethics of AI and bias in Machine Learning
   
 - AI in the news (2023)
@@ -805,7 +809,12 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
   - "one of the earliest and most influential sets of AI governance principles" (self-stated)
 
 
-### <a name="week10.2"></a>Week 10.2 (4/6) - Requested topics
+### <a name="week10.2"></a>Week 10.2 - Requested topics
+- AI in the news (2023)
+  - [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (arXiv)](https://arxiv.org/abs/2303.12712)
+  - [OpenAI's GPT-4: A Spark Of Intelligence! (Two Minute Papers / YouTube)](https://www.youtube.com/watch?v=wHiOKDlA8Ac)
+  - [Presentation discussing examples from the paper (YouTube)](https://www.youtube.com/watch?v=qbIk7-JPB2c)
+
 - [AI Art: How artists are using and confronting machine learning (MoMA / YouTube)](https://youtu.be/G2XdZIC3AM8)
   
 - [ChatGPT example prompts](https://prompts.chat/)
@@ -831,21 +840,15 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 -->
   
 #### Homework
-- Work on your projects (due 4/13)
+- Work on your projects
 
-## <a name="week11"></a>Week 11 - Sound / Text Project Due
+## <a name="week11"></a>Week 11 - NO CLASS - Sound / Text Project Due
 
-### <a name="week11.1"></a>Week 11.1 - Sound / Text Work Session (4/11)
-- AI in the news (2023)
-  - [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (arXiv)](https://arxiv.org/abs/2303.12712)
-  - [OpenAI's GPT-4: A Spark Of Intelligence! (Two Minute Papers / YouTube)](https://www.youtube.com/watch?v=wHiOKDlA8Ac)
-  - [Presentation discussing examples from the paper (YouTube)](https://www.youtube.com/watch?v=qbIk7-JPB2c)
+### <a name="week11.1"></a>Week 11.1 - NO CLASS (EID)
   
-- Work session
-  
-### <a name="week11.2"></a>Week 11.2 - Sound / Text Project Presentations (4/13)
+### <a name="week11.2"></a>Week 11.2 - Sound / Text Project Presentations
 
-- **Project 3 - Sound / Text Due (4/13)**
+- **Project 3 - Sound / Text Due**
   - **Add** a link to your project and documentation to the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Present** your Sound / Text project
 
@@ -856,7 +859,7 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 
 ## <a name="week12"></a>Week 12 - Interactive Applications
 
-### <a name="week12.1"></a>Week 12.1 Final Project Introduction / ml5js (4/18)
+### <a name="week12.1"></a>Week 12.1 Final Project Introduction / ml5js
 
 - Announcements
   - IM End of Semester show
@@ -884,21 +887,20 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
 -->
 
-#### Homework (due before start of next class 4/25)
+#### Homework (due before start of next class)
 - **Create** An interactive ml5.js sketch (using the p5 editor or your own editor) that uses the webcam, uploaded image from the user, user-entered text, or other user interaction to do something interesting. You can start from one of the [ml5.js examples](https://editor.p5js.org/ml5/sketches) and modify it for your own use.
 - **Write** a paragraph of text explaining your sketch
 - **Post** the link to your sketch and description to the [Brightspace->Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/381012/View)
 - **Sign up** for your Final Project group on the [Projects Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Develop** the rough idea for your final project and add it your group description in the [Projects Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 
-### <a name="week12.2"></a>Week 12 (4/20) - NO CLASS - Eid
-- No class
+### <a name="week12.2"></a>Week 12 - TBD
 
 
 ## <a name="week13"></a>Week 13 - ml5js / Final project
 
 
-### <a name="week13.1"></a>Week 13.1 (4/25) - Interactive Machine Learning
+### <a name="week13.1"></a>Week 13.1 - Interactive Machine Learning
 - Review homework
 
 - More ml5js
@@ -926,14 +928,14 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 #### Homework ####
 - **Work** on the idea for your final project
 
-### <a name="week13.1"></a>Week 13.1 (4/27) - Final Project Check-in / Work Session
+### <a name="week13.1"></a>Week 13.1 - Final Project Check-in / Work Session
 - Final project check-in
 - Final project work session
 
 
 ## <a name="week14"></a>Week 14
 
-### <a name="week14.1"></a>Week 14.1 (5/2) - Ethics + Future Applications / Final Project Check-in
+### <a name="week14.1"></a>Week 14.1 - Ethics + Future Applications / Final Project Check-in
 - Ethics and future of machine learning / AI
   - [Two AIs talk about becoming human. (GPT-3) (YouTube)](https://youtu.be/jz78fSnBG0s)
   - [This Robot would let 5 People die | AI on Moral Questions | Sophia answers the Trolley Problem
@@ -947,7 +949,7 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - IM Show signup
   - [A.rt I.ntel IM Show Projects (Spreadsheet)](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
 
-### <a name="week14.2"></a>Week 14.2 (5/4) - Final project work session
+### <a name="week14.2"></a>Week 14.2 - Final project work session
 - IM End of Semester Show
 - Sign up for Show and make equipment requests -> [AI - IM Show S2023](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
   - You can check out equipment now via [NYUAD Arts Booking (VPN required)](https://nyuad-artsbooking.nyu.edu/)
@@ -955,38 +957,34 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - Project check in
 - Work session
 
-
-## <a name="week15"></a>Week 15
-
-### <a name="week15.1"></a>Week 15.1 (5/9) - Final discussion / Project Check-in
-- Future of AI
-- Project Check-In
-- Course feedback
-  - Please fill out [A.rt I.ntel Course Feedback Questionnaire](https://go.blueja.io/IaDOWNk-c0uemZXNfpvf6A)
-  
 #### Homework ####
 - **Submit** your Final Project URL via Brightspace->Assignments->Final Project
 - **Prepare** a **5 minute** presentation of your project
 
-### IM Show Setup - Wednesday 5/10 - Arts Center Lobby 2-4:30pm
+
+## <a name="week15"></a>Week 15
+
+### <a name="week15.1"></a>Week 15.1 - Final project presentations
+- **Final project due (must be submitted May 6 midnight)**
+- Present Final Projects
+  - Presentation of 5-7 minutes only! Share the best and most important results / reflection
+  
+### IM Show Setup - TBD - Arts Center Lobby
 - Bring your project to the Arts Center Lobby
 - Collect any equipment such as LCD monitor, TV
 - Set up project and check working
 - Can leave basic equipment, take laptops
 
-### <a name="week15.2"></a>Week 15.2 (5/11) - Final project presentations
-- **Final project due (5/11)**
-- Present final Projects
-  - Presentation of 5-7 minutes only! Share the best and most important results / reflection
+### <a name="week15.2"></a>Week 15.2 - Course wrap-up / IM Show
+- Course feedback
+  - Please fill out A.rt I.ntel Course Feedback Questionnaire
 - Goodbyes for now!
 
-### <a name="week15.3"></a>Week 15.2 (5/11) - IM End of Semester Show!!
-
-**IM Show - Thursday May 11 - 5-7pm in Arts Center lobby**
+**IM Show - Thursday May 9 - Time TBD in Arts Center lobby**
 - All IM students need to attend and show a project
-- Arrive 4pm, make sure project is setup and working
-- Show our projects 5-7pm
+- Arrive ?pm, make sure project is setup and working
+- Show our projects ?-?pm
 - See great projects from your fellow students!
-- Group photo 7pm
+- Group photo ?pm
 - Cleanup starts after group photo
   - All equipment back to IM Lab, checkin with Lab Assistant

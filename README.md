@@ -29,7 +29,7 @@ https://brightspace.nyu.edu/d2l/home/351324
 [Useful Colabs](UsefulColabs.md)
 
 
-**Discord channel #artintel:** invite on Brightspace
+**Discord channel #artintel:** [invite on Brightspace](https://brightspace.nyu.edu/d2l/le/lessons/351324/units/9729132)
 
 
 ---
