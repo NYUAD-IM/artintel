@@ -1,6 +1,6 @@
 # Weekly Schedule - Spring 2024
 
-[Class Schedule Overview Spreadsheet](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
+[Schedule Overview](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
 
 # **Individal classes currently being updated for S2024 - please refer to overview above for exact dates**
 
