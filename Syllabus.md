@@ -79,6 +79,9 @@ Academic Integrity:
 
 As set forth in NYU Abu Dhabi&#39;s Academic Integrity Policy, the relationship between students and faculty at NYU Abu Dhabi is defined by a shared commitment to academic excellence and is grounded in an expectation of fairness, honesty, and respect, which are essential to maintaining the integrity of the community. Every student who enrolls and everyone who accepts an appointment as a member of the faculty or staff at NYU Abu Dhabi agrees to abide by the expectation of academic honesty. The full policies and procedures relating to Academic Integrity may be found on the NYUAD Student Portal: [https://students.nyuad.nyu.edu/campus-life/student-policies/community-standards-policies/academic-integrity/](https://students.nyuad.nyu.edu/campus-life/student-policies/community-standards-policies/academic-integrity/)
 
+Use of ChatGPT and related tools is allowed in this class, but only in ways noted in the assignments. When you use any of these tools, you must include a note describing how you used them with the assignment. Please consult the assignment descriptions to learn more about appropriate use of ChatGPT and other generative AI tools.
+
+
 Major Projects:
 - A. I. Speculative Design Project
 - Visual Project
