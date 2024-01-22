@@ -30,7 +30,7 @@
 - Introductions
   - What is your coding background? Are you familiar with Python? Linux?
 - Course overview
-  - Balance between creative, conceptual, discussions, math
+  - Balance between creative, conceptual, technical, discussions
   - Technical tools are rapidly changing - we need to "learn how to learn"
     - We prefer open source tools / data
 - In-class discussion
