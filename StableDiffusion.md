@@ -130,7 +130,7 @@ Techniques
 - Take a generated output image and use that as the input image to continue refining / tweaking it
 - Mask part of the input image to have Stable Diffusion just paint those areas. E.g. draw a simple skyline into one of your photos then mask that area to have Stable Diffusion replace your drawing with generated imagery
 
-# Outpainting (and repainting)
+## Outpainting (and repainting)
 
 Outpainting is a technique to extend an existing image to a larger canvas. The existing image is extended outwards. You can also erase parts of the existing image and repaint them.
 
@@ -139,3 +139,8 @@ Outpainting is a technique to extend an existing image to a larger canvas. The e
 - [stablediffusion-infinity (Hugging Space)](https://huggingface.co/spaces/lnyan/stablediffusion-infinity) - live demo on Hugging Space
 
 https://user-images.githubusercontent.com/1665437/197244111-51884b3b-dffe-4dcf-a82a-fa5117c79934.mp4
+
+## Automatic1111
+
+[How to use Stable Diffusion. Automatic1111 Tutorial (YouTube)](https://www.youtube.com/watch?v=nJlHJZo66UA)
+- Explains different samplers, how to upscale images, basic inpainting, saving seed, getting settings back from png
