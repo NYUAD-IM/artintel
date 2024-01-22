@@ -28,8 +28,18 @@
 
 ### <a name="week1.1"></a>Week 1.1 Introduction
 - Introductions
+  - What is your coding background? Are you familiar with Python? Linux?
 - Course overview
+  - Balance between creative, conceptual, discussions, math
+  - Technical tools are rapidly changing - we need to "learn how to learn"
+    - We prefer open source tools / data
 - In-class discussion
+  - What do you think about AI?
+    - Current capabilities
+    - How it's changing society
+    - Future capabilities
+    - Should we be worried? Excited? Both?
+    - How do you want to use AI now, and in the future?
   - Synthetic faces
     - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
     - “Unique, worry-free model photos” https://generated.photos/
@@ -65,7 +75,7 @@
   - **Read**
     - Creative AI:  [https://medium.com/@creativeai/creativeai-9d4b2346faf3](https://medium.com/@creativeai/creativeai-9d4b2346faf3)  
 <!-- Down    - What is AI &amp; History (Optional/Recommended): [Chapter 1 - Introduction - Artificial Intelligence a Modern Approach](http://web.cecs.pdx.edu/~mperkows/CLASS_479/2017_ZZ_00/02__GOOD_Russel=Norvig=Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf) -->
-  - **Find** an interesting article about AI / machine learning. The article could show a creative application of AI, recent developments in machine learning, controversy over AI ethics, explain how a particular model / algorithm works, etc. Try to find something that will provoke disussion with the class
+  - **Find** an interesting article about AI / machine learning published within the last year. The article could show a creative application of AI, recent developments in machine learning, controversy over AI ethics, explain how a particular model / algorithm works, etc. Try to find something that will provoke disussion with the class
     - **Post** article to Discord #artintel or email it to the professor before the start of next class
     - **Be prepared to discuss** your article with the class
 
