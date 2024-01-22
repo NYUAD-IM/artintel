@@ -33,6 +33,7 @@
   - Balance between creative, conceptual, technical, discussions
   - Technical tools are rapidly changing - we need to "learn how to learn"
     - We prefer open source tools / data
+  - Add programming with AI?
 - In-class discussion
   - What do you think about AI?
     - Current capabilities
