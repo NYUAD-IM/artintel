@@ -27,7 +27,7 @@ Learning Outcomes:
 - Develop a speculative artistic vision of the future that leverages both critical perspectives and creative applications of emerging AI technologies
 - Create intuitive interactions using machine learning
 - Understand some of the low-level math and code used in neural networks and deep learning
-- Use current tools such as Python, Tensorflow, &amp; Keras to implement machine learning algorithms
+- Use current tools to create works using machine learning algorithms
 - Use various types of neural networks to generate sound, visuals, and text
 
 Teaching Methodologies:
@@ -103,9 +103,9 @@ The semester is organized roughly as follows:
   - Final Project
 
 
-Tools/Platforms:
+Current Tools/Platforms (machine learning tools are constantly changing):
 - Python
-- Tensorflow
-- Google Colab
+- ChatGPT
+- Stable Diffusion
 - Interaction using ml5.js, Processing, or openFrameworks
 - Text Editor (Atom/Sublime Text/Visual Studio Code)
