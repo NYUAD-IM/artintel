@@ -49,15 +49,17 @@
     - [Progression in the capabilities of face generation](https://machinelearningmastery.com/wp-content/uploads/2019/06/Example-of-the-Progression-in-the-Capabilities-of-GANs-from-2014-to-2017.png)
   - Deep Fakes
     - [Making a political figure deliver a new speech](https://www.theverge.com/tldr/2018/4/17/17247334/ai-fake-news-video-barack-obama-jordan-peele-buzzfeed)
+    - ["AI is destabilizing ‘the concept of truth itself’ in 2024 election" (Washington Post)](https://www.washingtonpost.com/technology/2024/01/22/ai-deepfake-elections-politicians/)
+      - [Biden Robocall Deepfake (TikTok)](https://www.tiktok.com/@sineadbovell/video/7326992653684346155)
+    - [AI-powered misinformation is the world’s biggest short-term threat, Davos report says (AP)](https://apnews.com/article/artificial-intelligence-davos-misinformation-disinformation-climate-change-106a1347ca9f987bf71da1f86a141968)
   - Text generation
     - [Fake-News-Generating AI Deemed Too Dangerous for Public Release](https://www.extremetech.com/extreme/285857-fake-news-generating-ai-deemed-too-dangerous-for-public-release)
     - [OpenAI Releases Fake News Bot It Previously Deemed Too Dangerous](https://www.extremetech.com/extreme/301662-openai-releases-fake-news-bot-it-previously-deemed-too-dangerous)
     - [Faking the News with Natural Language Processing and GPT-2](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d)
     - [ChatGPT](https://openai.com/blog/chatgpt/)
       - [ChatGPT interactive](https://chat.openai.com/chat)
-    - ["AI is destabilizing ‘the concept of truth itself’ in 2024 election" (Washington Post)](https://www.washingtonpost.com/technology/2024/01/22/ai-deepfake-elections-politicians/)
-      - [Biden Robocall Deepfake (TikTok)](https://www.tiktok.com/@sineadbovell/video/7326992653684346155)
-    - [AI-powered misinformation is the world’s biggest short-term threat, Davos report says (AP)](https://apnews.com/article/artificial-intelligence-davos-misinformation-disinformation-climate-change-106a1347ca9f987bf71da1f86a141968)
+    - [Perplexity](https://www.perplexity.ai/)
+      - Large language model combined with web search
   - Speech Synthesis
     - [Val Kilmer reclaims his voice through AI technology after throat cancer](https://www.thenationalnews.com/arts-culture/film/2021/08/21/val-kilmer-reclaims-his-voice-through-ai-technology-after-throat-cancer/)
     - [Ultra-realistic voice cloning / text to speech (TTS)](https://www.descript.com/overdub)
