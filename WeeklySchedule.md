@@ -76,9 +76,12 @@
   - **Read**
     - Creative AI:  [https://medium.com/@creativeai/creativeai-9d4b2346faf3](https://medium.com/@creativeai/creativeai-9d4b2346faf3)  
 <!-- Down    - What is AI &amp; History (Optional/Recommended): [Chapter 1 - Introduction - Artificial Intelligence a Modern Approach](http://web.cecs.pdx.edu/~mperkows/CLASS_479/2017_ZZ_00/02__GOOD_Russel=Norvig=Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf) -->
+
+<!--
   - **Find** an interesting article about AI / machine learning published within the last year. The article could show a creative application of AI, recent developments in machine learning, controversy over AI ethics, explain how a particular model / algorithm works, etc. Try to find something that will provoke disussion with the class
     - **Post** article to Discord #artintel or email it to the professor before the start of next class
     - **Be prepared to discuss** your article with the class
+-->
 
 <!--
   - **Create** a pixel art image using CLIPIT PixelDraw **OR** a face using StyleGAN2
