@@ -45,5 +45,5 @@ Artificial intelligence and machine learning algorithms affect many aspects of o
 * Develop a speculative artistic vision of the future that leverages both critical perspectives and creative applications of emerging AI technologies
 * Create intuitive interactions using machine learning
 * Understand some of the low-level math and code used in neural networks and deep learning
-* Use software such as Python, Tensorflow, & Keras to implement machine learning algorithms
+* Use current tools to create works using machine learning algorithms
 * Use various types of neural networks to generate sound, visuals, and text
