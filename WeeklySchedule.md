@@ -53,6 +53,9 @@
     - [Faking the News with Natural Language Processing and GPT-2](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d)
     - [ChatGPT](https://openai.com/blog/chatgpt/)
       - [ChatGPT interactive](https://chat.openai.com/chat)
+    - ["AI is destabilizing ‘the concept of truth itself’ in 2024 election" (Washington Post)](https://www.washingtonpost.com/technology/2024/01/22/ai-deepfake-elections-politicians/)
+      - [Biden Robocall Deepfake (TikTok)](https://www.tiktok.com/@sineadbovell/video/7326992653684346155)
+    - [AI-powered misinformation is the world’s biggest short-term threat, Davos report says (AP)](https://apnews.com/article/artificial-intelligence-davos-misinformation-disinformation-climate-change-106a1347ca9f987bf71da1f86a141968)
   - Speech Synthesis
     - [Val Kilmer reclaims his voice through AI technology after throat cancer](https://www.thenationalnews.com/arts-culture/film/2021/08/21/val-kilmer-reclaims-his-voice-through-ai-technology-after-throat-cancer/)
     - [Ultra-realistic voice cloning / text to speech (TTS)](https://www.descript.com/overdub)
