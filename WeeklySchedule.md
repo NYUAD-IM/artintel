@@ -1,6 +1,6 @@
 # Weekly Schedule - Spring 2024
 
-[Schedule Overview](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
+[Schedule Overview / Dates](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
 
 # **Individal classes currently being updated for S2024 - please refer to overview above for exact dates**
 
@@ -28,9 +28,11 @@
 
 ### <a name="week1.1"></a>Week 1.1 Introduction
 - Introductions
-  - What is your coding background? Are you familiar with Python? Linux?
+  - What is your coding background? Are you familiar with Python? p5js? Linux?
+  - Mac / Windows?
 - Course overview
   - Balance between creative, conceptual, technical, discussions
+  - [Schedule Overview / Dates](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
   - Technical tools are rapidly changing - we need to "learn how to learn"
     - We prefer open source tools / data
   - Add programming with AI?
