@@ -36,6 +36,8 @@
   - Technical tools are rapidly changing - we need to "learn how to learn"
     - We prefer open source tools / data
   - Add programming with AI?
+  - Attendance
+    - Need to be present at start of class  
   - Lab machines
     - 3x Linux PC with 1080 graphics card
 - In-class discussion
