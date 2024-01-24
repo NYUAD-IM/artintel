@@ -10,10 +10,19 @@ Stable Diffusion
 
 ## Accessing Stable Diffusion
 
-Apple devices
-- [DiffusionBee](https://diffusionbee.com/) - app for M1/M2 laptops
-- [Draw Things](https://drawthings.ai/) - app for iOS and M1/M2 laptops
-  - M1/M2 recommended
+Apple devices (M1/M2/M3)
+- [DiffusionBee](https://diffusionbee.com/) - app for laptops
+- [Draw Things](https://drawthings.ai/) - app for iOS and laptops
+- [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - untested
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - node-based programming environment - great for learning!
+- [Pinokio](https://pinokio.computer/) - ComfyUI works with some tweaking (need to manually go into app directory and git clone comfyui)
+
+PC laptops with nVidia graphics cards
+- [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
+Online services
+- [Hugging Face stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
 The lab computers have [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) installed with the [Easy Diffusion](https://github.com/cmdr2/stable-diffusion-ui) web UI. The web UI is accessible while on campus or using the VPN.
 
