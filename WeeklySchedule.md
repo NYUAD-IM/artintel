@@ -105,7 +105,7 @@
 
 
 ### <a name="week1.1"></a>Week 1.2
-- Review homework - articles about AI / machine learning
+- Discussion - Creative AI
 
 - What is Artificial Intelligence - Machine Learning?
   - [Intro to Machine Learning (YouTube)](https://www.youtube.com/watch?v=KNAWp2S3w94&t=50s)
