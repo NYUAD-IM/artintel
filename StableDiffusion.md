@@ -15,6 +15,7 @@ Apple devices (M1/M2/M3)
 - [Draw Things](https://drawthings.ai/) - app for iOS and laptops
 - [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - untested
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - node-based programming environment - great for learning!
+  - [ComfyUI SDXL Turbo worklflow](https://comfyanonymous.github.io/ComfyUI_examples/sdturbo/) - realtime/fast image generation
 - [Pinokio](https://pinokio.computer/) - ComfyUI works with some tweaking (need to manually go into app directory and git clone comfyui)
 
 PC laptops with nVidia graphics cards
