@@ -154,3 +154,9 @@ https://user-images.githubusercontent.com/1665437/197244111-51884b3b-dffe-4dcf-a
 
 [How to use Stable Diffusion. Automatic1111 Tutorial (YouTube)](https://www.youtube.com/watch?v=nJlHJZo66UA)
 - Explains different samplers, how to upscale images, basic inpainting, saving seed, getting settings back from png
+
+
+## Training Stable Diffusion / Creating custom models
+- Textual Inversion
+  - Create a small model trained on custom images that is added when using a specific text keyword (e.g. train a small model on images of your dog and add 'mysuperdog' to apply your custom model as guidance)
+  - [Create Textual Inversion from !10 images in Automatic1111 (YouTube)](https://www.youtube.com/watch?v=2ityl_dNRNw)
