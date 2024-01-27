@@ -160,3 +160,5 @@ https://user-images.githubusercontent.com/1665437/197244111-51884b3b-dffe-4dcf-a
 - Textual Inversion
   - Create a small model trained on custom images that is added when using a specific text keyword (e.g. train a small model on images of your dog and add 'mysuperdog' to apply your custom model as guidance)
   - [Create Textual Inversion from !10 images in Automatic1111 (YouTube)](https://www.youtube.com/watch?v=2ityl_dNRNw)
+  - [Textual Inversion: A method to finetune Stable Diffusion Model (Medium)](https://medium.com/@onkarmishra/how-textual-inversion-works-and-its-applications-5e3fda4aa0bc)
+    - In depth analysis of how it works
