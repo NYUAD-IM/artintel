@@ -139,6 +139,9 @@
 - Talk about Speculative Design project
   - <a href="https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-1-speculative-design-due-921">Speculative Design Project requirements<a/>
 - Form groups for Speculative Design Project
+- AI in the news
+  - [Deepfake images of Taylor Swift went viral on X, evading moderation and sparking outrage (NBC News)](https://www.nbcnews.com/tech/misinformation/taylor-swift-nude-deepfake-goes-viral-x-platform-rules-rcna135669)
+  - [Ad for generating LinkedIn content into your own account using GPT (YouTube)](https://youtu.be/LAa76dwAHZo?si=tujgVHaM4cz76F0m&t=404)  
 - Lecture references:
   - [Critical Design - Dunne & Raby](http://dunneandraby.co.uk/content/bydandr/13/0)
   - [Speculative Design - Inside Design](https://www.invisionapp.com/inside-design/speculative-design/)
