@@ -141,6 +141,7 @@
 - Form groups for Speculative Design Project
 - AI in the news
   - [Deepfake images of Taylor Swift went viral on X, evading moderation and sparking outrage (NBC News)](https://www.nbcnews.com/tech/misinformation/taylor-swift-nude-deepfake-goes-viral-x-platform-rules-rcna135669) (Jan 2024)
+  - [Deepfakes and the History of Faked Photography](https://blogs.cardiff.ac.uk/openfordebate/deepfakes-and-the-history-of-faked-photography/)
   - [Ad for generating LinkedIn content into your own account using GPT (YouTube)](https://youtu.be/LAa76dwAHZo?si=tujgVHaM4cz76F0m&t=404) (Jan 2024)
 - Lecture references:
   - [Critical Design - Dunne & Raby](http://dunneandraby.co.uk/content/bydandr/13/0)
