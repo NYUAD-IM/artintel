@@ -186,6 +186,9 @@ Class examples:
 -->
 
 ### <a name="week2.2"></a>Week 2.2 Neural Networks
+- Lab etiquette
+  - Clean after yourselves
+  - Food waste goes outside (there ain't no flies on us!)
 - Neural Networks
   - [Professor’s perceptron paved the way for AI – 60 years too soon](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)
   - [Perceptron (Wikipedia)](https://en.wikipedia.org/wiki/Perceptron)
