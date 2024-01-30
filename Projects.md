@@ -1,6 +1,6 @@
 # Projects
 
-## Project 1: Speculative Design (due 2/9)
+## Project 1: Speculative Design (due 2/13)
 - **Create** an "artifact" of speculative design that shows a potential application of AI. It could be a product mockup, video, news report, product marketing, etc.
   - Add a link to the documentation of your project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Write** 5-6 paragraphs (approximately a page) of documentation describing your project and your process
