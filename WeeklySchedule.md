@@ -197,6 +197,8 @@ Class examples:
 - Classification Using Neural Networks
   - [Classification of Rock, Paper, Scissors ](https://www.youtube.com/watch?v=KNAWp2S3w94&feature=youtu.be&t=50)
 <!-- - Introduction to neural network training -->
+- [Positive AI experiments (Instagram / Whichlight)](https://www.instagram.com/whichlight/)
+- Speculative Desing Project overview
 
 
 #### Homework (due before start of next class)
