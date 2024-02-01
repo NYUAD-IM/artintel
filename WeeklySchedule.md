@@ -198,7 +198,9 @@ Class examples:
   - [Classification of Rock, Paper, Scissors ](https://www.youtube.com/watch?v=KNAWp2S3w94&feature=youtu.be&t=50)
 <!-- - Introduction to neural network training -->
 - [Positive AI experiments (Instagram / Whichlight)](https://www.instagram.com/whichlight/)
-- Speculative Desing Project overview
+- Speculative Desing Project
+  - [Slumber by NightShift Ltd](https://docs.google.com/presentation/d/1BqHRZHUzuFWQbPOYvL0Jp42iB-kpd77nB1zNZLZ7KEg/edit?usp=sharing) - Speculative design project by Katie Ferreol	and Michael Leo
+    - "Being a satirical call-out the toxic "hustle" culture haunting Generation Z, our project is a robotic hand-machine/AI that helps you complete tasks while you are in REM sleep. This is a haunting message to humans slowly becoming slaves to capitalism, reaching the point sacrificing self-care in order to succeed."
 
 
 #### Homework (due before start of next class)
