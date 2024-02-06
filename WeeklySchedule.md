@@ -227,16 +227,14 @@ Class examples:
   - [Convolutional Neural Network Colab](https://colab.research.google.com/github/NYUAD-IM/artintel/blob/master/Code/Week_04/Convolutional_Neural_Network.ipynb#scrollTo=Iv1SLDu_bYXh)
   - [OpenAI Microscope](https://openai.com/blog/microscope/)
     - [Inception 1 - Deep Dream](https://microscope.openai.com/models/inceptionv1?models.technique=deep_dream)
-  - [Excavating AI - Politics in AI Datasets](https://excavating.ai/)
+
 
 #### Homework (due before start of next class)
 - Work on your Speculative Design Project
   - Update the projects doc with a link to your documentation
+- Read [Excavating AI - Politics in AI Datasets](https://excavating.ai/) and be prepared to discuss in class
 
-### <a name="week3.2"></a>Week 3.2 - Speculative Design Project Presentations
-- Speculative Design Project Presentations
-  - Give a 5-10 minute presentation of your project and be prepared for feedback from the class
-
+### <a name="week3.2"></a>Week 3.2 - More neural networks, politics of AI
 <!--
 ### <a name="week3.2"></a>Week 3.2 - Speculative Design Workshop (9/16)
 - Review speculative design ideas
@@ -244,17 +242,27 @@ Class examples:
 
 -->
 
+<!--
 #### Homework (due before start of next class)
 - **Create** a new image or other output using one of these Colab notebooks (use your own input images / text / etc rather than the built-in ones)
   - [Useful Colabs (A.rt I.ntel)](https://github.com/NYUAD-IM/artintel/blob/master/UsefulColabs.md) - includes links to explanations of Google Colab
   - [12 Colab Notebooks that matter](https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0)
   - **Post** your image / output to Week 3 Brightspace discussion with a description (2 paragraphs) of how you made it
   - If you have a problem with the Tensorflow version (e.g "AdamOptimizer not found") add [this code](https://colab.research.google.com/notebooks/tensorflow_version.ipynb)
+-->
 
+#### Homework (due before start of next class)
+- Finish your Speculative Design project
+  - Submit via [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+  - Prepare a 5-10 minute presentation
 
-## <a name="week4"></a>Week 4 - Visual tools
+## <a name="week4"></a>Week 4 - Speculative Design Presentations / Visual tools
 
-### <a name="week4.1"></a>Week 4.1 - Introduction to Visual tools
+### <a name="week4.1"></a>Week 4.1 - Speculative Design Presentations / Introduction to Visual tools
+Speculative Design Project Presentations
+- Speculative Design Project Presentations
+  - Give a 5-10 minute presentation of your project and be prepared for feedback from the class
+
 - Review homework (issues)
   - Use of "free" commercial tools
   - Learning how to learn
