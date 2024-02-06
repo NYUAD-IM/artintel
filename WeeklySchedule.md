@@ -603,6 +603,9 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 - Introduce [Project 3 - Sound / Text](Projects.md)
 
+- Perplexity.ai examples
+  - [System administration (perplexity.ai)](https://www.perplexity.ai/search/tmux-create-session-jetHgQbfQ0GX2W921QKRyw?s=c)
+  - [Code generation (perplexity.ai)](https://www.perplexity.ai/search/give-me-a-sVNpPMXjQz6liz2JqLnKkQ?s=c)
 
 - Markov chains for text generation
   - [ML Basics: Markov Models Write Fairy Tales](https://thagomizer.com/blog/2017/11/07/markov-models.html)
