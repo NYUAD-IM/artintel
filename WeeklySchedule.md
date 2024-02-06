@@ -230,9 +230,8 @@ Class examples:
   - [Excavating AI - Politics in AI Datasets](https://excavating.ai/)
 
 #### Homework (due before start of next class)
-- Finish your Speculative Design Project
+- Work on your Speculative Design Project
   - Update the projects doc with a link to your documentation
-  - Prepare to present in class
 
 ### <a name="week3.2"></a>Week 3.2 - Speculative Design Project Presentations
 - Speculative Design Project Presentations
