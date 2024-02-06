@@ -231,7 +231,7 @@ Class examples:
 
 #### Homework (due before start of next class)
 - Work on your Speculative Design Project
-  - Update the projects doc with a link to your documentation
+  - Update the projects spreadsheet with your group and one sentence description
 - Read [Excavating AI - Politics in AI Datasets](https://excavating.ai/) and be prepared to discuss in class
 
 ### <a name="week3.2"></a>Week 3.2 - More neural networks, politics of AI
