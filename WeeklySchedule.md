@@ -297,6 +297,8 @@ Speculative Design Project Presentations
 
 
 ### <a name="week4.2"></a>Week 4.2 - Visual Tools Continued
+- Announcements
+  - Talk by Yann LeCun Feb 19 5pm [RSVP](https://forms.gle/Z6mYyLGy9DZSdZKt5)
 - AI in the news
   - [Experts say she will end humanity. Here's the fix, w Elon Musk, ChatGPT, AI robots.
 ](https://www.youtube.com/watch?v=zpRM25pUD8w)
