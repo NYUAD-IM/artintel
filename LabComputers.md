@@ -4,6 +4,27 @@ We have three lab machines available for use:
 - Alienware PC running Ubuntu 18
 - nVidia GTX 1080 Ti video card with 11GB VRAM
 
+### Lab Computers:
+1: (AI1)
+
+Name: c3-129-lnx-01.abudhabi.nyu.edu
+
+IP address: 10.224.18.84
+
+
+2: (AI2)
+
+Name: c3-129-lnx-02.abudhabi.nyu.edu
+
+IP address: 10.224.18.85
+
+
+3: (AI3)
+
+Name: c3-129-lnx-03.abudhabi.nyu.edu
+
+IP address: 10.224.18.86
+
 ### Direct Access Information (advanced users)
 <!-- $$$ Brightspace update each semester -->
 The login information is linked on the course page on [Lab Computer Logins (Brightspace)]([https://brightspace.nyu.edu/d2l/le/lessons/110671/units/5937697](https://brightspace.nyu.edu/d2l/le/lessons/265669/units/8229531))
@@ -141,27 +162,6 @@ We have three computers for machine learning use. We need to share these three a
 - Check to see if anyone is currently using the computer by checking the tmux sessions.
 - Run ALL of your processes in tmux.
 -->
-
-### Lab Computers:
-1: (AI1)
-
-Name: c3-129-lnx-01.abudhabi.nyu.edu
-
-IP address: 10.224.18.84
-
-
-2: (AI2)
-
-Name: c3-129-lnx-02.abudhabi.nyu.edu
-
-IP address: 10.224.18.85
-
-
-3: (AI3)
-
-Name: c3-129-lnx-03.abudhabi.nyu.edu
-
-IP address: 10.224.18.86
 
 
 ### VPN Login
