@@ -296,6 +296,8 @@ Speculative Design Project Presentations
       - Inspired by [OpenAI DALL-E text to image](https://openai.com/blog/dall-e/)
 
 
+- ["Learning to be me" by Greg Egan](https://philosophy.williams.edu/files/Egan-Learning-to-Be-Me.pdf) - short story about uploading consciousness into digital implant written in 1990
+
 ### <a name="week4.2"></a>Week 4.2 - Visual Tools Continued
 - Announcements
   - Talk by Yann LeCun Feb 19 5pm [RSVP](https://forms.gle/Z6mYyLGy9DZSdZKt5)
