@@ -286,6 +286,10 @@ Speculative Design Project Presentations
     - Disclose prompt
 
 - Class tools
+  - [Easy Diffusion](https://easydiffusion.github.io/)
+  - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+ 
+- Obsolete-ish tools   
   - Colab / Neural Network Introduction
     - [Colab Introduction (Colab](https://colab.research.google.com/notebooks/intro.ipynb)
     - [Deep Learning Basics (Colab)](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
