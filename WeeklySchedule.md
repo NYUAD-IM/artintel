@@ -288,6 +288,7 @@ Speculative Design Project Presentations
 - Class tools
   - [Easy Diffusion](https://easydiffusion.github.io/)
   - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+  - [Shiffbot - Daniel Shiffman AI bot in p5js](https://shiffbot.withgoogle.com/)
  
 - Obsolete-ish tools   
   - Colab / Neural Network Introduction
