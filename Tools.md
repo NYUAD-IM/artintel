@@ -5,11 +5,10 @@ open source tools and datasets where possible so that we can
 make our own explorations and modifications rather than simply
 using pre-packaged software to achieve an already curated result.
 
-# 2024
 
-## Image Generation
+# Image Generation
 
-[Stable Diffusion](https://stability.ai/)
+## [Stable Diffusion](https://stability.ai/)
 - prompt / guidance based image generation
 - open diffusion based model
 - training set was previously available (LAION)
@@ -20,7 +19,8 @@ using pre-packaged software to achieve an already curated result.
   - e.g. tweaked / additional models available on [Civit.ai](https://civitai.com/) (note: some content there is NSFW)
   - improved models have good quality results
 
-[Easy Diffusion](https://easydiffusion.github.io/)
+## [Easy Diffusion](https://easydiffusion.github.io/)
+![Easy Diffusion](https://easydiffusion.github.io/assets/img/splash.webp)
 - runs locally or on server and provides simple web interface
 - default model is stock Stable Diffusion 1.5
 - can use other SD-based models such as Dream Shaper
@@ -28,7 +28,8 @@ using pre-packaged software to achieve an already curated result.
 - has UI for in-painting and using Control Net models for fine-grained image generation / manipulation
 - generated images can be saved to local computer through your web browser
 
-[ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+## [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+![ComfyUI](https://github.com/comfyanonymous/ComfyUI/raw/master/comfyui_screenshot.png)
 - runs locally or on server and provides graph/node-based web UI
 - the machine learning graph / pipeline is directly visible / editable
 - very efficient operation with only changed parts of graph being executed
