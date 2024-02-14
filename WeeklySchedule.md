@@ -286,6 +286,11 @@ Speculative Design Project Presentations
     - Disclose prompt
 
 - Class tools
+  - [Easy Diffusion](https://easydiffusion.github.io/)
+  - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+  - [Shiffbot - Daniel Shiffman AI bot in p5js](https://shiffbot.withgoogle.com/)
+ 
+- Obsolete-ish tools   
   - Colab / Neural Network Introduction
     - [Colab Introduction (Colab](https://colab.research.google.com/notebooks/intro.ipynb)
     - [Deep Learning Basics (Colab)](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
@@ -295,6 +300,8 @@ Speculative Design Project Presentations
       - There are English versions of this Colab available, the version above is working with the model from WikiArt. See [Generating AI “Art” with VQGAN+CLIP](https://learn.adafruit.com/generating-ai-art-with-vqgan-clip) for instructions
       - Inspired by [OpenAI DALL-E text to image](https://openai.com/blog/dall-e/)
 
+
+- ["Learning to be me" by Greg Egan](https://philosophy.williams.edu/files/Egan-Learning-to-Be-Me.pdf) - short story about uploading consciousness into digital implant written in 1990
 
 ### <a name="week4.2"></a>Week 4.2 - Visual Tools Continued
 - Announcements

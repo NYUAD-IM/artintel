@@ -11,8 +11,8 @@
 
 Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
 
-## Project 2: Visual (due 3/9 - last class before spring break)
-- **Create** an *artwork* that is an image, series of images or video using a machine learning algorithm (e.g. using Colab, Midjourney, Stable Diffusion, other online tools)
+## Project 2: Visual (due 3/7 - last class before spring break)
+- **Create** an *artwork* that is an image, series of images or video using a machine learning algorithm (e.g. using Colab, Stable Diffusion, other online tools)
 - **Put** your project URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - You can incorporate the visual output into a larger work, e.g. website, printed image, interactive
   program or use the output of the machine learning algorithm as source material for
