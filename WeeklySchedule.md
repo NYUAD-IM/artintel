@@ -306,76 +306,6 @@ Speculative Design Project Presentations
   - Talk by Yann LeCun Feb 19 5pm [RSVP](https://forms.gle/Z6mYyLGy9DZSdZKt5)
   - [Class / project schedule](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
     - [Visual Project](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md) is due Tuesday May 5 
-- AI in the news
-  - [Experts say she will end humanity. Here's the fix, w Elon Musk, ChatGPT, AI robots.
-](https://www.youtube.com/watch?v=zpRM25pUD8w)
-    - [DeepMind’s AI Trained For 5 Years... But Why? - cooperative machine learning (2 Minute Papers)](https://www.youtube.com/watch?v=HTON7odbW0o)
-  - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/)
-
-  - Older news (from 2021, almost ancient history)
-    - [Police to Deploy Snitch Bots That Search for 'Undesirable Social Behaviors'](https://gizmodo.com/singapore-police-to-deploy-snitch-bots-that-search-for-1847629866)
-    - [Pandemic Robots Deployed in Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679)
-    - [Police use Tesla's autopilot to stop the car after drunk driver passes out](https://boingboing.net/2021/09/20/police-use-teslas-autopilot-to-stop-the-car-after-drunk-driver-passes-out.html)
-
-- Introduction to Visual tools continued
-  - [Stable Diffusion](https://stability.ai/blog/stable-diffusion-v2-release)
-    - [Stable Diffusion lab access (Brightspace)](https://brightspace.nyu.edu/d2l/le/lessons/265669/units/8229531)
-    - [Stable Diffusion litigation](https://stablediffusionlitigation.com/) - includes simple (biased) description of how Stable Diffusion works
-    - [Do AI images violate copyright? A lawyer explains the Stable Diffusion lawsuit](https://boingboing.net/2023/01/23/do-ai-images-violate-copyright-a-lawyer-explains-the-stable-diffusion-lawsuit.html)
-    - Prompt ideas
-      - [OpenArt Prompt Book](https://openart.ai/promptbook)
-      - [Prompt Hero](https://prompthero.com/) - (note some outputs are questionable - common to many prompt sites)
-  - [Generative AI for Makers (Makezine)](https://makezine.com/article/craft/fine-art/generative-ai-for-makers-ai-has-truly-arrived-and-its-here-to-help-you-make-and-craft/)
-
-  - Machine learning on our lab computers
-    - [Lab Computer access](LabComputers.md)
-    - [Stable Diffusion UI (Easy Diffusion)](https://github.com/cmdr2/stable-diffusion-ui)
-    - [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
-
-  - Machine learning in the browser
-    - [ml5.js](https://ml5js.org/)
-    - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)  
-
-
-#### Homework (due before start of next class)
-
-Visual project initial idea:
-- **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Start** developing ideas for the Visual Project
-  and be prepared to share your idea next class
-- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
- 
-Reading:
-- **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
-and AI develops more capabilities? How will the relationship between humans and machines change?
-- **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/371624/View)
-  - How far do you think we are towards Artificial General Intelligence? What are some of the changes (positive and negative) you see coming as machine learning  
-
-## <a name="week5"></a>Week 5 - Visual Neural Networks
-
-### <a name="week5.1"></a>Week 5.1 - Discussion / Project Ideas / Generative Networks
-- Discuss reading
-  - Reading responses will be due the day *before* class
-  - Post your reading response as a new thread in the Brightspace Discussion Topic for that reading
-
-- Uncanny Valley
-  - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
-    - [The Uncanny Valley: The Original Essay by Masahiro Mori](https://spectrum.ieee.org/the-uncanny-valley)
-  - [Honda's new ASIMO robot, more human-like than ever](https://phys.org/news/2014-04-honda-asimo-robot-human-like.html) 2014
-  - [Sophia, Hanson Robotics’ most advanced human-like robot](https://www.hansonrobotics.com/sophia/)
-    - [The agony of Sophia, the world's first robot citizen condemned to a lifeless career in marketing (Wired)](https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics)
-
-- Share project ideas
-  - Discuss use of tools
-  
-- AI in the news
-  - [AI outperforms doctors at spotting breast cancer, say NYUAD researchers (2021)](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
-  - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imaging-using-ai/)
-  - [Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams
-(paper)](https://www.nature.com/articles/s41467-021-26023-2)
-
-  - [Netflix Made an Anime Using AI Due to a 'Labor Shortage,' and Fans Are Pissed (Vice)](https://www.vice.com/en/article/bvmqkv/netflix-anime-dog-and-the-boy-ai-generated-art)
-  - [Thousands of People Can’t Stop Watching AI-Generated Sitcom ‘Nothing, Forever’ (Vice)](https://www.vice.com/en/article/88qy3p/thousands-of-people-cant-stop-watching-ai-tv-show-nothing-forever)
 
 - Neural Network Training References
   - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
@@ -403,6 +333,79 @@ and AI develops more capabilities? How will the relationship between humans and 
 
   - [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
   - [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
+
+  - [Stable Diffusion](https://stability.ai/blog/stable-diffusion-v2-release) 
+    - [Stable Diffusion lab access (Brightspace)](https://brightspace.nyu.edu/d2l/le/lessons/351324/units/9729133)
+    - [Stable Diffusion litigation](https://stablediffusionlitigation.com/) - includes simple (biased) description of how Stable Diffusion works
+    - [Do AI images violate copyright? A lawyer explains the Stable Diffusion lawsuit](https://boingboing.net/2023/01/23/do-ai-images-violate-copyright-a-lawyer-explains-the-stable-diffusion-lawsuit.html)
+    - Prompt ideas
+      - [OpenArt Prompt Book](https://openart.ai/promptbook)
+      - [Prompt Hero](https://prompthero.com/) - (note some outputs are questionable - common to many prompt sites)
+  - [Generative AI for Makers (Makezine)](https://makezine.com/article/craft/fine-art/generative-ai-for-makers-ai-has-truly-arrived-and-its-here-to-help-you-make-and-craft/)
+
+  - Machine learning on our lab computers
+    - [Lab Computer access](LabComputers.md)
+    - [Stable Diffusion UI (Easy Diffusion)](https://github.com/cmdr2/stable-diffusion-ui)
+
+  - Machine learning in the browser
+    - [ml5.js](https://ml5js.org/)
+    - [ml5.js Webcam Classification Demo](https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm)  
+
+
+- AI in the news (2023)
+  - [Experts say she will end humanity. Here's the fix, w Elon Musk, ChatGPT, AI robots.
+](https://www.youtube.com/watch?v=zpRM25pUD8w)
+    - [DeepMind’s AI Trained For 5 Years... But Why? - cooperative machine learning (2 Minute Papers)](https://www.youtube.com/watch?v=HTON7odbW0o)
+  - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/)
+
+  - Older news (from 2021, almost ancient history)
+    - [Police to Deploy Snitch Bots That Search for 'Undesirable Social Behaviors'](https://gizmodo.com/singapore-police-to-deploy-snitch-bots-that-search-for-1847629866)
+    - [Pandemic Robots Deployed in Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679)
+    - [Police use Tesla's autopilot to stop the car after drunk driver passes out](https://boingboing.net/2021/09/20/police-use-teslas-autopilot-to-stop-the-car-after-drunk-driver-passes-out.html)
+
+
+
+#### Homework (due before start of next class)
+
+Visual project initial idea:
+- **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Start** developing ideas for the Visual Project
+  and be prepared to share your idea next class
+- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
+- **Try** to get Easy Diffusion and ComfyUI working on your laptop before the visual tools workshop on Tuesday
+  - Don't worry if your machine is not capable of running the software, we will work in groups and have our lab machines available for use
+ 
+Reading:
+- **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+and AI develops more capabilities? How will the relationship between humans and machines change?
+- **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/351324/discussions/topics/450522/View)
+  - How far do you think we are towards Artificial General Intelligence? What are some of the changes (positive and negative) you see coming as machine learning  
+
+## <a name="week5"></a>Week 5 - Visual Neural Networks
+
+### <a name="week5.1"></a>Week 5.1 - Discussion / Project Ideas / Generative Networks
+- Discuss reading
+- Visual tools in-class workshop
+
+- Uncanny Valley
+  - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
+    - [The Uncanny Valley: The Original Essay by Masahiro Mori](https://spectrum.ieee.org/the-uncanny-valley)
+  - [Honda's new ASIMO robot, more human-like than ever](https://phys.org/news/2014-04-honda-asimo-robot-human-like.html) 2014
+  - [Sophia, Hanson Robotics’ most advanced human-like robot](https://www.hansonrobotics.com/sophia/)
+    - [The agony of Sophia, the world's first robot citizen condemned to a lifeless career in marketing (Wired)](https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics)
+
+- Share project ideas
+  - Discuss use of tools
+  
+- AI in the news
+  - [AI outperforms doctors at spotting breast cancer, say NYUAD researchers (2021)](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
+  - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imaging-using-ai/)
+  - [Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams
+(paper)](https://www.nature.com/articles/s41467-021-26023-2)
+
+  - [Netflix Made an Anime Using AI Due to a 'Labor Shortage,' and Fans Are Pissed (Vice)](https://www.vice.com/en/article/bvmqkv/netflix-anime-dog-and-the-boy-ai-generated-art)
+  - [Thousands of People Can’t Stop Watching AI-Generated Sitcom ‘Nothing, Forever’ (Vice)](https://www.vice.com/en/article/88qy3p/thousands-of-people-cant-stop-watching-ai-tv-show-nothing-forever)
+
 
 ### <a name="week5.2"></a>Week 5.2 - More Visual Tools
 - AI in the news
