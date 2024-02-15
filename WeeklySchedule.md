@@ -305,7 +305,21 @@ Speculative Design Project Presentations
 - Announcements
   - Talk by Yann LeCun Feb 19 5pm [RSVP](https://forms.gle/Z6mYyLGy9DZSdZKt5)
   - [Class / project schedule](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
-    - [Visual Project](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md) is due Tuesday May 5 
+    - [Visual Project](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md) is due Tuesday May 5
+
+
+- Creative work examples
+  - Rafik Anadol
+    - [Art in the age of machine intelligence | Refik Anadol (YouTube / TED)](https://www.youtube.com/watch?v=UxQDG6WQT5s)
+    - [On GPS: The art of artificial intelligence (CNN)](https://edition.cnn.com/videos/tech/2023/09/08/exp-gps-0903-the-art-of-artificial-intelligence.cnn)
+  - [Real-time Generation of Panoramic scenes from Voice using a custom Stable Diffusion pipeline (2023)
+](https://bmolab.artsci.utoronto.ca/?page_id=250)
+  - [aiartists.org](https://aiartists.org/)
+    - [Sofia Crespo](https://aiartists.org/sofia-crespo)
+    - [Alexander Rubin](https://aiartists.org/alexander-reben)
+    - [Refik Anadol](https://aiartists.org/refik-anadol)
+    - [Joy Buolamwini](https://aiartists.org/joy-buolamwini)
+    - [Mario Klingeman](https://aiartists.org/mario-klingemann)
 
 - Neural Network Training References
   - [How Neural Networks are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
@@ -367,13 +381,10 @@ Speculative Design Project Presentations
 
 #### Homework (due before start of next class)
 
-Visual project initial idea:
-- **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Start** developing ideas for the Visual Project
-  and be prepared to share your idea next class
-- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
 - **Try** to get Easy Diffusion and ComfyUI working on your laptop before the visual tools workshop on Tuesday
   - Don't worry if your machine is not capable of running the software, we will work in groups and have our lab machines available for use
+
+- **Watch** [How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile](https://youtu.be/1CIpzeNxIhU)
  
 Reading:
 - **Read** [The AI Revolution - Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
@@ -440,7 +451,13 @@ and AI develops more capabilities? How will the relationship between humans and 
 <!-- add training exercise -->
 
 #### Homework (due before start of next class)
-- **Watch** [How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile](https://youtu.be/1CIpzeNxIhU)
+
+Visual project initial idea:
+- **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Start** developing ideas for the Visual Project
+  and be prepared to share your idea next class
+- **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
+
 - **Read** the following articles and be ready to discuss in class
   - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
   - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
