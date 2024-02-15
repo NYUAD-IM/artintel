@@ -2,8 +2,6 @@
 
 [Schedule Overview / Dates](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
 
-# **Individal classes currently being updated for S2024 - please refer to overview above for exact dates**
-
 * [Week 1 - Introduction / What is Machine Learning?](#week1)
 * [Week 2 - Speculative Design / Neural Networks](#week2)
 * [Week 3 - More Neural Networks / Speculative Design Project Due](#week3)
@@ -306,6 +304,8 @@ Speculative Design Project Presentations
 ### <a name="week4.2"></a>Week 4.2 - Visual Tools Continued
 - Announcements
   - Talk by Yann LeCun Feb 19 5pm [RSVP](https://forms.gle/Z6mYyLGy9DZSdZKt5)
+  - [Class / project schedule](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
+    - [Visual Project](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md) is due Tuesday May 5 
 - AI in the news
   - [Experts say she will end humanity. Here's the fix, w Elon Musk, ChatGPT, AI robots.
 ](https://www.youtube.com/watch?v=zpRM25pUD8w)
