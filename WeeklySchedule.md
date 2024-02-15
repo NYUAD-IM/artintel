@@ -305,7 +305,7 @@ Speculative Design Project Presentations
 - Announcements
   - Talk by Yann LeCun Feb 19 5pm [RSVP](https://forms.gle/Z6mYyLGy9DZSdZKt5)
   - [Class / project schedule](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
-    - [Visual Project](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md) is **due Tuesday May 5**
+    - [Visual Project](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md) is **due Tuesday March 5**
 
 
 - Creative work examples
