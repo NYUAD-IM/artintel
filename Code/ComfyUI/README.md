@@ -3,7 +3,14 @@
 Right-click and save then Load the png in ComfyUI to load the workflow
 
 ## Stable Diffusion 1.5
-DreamShaper 8LCM based on Stable Diffusion 1.5 - fast (low quality) generation in 8 steps
+Basic Stable Diffusion 1.5 example - "a photograph of a good person, epic realism, high quality"
+
+![SD1.5](sd15.png?raw=true)
+
+Stable Diffusion step by step - shows latent image at different steps of denoising
+![SD denoise](sd15_diffusion_process.png?raw=true)
+
+DreamShaper 8LCM based on Stable Diffusion 1.5 - fast (but relatively low quality) generation in 8 steps
 ![DreamShaper 8LCM](dreamshaper_8LCM_SD15_8steps.png?raw=true)
 
 
