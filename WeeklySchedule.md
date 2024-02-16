@@ -400,6 +400,8 @@ and AI develops more capabilities? How will the relationship between humans and 
 - AI in the news (2024)
   - [AI screw-up results in man being fined $400 for scratching his head
 (BoingBoing)](https://boingboing.net/2024/02/15/man-fined-for-scratching-his-head.html)
+  - [OpenAI’s Video Generator Sora Is Breathtaking, Yet Terrifying (Gizmodo)](https://gizmodo.com/openai-video-generator-sora-is-breathtaking-terrifying-1851261593)
+  - [OpenAI Sora video generator (OpenAI)](https://openai.com/research/video-generation-models-as-world-simulators)
 - Visual tools in-class workshop
 
 - Uncanny Valley
