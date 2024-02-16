@@ -10,7 +10,7 @@ DreamShaper 8LCM based on Stable Diffusion 1.5 - fast (low quality) generation i
 ## Stable Diffusion XL
 
 SDXL 1.0 using base and refiner models
-![SDXL base/refiner](ComfyUI/sdxl_with_refiner.png?raw=true)
+![SDXL base/refiner](sdxl_with_refiner.png?raw=true)
 
 SDXL Turbo - very fast image generation - try setting auto-queue on for "realtime" generation (~1s/image on M3 MacBook Pro)
 
