@@ -397,6 +397,9 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week5.1"></a>Week 5.1 - Discussion / Project Ideas / Generative Networks
 - Discuss reading
+- AI in the news (2024)
+  - [AI screw-up results in man being fined $400 for scratching his head
+(BoingBoing)](https://boingboing.net/2024/02/15/man-fined-for-scratching-his-head.html)
 - Visual tools in-class workshop
 
 - Uncanny Valley
