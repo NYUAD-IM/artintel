@@ -17,4 +17,4 @@ Installing more models:
 - Choose the smaller safetensors file (~2GB)
 - Move to ```~/artintel/easy-diffusion/models/stable-diffusion```
 - Click reload icon next to model name
-- The prompt guidance and number of steps may need to be adjusted, see the model page notes for hints
+- The prompt guidance (cfg), sampler, and number of steps may need to be adjusted, see the model page notes for hints
