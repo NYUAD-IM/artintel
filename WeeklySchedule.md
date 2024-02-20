@@ -438,6 +438,8 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Netflix Made an Anime Using AI Due to a 'Labor Shortage,' and Fans Are Pissed (Vice)](https://www.vice.com/en/article/bvmqkv/netflix-anime-dog-and-the-boy-ai-generated-art)
   - [Thousands of People Can’t Stop Watching AI-Generated Sitcom ‘Nothing, Forever’ (Vice)](https://www.vice.com/en/article/88qy3p/thousands-of-people-cant-stop-watching-ai-tv-show-nothing-forever)
 
+#### Homework
+- Start thinking about Visual Project
 
 ### <a name="week5.2"></a>Week 5.2 - More Visual Tools
 - AI in the news
