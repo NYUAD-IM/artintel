@@ -417,6 +417,7 @@ and AI develops more capabilities? How will the relationship between humans and 
     - Use Img2Img to stylize an existing image
       - Try this on an image of yourself
     - Use PoseNet to create a scene from utopia / dystopia
+      - Can make a PoseNet pose using [PoseMy.art](https://app.posemy.art/)
 
 - Uncanny Valley
   - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
