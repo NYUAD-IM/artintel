@@ -418,14 +418,7 @@ and AI develops more capabilities? How will the relationship between humans and 
       - Try this on an image of yourself
     - Use PoseNet to create a scene from utopia / dystopia
       - Can make a PoseNet pose using [PoseMy.art](https://app.posemy.art/)
-
-- Uncanny Valley
-  - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
-    - [The Uncanny Valley: The Original Essay by Masahiro Mori](https://spectrum.ieee.org/the-uncanny-valley)
-  - [Honda's new ASIMO robot, more human-like than ever](https://phys.org/news/2014-04-honda-asimo-robot-human-like.html) 2014
-  - [Sophia, Hanson Robotics’ most advanced human-like robot](https://www.hansonrobotics.com/sophia/)
-    - [The agony of Sophia, the world's first robot citizen condemned to a lifeless career in marketing (Wired)](https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics)
-
+     
 - Share project ideas
   - Discuss use of tools
   
@@ -442,6 +435,13 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Start thinking about Visual Project
 
 ### <a name="week5.2"></a>Week 5.2 - More Visual Tools
+- Uncanny Valley
+  - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
+    - [The Uncanny Valley: The Original Essay by Masahiro Mori](https://spectrum.ieee.org/the-uncanny-valley)
+  - [Honda's new ASIMO robot, more human-like than ever](https://phys.org/news/2014-04-honda-asimo-robot-human-like.html) 2014
+  - [Sophia, Hanson Robotics’ most advanced human-like robot](https://www.hansonrobotics.com/sophia/)
+    - [The agony of Sophia, the world's first robot citizen condemned to a lifeless career in marketing (Wired)](https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics)
+
 - AI in the news (2023)
   - [Imagining new Indian sci-fi stories through the power of AI (2023)](https://wepresent.wetransfer.com/stories/prateek-arora-midjourney-indian-cinema)
     - Imagining Indian Sci-Fi
