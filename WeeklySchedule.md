@@ -403,7 +403,17 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [OpenAI Gives ChatGPT a Better ‘Memory’ (New York Times)](https://www.nytimes.com/2024/02/13/technology/openai-gives-chatgpt-a-better-memory.html)
   - [OpenAI’s Video Generator Sora Is Breathtaking, Yet Terrifying (Gizmodo)](https://gizmodo.com/openai-video-generator-sora-is-breathtaking-terrifying-1851261593)
   - [OpenAI Sora video generator (OpenAI)](https://openai.com/research/video-generation-models-as-world-simulators)
+    
 - Visual tools in-class workshop
+  - Using [Easy Diffusion](EasyDiffusion.md)
+  - Prompt challenge
+    - Make a realistic image
+    - Change the image to have a specific artistic style - try different artists
+    - Make portraits of different professions - how are they biased?
+    - Make a self portrait
+    - Use Img2Img to stylize an existing image
+      - Try this on an image of yourself
+    - Use PoseNet to create a scene from utopia / dystopia
 
 - Uncanny Valley
   - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
