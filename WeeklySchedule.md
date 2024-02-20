@@ -406,6 +406,9 @@ and AI develops more capabilities? How will the relationship between humans and 
     
 - Visual tools in-class workshop
   - Using [Easy Diffusion](EasyDiffusion.md)
+  - Settings
+    - Use [Realistic Vision](https://civitai.com/models/4201/realistic-vision-v60-b1) model based on SD 1.5
+    - Enable 'blur NSFW'
   - Prompt challenge
     - Make a realistic image
     - Change the image to have a specific artistic style - try different artists
