@@ -440,8 +440,10 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 #### Homework
 - Start thinking about Visual Project
-- Create an image from one of your own photographs combined with a prompt that provokes a reaction about AI
+- [Make a post in the Brightspace Week 5 Discussion](https://brightspace.nyu.edu/d2l/le/351324/discussions/topics/460852/View)
+  - Create an image from one of your own photographs combined with a prompt that provokes a reaction about AI
   - Must use Easy Diffusion, either own machine or on a [lab machine](https://brightspace.nyu.edu/d2l/le/lessons/351324/units/9729133)
+  - See Discussion topic for details
   
 
 ### <a name="week5.2"></a>Week 5.2 - More Visual Tools
