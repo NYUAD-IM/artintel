@@ -440,17 +440,18 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 #### Homework
 - Start thinking about Visual Project
-- [Make a post in the Brightspace Week 5 Discussion](https://brightspace.nyu.edu/d2l/le/351324/discussions/topics/460852/View)
-  - Create an image from one of your own photographs combined with a prompt that provokes a reaction about AI
-  - Must use Easy Diffusion, either own machine or on a [lab machine](https://brightspace.nyu.edu/d2l/le/lessons/351324/units/9729133)
-  - See Discussion topic for details
-  
 
 ### <a name="week5.2"></a>Week 5.2 - More Visual Tools
-- AI in the news
+- AI in the news (2023)
   - [Imagining new Indian sci-fi stories through the power of AI (2023)](https://wepresent.wetransfer.com/stories/prateek-arora-midjourney-indian-cinema)
     - Imagining Indian Sci-Fi
   - [How People with Disabilities Are Using AI to Improve Their Lives (2019)](https://www.pbs.org/wgbh/nova/article/people-with-disabilities-use-ai-to-improve-their-lives/)
+  - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
+  - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+  - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
+  - [Meet the Artist Using Ritual Magic to Trap Self-Driving Cars (Vice, 2017)](https://www.vice.com/en/article/ywwba5/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars)
+ 
+<!--
   
 - Stable Diffusion Workshop
   - [Stable Diffusion Guide (artintel)](StableDiffusion.md)
@@ -475,29 +476,23 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [More ML4A in-browser demos](https://ml4a.github.io/demos/)
   - [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/)
     - Demonstrates how slight differences in the neural network layout force the network to learn higher-level patterns. e.g. original StyleGAN2 became trained to absolute pixel coordinates.
+-->
 
 <!-- add training exercise -->
 
 #### Homework (due before start of next class)
+
+- [Make a post in the Brightspace Week 5 Discussion](https://brightspace.nyu.edu/d2l/le/351324/discussions/topics/460852/View)
+  - Create an image from one of your own photographs combined with a prompt that provokes a reaction about AI
+  - Must use Easy Diffusion, either own machine or on a [lab machine](https://brightspace.nyu.edu/d2l/le/lessons/351324/units/9729133)
+  - See Discussion topic for details
 
 Visual project initial idea:
 - **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for the Visual Project
   and be prepared to share your idea next class
 - **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
-
-- **Read** the following articles and be ready to discuss in class
-  - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
-  - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
-  - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
-  - [Meet the Artist Using Ritual Magic to Trap Self-Driving Cars (Vice, 2017)](https://www.vice.com/en/article/ywwba5/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars)
-
-- **Work** on your Visual Project
-- **Prepare** to share your idea at our next class together
-  - What is your latest idea?
-  - What Colabs / software are you using?
-  - Is there anything you need help with? Feel free to ask on Discord as you go!
-
+  
 <!--
 
 - Links for project tools
