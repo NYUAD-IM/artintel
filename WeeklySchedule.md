@@ -454,6 +454,7 @@ and AI develops more capabilities? How will the relationship between humans and 
 - AI in the news (2024)
   - [This Tech Exec Quit His Job to Fight Generative AI's Original Sin (Wired)](https://www.wired.com/story/ai-executive-ed-newton-rex-turns-crusader-stand-up-for-artists/)
     - [Fairly Trained](https://www.fairlytrained.org/) - company that certifies training data was fairly obtained
+  - [Spawning AI](https://spawning.ai/) - "Data Governance for Generative AI"
  
 <!--
   
