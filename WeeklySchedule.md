@@ -403,15 +403,22 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [OpenAI Gives ChatGPT a Better ‘Memory’ (New York Times)](https://www.nytimes.com/2024/02/13/technology/openai-gives-chatgpt-a-better-memory.html)
   - [OpenAI’s Video Generator Sora Is Breathtaking, Yet Terrifying (Gizmodo)](https://gizmodo.com/openai-video-generator-sora-is-breathtaking-terrifying-1851261593)
   - [OpenAI Sora video generator (OpenAI)](https://openai.com/research/video-generation-models-as-world-simulators)
+    
 - Visual tools in-class workshop
-
-- Uncanny Valley
-  - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
-    - [The Uncanny Valley: The Original Essay by Masahiro Mori](https://spectrum.ieee.org/the-uncanny-valley)
-  - [Honda's new ASIMO robot, more human-like than ever](https://phys.org/news/2014-04-honda-asimo-robot-human-like.html) 2014
-  - [Sophia, Hanson Robotics’ most advanced human-like robot](https://www.hansonrobotics.com/sophia/)
-    - [The agony of Sophia, the world's first robot citizen condemned to a lifeless career in marketing (Wired)](https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics)
-
+  - Using [Easy Diffusion](EasyDiffusion.md)
+  - Settings
+    - Use [Realistic Vision](https://civitai.com/models/4201/realistic-vision-v60-b1) model based on SD 1.5
+    - Enable 'blur NSFW'
+  - Prompt challenge
+    - Make a realistic image
+    - Change the image to have a specific artistic style - try different artists
+    - Make portraits of different professions - how are they biased?
+    - Make a self portrait
+    - Use Img2Img to stylize an existing image
+      - Try this on an image of yourself
+    - Use PoseNet to create a scene from utopia / dystopia
+      - Can make a PoseNet pose using [PoseMy.art](https://app.posemy.art/)
+     
 - Share project ideas
   - Discuss use of tools
   
@@ -424,12 +431,32 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Netflix Made an Anime Using AI Due to a 'Labor Shortage,' and Fans Are Pissed (Vice)](https://www.vice.com/en/article/bvmqkv/netflix-anime-dog-and-the-boy-ai-generated-art)
   - [Thousands of People Can’t Stop Watching AI-Generated Sitcom ‘Nothing, Forever’ (Vice)](https://www.vice.com/en/article/88qy3p/thousands-of-people-cant-stop-watching-ai-tv-show-nothing-forever)
 
+#### Homework
+- Start thinking about Visual Project
 
 ### <a name="week5.2"></a>Week 5.2 - More Visual Tools
-- AI in the news
+- Uncanny Valley
+  - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
+    - [The Uncanny Valley: The Original Essay by Masahiro Mori](https://spectrum.ieee.org/the-uncanny-valley)
+  - [Honda's new ASIMO robot, more human-like than ever](https://phys.org/news/2014-04-honda-asimo-robot-human-like.html) 2014
+  - [Sophia, Hanson Robotics’ most advanced human-like robot](https://www.hansonrobotics.com/sophia/)
+    - [The agony of Sophia, the world's first robot citizen condemned to a lifeless career in marketing (Wired)](https://www.wired.co.uk/article/sophia-robot-citizen-womens-rights-detriot-become-human-hanson-robotics)
+
+- AI in the news (2023)
   - [Imagining new Indian sci-fi stories through the power of AI (2023)](https://wepresent.wetransfer.com/stories/prateek-arora-midjourney-indian-cinema)
     - Imagining Indian Sci-Fi
   - [How People with Disabilities Are Using AI to Improve Their Lives (2019)](https://www.pbs.org/wgbh/nova/article/people-with-disabilities-use-ai-to-improve-their-lives/)
+  - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
+  - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+  - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
+  - [Meet the Artist Using Ritual Magic to Trap Self-Driving Cars (Vice, 2017)](https://www.vice.com/en/article/ywwba5/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars)
+ 
+- AI in the news (2024)
+  - [This Tech Exec Quit His Job to Fight Generative AI's Original Sin (Wired)](https://www.wired.com/story/ai-executive-ed-newton-rex-turns-crusader-stand-up-for-artists/)
+    - [Fairly Trained](https://www.fairlytrained.org/) - company that certifies training data was fairly obtained
+  - [Spawning AI](https://spawning.ai/) - "Data Governance for Generative AI"
+ 
+<!--
   
 - Stable Diffusion Workshop
   - [Stable Diffusion Guide (artintel)](StableDiffusion.md)
@@ -454,29 +481,23 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [More ML4A in-browser demos](https://ml4a.github.io/demos/)
   - [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/)
     - Demonstrates how slight differences in the neural network layout force the network to learn higher-level patterns. e.g. original StyleGAN2 became trained to absolute pixel coordinates.
+-->
 
 <!-- add training exercise -->
 
 #### Homework (due before start of next class)
+
+- [Make a post in the Brightspace Week 5 Discussion](https://brightspace.nyu.edu/d2l/le/351324/discussions/topics/460852/View)
+  - Create an image from one of your own photographs combined with a prompt that provokes a reaction about AI
+  - Must use Easy Diffusion, either own machine or on a [lab machine](https://brightspace.nyu.edu/d2l/le/lessons/351324/units/9729133)
+  - See Discussion topic for details
 
 Visual project initial idea:
 - **Make your group** for the Visual Design project in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Start** developing ideas for the Visual Project
   and be prepared to share your idea next class
 - **Update** your idea in the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) before class.
-
-- **Read** the following articles and be ready to discuss in class
-  - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
-  - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
-  - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
-  - [Meet the Artist Using Ritual Magic to Trap Self-Driving Cars (Vice, 2017)](https://www.vice.com/en/article/ywwba5/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars)
-
-- **Work** on your Visual Project
-- **Prepare** to share your idea at our next class together
-  - What is your latest idea?
-  - What Colabs / software are you using?
-  - Is there anything you need help with? Feel free to ask on Discord as you go!
-
+  
 <!--
 
 - Links for project tools
