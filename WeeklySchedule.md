@@ -451,6 +451,10 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Lying to the ghost in the machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
   - [Meet the Artist Using Ritual Magic to Trap Self-Driving Cars (Vice, 2017)](https://www.vice.com/en/article/ywwba5/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars)
  
+- AI in the news (2024)
+  - [This Tech Exec Quit His Job to Fight Generative AI's Original Sin (Wired)](https://www.wired.com/story/ai-executive-ed-newton-rex-turns-crusader-stand-up-for-artists/)
+    - [Fairly Trained](https://www.fairlytrained.org/) - company that certifies training data was fairly obtained
+ 
 <!--
   
 - Stable Diffusion Workshop
