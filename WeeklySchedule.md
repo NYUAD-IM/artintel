@@ -435,6 +435,9 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Start thinking about Visual Project
 
 ### <a name="week5.2"></a>Week 5.2 - More Visual Tools
+- Lab machine access
+  - Easy Diffusion is available remotely using [IM Lab computers](https://brightspace.nyu.edu/d2l/le/lessons/351324/units/9729133) while on VPN
+
 - Uncanny Valley
   - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
     - [The Uncanny Valley: The Original Essay by Masahiro Mori](https://spectrum.ieee.org/the-uncanny-valley)
@@ -455,6 +458,8 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [This Tech Exec Quit His Job to Fight Generative AI's Original Sin (Wired)](https://www.wired.com/story/ai-executive-ed-newton-rex-turns-crusader-stand-up-for-artists/)
     - [Fairly Trained](https://www.fairlytrained.org/) - company that certifies training data was fairly obtained
   - [Spawning AI](https://spawning.ai/) - "Data Governance for Generative AI"
+ 
+- Realtime generative AI demo (TouchDesigner / ComfyUI / Stable Diffusion) - time permitting
  
 <!--
   
