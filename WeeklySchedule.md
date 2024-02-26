@@ -565,7 +565,7 @@ and AI develops more capabilities? How will the relationship between humans and 
   - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/371625/View)
 -->
 
-### <a name="week6.2"></a>Week 6 - Bias in Datasets
+### <a name="week6.2"></a>Week 6.2 - Bias in Datasets
 <!-- - Reading discussion - The Politics of Images in Machine Learning Training Sets -->
 - [AI colorization (Twitter)](https://twitter.com/gwenckatz/status/1381652071695351810)
 - [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
@@ -575,6 +575,13 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [Robots let ChatGPT touch the real world thanks to Microsoft (2023)](https://arstechnica.com/information-technology/2023/02/robots-let-chatgpt-touch-the-real-world-thanks-to-microsoft/)
     
 - Project checkin / work session
+
+#### Homework (due before start of next class)
+- **Finish** your Visual Project
+- **Add** the links to your project and documentation to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Prepare** a 5 minute presentation of your project and be ready to receive and give feedback
+  - Do not exceed 5 minutes! Practice your presentation to check the timing
+  - Share your most important ideas / concepts / statements and leave time for dicussion
 
 <!--
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
@@ -611,24 +618,15 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Lab computers
 -->
 
-### <a name="week7.1"></a>Week 7.1 - Visual Project Work Session
-- Work on your visual project
-  
-#### Homework (due before start of next class)
-- **Finish** your Visual Project
-- **Add** the links to your project and documentation to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Prepare** a 5 minute presentation of your project and be ready to receive and give feedback
-  - Do not exceed 5 minutes! Practice your presentation to check the timing
-  - Share your most important ideas / concepts / statements and leave time for dicussion
-
-### <a name="week7.2"></a>Week 7.2 -  Visual Project presentations
+### <a name="week7.1"></a>Week 7.1 - Visual Project Presentations
 - In-class presentations of Visual Project
-
+  
+### <a name="week7.2"></a>Week 7.2 - Introduction to Sound / Text
 - Look at inspirational sound/text works and tools  
 
 - Discuss [Project 3 - Sound / Text](Projects.md)
 
-- **Sound / Text Project (due TBD)**
+- **Sound / Text Project (due Tuesday April 2)**
   - [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-1118)
   - **Create** sound / music, or text using a machine learning algorithm
   - **Put** your project URL and documentation URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
