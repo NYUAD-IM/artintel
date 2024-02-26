@@ -548,8 +548,9 @@ Stable Diffusion training
 - Stable Diffusion 2 was trained on ~2.3 billion image / text pairs from a subset of images from [LAION-5B](https://laion.ai/blog/laion-5b/)
   - [LAION-5B CLIP Search Demo](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn.laion.ai&index=laion5B-H-14&useMclip=false) search for images in the LAION-5B dataset from text description (not working in 2024)
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
-  - [laion-aesthetic-6pls search](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images)
+  - [laion-aesthetic-6pls search](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) (not working in 2024)
 - [Multimodal datasets: misogyny, pornography, and malignant stereotypes (arXiv)](https://arxiv.org/abs/2110.01963) [(pdf)](https://arxiv.org/pdf/2110.01963.pdf)
+- [AI image training dataset found to include child sexual abuse imagery](https://www.theverge.com/2023/12/20/24009418/generative-ai-image-laion-csam-google-stability-stanford)
 - [Dreambooth](https://dreambooth.github.io/)
   - Inject your own characters into Stable Diffusion
 
