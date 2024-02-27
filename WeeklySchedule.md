@@ -518,7 +518,7 @@ Visual project initial idea:
 ## <a name="week6"></a>Week 6 - Visual project check-in / Bias in Datasets
 
 ### <a name="week6.1"></a>Visual Project / Stable Diffusion
-- Reading discussion
+- Look at generative image homework
   
 - Project idea discussion and feedback
 
