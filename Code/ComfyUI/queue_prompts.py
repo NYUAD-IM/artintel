@@ -15,7 +15,10 @@
 #     - output filename prefix
 #   - post the complete workflow to the server
 #
-# The output images are saved in the outputs directory of the ComfyUI installation
+# The output images are saved in the outputs directory of the ComfyUI installation with
+# an additional suffix added to the filename, e.g. if the prefix is 'generated_20240229-133808-852495'
+# the output will be at:
+# {ComfyUI directory}/output/generated_20240229-133808-852495_00001_.png
 
 
 import json
