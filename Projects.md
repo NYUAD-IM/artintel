@@ -21,7 +21,7 @@
 Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
 
 ## Project 2: Visual (due Tuesday 3/5)
-- **Create** an *artwork* that is an image, series of images or video using Stable Diffusion (e.g. Easy Diffusion, ComfyUI)
+- **Create** an *artwork* that is an image, series of images or video using Stable Diffusion via Easy Diffusion or ComfyUI
   - You can additionally use other tools but you must use Easy Diffusion or ComfyUI as part of your project
 - **Put** your project URL into the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - You can incorporate the visual output into a larger work, e.g. website, printed image, interactive
