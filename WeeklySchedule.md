@@ -1,4 +1,4 @@
-# Weekly Schedule - Spring 2024
+# Weekly Schedule / Lecture Notes - Spring 2024
 
 [Schedule Overview / Dates](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
 
@@ -230,7 +230,10 @@ Class examples:
 #### Homework (due before start of next class)
 - Work on your Speculative Design Project
   - Update the projects spreadsheet with your group and one sentence description
+
+<!--
 - Read [Excavating AI - Politics in AI Datasets](https://excavating.ai/) and be prepared to discuss in class
+-->
 
 ### <a name="week3.2"></a>Week 3.2 - More neural networks, politics of AI
 <!--
@@ -398,9 +401,6 @@ and AI develops more capabilities? How will the relationship between humans and 
 ### <a name="week5.1"></a>Week 5.1 - Discussion / Project Ideas / Generative Networks
 - Discuss reading
 - AI in the news (2024)
-  - [AI screw-up results in man being fined $400 for scratching his head
-(BoingBoing)](https://boingboing.net/2024/02/15/man-fined-for-scratching-his-head.html)
-  - [OpenAI Gives ChatGPT a Better ‘Memory’ (New York Times)](https://www.nytimes.com/2024/02/13/technology/openai-gives-chatgpt-a-better-memory.html)
   - [OpenAI’s Video Generator Sora Is Breathtaking, Yet Terrifying (Gizmodo)](https://gizmodo.com/openai-video-generator-sora-is-breathtaking-terrifying-1851261593)
   - [OpenAI Sora video generator (OpenAI)](https://openai.com/research/video-generation-models-as-world-simulators)
     
@@ -421,20 +421,14 @@ and AI develops more capabilities? How will the relationship between humans and 
      
 - Share project ideas
   - Discuss use of tools
-  
-- AI in the news
-  - [AI outperforms doctors at spotting breast cancer, say NYUAD researchers (2021)](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
-  - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imaging-using-ai/)
-  - [Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams
-(paper)](https://www.nature.com/articles/s41467-021-26023-2)
-
-  - [Netflix Made an Anime Using AI Due to a 'Labor Shortage,' and Fans Are Pissed (Vice)](https://www.vice.com/en/article/bvmqkv/netflix-anime-dog-and-the-boy-ai-generated-art)
-  - [Thousands of People Can’t Stop Watching AI-Generated Sitcom ‘Nothing, Forever’ (Vice)](https://www.vice.com/en/article/88qy3p/thousands-of-people-cant-stop-watching-ai-tv-show-nothing-forever)
 
 #### Homework
 - Start thinking about Visual Project
 
 ### <a name="week5.2"></a>Week 5.2 - More Visual Tools
+- Lab machine access
+  - Easy Diffusion is available remotely using [IM Lab computers](https://brightspace.nyu.edu/d2l/le/lessons/351324/units/9729133) while on VPN
+
 - Uncanny Valley
   - [What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
     - [The Uncanny Valley: The Original Essay by Masahiro Mori](https://spectrum.ieee.org/the-uncanny-valley)
@@ -455,6 +449,8 @@ and AI develops more capabilities? How will the relationship between humans and 
   - [This Tech Exec Quit His Job to Fight Generative AI's Original Sin (Wired)](https://www.wired.com/story/ai-executive-ed-newton-rex-turns-crusader-stand-up-for-artists/)
     - [Fairly Trained](https://www.fairlytrained.org/) - company that certifies training data was fairly obtained
   - [Spawning AI](https://spawning.ai/) - "Data Governance for Generative AI"
+ 
+- Realtime generative AI demo (TouchDesigner / ComfyUI / Stable Diffusion) - time permitting
  
 <!--
   
@@ -522,12 +518,16 @@ Visual project initial idea:
 ## <a name="week6"></a>Week 6 - Visual project check-in / Bias in Datasets
 
 ### <a name="week6.1"></a>Visual Project / Stable Diffusion
-- Reading discussion
+- Look at generative image homework
   
-- Project idea discussion and feedback  
-  
+- Project idea discussion and feedback
+
 - AI in the news
-  - [AI-Created Images Aren’t Protected By Copyright Law According To U.S. Copyright Office - 2023-02-23](https://www.forbes.com/sites/mattnovak/2023/02/22/ai-created-images-in-new-comic-book-arent-protected-by-copyright-law-according-to-us-copyright-office/?sh=467fd5e27ce4)
+  - [OpenAI Gives ChatGPT a Better ‘Memory’ (New York Times)](https://www.nytimes.com/2024/02/13/technology/openai-gives-chatgpt-a-better-memory.html) (2024)
+
+  - [Netflix Made an Anime Using AI Due to a 'Labor Shortage,' and Fans Are Pissed (Vice)](https://www.vice.com/en/article/bvmqkv/netflix-anime-dog-and-the-boy-ai-generated-art)
+  - [Thousands of People Can’t Stop Watching AI-Generated Sitcom ‘Nothing, Forever’ (Vice)](https://www.vice.com/en/article/88qy3p/thousands-of-people-cant-stop-watching-ai-tv-show-nothing-forever)
+  - [AI-Created Images Aren’t Protected By Copyright Law According To U.S. Copyright Office - 2023-02-23](https://www.forbes.com/sites/mattnovak/2023/02/22/ai-created-images-in-new-comic-book-arent-protected-by-copyright-law-according-to-us-copyright-office/?sh=467fd5e27ce4) (2023)
   
 > “We conclude that Ms. Kashtanova is the author of the Work’s text as well as the selection, coordination, and arrangement of the Work’s written and visual elements. That authorship is protected by copyright. However, as discussed below, the images in the Work that were generated by the Midjourney technology are not the product of human authorship”
   
@@ -541,29 +541,49 @@ Visual project initial idea:
 
 Stable Diffusion training
 - Stable Diffusion 2 was trained on ~2.3 billion image / text pairs from a subset of images from [LAION-5B](https://laion.ai/blog/laion-5b/)
-  - [LAION-5B CLIP Search Demo](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn.laion.ai&index=laion5B-H-14&useMclip=false) search for images in the LAION-5B dataset from text description
+  - [LAION-5B CLIP Search Demo](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn.laion.ai&index=laion5B-H-14&useMclip=false) search for images in the LAION-5B dataset from text description (not working in 2024)
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
-  - [laion-aesthetic-6pls search](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images)
+  - [laion-aesthetic-6pls search](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) (not working in 2024)
 - [Multimodal datasets: misogyny, pornography, and malignant stereotypes (arXiv)](https://arxiv.org/abs/2110.01963) [(pdf)](https://arxiv.org/pdf/2110.01963.pdf)
-- [Dreambooth](https://dreambooth.github.io/)
-  - Inject your own characters into Stable Diffusion
+- [AI image training dataset found to include child sexual abuse imagery](https://www.theverge.com/2023/12/20/24009418/generative-ai-image-laion-csam-google-stability-stanford)
 
+- Stable Diffusion demo in ComfyUI
+
+- [Dreambooth](https://dreambooth.github.io/)
+  - Inject your own characters into Stable Diffusion (outdated as of 2024, new technique is to use a Lora model)
+
+<!--
 #### Homework (due before start of next class)
   - **Read** [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.biennial.com/journal/issue-9/excavating-ai-the-politics-of-images-in-machine-learning-training-sets)
 and AI develops more capabilities? How will the relationship between humans and machines change?
   - **Write** 3-4 paragraphs of response in the [Brightspace Readings Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/371625/View)
+-->
 
+### <a name="week6.2"></a>Week 6.2 - Bias in Datasets
+<!-- - Reading discussion - The Politics of Images in Machine Learning Training Sets -->
+- AI in the news
+  - [AI screw-up results in man being fined $400 for scratching his head
+(BoingBoing)](https://boingboing.net/2024/02/15/man-fined-for-scratching-his-head.html) (2024)
 
-### <a name="week6.2"></a>Week 6 - Bias in Datasets
-- Reading discussion - The Politics of Images in Machine Learning Training Sets
+Bias in datasets, limits of models
 - [AI colorization (Twitter)](https://twitter.com/gwenckatz/status/1381652071695351810)
 - [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 - [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/)
 
-- AI in the news
-  - [Robots let ChatGPT touch the real world thanks to Microsoft (2023)](https://arstechnica.com/information-technology/2023/02/robots-let-chatgpt-touch-the-real-world-thanks-to-microsoft/)
+AI for medical screening
+  - [AI outperforms doctors at spotting breast cancer, say NYUAD researchers (2021)](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
+  - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imaging-using-ai/)
+  - [Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams
+(paper)](https://www.nature.com/articles/s41467-021-26023-2)
     
 - Project checkin / work session
+
+#### Homework (due before start of next class)
+- **Finish** your Visual Project
+- **Add** the links to your project and documentation to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- **Prepare** a 5 minute presentation of your project and be ready to receive and give feedback
+  - Do not exceed 5 minutes! Practice your presentation to check the timing
+  - Share your most important ideas / concepts / statements and leave time for dicussion
 
 <!--
 ## <a name="week6.5"></a>Week 6.5 - Fall Break-ish
@@ -600,24 +620,15 @@ and AI develops more capabilities? How will the relationship between humans and 
 - Lab computers
 -->
 
-### <a name="week7.1"></a>Week 7.1 - Visual Project Work Session
-- Work on your visual project
-  
-#### Homework (due before start of next class)
-- **Finish** your Visual Project
-- **Add** the links to your project and documentation to the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Prepare** a 5 minute presentation of your project and be ready to receive and give feedback
-  - Do not exceed 5 minutes! Practice your presentation to check the timing
-  - Share your most important ideas / concepts / statements and leave time for dicussion
-
-### <a name="week7.2"></a>Week 7.2 -  Visual Project presentations
+### <a name="week7.1"></a>Week 7.1 - Visual Project Presentations
 - In-class presentations of Visual Project
-
+  
+### <a name="week7.2"></a>Week 7.2 - Introduction to Sound / Text
 - Look at inspirational sound/text works and tools  
 
 - Discuss [Project 3 - Sound / Text](Projects.md)
 
-- **Sound / Text Project (due TBD)**
+- **Sound / Text Project (due Tuesday April 2)**
   - [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-1118)
   - **Create** sound / music, or text using a machine learning algorithm
   - **Put** your project URL and documentation URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
