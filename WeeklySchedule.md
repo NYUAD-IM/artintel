@@ -523,13 +523,7 @@ Visual project initial idea:
 - Project idea discussion and feedback
 
 - AI in the news
-  - [AI screw-up results in man being fined $400 for scratching his head
-(BoingBoing)](https://boingboing.net/2024/02/15/man-fined-for-scratching-his-head.html) (2024)
   - [OpenAI Gives ChatGPT a Better ‘Memory’ (New York Times)](https://www.nytimes.com/2024/02/13/technology/openai-gives-chatgpt-a-better-memory.html) (2024)
-  - [AI outperforms doctors at spotting breast cancer, say NYUAD researchers (2021)](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
-  - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imaging-using-ai/)
-  - [Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams
-(paper)](https://www.nature.com/articles/s41467-021-26023-2)
 
   - [Netflix Made an Anime Using AI Due to a 'Labor Shortage,' and Fans Are Pissed (Vice)](https://www.vice.com/en/article/bvmqkv/netflix-anime-dog-and-the-boy-ai-generated-art)
   - [Thousands of People Can’t Stop Watching AI-Generated Sitcom ‘Nothing, Forever’ (Vice)](https://www.vice.com/en/article/88qy3p/thousands-of-people-cant-stop-watching-ai-tv-show-nothing-forever)
@@ -567,12 +561,20 @@ and AI develops more capabilities? How will the relationship between humans and 
 
 ### <a name="week6.2"></a>Week 6.2 - Bias in Datasets
 <!-- - Reading discussion - The Politics of Images in Machine Learning Training Sets -->
+- AI in the news
+  - [AI screw-up results in man being fined $400 for scratching his head
+(BoingBoing)](https://boingboing.net/2024/02/15/man-fined-for-scratching-his-head.html) (2024)
+
+Bias in datasets, limits of models
 - [AI colorization (Twitter)](https://twitter.com/gwenckatz/status/1381652071695351810)
 - [Joy Buolamwini - How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 - [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/)
 
-- AI in the news
-  - [Robots let ChatGPT touch the real world thanks to Microsoft (2023)](https://arstechnica.com/information-technology/2023/02/robots-let-chatgpt-touch-the-real-world-thanks-to-microsoft/)
+AI for medical screening
+  - [AI outperforms doctors at spotting breast cancer, say NYUAD researchers (2021)](https://www.thenationalnews.com/uae/2021/10/06/ai-outperforms-doctors-at-spotting-breast-cancer-say-researchers/)
+  - [Improving Breast Cancer Detection in Ultrasound Imaging Using AI (tech details)](https://developer.nvidia.com/blog/improving-breast-cancer-detection-in-ultrasound-imaging-using-ai/)
+  - [Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams
+(paper)](https://www.nature.com/articles/s41467-021-26023-2)
     
 - Project checkin / work session
 
