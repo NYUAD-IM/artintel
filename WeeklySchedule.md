@@ -1,4 +1,4 @@
-# Weekly Schedule - Spring 2024
+# Weekly Schedule / Lecture Notes - Spring 2024
 
 [Schedule Overview / Dates](https://docs.google.com/spreadsheets/d/1kMoCvW7T05H2LyPIRy9KwfkOGXIJbhbk2xHkNOD9AYw/edit?usp=sharing)
 
