@@ -622,6 +622,12 @@ AI for medical screening
 
 ### <a name="week7.1"></a>Week 7.1 - Visual Project Presentations
 - In-class presentations of Visual Project
+
+#### Homework (due before start of next class - Thursday Mar 7)
+- **Find** an inspirational work using AI for sound/text/code generation
+- **Find** a tool or technique that you would like to use / learn more about / find interesting
+- **Write** 2-3 paragraphs about the inspirational work and tool in the [Brightspace Discussion](https://brightspace.nyu.edu/d2l/le/351324/discussions/topics/450524/View)
+
   
 ### <a name="week7.2"></a>Week 7.2 - Introduction to Sound / Text
 - Look at inspirational sound/text works and tools  
@@ -646,11 +652,8 @@ AI for medical screening
     - What tools did you use? How did the tools affect your creative process? (If you found the
       tools limiting you can also comment on that.)
 
-#### Homework (due before start of class after break)
-- **Find** an inspirational work using AI for sound/text generation
-- **Find** a tool or technique that you would like to use / learn more about / find interesting
-- **Write** 2-3 paragraphs about the inspirational work and tool in the [Brightspace Discussion](https://brightspace.nyu.edu/d2l/le/265669/discussions/topics/371626/View)
-  
+#### Homework (for the break)
+- No homework! Have a great break!
 
 ## SPRING BREAK / SPRING BREAK / SPRING BREAK
 
