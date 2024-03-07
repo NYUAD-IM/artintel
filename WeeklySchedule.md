@@ -623,6 +623,17 @@ AI for medical screening
 ### <a name="week7.1"></a>Week 7.1 - Visual Project Presentations
 - In-class presentations of Visual Project
 
+- Midterm course review
+  - How is the course going for you?
+  - What's working well?
+  - Any changes / suggestions?
+  - Project feedback
+    - Make an artistic / creative statement as well as using the tools
+    - Can you make something that provokes emotions and questions in the audience?
+  - Reading feedback
+    - Write your own opinion / response to the article
+    - Don't summarize the article (we have tools for that)
+
 #### Homework (due before start of next class - Thursday Mar 7)
 - **Find** an inspirational work using AI for sound/text/code generation
 - **Find** a tool or technique that you would like to use / learn more about / find interesting
@@ -636,21 +647,6 @@ AI for medical screening
 
 - **Sound / Text Project (due Tuesday April 2)**
   - [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-1118)
-  - **Create** sound / music, or text using a machine learning algorithm
-  - **Put** your project URL and documentation URL into the [Projects Doc](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-  - You can incorporate the sound / text output into a larger work, e.g. your earlier visual project, website, printed image, interactive
-    program or use the output of the machine learning algorithm as source material for
-    your creative process (e.g. generate sound / text and then further manipulate them)
-  - The idea is to see how you can use the tools we've looked at in class (or any tool you can find)
-    to express your creativity or make a comment on machine learning / AI
-  - The work or documentation of it should be accessible on the web (e.g. for a printed work post photos)
-
-  - Required documentation (include on project site or separate page):
-    - Name of your project
-    - What inspired you to make this work?
-    - How does the content of your work related to some of the concepts we've covered in class?
-    - What tools did you use? How did the tools affect your creative process? (If you found the
-      tools limiting you can also comment on that.)
 
 #### Homework (for the break)
 - No homework! Have a great break!
@@ -661,16 +657,6 @@ AI for medical screening
 ### <a name="week8.1"></a>Week 8.1 NO CLASS - Spring Break
 
 ### <a name="week8.2"></a>Week 8.2 Sound and Text Tools
-- Midterm course review
-  - How is the course going for you?
-  - What's working well?
-  - Any changes / suggestions?
-  - Project feedback
-    - Make an artistic / creative statement as well as using the tools
-    - Can you make something that provokes emotions and questions in the audience?
-  - Reading feedback
-    - Write your own opinion / response to the article
-    - Don't summarize the article (we have tools for that)
 
 - Introduce [Project 3 - Sound / Text](Projects.md)
 
