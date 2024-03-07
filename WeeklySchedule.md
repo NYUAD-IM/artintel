@@ -646,7 +646,7 @@ AI for medical screening
 - Discuss [Project 3 - Sound / Text](Projects.md)
 
 - **Sound / Text Project (due Tuesday April 2)**
-  - [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-1118)
+  - [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-tuesday-42)
 
 #### Homework (for the break)
 - No homework! Have a great break!
