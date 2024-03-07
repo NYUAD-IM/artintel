@@ -54,7 +54,7 @@ Production assignments are graded on the overall quality of work, comprehension 
 Production assignments are graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation is graded on quality & extent of documentation.
 
 
-## Project 3: Sound / Text (due Tuesday 4/2)
+## Project 3: Sound / Text  / Code (due Tuesday 4/2)
 - **Create** sound / music, or text using a machine learning algorithm
 - **Put** your project URL and documentation URL into the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - You can incorporate the sound / text output into a larger work, e.g. your earlier visual project, website, printed image, interactive
