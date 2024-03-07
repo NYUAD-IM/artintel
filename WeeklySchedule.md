@@ -641,9 +641,14 @@ AI for medical screening
 
   
 ### <a name="week7.2"></a>Week 7.2 - Introduction to Sound / Text
-- Look at inspirational sound/text works and tools  
+- Look at inspirational sound/text works and tools
 
-- Discuss [Project 3 - Sound / Text](Projects.md)
+- Perplexity.ai examples
+  - [System administration (perplexity.ai)](https://www.perplexity.ai/search/tmux-create-session-jetHgQbfQ0GX2W921QKRyw?s=c)
+  - [Code generation (perplexity.ai)](https://www.perplexity.ai/search/give-me-a-sVNpPMXjQz6liz2JqLnKkQ?s=c)
+
+- [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (2023)
+  - Amazing technical deep dive 
 
 - **Sound / Text Project (due Tuesday April 2)**
   - [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-tuesday-42)
@@ -659,10 +664,6 @@ AI for medical screening
 ### <a name="week8.2"></a>Week 8.2 Sound and Text Tools
 
 - Introduce [Project 3 - Sound / Text](Projects.md)
-
-- Perplexity.ai examples
-  - [System administration (perplexity.ai)](https://www.perplexity.ai/search/tmux-create-session-jetHgQbfQ0GX2W921QKRyw?s=c)
-  - [Code generation (perplexity.ai)](https://www.perplexity.ai/search/give-me-a-sVNpPMXjQz6liz2JqLnKkQ?s=c)
 
 - Markov chains for text generation
   - [ML Basics: Markov Models Write Fairy Tales](https://thagomizer.com/blog/2017/11/07/markov-models.html)
