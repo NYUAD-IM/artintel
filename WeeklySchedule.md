@@ -653,6 +653,7 @@ AI for medical screening
 - Class references
   - [Sharing deepfake intimate images to be criminalised in England and Wales (The Guardian)](https://www.theguardian.com/society/2023/jun/27/sharing-deepfake-intimate-images-to-be-criminalised-in-england-and-wales)
   - [EMO: Emote Portrait Alive](https://humanaigc.github.io/emote-portrait-alive/)
+  - [SHEEN AI](https://www.sheen-ai.com/) - audio to visuals
 
 - **Sound / Text Project (due Tuesday April 2)**
   - [Sound / Text Project requirements](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md#project-3-sound--text-due-tuesday-42)
