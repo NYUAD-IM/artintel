@@ -55,7 +55,12 @@ Production assignments are graded on the overall quality of work, comprehension 
 
 
 ## Project 3: Sound / Text  / Code (due Tuesday 4/2)
-- **Create** sound / music, or text using a machine learning algorithm
+- **Create** sound / music, text, or code using a machine learning algorithm
+- **Use** one or more of these tools. You can use other tools as well, but you must use one of these tools or ask for permission to use a different tool
+  - GPT4 ([ChatGPT](https://chat.openai.com/), [Perplexity.ai](https://www.perplexity.ai/), Bing Copilot)
+  - [ElevenLabs](https://elevenlabs.io/)
+  - [Stable Audio](https://www.stableaudio.com/)
+  - [MusicGen](https://replicate.com/meta/musicgen) - [MusicGen HuggingFace](https://huggingface.co/spaces/facebook/MusicGen)
 - **Put** your project URL and documentation URL into the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - You can incorporate the sound / text output into a larger work, e.g. your earlier visual project, website, printed image, interactive
   program or use the output of the machine learning algorithm as source material for
