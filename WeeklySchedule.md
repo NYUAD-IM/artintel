@@ -687,6 +687,10 @@ AI for medical screening
     - [3 minute explanation video](https://www.youtube.com/watch?v=C0xoB8L8ms0)
     - [The unreasonable effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+<img src="Assets/transformer_architecture.jpg" width="300px" />
+
+Transformer architecture diagram from ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
+
 
 - Embeddings
   - [Image t-SNE viewer](https://ml4a.github.io/guides/ImageTSNEViewer/)
