@@ -666,13 +666,15 @@ AI for medical screening
 ## <a name="week8"></a>Week 8 - SPRING BREAK / Sound and Text Tools / Ethics and Bias
 ### <a name="week8.1"></a>Week 8.1 NO CLASS - Spring Break
 
-### <a name="week8.2"></a>Week 8.2 Sound and Text Tools
+### <a name="week8.2"></a>Week 8.2 Text Models / Tools
 
-- Introduce [Project 3 - Sound / Text](Projects.md)
+- Introduce [Project 3 - Sound / Text / Code](Projects.md)
 
+<!--
 - Markov chains for text generation
   - [ML Basics: Markov Models Write Fairy Tales](https://thagomizer.com/blog/2017/11/07/markov-models.html)
   - [Markov chain example (p5editor)](https://editor.p5js.org/mangtronix/sketches/fIDj9rhjC)
+-->
 
 - Machine learning techniques for text
   - Review of "Vanilla" Neural Networks
@@ -697,29 +699,17 @@ Transformer architecture diagram from ["Attention Is All You Need"](https://arxi
     - Demonstrates how to visualize a high dimensional embedded space in 2D/3D so we can make sense of it
   - [Glossary of Deep Learning: Word Embedding](https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca)
 
+<!--
 - Artist examples
   - [Stranger Visions - Heather Dewey-Hagborg](https://deweyhagborg.com/projects/stranger-visions)
-
+-->
 
 #### Homework ####
-- **Find and read** an article about GPT and write a 2-3 paragraph response in Brightspace->Discussions->Reading Responses->Week 8
-  - Some suggested articles (ancient history fro 2020)
-    - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
-      - [Responses on Hacker News](https://news.ycombinator.com/item?id=24003384)
-    - [Someone let a GPT-3 bot loose on Reddit — it didn’t end well](https://thenextweb.com/neural/2020/10/07/someone-let-a-gpt-3-bot-loose-on-reddit-it-didnt-end-well/)
-    - [GPT-3 Creative Fiction](https://www.gwern.net/GPT-3)
-    - [OPENAI’S LATEST BREAKTHROUGH IS ASTONISHINGLY POWERFUL, BUT STILL FIGHTING ITS FLAWS](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)
-    - [Here Are A Few Ways GPT-3 Can Go Wrong](https://techcrunch.com/2020/08/07/here-are-a-few-ways-gpt-3-can-go-wrong/)
-    - [GPT Crush (look through some examples)](http://gptcrush.com/)
-
-- **Create** a short text by prompting GPT and **submit** it to Brightspace->Assignments->Week 8. Put the prompted parts of the text you wrote in **bold**.
-  - e.g. use ChatGPT or [Talk to Transformer](https://app.inferkit.com/demo) or [GPT-2 Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
-  - What does your text show about how the model works?
-  - How does the response match with what you expected?
-  - What do you think of future applications of GPT?
-
+- **Post** your homework in [Brightspace->Discussions->Reading Responses->Week 8](https://brightspace.nyu.edu/d2l/le/351324/discussions/topics/450525/View)
+  - Reading response
+  - Generated text
+  - p5js sketch
 - **Start** developing your Project 3 Sound / Text idea
-
 
 ## <a name="week9"></a>Week 9 - Sound / Text
 
