@@ -736,7 +736,8 @@ https://jalammar.github.io/illustrated-gpt2/
 -->
 
 - AI in the news
-  - [Noam Chomsky: The False Promise of ChatGPT (NYT Opinions, 2023)](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
+  - [Noam Chomsky: The False Promise of ChatGPT (NYT Opinions, 2023)](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) (2023)
+  - [Stephen Fry reads Nick Cave’s words about ChatGPT: 'We are fighting for the very soul of the world'](https://www.euronews.com/culture/2023/11/23/stephen-fry-reads-nick-caves-words-about-chatgpt-we-are-fighting-for-the-very-soul-of-the-) (2023)
   - [ChatGPT can now access the internet and run the code it writes](https://newatlas.com/technology/chatgpt-plugin-internet-access/)
   - [Beyond text: GPT has evolved, and AI is now flexing new powers](https://newatlas.com/technology/gpt-4-multimodal-ai/?itm_source=newatlas&itm_medium=article-body)
     - [Be My Eyes (Guardian)](https://www.theguardian.com/lifeandstyle/2019/jul/12/be-my-eyes-app-blind-people-helpers) - Volunteer human-based image to text
