@@ -63,6 +63,19 @@ Grading Rubrics
 
 Production assignments will be graded on the overall quality of work, comprehension of topic, how well project is functioning, and individual capacity/ability improvement (are you getting better compared to yourself). Documentation/Reading will be graded on critical reasoning and erudition of assigned topic if reading assignment, and quality &amp; extent of documentation if production assignment. Participation will be graded on a combination of class discussion, group project work, office hours meetings, and possible extracurricular class trips/workshops/talks/movie screenings/etc.
 
+Grading Calculation (after rounding to nearest whole number):
+- A	95+
+- A-	90+
+- B+	87+
+- B 	83+
+- B-	80+
+- C+ 	77+
+- C  	73+
+- C- 	70+
+- D+ 	67+
+- D	63+
+- F	0+
+
 Attendance:
 
 Attendance is mandatory. Unexcused absences and lateness will negatively impact your final grade for the class. Two late arrivals will equate to one unexcused absence. If you&#39;re going to be late or absent, please email me in advance. If you have an emergency, please let me know as soon as you can.
