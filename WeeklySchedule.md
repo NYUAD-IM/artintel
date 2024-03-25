@@ -693,6 +693,11 @@ AI for medical screening
 
 Transformer architecture diagram from ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
 
+GPT
+- [Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/
+- [How GPT3 works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+
+
 
 - Embeddings
   - [Image t-SNE viewer](https://ml4a.github.io/guides/ImageTSNEViewer/)
@@ -729,12 +734,9 @@ Transformer architecture diagram from ["Attention Is All You Need"](https://arxi
   - ChatGPT is now able to access an extremely powerful calculator to do math
   - First of many plugins for ChatGPT
   
-**Up to here was covered in class, extra links below**
-
 <!--
 More links
 https://openai.com/blog/planning-for-agi-and-beyond
-https://jalammar.github.io/illustrated-gpt2/
 -->
 
 - AI in the news
