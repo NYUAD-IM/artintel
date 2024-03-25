@@ -715,12 +715,14 @@ Transformer architecture diagram from ["Attention Is All You Need"](https://arxi
 
 ### <a name="week9.1"></a>Week 9.1 Sound and Text
 
+<!--
 - Musical Interlude
   - [Bremer/McCoy - Højt At Flyve (audio)](https://www.youtube.com/watch?v=BKwkd8dzPF4)
   - [Bremer/McCoy interview / behind the scenes (YouTube)](https://www.youtube.com/watch?v=kF8Rxsw2eYk)
     - "The inspiration for the album comes from a lot of different places. It comes from all the music we listen to and also the life we are living."
+-->
 
-- Review GPT responses
+- Review GPT responses / sketches
   
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (2023)
 - [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/) (2023)
