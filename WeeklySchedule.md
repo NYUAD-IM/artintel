@@ -790,6 +790,12 @@ https://openai.com/blog/planning-for-agi-and-beyond
       - Optimized to run locally on reasonable hardware
   - Lab machines are available (Linux / nVidia 1080ti GPU)
 
+- Suggested tools (2024):
+  - GPT4 ([ChatGPT](https://chat.openai.com/), [Perplexity.ai](https://www.perplexity.ai/), Bing Copilot)
+  - [ElevenLabs](https://elevenlabs.io/) - voice cloning
+  - [Stable Audio](https://www.stableaudio.com/) - music generation
+  - [MusicGen](https://replicate.com/meta/musicgen) - music generation
+    - [MusicGen HuggingFace](https://huggingface.co/spaces/facebook/MusicGen)
 
 - Machine learning techniques for sound
   - [Magenta](https://magenta.tensorflow.org/)
