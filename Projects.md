@@ -56,7 +56,7 @@ Production assignments are graded on the overall quality of work, comprehension 
 
 ## Project 3: Sound / Text  / Code (due Tuesday 4/2)
 - **Create** sound / music, text, or code using a machine learning algorithm
-- **Use** one or more of these tools. You can use other tools as well, but you must use one of these tools or ask for permission to use a different tool
+- **Suggested** tools:
   - GPT4 ([ChatGPT](https://chat.openai.com/), [Perplexity.ai](https://www.perplexity.ai/), Bing Copilot)
   - [ElevenLabs](https://elevenlabs.io/)
   - [Stable Audio](https://www.stableaudio.com/)
