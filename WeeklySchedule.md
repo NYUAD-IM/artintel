@@ -694,7 +694,7 @@ AI for medical screening
 Transformer architecture diagram from ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
 
 GPT
-- [Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/
+- [Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
 - [How GPT3 works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 
 
@@ -728,11 +728,13 @@ GPT
 -->
 
 - Review GPT responses / sketches
-  
+
+Stephen Wolfram on ChatGPT
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (2023)
 - [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/) (2023)
   - ChatGPT is now able to access an extremely powerful calculator to do math
   - First of many plugins for ChatGPT
+- [Can AI Solve Science?](https://writings.stephenwolfram.com/2024/03/can-ai-solve-science/) (2024)
   
 <!--
 More links
