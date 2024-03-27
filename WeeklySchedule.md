@@ -878,19 +878,23 @@ https://openai.com/blog/planning-for-agi-and-beyond
   - [How Artificial Intelligence Sees Art History (The Met)](https://www.metmuseum.org/perspectives/articles/2019/2/artificial-intelligence-machine-learning-art-authorship)
 -->
 
+<!--
 - **Read** [We read the paper that forced Timnit Gebru out of Google (Technology Review, 2020)](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) and be prepared to discuss in class (no written response)
   
 - **Read** [AI Image Generators Routinely Display Gender and Cultural Bias (Gizmodo)](https://gizmodo.com/ai-dall-e-stability-ai-stable-diffusion-1849728302) (no written response but post an image made using the tool below)
   - [Diffusion Bias Explorer
  (Huggingface Space)](https://huggingface.co/spaces/society-ethics/DiffusionBiasExplorer) Online tool for trying different prompt variations
   - **Post** an image pair that you feel reveals gender or cultural bias in one of the models. Why do you think the model gives that result?
+-->
 
 <!--
 - **Read** [Why Timnit Gebru Isn’t Waiting for Big Tech to Fix AI's Problems (Time, 2022)](https://time.com/6132399/timnit-gebru-ai-google/)
 - **Read** [‘Yeah, we’re spooked’: AI starting to have big real-world impact, says expert (The Guardian)](https://www.theguardian.com/technology/2021/oct/29/yeah-were-spooked-ai-starting-to-have-big-real-world-impact-says-expert)
   - No write up required, but let's have a lively discussion!
 -->
-  
+
+
+<!--
 - **Find** an artwork that deals with artificial intelligence / machine learning
   - **Post** a 3 paragraph response to the Brightspace discussion
   - What is your response to the artwork? What drew you to the piece?
@@ -901,10 +905,18 @@ https://openai.com/blog/planning-for-agi-and-beyond
     - [Sofia Crespo](https://aiartists.org/sofia-crespo) - Neural Zoo
     - [Memo Atken](https://aiartists.org/memo-akten) - Learning to See
     - [Mario Klingemann](https://aiartists.org/mario-klingemann) - Memories of Passersby I
+-->
+
+#### Homework
+- *Finish* your Sound / Text / Code project
+- *Submit* your project and documentation on the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
+- *Prepare* your in-class presentation
 
 ## <a name="week10"></a>Week 10
 
 ### <a name="week10.1"></a>Week 10.1 - AI Ethics / AI Artists
+- Project presentations
+- 
 - Discuss social implications and ethics of AI and bias in Machine Learning
   
 - AI in the news (2023)
