@@ -869,6 +869,7 @@ https://openai.com/blog/planning-for-agi-and-beyond
 ### <a name="week9.2"></a>Week 9.2 - Present project ideas
 - Present your project idea for feedback (5 minute presentation)
 - ChatGPT continued
+  - [Prompt Engineering (Open AI)](https://platform.openai.com/docs/guides/prompt-engineering/prompt-engineering)
 - Discuss the latest and greatest developments in machine learning / AI
 
 <!-- Outdated
