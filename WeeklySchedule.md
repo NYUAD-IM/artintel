@@ -870,7 +870,22 @@ https://openai.com/blog/planning-for-agi-and-beyond
 - Present your project idea for feedback (5 minute presentation)
 - ChatGPT continued
   - [Prompt Engineering (Open AI)](https://platform.openai.com/docs/guides/prompt-engineering/prompt-engineering)
+- [Unleashing developer productivity with generative AI (McKinsey)](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/unleashing-developer-productivity-with-generative-ai)
+
+
 - Discuss the latest and greatest developments in machine learning / AI
+  - Deepfakes
+    - [Baltimore County principal’s racist comments faked by AI, experts say](https://www.thebaltimorebanner.com/education/k-12-schools/eric-eiswert-ai-deepfake-YUNO6ITYM5FWZPQAE24RIBV5CQ/)
+    - [A UPenn student started a YouTube channel. In weeks, her face was stolen on China's social media. (Business Insider)](https://www.businessinsider.com/upenn-student-olga-loiek-youtube-china-social-media-stole-face-2024-3)
+      - [Somebody Cloned Me in China... (YouTube)](https://youtu.be/3FQSFnZpsqw?si=4FGo893tqLHO5bgQ)
+  - [A ChatGPT for Music Is Here. Inside Suno, the Startup Changing Everything (Rolling Stone, 2024](https://www.rollingstone.com/music/music-features/suno-ai-chatgpt-for-music-1234982307/)
+  - [Sal Khan explains why GPT-4 is ready to be a tutor (2023)](https://www.axios.com/2023/04/07/sal-khan-chatgpt-gpt4-tutor)
+  - [How AI Could Save (Not Destroy) Education | Sal Khan | TED (YouTube, 2023)](https://www.youtube.com/watch?v=hJP5GqnTrNo)
+    - "We're going to give every student an AI tutor and every teacher an AI assistant"
+   
+  - [Open sourcing AudioCraft: Generative AI for audio (Meta)](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
+  ![image](https://github.com/NYUAD-IM/artintel/assets/35246/f0835f6c-fdaa-4165-88f5-52e69fba25e8)
+
 
 <!-- Outdated
 - Work example
@@ -917,7 +932,7 @@ https://openai.com/blog/planning-for-agi-and-beyond
 
 ### <a name="week10.1"></a>Week 10.1 - AI Ethics / AI Artists
 - Project presentations
-- 
+  
 - Discuss social implications and ethics of AI and bias in Machine Learning
   
 - AI in the news (2023)
