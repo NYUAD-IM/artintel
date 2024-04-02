@@ -933,7 +933,7 @@ https://openai.com/blog/planning-for-agi-and-beyond
 ### <a name="week10.1"></a>Week 10.1 - AI Ethics / AI Artists
 - Announcements
   - Eid breaaaaaaaaak Mon-Fri April 8-12
-  - Legislative days to follow 
+  - Legislative days to follow (Sunday April 21 and Sunday April 28)
 
 - Project presentations
 
