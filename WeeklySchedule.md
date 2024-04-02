@@ -954,8 +954,7 @@ https://openai.com/blog/planning-for-agi-and-beyond
 - AI in the news (2023)
   - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
     - "We call on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4."
-  - [Asilomar AI Principles](https://futureoflife.org/open-letter/ai-principles/)
-    - "one of the earliest and most influential sets of AI governance principles" (self-stated)
+governance principles" (self-stated)
   - [Statement from the listed authors of Stochastic Parrots on the “AI pause” letter](https://www.dair-institute.org/blog/letter-statement-March2023) - Timnit Gebru responds to Musk et al.
   - [Petition for Keeping Up the Progress Tempo on AI Research While Securing Its Transparency and Safety (LAION)](https://laion.ai/blog/petition/)
     - "Calling [an] international organization to transparently coordinate and progress on large-scale AI research and its safety"
@@ -968,6 +967,8 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - Discuss AI artworks
   
 #### Homework
+- **Read** [Asilomar AI Principles](https://futureoflife.org/open-letter/ai-principles/)
+    - "one of the earliest and most influential sets of AI 
 - **Watch** [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0) (until 19:00, then it's just credits)
 - **Read** [Hello ml5.js - A gentle introduction to ml5](https://learn.ml5js.org/#/tutorials/hello-ml5)
 
