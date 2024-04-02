@@ -931,10 +931,26 @@ https://openai.com/blog/planning-for-agi-and-beyond
 ## <a name="week10"></a>Week 10
 
 ### <a name="week10.1"></a>Week 10.1 - AI Ethics / AI Artists
+- Announcements
+  - Eid breaaaaaaaaak Mon-Fri April 8-12
+  - Legislative days to follow 
+
 - Project presentations
+
+- Introduction to [Final Project](Projects.md)
+
+- ml5js
+  - [ml5js Getting Started](https://learn.ml5js.org/#/)
+  - [Image Classifier Demo](https://editor.p5js.org/ml5/sketches/ImageClassification)
+  - [ml5.js: Image Classification with MobileNet (YouTube)](https://www.youtube.com/watch?v=yNkAuWz5lnY)
+  - [Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
+  - [PoseNet example using p5.js](https://editor.p5js.org/ml5/sketches/PoseNet_webcam)
+  - [PoseNet dots (p5 Web Editor)](https://editor.p5js.org/mangtronix/sketches/olqXXWx4p)
+  
+- [AI Art: How artists are using and confronting machine learning (MoMA / YouTube)](https://youtu.be/G2XdZIC3AM8)
   
 - Discuss social implications and ethics of AI and bias in Machine Learning
-  
+
 - AI in the news (2023)
   - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
     - "We call on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4."
@@ -952,8 +968,9 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - Discuss AI artworks
   
 #### Homework
-- **Read** [Asilomar AI Principles](https://futureoflife.org/open-letter/ai-principles/)
-  - "one of the earliest and most influential sets of AI governance principles" (self-stated)
+- **Watch** [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0) (until 19:00, then it's just credits)
+- **Read** [Hello ml5.js - A gentle introduction to ml5](https://learn.ml5js.org/#/tutorials/hello-ml5)
+
 
 
 ### <a name="week10.2"></a>Week 10.2 - Requested topics
@@ -961,8 +978,6 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
   - [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (arXiv)](https://arxiv.org/abs/2303.12712)
   - [OpenAI's GPT-4: A Spark Of Intelligence! (Two Minute Papers / YouTube)](https://www.youtube.com/watch?v=wHiOKDlA8Ac)
   - [Presentation discussing examples from the paper (YouTube)](https://www.youtube.com/watch?v=qbIk7-JPB2c)
-
-- [AI Art: How artists are using and confronting machine learning (MoMA / YouTube)](https://youtu.be/G2XdZIC3AM8)
   
 - [ChatGPT example prompts](https://prompts.chat/)
   - Making ChatGPT act in a certain role
@@ -993,15 +1008,9 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 
 ### <a name="week11.1"></a>Week 11.1 - NO CLASS (EID)
   
-### <a name="week11.2"></a>Week 11.2 - Sound / Text Project Presentations
-
-- **Project 3 - Sound / Text Due**
-  - **Add** a link to your project and documentation to the [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
-- **Present** your Sound / Text project
-
+### <a name="week11.2"></a>Week 11.2 - NO CLASS (EID)
 #### Homework (due before start of next class)
-- **Watch** [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0) (until 19:00, then it's just credits)
-- **Read** [Hello ml5.js - A gentle introduction to ml5](https://learn.ml5js.org/#/tutorials/hello-ml5)
+
 
 
 ## <a name="week12"></a>Week 12 - Interactive Applications
