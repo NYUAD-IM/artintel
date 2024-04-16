@@ -15,6 +15,16 @@ Near realtime generative AI images from webcam input using TouchDesigner and Sta
 2. Install ComfyUI
 3. Install TDComfyUI
    * Install TDComfyUI component
-   * Install External Tooling module in ComfyUI
-     * Install ComfyUI Manager
+4. Install custom nodes in ComfyUI
+   * Install ComfyUI Manager using download or git clone
+   * Install External Tooling module
      * Search for "tooling" in Install Custom Nodes
+   * Install ControlNet module
+  
+### Installation notes
+MacOS Sonoma: As of April 16, 2024 it was necessary to downgrade pytorch inside the ComfyUI virtual environment to get SD1.5 based models to generate properly:
+
+```
+$ cd ComfyUI 
+$ ./venv/bin/pip install torch==2.1.2 torchvision
+```
