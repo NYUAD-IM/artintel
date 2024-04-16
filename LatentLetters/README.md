@@ -10,3 +10,9 @@ Near realtime generative AI images from webcam input using TouchDesigner and Sta
 
 ![Setup overview](setup_overview.jpg?raw=true)
 
+## Installation
+1. Install TouchDesigner
+2. Install ComfyUI
+3. Install TDComfyUI
+   * Install TDComfyUI component
+   * Install External Tooling module in ComfyUI 
