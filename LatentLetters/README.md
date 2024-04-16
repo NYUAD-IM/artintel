@@ -11,12 +11,12 @@ Near realtime generative AI images from webcam input using TouchDesigner and Sta
 ![Setup overview](setup_overview.jpg?raw=true)
 
 ## Installation
-1. Install TouchDesigner
-2. Install ComfyUI
-3. Install TDComfyUI
+1. Install [TouchDesigner](https://derivative.ca/download)
+2. Install [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+3. Install [TDComfyUI](https://github.com/olegchomp/TDComfyUI)
    * Install TDComfyUI component
 4. Install custom nodes in ComfyUI
-   * Install ComfyUI Manager using download or git clone
+   * Install [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) using download or git clone
    * Manager->Install Custom Nodes
      * Search for "tooling" to install External Tooling module
      * Search for "controlnet" to install ControlNet module
