@@ -23,8 +23,8 @@ Near realtime generative AI images from webcam input using TouchDesigner and Sta
 5. Install models in ComfyUI
    * Copy [DreamShaper 8 LCM](https://civitai.com/models/4384?modelVersionId=252914) model to ComfyUI/models/checkpoints
    * Manager->Install Models
-     * Search for "canny" and install ```control_v11p_sd15_canny_fp16.safetensors```
-  
+     * Search for "canny" and install SD 1.5 "ControlNet T2I-Adapter for canny"
+       
 ### Installation notes
 MacOS Sonoma: As of April 16, 2024 it was necessary to downgrade pytorch inside the ComfyUI virtual environment to get SD1.5 based models to generate properly:
 
