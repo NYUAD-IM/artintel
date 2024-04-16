@@ -1137,11 +1137,11 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
   - Please fill out A.rt I.ntel Course Feedback Questionnaire
 - Goodbyes for now!
 
-**IM Show - Thursday May 9 - Time TBD in Arts Center lobby**
+**IM Show - Thursday May 9 - 5-8pm in Arts Center lobby**
 - All IM students need to attend and show a project
-- Arrive ?pm, make sure project is setup and working
-- Show our projects ?-?pm
+- Arrive 4:30pm (or as early as possible if in class), make sure project is setup and working
+- Show our projects 5-7pm
 - See great projects from your fellow students!
-- Group photo ?pm
+- Group photo 7:30pm
 - Cleanup starts after group photo
   - All equipment back to IM Lab, checkin with Lab Assistant
