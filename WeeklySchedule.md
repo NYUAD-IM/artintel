@@ -1052,6 +1052,12 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - **Develop** the rough idea for your final project and add it your group description in the [Projects Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 
 ### <a name="week12.2"></a>Week 12 - TBD
+- Interactive systems
+  - [Latent Letters](https://github.com/NYUAD-IM/artintel/tree/master/LatentLetters)
+    - Stable Diffusion / ComfyUI inside TouchDesigner
+
+- AI in the news
+  - [Adobe Firefly product teaser](https://mashable.com/video/adobe-generative-ai-video) (2024)
 
 
 ## <a name="week13"></a>Week 13 - ml5js / Final project
