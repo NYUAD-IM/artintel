@@ -1051,7 +1051,9 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - **Sign up** for your Final Project group on the [Projects Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Develop** the rough idea for your final project and add it your group description in the [Projects Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 
-### <a name="week12.2"></a>Week 12 - TBD
+### <a name="week12.2"></a>Week 12 - Interactive Systems
+- Review project ideas
+
 - Interactive systems
   - [Latent Letters](https://github.com/NYUAD-IM/artintel/tree/master/LatentLetters)
     - Stable Diffusion / ComfyUI inside TouchDesigner
