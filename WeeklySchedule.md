@@ -1055,6 +1055,9 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - Review project ideas
 
 - Interactive systems
+  - [p5.js / OpenAI Simple Example (p5 editor)](https://editor.p5js.org/mangtronix/sketches/XO533PMtA)
+    - Chatbot completion using only client-side JavaScript
+    - Requires an OpenAI API key that will be saved locally in your browser
   - [Latent Letters](https://github.com/NYUAD-IM/artintel/tree/master/LatentLetters)
     - Stable Diffusion / ComfyUI inside TouchDesigner
   - [p5js fullscreen](https://editor.p5js.org/mangtronix/sketches/t4G0erH1B)
