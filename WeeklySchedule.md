@@ -1057,6 +1057,7 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - Interactive systems
   - [Latent Letters](https://github.com/NYUAD-IM/artintel/tree/master/LatentLetters)
     - Stable Diffusion / ComfyUI inside TouchDesigner
+  - [p5js fullscreen](https://editor.p5js.org/mangtronix/sketches/t4G0erH1B)
 
 - AI in the news
   - [Adobe Firefly product teaser](https://mashable.com/video/adobe-generative-ai-video) (2024)
