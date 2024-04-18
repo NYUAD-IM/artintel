@@ -1051,7 +1051,7 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - **Sign up** for your Final Project group on the [Projects Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - **Develop** the rough idea for your final project and add it your group description in the [Projects Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 
-### <a name="week12.2"></a>Week 12 - Interactive Systems
+### <a name="week12.2"></a>Week 12.2 - Interactive Systems
 - Review project ideas
 
 - Interactive systems
@@ -1071,8 +1071,6 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 
 
 ### <a name="week13.1"></a>Week 13.1 - Interactive Machine Learning
-- Review homework
-
 - More ml5js
   - [Image Classification with Teachable Machine, ml5.js and p5.js](https://nishanc.medium.com/image-classification-with-teachable-machine-ml5-js-and-p5-js-233fbdf48fe7)
   - [CharRNN (ml5js)](https://learn.ml5js.org/#/reference/charrnn)
