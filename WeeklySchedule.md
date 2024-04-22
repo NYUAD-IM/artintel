@@ -1058,8 +1058,6 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
   - [p5.js / OpenAI Simple Example (p5 editor)](https://editor.p5js.org/mangtronix/sketches/XO533PMtA)
     - Chatbot completion using only client-side JavaScript
     - Requires an OpenAI API key that will be saved locally in your browser
-  - [Latent Letters](https://github.com/NYUAD-IM/artintel/tree/master/LatentLetters)
-    - Stable Diffusion / ComfyUI inside TouchDesigner
   - [p5js fullscreen](https://editor.p5js.org/mangtronix/sketches/t4G0erH1B)
 
 - AI in the news
@@ -1078,6 +1076,18 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 
 
 ### <a name="week13.1"></a>Week 13.1 - Interactive Machine Learning
+- AI in the news
+  - [VASA-1: Lifelike Audio-Driven Talking Faces
+Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/project/vasa-1/)
+    - Real-time Deepfake using 1 image and 15 seconds audio
+   
+- [Latent Letters](https://github.com/NYUAD-IM/artintel/tree/master/LatentLetters)
+  - Stable Diffusion / ComfyUI inside TouchDesigner
+ 
+- [Client-side OpenAI API demo (p5editor)](https://editor.p5js.org/mangtronix/sketches/XO533PMtA)
+  - Calling OpenAI API from client-side JavaScript
+  - API key is stored locally in browser
+
 - More ml5js
   - [Image Classification with Teachable Machine, ml5.js and p5.js](https://nishanc.medium.com/image-classification-with-teachable-machine-ml5-js-and-p5-js-233fbdf48fe7)
   - [CharRNN (ml5js)](https://learn.ml5js.org/#/reference/charrnn)
@@ -1103,7 +1113,7 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 #### Homework ####
 - **Work** on the idea for your final project
 
-### <a name="week13.1"></a>Week 13.1 - Final Project Check-in / Work Session
+### <a name="week13.2"></a>Week 13.2 - Final Project Check-in / Work Session
 - Final project check-in
 - Final project work session
 
