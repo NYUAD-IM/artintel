@@ -1079,7 +1079,7 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - AI in the news
   - [VASA-1: Lifelike Audio-Driven Talking Faces
 Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/project/vasa-1/)
-    - Real-time Deepfake using 1 image and 15 seconds audio
+    - Real-time Deepfake using 1 image and 15 seconds audio 
    
 - [Latent Letters](https://github.com/NYUAD-IM/artintel/tree/master/LatentLetters)
   - Stable Diffusion / ComfyUI inside TouchDesigner
@@ -1087,6 +1087,10 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
 - [Client-side OpenAI API demo (p5editor)](https://editor.p5js.org/mangtronix/sketches/XO533PMtA)
   - Calling OpenAI API from client-side JavaScript
   - API key is stored locally in browser
+ 
+- [Suno AI song generation](https://suno.com/)
+  - [A.rt I.ntel theme song (Suno)](https://suno.com/song/0c3bd167-3742-4ae7-90db-b90f36c23c53) prompt: "lofi song about artificial intelligence class at new york university abu dhabi with chill oud melody and downtempo drums"
+  - ["end of semester celebration"](https://suno.com/song/37d5319f-3225-457a-8693-83c6a7f2250f)
 
 - More ml5js
   - [Image Classification with Teachable Machine, ml5.js and p5.js](https://nishanc.medium.com/image-classification-with-teachable-machine-ml5-js-and-p5-js-233fbdf48fe7)
