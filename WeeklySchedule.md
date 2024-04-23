@@ -1117,10 +1117,9 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
 #### Homework ####
 - **Work** on the idea for your final project
 
-### <a name="week13.2"></a>Week 13.2 - Final Project Check-in / Work Session
-- Final project check-in
-- Final project work session
-
+### <a name="week13.2"></a>Week 13.2 - Discussion / Future of AI
+- Discuss developments / future of AI
+- Other topics by request
 
 ## <a name="week14"></a>Week 14
 
