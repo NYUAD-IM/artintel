@@ -1061,13 +1061,13 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - AI in the news
   - [Adobe Firefly product teaser](https://mashable.com/video/adobe-generative-ai-video) (2024)
     - Product demonstration of using generative video inside existing video editing tool
-  - [Transcript: Ezra Klein Interviews Dario Amodei (NY Times](https://www.nytimes.com/2024/04/12/podcasts/transcript-ezra-klein-interviews-dario-amodei.html)
+  - [Transcript: Ezra Klein Interviews Dario Amodei (NY Times)](https://www.nytimes.com/2024/04/12/podcasts/transcript-ezra-klein-interviews-dario-amodei.html)
     - Interview with CEO of Anthropic
    
 >[W]e’re going to have to make bigger models that use more compute per iteration. We’re going to have to run them for longer by feeding more data into them. And that number of chips times the amount of time that we run things on chips is essentially dollar value because these chips are — you rent them by the hour. That’s the most common model for it. And so, today’s models cost of order $100 million to train, plus or minus factor two or three. The models that are in training now and that will come out at various times later this year or early next year are closer in cost to $1 billion. So that’s already happening. And then I think in 2025 and 2026, we’ll get more towards $5 or $10 billion.
 
 ### Homework (due before start of next class)
-**Read** [Transcript: Ezra Klein Interviews Dario Amodei (NY Times](https://www.nytimes.com/2024/04/12/podcasts/transcript-ezra-klein-interviews-dario-amodei.html) and be prepared to discuss
+**Read** [Transcript: Ezra Klein Interviews Dario Amodei (NY Times)](https://www.nytimes.com/2024/04/12/podcasts/transcript-ezra-klein-interviews-dario-amodei.html) and be prepared to discuss
 - it's a long article - for this reading feel free to use AI to summarize and pick out the more interesting parts to read!
 
 ## <a name="week13"></a>Week 13 - ml5js / Final project
