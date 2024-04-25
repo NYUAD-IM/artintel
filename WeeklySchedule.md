@@ -1130,7 +1130,7 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
 
 ### <a name="week14.1"></a>Week 14.1 - Ethics + Future Applications / Final Project Check-in
 - AI in the news
-  - [This camera trades pictures for AI poetry (Techcrunch)](https://techcrunch.com/2024/04/20/poetry-camera/)
+  - [This camera trades pictures for AI poetry (Techcrunch)](https://techcrunch.com/2024/04/20/poetry-camera/) (2024)
     - [Examples on Tik Tok](https://www.tiktok.com/@kelin.online/collection/poetry%20camera-7309557857904151339)
     - [Source code (GitHub)](https://github.com/carolynz/poetry-camera-rpi)
       - Uses Raspberry Pi to access Replicate and OpenAI APIs
@@ -1138,6 +1138,11 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
       - GPT4 via OpenAI generates poem
       - [Main code](https://github.com/carolynz/poetry-camera-rpi/blob/main/main.py) is ~250 lines of python
       - [System prompt](https://github.com/carolynz/poetry-camera-rpi/blob/main/main.py#L38)
+  - Anthropic Claude 3 model released (2024)
+    - Better performance than GPT4 in some areas
+    - Uses large context window of 200k tokens with "Opus" model
+      - Processing resources per request become quite high (usage limit hit quickly) ([Reddit thread](https://www.reddit.com/r/OpenAI/comments/1c5381n/my_review_of_claude_3_opus/))
+    - [Demo from Claude 3 (p5editor)](https://editor.p5js.org/mangtronix/sketches/lQ1y4K88B)
 
 - Ethics and future of machine learning / AI
   - [Two AIs talk about becoming human. (GPT-3) (YouTube)](https://youtu.be/jz78fSnBG0s)
