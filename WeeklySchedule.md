@@ -15,7 +15,7 @@
 * [Week 10 - Other Techniques Sound](#week10)
 * [Week 11 - Sound / Text Project Due / Final Project Introduction](#week11)
 * [Week 12 - Interactive Applications / ml5.js](#week12)
-* [Week 13 - Present Final Project ideas / NO CLASS](#week13)
+* [Week 13 - Project Work Session - Present Final Project ideas](#week13)
 * [Week 14 - Final Project check-in / Other topics](#week14)
 * [Week 15 - Final Project Due / Course wrap-up and IM Show](#week15)
 
