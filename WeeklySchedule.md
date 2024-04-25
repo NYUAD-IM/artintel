@@ -1131,7 +1131,7 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
 ### <a name="week14.1"></a>Week 14.1 - Ethics + Future Applications / Final Project Check-in
 - AI in the news
   - [This camera trades pictures for AI poetry (Techcrunch)](https://techcrunch.com/2024/04/20/poetry-camera/)
-    - [examples on Tik Tok](https://boingboing.net/2024/04/24/the-poetry-camera-uses-ai-to-make-poems-out-of-photographs-and-its-actually-pretty-cool.html)
+    - [Examples on Tik Tok](https://www.tiktok.com/@kelin.online/collection/poetry%20camera-7309557857904151339)
     - [Source code (GitHub)](https://github.com/carolynz/poetry-camera-rpi)
       - Uses Raspberry Pi to access Replicate and OpenAI APIs
       - [blip2](https://replicate.com/andreasjansson/blip-2) model via Replicate describes image contents
