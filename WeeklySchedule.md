@@ -1123,6 +1123,9 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
 
 - Other topics by request
 
+- IM Show signup
+  - [A.rt I.ntel IM Show Projects (Spreadsheet)](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
+
 ## <a name="week14"></a>Week 14
 
 ### <a name="week14.1"></a>Week 14.1 - Ethics + Future Applications / Final Project Check-in
