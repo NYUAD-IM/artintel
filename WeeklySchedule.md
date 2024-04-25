@@ -880,8 +880,6 @@ https://openai.com/blog/planning-for-agi-and-beyond
       - [Somebody Cloned Me in China... (YouTube)](https://youtu.be/3FQSFnZpsqw?si=4FGo893tqLHO5bgQ)
   - [A ChatGPT for Music Is Here. Inside Suno, the Startup Changing Everything (Rolling Stone, 2024](https://www.rollingstone.com/music/music-features/suno-ai-chatgpt-for-music-1234982307/)
   - [Sal Khan explains why GPT-4 is ready to be a tutor (2023)](https://www.axios.com/2023/04/07/sal-khan-chatgpt-gpt4-tutor)
-  - [How AI Could Save (Not Destroy) Education | Sal Khan | TED (YouTube, 2023)](https://www.youtube.com/watch?v=hJP5GqnTrNo)
-    - "We're going to give every student an AI tutor and every teacher an AI assistant"
    
   - [Open sourcing AudioCraft: Generative AI for audio (Meta)](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
   ![image](https://github.com/NYUAD-IM/artintel/assets/35246/f0835f6c-fdaa-4165-88f5-52e69fba25e8)
@@ -1119,6 +1117,10 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
 
 ### <a name="week13.2"></a>Week 13.2 - Discussion / Future of AI
 - Discuss developments / future of AI
+- [How AI Could Save (Not Destroy) Education | Sal Khan | TED (YouTube, 2023)](https://www.youtube.com/watch?v=hJP5GqnTrNo)
+    - "We're going to give every student an AI tutor and every teacher an AI assistant"
+- [Transcript: Ezra Klein Interviews Dario Amodei (NY Times](https://www.nytimes.com/2024/04/12/podcasts/transcript-ezra-klein-interviews-dario-amodei.html)
+
 - Other topics by request
 
 ## <a name="week14"></a>Week 14
