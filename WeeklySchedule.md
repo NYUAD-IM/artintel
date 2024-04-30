@@ -1143,6 +1143,7 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
     - Uses large context window of 200k tokens with "Opus" model
       - Processing resources per request become quite high (usage limit hit quickly) ([Reddit thread](https://www.reddit.com/r/OpenAI/comments/1c5381n/my_review_of_claude_3_opus/))
     - [Demo from Claude 3 (p5editor)](https://editor.p5js.org/mangtronix/sketches/lQ1y4K88B)
+    - [Generated paper (Claude 3)](https://docs.google.com/document/d/1QmHe3m68IirJDim4Lm5TzCn9Pb6CRqQrKh7M1F1NuU8/edit?usp=sharing)
 
 - Ethics and future of machine learning / AI
   - [Two AIs talk about becoming human. (GPT-3) (YouTube)](https://youtu.be/jz78fSnBG0s)
