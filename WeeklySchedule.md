@@ -1145,6 +1145,9 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
     - [Demo from Claude 3 (p5editor)](https://editor.p5js.org/mangtronix/sketches/lQ1y4K88B)
     - [Generated paper (Claude 3)](https://docs.google.com/document/d/1QmHe3m68IirJDim4Lm5TzCn9Pb6CRqQrKh7M1F1NuU8/edit?usp=sharing)
 
+- IM Show signup
+  - [A.rt I.ntel IM Show Projects (Spreadsheet)](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
+
 - Ethics and future of machine learning / AI
   - [Two AIs talk about becoming human. (GPT-3) (YouTube)](https://youtu.be/jz78fSnBG0s)
   - [This Robot would let 5 People die | AI on Moral Questions | Sophia answers the Trolley Problem
