@@ -1183,9 +1183,9 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
 - Present Final Projects
   - Presentation of 5-7 minutes only! Share the best and most important results / reflection
   
-### IM Show Setup - TBD - Arts Center Lobby
-- Bring your project to the Arts Center Lobby
+### IM Show Setup - Wednesday May 8 - Arts Center Lobby
 - Collect any equipment such as LCD monitor, TV
+- Bring your project to the Arts Center Lobby
 - Set up project and check working
 - Can leave basic equipment, take laptops
 
