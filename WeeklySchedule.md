@@ -21,7 +21,7 @@
 
 
 [Projects Description](https://github.com/NYUAD-IM/artintel/blob/master/Projects.md) - [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing) 
-f
+
 ## <a name="week1"></a>Week 1 - Introduction / What is Machine Learning?
 
 ### <a name="week1.1"></a>Week 1.1 Introduction
@@ -1162,6 +1162,8 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
   - [A.rt I.ntel IM Show Projects (Spreadsheet)](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
 
 ### <a name="week14.2"></a>Week 14.2 - Final project work session
+- Final projects
+  - Enter your project in [A.rt I.ntel Projects Sheet](https://docs.google.com/spreadsheets/d/1_eyQ4XfzGKpqMIW7FatoDbHBJSAqyPfrkKcyCI66gbI/edit?usp=sharing)
 - IM End of Semester Show
 - Sign up for Show and make equipment requests -> [A.rt I.ntel - IM Show](https://docs.google.com/spreadsheets/d/1vjzsUmbCZBT_rYO6Hp5zAyONpEflRrew_XZhl4tPW8I/edit?usp=sharing)
   - You can check out equipment now via [NYUAD Arts Booking (VPN required)](https://nyuad-artsbooking.nyu.edu/)
