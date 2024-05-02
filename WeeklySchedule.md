@@ -1194,7 +1194,7 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
   - Please fill out A.rt I.ntel Course Feedback Questionnaire
 - Goodbyes for now!
 
-**IM Show - Thursday May 9 - 5-8pm in Arts Center lobby**
+**IM Show - Thursday May 9 - 5-7pm in Arts Center lobby, Performance in Black Box at 7pm**
 - All IM students need to attend and show a project
 - Arrive 4:30pm (or as early as possible if in class), make sure project is setup and working
 - Show our projects 5-7pm
