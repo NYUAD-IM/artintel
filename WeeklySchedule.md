@@ -1055,8 +1055,10 @@ Computer-generated inclusivity: fashion turns to ‘diverse’ AI models (The Gu
 - Interactive systems
   - [p5.js / OpenAI Simple Example (p5 editor)](https://editor.p5js.org/mangtronix/sketches/XO533PMtA)
     - Chatbot completion using only client-side JavaScript
-    - Requires an OpenAI API key that will be saved locally in your browser
-  - [p5js fullscreen](https://editor.p5js.org/mangtronix/sketches/t4G0erH1B)
+    - Requires an OpenAI API key that will be saved locally in your browserw
+  - Running your p5js fullscreen edge to edge
+    - [p5js fullscreen()](https://p5js.org/reference/#/p5/fullscreen)
+    - [p5js fullscreen example (p5editor)](https://editor.p5js.org/mangtronix/sketches/t4G0erH1B)
 
 - AI in the news
   - [Adobe Firefly product teaser](https://mashable.com/video/adobe-generative-ai-video) (2024)
