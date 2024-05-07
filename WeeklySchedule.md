@@ -1185,7 +1185,10 @@ Generated in Real Time (Microsoft)](https://www.microsoft.com/en-us/research/pro
 - IM Show prep
   - Decide Wednesday setup time
   - Confirm equipment / tech
-  - Look at space  
+  - Look at space
+  - Make sure to make sketch fullscreen
+    - [p5js fullscreen()](https://p5js.org/reference/#/p5/fullscreen)
+    
   
 ### IM Show Setup - Wednesday May 8 - Arts Center Lobby
 - Collect any equipment such as LCD monitor, TV
