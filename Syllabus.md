@@ -125,4 +125,4 @@ Current Tools/Platforms (machine learning tools are constantly changing):
 - Stable Diffusion
 - Interaction using ml5.js, Processing, or openFrameworks
 - Text Editor (Atom/Sublime Text/Visual Studio Code)
-- Local AI models including open source / open weight models running on local hardware (e.g. Qwen/Qwen3.6-35B-A3B)
+- Local AI models including open source / open weight models running on local hardware (e.g. Qwen/Qwen3.6-35B-A3B running on Mac Studio M5 Max 64GB)
